@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 29 Apr 2009 17:00:12 +0400</pubDate>
+         <lastBuildDate>Wed, 29 Apr 2009 17:00:12 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>100 дней после Буша: письма из США</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/interactivity/2009/04/090429_letters_obama_usa.shtml</link>
+  <description><![CDATA[
+                        Как оценивают первые 100 дней президентства Барака Обамы американцы? ...
+                        ]]></description>
+  <pubDate>Wed, 29 Apr 2009 16:17:17 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1241010012#1</guid>
+ </item>
+ <item>
+  <title>Суд отклонил очередную жалобу РНДС</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/Parties/m.150567.html</link>
+  <description><![CDATA[
+                        Тверской суд Москвы оставил в силе отказ в регистрации Российского народно-демократического союза. Как сообщили в пресс-службе движения, "отказано по абсурдным причинам - потому что в наименовании движения содержится слово "союз", в результате чего становится непонятной правовая форма объединения".  ...
+                        ]]></description>
+  <pubDate>Wed, 29 Apr 2009 16:48:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1241010012#2</guid>
+ </item>
+ <item>
+  <title>Молдавия и Грузия: цветные революции? ("Delfi", Литва)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/248799.html</link>
+  <description><![CDATA[
+                        События в Молдавии и Грузии иногда сравнивают с 'цветными революциями', хотя это сравнение безосновательно. В данных случаях происходят совершенно иные процессы, имеющие лишь некоторые - и при этом второстепенные - общие черты с 'цветными революциями'. ...
+                        ]]></description>
+  <pubDate>Wed, 29 Apr 2009 16:24:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1241010012#3</guid>
+ </item>
+ <item>
+  <title>Растет число стран, в которых отмечены случаи свиного гриппа</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1618363.html</link>
+  <description><![CDATA[
+                        Число стран, в которых подтверждены случаи свиного (или мексиканского) гриппа, приближается к десяти.Первые заболевшие выявлены в Германии и Австрии. В США отмечен первый случай смерти больного - за пределами Мексики, откуда началось распространение ... ...
+                        ]]></description>
+  <pubDate>Wed, 29 Apr 2009 16:57:05 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1241010012#4</guid>
+ </item>
+ <item>
+  <title>Ученые обнаружили генетическое происхождение аутизма</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/29Apr2009/guardian/gene.html</link>
+  <description><![CDATA[
+                        Аутизм может быть вызван определенными видами наследственной изменчивости, которые приводят к нарушению связей в головном мозге еще в раннем детстве. Так, удалось выявить генетическую мутацию, ответственную за 15% случаев заболевания аутизмом. ...
+                        ]]></description>
+  <pubDate>Wed, 29 Apr 2009 16:35:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1241010012#5</guid>
+ </item>
+ <item>
+  <title>"Люди Икс. Начало: Росомаха" и другие новинки российского проката</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/cinema/29apr2009/newfilms.html</link>
+  <description><![CDATA[
+                        В четверг наконец стартует показ серии летних голливудских блокбастеров. Главный хит недели -"Люди Икс. Начало: Росомаха", приквел фильмов о мутантах, рассказывающий о судьбе Логана, жертвы бесчеловечных экспериментов. Кроме того, на экраны выйдет первый кукольный 3D-фильм "Каролина в стране кошмаров". ...
+                        ]]></description>
+  <pubDate>Wed, 29 Apr 2009 16:52:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1241010012#6</guid>
+ </item>
+ <item>
+  <title>В Казани осквернен памятник Ленину </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/04/29/n_1357114.shtml</link>
+  <description><![CDATA[
+                        В Казани осквернен памятник Владимиру Ленину, стоящий в городке Казанского университета. "Неизвестные облили монумент черной краской", - сообщили в пресс-службе университета. 
+В компании "Горводзеленхоз", ведущей уход ... ...
+                        ]]></description>
+  <pubDate>Wed, 29 Apr 2009 16:55:43 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1241010012#7</guid>
+ </item>
+ <item>
+  <title>Генпрокуратура: Интернет и компьютерные игры губительны для молодежи</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/378606.php</link>
+  <description><![CDATA[
+                        Интернет стал одной из главных площадок распространения экстремистских идей, считают в Генеральной прокуратуре России.	 ...
+                        ]]></description>
+  <pubDate>Wed, 29 Apr 2009 16:41:09 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1241010012#8</guid>
+ </item>
+ <item>
+  <title>Египет уничтожит всех свиней, чтобы предотвратить распространение свиного гриппа</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/world/2009/04/29/165234.html</link>
+  <description><![CDATA[
+                        Египетские власти объявили о забое свиней по всей стране в качестве превентивной меры против возможного распространения свиного гриппа. Министерство здравоохранения Египта сообщило, что массовое уничтожение 300 тыс. свиней по всей стране начнется немедленно, пишет Associated Press.  Ранее... ...
+                        ]]></description>
+  <pubDate>Wed, 29 Apr 2009 16:52:34 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1241010012#9</guid>
+ </item>
+ <item>
+  <title>Сберечь общие истоки</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/55330/</link>
+  <description><![CDATA[
+                        Сегодня официальная историческая наука в России и Белоруссии идет по пути, базирующемся на поддержке концепции единого исторического прошлого народов наших трех стран, а в Украине в результате целенаправленной государственной политики произошла замена подлинных исторических фактов созданными на скорую руку мифами. Как и почему это произошло? ...
+                        ]]></description>
+  <pubDate>Wed, 29 Apr 2009 16:11:00 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1241010012#10</guid>
+ </item>
+ <item>
+  <title>Цитата #403284</title>
+  <link>http://www.and-rey.ru/inc/go3.php/bash.org.ru/quote/403284</link>
+  <description><![CDATA[
+                        xxx: Зачем президенту видеоблог, если у него есть Первый Канал? ...
+                        ]]></description>
+  <pubDate>Wed, 29 Apr 2009 10:13:10 +0400</pubDate>
+  <source url="http://bash.org.ru">bash.org.ru — Цитатник Рунета</source>
+  <guid isPermaLink="false">1241010012#11</guid>
+ </item>
+  </channel>
+ </rss>

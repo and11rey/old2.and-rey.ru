@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 04 Sep 2009 17:00:10 +0400</pubDate>
+         <lastBuildDate>Fri, 04 Sep 2009 17:00:10 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>СКП РФ: дело Чичваркина выделено в отдельное производство</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2009/09/090904_chichvarkin_euvroset.shtml</link>
+  <description><![CDATA[
+                        Следственный комитет при прокуратуре России заявил о том, что следственные действия в отношении сотрудников "Евросети" завершены, а уголовное дело в отношении Чичваркина выделено в отдельное производство. ...
+                        ]]></description>
+  <pubDate>Fri, 04 Sep 2009 16:10:22 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1252069210#1</guid>
+ </item>
+ <item>
+  <title>Украина: Поставки оружия в Грузию вполне законны</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/World/Europe/Ukraine/m.156718.html</link>
+  <description><![CDATA[
+                        Поставки украинского вооружения в Грузию вполне законны, заявил украинский посол в России Константин Грищенко. По его словам, Грузия не подпадает под ограничения, введенные в рамках международных структур, таких, как Совет безопасности ООН или ОБСЕ. ...
+                        ]]></description>
+  <pubDate>Fri, 04 Sep 2009 16:31:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1252069210#2</guid>
+ </item>
+ <item>
+  <title>Конгресс требует от Обамы обеспечить войне общественную поддержку ("The Wall Street Journal", США)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/252291.html</link>
+  <description><![CDATA[
+                        В последнее время законодатели усиливают давление на Белый дом, требуя, чтобы он добивался укрепления общественной поддержки войны в Афганистане.
+На фоне растущих потерь администрация пытается убедить избирателей, что эту войну можно выиграть или, хотя бы, что она стоит финансовых и людских потерь, которые несет Америка. ...
+                        ]]></description>
+  <pubDate>Fri, 04 Sep 2009 16:41:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1252069210#3</guid>
+ </item>
+ <item>
+  <title>Аварийный Петербург</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/1814855.html</link>
+  <description><![CDATA[
+                        Более половины петербуржцев не могут быть уверены в безопасности своих домов. Эксперты предупреждают о необходимости обследования всего жилого фонда города. ...
+                        ]]></description>
+  <pubDate>Fri, 04 Sep 2009 16:28:59 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1252069210#4</guid>
+ </item>
+ <item>
+  <title>За кулисами кризисного "саркошоу"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/04Sep2009/letemps/sarkoshow.html</link>
+  <description><![CDATA[
+                        Несмотря на износ власти, кризис и слышанные тысячи раз с момента его избрания фразы, поездки Саркози в провинцию продолжают производить впечатление на определенную публику, и немалую роль в этом успехе играют тщательно отрежиссированные "саркошоу". ...
+                        ]]></description>
+  <pubDate>Fri, 04 Sep 2009 16:06:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1252069210#5</guid>
+ </item>
+ <item>
+  <title>Россия может приостановить работу в ПАСЕ из-за противоречий по Кавказу</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/04sep2009/pas_.html</link>
+  <description><![CDATA[
+                        Российская делегация может взять паузу, если на осенней сессии ассамблеи большинство ее участников выступят за лишение России права голоса по вопросу об Абхазии и Южной Осетии. Это предложение намерена внести грузинская сторона. ...
+                        ]]></description>
+  <pubDate>Fri, 04 Sep 2009 16:46:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1252069210#6</guid>
+ </item>
+ <item>
+  <title>В больницы Крыма доставлены уже 126 детей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/09/04/n_1400230.shtml</link>
+  <description><![CDATA[
+                        В Джанкое (Крым) с признаками отравления госпитализированы уже 126 детей, сообщает украинский 5-й телеканал. У детей наблюдается температура, рвота и другие признаки отравления. Предварительный диагноз – гастроэнтероколит
+В Джанкой ... ...
+                        ]]></description>
+  <pubDate>Fri, 04 Sep 2009 16:38:26 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1252069210#7</guid>
+ </item>
+ <item>
+  <title>Суд отсрочил запрет на продажу Word в США</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/384713.php</link>
+  <description><![CDATA[
+                        Апелляционный суд удовлетворил просьбу корпорации Microsoft об отсрочке недавно наложенного запрета на продажи текстового редактора Word на американском рынке. 	 ...
+                        ]]></description>
+  <pubDate>Fri, 04 Sep 2009 13:46:40 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1252069210#8</guid>
+ </item>
+ <item>
+  <title>Ржига: надеюсь, в КХЛ работают нормальные люди</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/sport/hockey/2009/09/04/Igrok___Spartaka___n.phtml</link>
+  <description><![CDATA[
+                        Главный тренер хоккейного «Спартака» Милош Ржига рассказал Infox.ru, что защитник Дмитрий Вишневский не принимал допинг. Хоккеист проходил курс лечения у своего личного врача, который выдал ему лекарство, но забыл предупредить об этом медицинский персонал красно-белых. ...
+                        ]]></description>
+  <pubDate>Fri, 04 Sep 2009 16:44:28 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1252069210#9</guid>
+ </item>
+ <item>
+  <title>Беларусь, которой не было, не участвовала в оккупации Польши</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/59406/</link>
+  <description><![CDATA[
+                        Беларусь, которой не было, не участвовала в оккупации Польши ...
+                        ]]></description>
+  <pubDate>Fri, 04 Sep 2009 17:00:17 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1252069210#10</guid>
+ </item>
+ <item>
+  <title>Внимание, вопрос</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/258574/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/09/04/27276-152458-3542b71ae6d5e11b4e24b07045085fdb.jpg><br /><br />Некий австриец утверждает, что на этой картинке изображен исторический факт — Гитлер играет в шахматы с Лениным в 1909 году в Вене. Говорит, у него и 300 страниц доказательств есть. Но ему не очень-то верят. Мол, и Ленин как-то не похож, и Гитлер слегка не соответствует. Анализируют, в общем. У меня же всего один вопрос: nickpo, зачем Вы её нарисовали? ...
+                        ]]></description>
+  <pubDate>Fri, 04 Sep 2009 15:24:58 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1252069210#11</guid>
+ </item>
+  </channel>
+ </rss>

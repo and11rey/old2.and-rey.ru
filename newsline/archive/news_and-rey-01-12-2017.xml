@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 01 Dec 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Fri, 01 Dec 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Пейзаж перед жеребьевкой: четыре факта о чемпионате мира по футболу 2018 года
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-42180324</link>
+  <description><![CDATA[
+                        После жеребьевки 1 декабря станет ясно, каким командам удача улыбнется в самом начале ЧМ. Русская служба Би-би-си собрала основные факты о чемпионате. ...
+                        ]]></description>
+  <pubDate>Fri, 01 Dec 2017 16:49:29 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1512138901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Кто с кем будет играть на чемпионате мира по футболу в России? Сейчас узнаем. Онлайн жеребьевки ЧМ-2018
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/live/2017/12/01/kto-s-kem-budet-igrat-na-chempionate-mira-po-futbolu-v-rossii-seychas-uznaem</link>
+  <description><![CDATA[
+                        Что происходит: жеребьевка ЧМ-2018 ...
+                        ]]></description>
+  <pubDate>Fri, 01 Dec 2017 17:25:14 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1512138901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Миллиардер-мученик с Лазурного берега
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/01Dec2017/welt/kerimov.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Москва встала на сторону олигарха и политика Сулеймана Керимова после его задержания во Франции в связи с подозрением в уклонении от уплаты налогов. При этом Керимов, по всей видимости, в течение многих лет водил российское государство за нос. ...
+                        ]]></description>
+  <pubDate>Fri, 01 Dec 2017 17:35:17 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1512138901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Посол США в России отменил поездку на Дальний Восток и Сахалин 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28890674.html</link>
+  <description><![CDATA[
+                        Региональные власти не нашли возможности для встречи с Джоном Хантсманом ...
+                        ]]></description>
+  <pubDate>Fri, 01 Dec 2017 17:00:56 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1512138901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 01 Dec 2017 17:35:21 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1512138901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Башкирии уволили борца с коррупцией, подарившего любимой роскошный белый Mercedes
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/01dec2017/uvolen.html?utm_source=rss</link>
+  <description><![CDATA[
+                        На днях руководитель одного из отделов Управления экономической безопасности и противодействия коррупции МВД по Башкирии Игорь Воробьев преподнес супруге дорогую иномарку. В МВД начали проверку и уволили полицейского, но не за дорогие подарки, а предположительное участие в избиении охранника игорного клуба. ...
+                        ]]></description>
+  <pubDate>Fri, 01 Dec 2017 17:27:44 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1512138901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Обзор наушников Dunu Titan 3: есть ли предел совершенству?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/296051/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=best</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 01 Dec 2017 16:30:35 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1512138901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Заседание Архиерейского собора РПЦ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56255</link>
+  <description><![CDATA[
+                        Владимир Путин выступил на заседании Архиерейского собора Русской
+православной церкви, который проходит в Москве в храме Христа
+Спасителя и приурочен к 100-летию восстановления патриаршества в России.      ...
+                        ]]></description>
+  <pubDate>Fri, 01 Dec 2017 16:29:20 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1512138901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Филарет заявил, что Архиерейский собор РПЦ обманул украинцев
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/251/world/politics/188797-filaret-obvinil-arhierejskij-sobor-rpc-v-obmane-ukraincev</link>
+  <description><![CDATA[
+                        Глава Украинской православной церкви непризнанного Киевского Патриархата Филарет заявил, что будет настаивать на принятии закона об особом статусе УПЦ МП. ...
+                        ]]></description>
+  <pubDate>Fri, 01 Dec 2017 17:23:33 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1512138901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  01.12.2017 17:32 :  Предполагаемый организатор теракта в аэропорту Стамбула 29-го июня прошлого года погиб во время спецоперации в Грузии
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2102806-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Как сообщили в Службе госбезопасности Грузии, это произошло на прошлой неделе. Ахмед Чатаев подорвал себя.  <br>
+Как передает телеканал «Рустави-2», Ахмед Чатаев, также известный как Ахмед Однорукий, считается одним из самых разыскиваемых террористов в мире.
+ ...
+                        ]]></description>
+  <pubDate>Fri, 01 Dec 2017 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1512138901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Посол США не поедет на Дальний Восток из-за отказа официальных лиц РФ во встрече
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/590021</link>
+  <description><![CDATA[
+                        Посол США в РФ Джон Хантсман отменил запланированные на Дальний Восток поездки в связи с тем, что официальные лица в регионе отказались встретиться с американским дипломатом. ...
+                        ]]></description>
+  <pubDate>Fri, 01 Dec 2017 17:21:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1512138901#48</guid>
+ </item>
+  </channel>
+ </rss>

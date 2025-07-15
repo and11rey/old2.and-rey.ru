@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 10 Nov 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Fri, 10 Nov 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Интимный портрет Барака Обамы в снимках Пита Соузы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-41940769</link>
+  <description><![CDATA[
+                        Фотограф Белого дома Пит Соуза проводил с Бараком Обамой по 10-12 часов в сутки и сделал за это время около двух миллионов фотографий американского президента. ...
+                        ]]></description>
+  <pubDate>Fri, 10 Nov 2017 16:52:02 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1510324501#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Ижевске задержали жителя квартиры в обрушившемся доме, в которой произошел взрыв
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2017/11/10/v-izhevske-zaderzhali-zhitelya-kvartiry-v-obrushivshemsya-dome-v-kotoroy-proizoshel-vzryv</link>
+  <description><![CDATA[
+                        В Ижевске задержан житель квартиры в обрушившемся доме, в которой, по версии следствия, находился «эпицентр разрушения». ...
+                        ]]></description>
+  <pubDate>Fri, 10 Nov 2017 17:28:23 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1510324501#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Путин заподозрил США в заговоре после того, как четверых россиян отстранили за допинг
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/10Nov2017/nytimes/doping.html?utm_source=rss</link>
+  <description><![CDATA[
+                        МОК объявил в четверг, что наказал четверых российских спортсменов за нарушения антидопинговых правил в 2014 году на зимних Играх в Сочи. За это его раскритиковал Путин, при этом обвинив США в попытке повлиять на президентские выборы в России. ...
+                        ]]></description>
+  <pubDate>Fri, 10 Nov 2017 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1510324501#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В "Партии националистов" рассказали об обыске в ее московском офисе
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28846847.html</link>
+  <description><![CDATA[
+                        Ранее представитель движения рассказывал, что российские власти собираются признать организацию экстремистской ...
+                        ]]></description>
+  <pubDate>Fri, 10 Nov 2017 16:59:29 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1510324501#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 10 Nov 2017 17:35:03 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1510324501#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ФСИН начала служебную проверку после побега Бученкова из-под домашнего ареста
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/10nov2017/checktruadsob.html?utm_source=rss</link>
+  <description><![CDATA[
+                        В ведомстве заявили, что электронный браслет на фигуранта "болотного дела" не надели, поскольку это не обязательно по закону, хотя сам он уверял, что браслетов у наро-фоминского подразделения ФСИН просто не хватило. ...
+                        ]]></description>
+  <pubDate>Fri, 10 Nov 2017 17:32:22 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1510324501#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Органоиды мозга человека вживили в мозг живой крысы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/295273/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=best</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 10 Nov 2017 15:46:01 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1510324501#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с Председателем КНР Си Цзиньпином
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56046</link>
+  <description><![CDATA[
+                        На полях
+саммита АТЭС в Дананге Владимир Путин встретился с Председателем Китайской
+Народной Республики Си Цзиньпином.       ...
+                        ]]></description>
+  <pubDate>Fri, 10 Nov 2017 16:32:49 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1510324501#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Заявку Екатеринбурга на проведение «Экспо-2025» представит балерина
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/250/social/society/187170-zaavku-ekaterinburga-na-provedenie-ekspo-2025-predstavit-balerina</link>
+  <description><![CDATA[
+                        Балерина Илзе Лиепа приняла предложение губернатора Свердловской области представить заявку Екатеринбурга на проведение выставки «Экспо-2025». ...
+                        ]]></description>
+  <pubDate>Fri, 10 Nov 2017 17:28:30 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1510324501#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  10.11.2017 17:31 : В Ижевске задержан мужчина, который проживал в квартире, где предположительно произошел взрыв газа
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2090148-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+В Ижевске задержан мужчина, который проживал в квартире, где предположительно произошел взрыв газа. Об этом сообщили в Следственном комитете.  
+
+Инцидент произошел накануне. Обрушился один из подъездов жилого дома. Погибли шесть человек, в том числе двое детей. Судьба еще двух человек остается неизвестной. В Удмуртии 11-12 ноября объявлены днями траура.
+ ...
+                        ]]></description>
+  <pubDate>Fri, 10 Nov 2017 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1510324501#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Полиция отпустила задержанных у Госдумы защитников животных
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/586926</link>
+  <description><![CDATA[
+                        У здания Госдумы в пятницу задержали, но вскоре отпустили голодающих защитников животных. ...
+                        ]]></description>
+  <pubDate>Fri, 10 Nov 2017 17:18:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1510324501#48</guid>
+ </item>
+  </channel>
+ </rss>

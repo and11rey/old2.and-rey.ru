@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 03 Mar 2013 17:00:02 +0400</pubDate>
+         <lastBuildDate>Sun, 03 Mar 2013 17:00:02 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Древний потерянный континент обнаружен в Индийском океане
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/world/20130303/206553861.html</link>
+  <description><![CDATA[
+                        Свидетельства затонувшего «микроконтинента» обнаружены в песчинках с пляжей небольшого острова в Индийском океане, утверждают ученые. Мы знаем больше о топографии Марса, чем о топографии дна мирового океана, и поэтому вполне могут существовать другие расчлененные континенты, которые еще только ожидают своего открытия. ...
+                        ]]></description>
+  <pubDate>Sun, 03 Mar 2013 16:26:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1362315602#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Число детей, попавших под лавину в Туве, выросло до семи - Газета.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNGg8O08brozoCPnOqMQiFXpdjkIdQ&amp;url=http://www.gazeta.ru/social/news/2013/03/03/n_2780417.shtml</link>
+  <description><![CDATA[
+                        Число подростков, оказавшихся под снегом в результате схода лавины, выросло до семи человек. Об этом сообщает «Интерфакс» со ссылкой на МВД. «Около 14.10 мск в 6 км от села Мугур-Аксы Монгун-Тайгинского района Республики Тува в горах произошёл сход снежной лавины. ...
+                        ]]></description>
+  <pubDate>Sun, 03 Mar 2013 16:51:24 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1362315602#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ALT.NET наносит ответный удар
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/post/171423/</link>
+  <description><![CDATA[
+                        В конце апреля 2013 произойдет нечто большое для сообщества ALT.NET. Две конференции на русском dotnetconf.ru и английском dotnetconf.net.
+
+Мы со Cкоттом Хансельманом решили устроить большую тусовку по продвижению лучших практик разработки ПО в мире .NET, это будет значимое событие.
+
+ Читать дальше в†’ ...
+                        ]]></description>
+  <pubDate>Sun, 03 Mar 2013 16:53:51 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1362315602#39</guid>
+ </item>
+  </channel>
+ </rss>

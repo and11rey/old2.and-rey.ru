@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 12 Nov 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sun, 12 Nov 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Рахой в Каталонии призвал положить конец "сепаратистскому хаосу"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-41960052</link>
+  <description><![CDATA[
+                        Премьер-министр Испании Мариано Рахой прибыл в Каталонию - впервые после введения в этой автономной провинции прямого правления Мадрида, - чтобы принять участие в предвыборном митинге. Накануне 750 тысяч человек вышли на улицы Барселоны, протестуя против задержания сторонников независимости. ...
+                        ]]></description>
+  <pubDate>Sun, 12 Nov 2017 17:10:20 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1510497301#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Песков: встреча Путина и Трампа не состоялась из-за отсутствия гибкости со стороны США
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2017/11/12/peskov-vstrecha-putina-i-trampa-ne-sostoyalas-iz-za-otsutstviya-gibkosti-so-storony-ssha</link>
+  <description><![CDATA[
+                        Встреча президента США Дональда Трампа и президента России Владимира Путина на саммите АТЭС в Ханое не состоялась из-за того, что «американцы не проявили гибкости». Об этом заявил пресс-секретарь президента РФ Дмитрий Песков. ...
+                        ]]></description>
+  <pubDate>Sun, 12 Nov 2017 17:21:42 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1510497301#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Что делать... с Лениным?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/10Nov2017/slatefr/lenine.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Настало время захоронить Ленина у Кремлевской стены, вместе с другими советскими руководителями. Но Путин, выдвинув на первый план примирение в обществе, а не празднование революции, не заинтересован поднимать вопросы, способные привести к розни. ...
+                        ]]></description>
+  <pubDate>Fri, 10 Nov 2017 22:07:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1510497301#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Принц Чарльз возложил венок к мемориалу Первой мировой вместо Елизаветы II
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28849482.html</link>
+  <description><![CDATA[
+                        Королева начала "сокращать" уровень своего участия в церемониальных мероприятиях после 65 лет пребывания на престоле ...
+                        ]]></description>
+  <pubDate>Sun, 12 Nov 2017 17:13:26 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1510497301#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 12 Nov 2017 17:35:03 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1510497301#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Премьер Испании впервые приехал в мятежную Барселону
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/12nov2017/barca.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Поездка Рахоя приурочена к выдвижению его коллеги по Народной партии Шавьера Альбиоля кандидатом для участия в региональных выборах в Каталонии. Премьер объяснил жесткую реакцию на объявление независимости: все европейские соседи поступили бы так же. ...
+                        ]]></description>
+  <pubDate>Sun, 12 Nov 2017 17:29:17 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1510497301#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Из песочницы] Остеохондроз и его деловые партнеры. История болезни
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/295317/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=best</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 12 Nov 2017 16:34:26 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1510497301#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Во Вьетнаме завершился саммит АТЭС
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56049</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 12 Nov 2017 09:47:36 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1510497301#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Кузнецова разберется с ситуацией вокруг изъятия у россиянки дочери в Финляндии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/130/social/society/187226-kuznecova-razberetsa-s-situaciej-vokrug-izatia-u-rossianki-doceri-v-finlandii</link>
+  <description><![CDATA[
+                        Уполномоченный при президенте России по правам ребенка Анна Кузнецова направит запрос в генконсульство России в Финляндии в связи с информацией об изъятии 12-летней дочери у россиянки.
+ ...
+                        ]]></description>
+  <pubDate>Sun, 12 Nov 2017 17:13:52 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1510497301#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  12.11.2017 17:30 : Игоря Талькова-младшего задержали около Госдумы на акции зоозащитников
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2091162-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Как пишет у себя в Твиттере блогер Денис Стяжкин, когда Тальков исполнял песни своего отца, к нему подошел полицейский и попросил пройти вместе с ним на профилактическую беседу. При этом представитель органов правопорядка заявил, что Тальков мешает проходу граждан. Задержанных доставили в отдел полиции по Тверскому району.
+ ...
+                        ]]></description>
+  <pubDate>Sun, 12 Nov 2017 17:30:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1510497301#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Среди пострадавших в ДТП на юго-западе Москвы были двое детей
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/moscow/587061</link>
+  <description><![CDATA[
+                        Двое несовершеннолетних оказались в числе пострадавших в результате ДТП на юго-западе Москвы, сообщил "Интерфаксу" в воскресенье информированный источник. ...
+                        ]]></description>
+  <pubDate>Sun, 12 Nov 2017 17:19:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1510497301#48</guid>
+ </item>
+  </channel>
+ </rss>

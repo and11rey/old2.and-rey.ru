@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 27 May 2009 17:00:11 +0400</pubDate>
+         <lastBuildDate>Wed, 27 May 2009 17:00:11 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>"Барселона" или "МЮ"? Письма фанатов </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/interactivity/2009/05/090527_letters_championsleague.shtml</link>
+  <description><![CDATA[
+                        "Манчестер" слишком зарвался. Надеюсь, "Барселона" преподаст им сегодня хороший урок!" ...
+                        ]]></description>
+  <pubDate>Wed, 27 May 2009 16:41:24 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1243429211#1</guid>
+ </item>
+ <item>
+  <title>Тимошенко восстановила Луценко в должности</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/World/Europe/Ukraine/m.151638.html</link>
+  <description><![CDATA[
+                        Правительство Украины вернуло министра внутренних дел Юрия Луценко к исполнению обязанностей. Он был отстранен после инцидента в аэропорту Франкфурта-на-Майне, когда вместе со своим сыном Александром вступил в конфликт с полицейскими. СМИ сообщали, что Луценко устроил пьяный дебош. ...
+                        ]]></description>
+  <pubDate>Wed, 27 May 2009 16:34:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1243429211#2</guid>
+ </item>
+ <item>
+  <title>Медведев дал мрачную оценку состоянию российской экономики ("Time", США)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/249422.html</link>
+  <description><![CDATA[
+                        Продолжавшаяся несколько месяцев закулисная борьба между премьер-министром России Владимиром Путиным и президентом России Дмитрием Медведевым закончилась в понедельник - и победителем вышел Медведев. На встрече с высокопоставленными правительственными чиновниками президент представил поразительно пессимистичный список приоритетов расходной части бюджета до 2012 года, основанный на консервативных оценках, согласно которым экономическое развитие России будет сдерживаться кризисом еще не менее двух ...
+                        ]]></description>
+  <pubDate>Wed, 27 May 2009 16:48:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1243429211#3</guid>
+ </item>
+ <item>
+  <title>В Пакистане при взрыве погибли почти 30 человек, 300 - ранены</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1740803.html</link>
+  <description><![CDATA[
+                        При взрыве в пакистанском городе Лахор погибли около 30 человек, почти 300 - ранены.Разрушено здание, где находились полицейский участок и другие государственные учреждения. По данным властей, прежде чем взорвать заминированный автомобиль, группа воо ... ...
+                        ]]></description>
+  <pubDate>Wed, 27 May 2009 16:49:32 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1243429211#4</guid>
+ </item>
+ <item>
+  <title>Солнечные электростанции могут производить четверть электричества в мире</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/27May2009/guardian/solar.html</link>
+  <description><![CDATA[
+                        Электростанции, которые концентрируют солнечный свет, могут покрыть до четверти мировой потребности в электроэнергии к 2050 году, пишет издание, ссылаясь на свежий доклад. Инвестиции в эту сферу могут увеличиться до 11,1 млрд долларов к 2010 году. ...
+                        ]]></description>
+  <pubDate>Wed, 27 May 2009 16:43:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1243429211#5</guid>
+ </item>
+ <item>
+  <title>Талоны на продукты питания в Латвии вводить не будут, заверил премьер</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/27may2009/talon.html</link>
+  <description><![CDATA[
+                        "Правительство никакие талоны вводить не собирается, и для таких разговоров сейчас нет оснований", - сказал глава правительства страны Валдис Домбровскис. Ранее о возможном введении талонов заявлял председатель Банка Латвии. ...
+                        ]]></description>
+  <pubDate>Wed, 27 May 2009 16:57:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1243429211#6</guid>
+ </item>
+ <item>
+  <title>ФАС возбудила дело в отношении новосибирского аэропорта</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/05/27/n_1366191.shtml</link>
+  <description><![CDATA[
+                        Федеральная антимонопольная служба России возбудила дело в отношении новосибирского аэропорта Толмачево по признакам нарушения закона о защите конкуренции (запрет действий, которые приводят или могут привести к недопущению, ограничению или ... ...
+                        ]]></description>
+  <pubDate>Wed, 27 May 2009 16:53:17 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1243429211#7</guid>
+ </item>
+ <item>
+  <title>Symantec: Спам составляет 90% электронной почты</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/380342.php</link>
+  <description><![CDATA[
+                        Symantec опубликовала отчет от своей дочерней компании MessageLabs, в котором содержатся данные об уровне спама в почтовом трафике по итогам мая 2009 года.	 ...
+                        ]]></description>
+  <pubDate>Wed, 27 May 2009 13:46:53 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1243429211#8</guid>
+ </item>
+ <item>
+  <title>День сдачи ЕГЭ можно перенести по религиозным мотивам</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/education/2009/05/27/165452.html</link>
+  <description><![CDATA[
+                        Сдача единого госэкзамена (ЕГЭ) может быть перенесена на другой день, но только если ученик в личном заявлении укажет, что проведение экзамена в конкретный день противоречит его религиозным убеждениям. "В Федеральную службу по надзору в сфере образования и науки (Рособрнадзор) поступают запросы... ...
+                        ]]></description>
+  <pubDate>Wed, 27 May 2009 16:54:52 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1243429211#9</guid>
+ </item>
+ <item>
+  <title>"Христос вернулся к Себе, вернитесь и вы!"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/56235/</link>
+  <description><![CDATA[
+                        28 мая - Вознесение Господне
+«Христос вернулся к Себе, вернитесь и вы!» — говорит свт. Григорий Богослов. Христос с Плотию Своею, сотканною из нашей плоти и всей плоти Земли, взошёл в Небо Пресвятой Троицы. На заре своего существования человек возмечтал стать богом, устремился взойти на Небо живым, но стал землёю, которая распадается. ...
+                        ]]></description>
+  <pubDate>Wed, 27 May 2009 16:43:00 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1243429211#10</guid>
+ </item>
+ <item>
+  <title>Пост № 253908</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/253908/#new</link>
+  <description><![CDATA[
+                        "Уклюжий вор" Юрий Лужков демонстрирует свое понимание чувства юмора ...
+                        ]]></description>
+  <pubDate>Wed, 27 May 2009 16:12:16 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1243429211#11</guid>
+ </item>
+  </channel>
+ </rss>

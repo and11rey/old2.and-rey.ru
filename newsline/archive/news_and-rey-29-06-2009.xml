@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 29 Jun 2009 17:00:09 +0400</pubDate>
+         <lastBuildDate>Mon, 29 Jun 2009 17:00:09 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Пример тучных "звезд" столь же опасен, как и худых</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/life/2009/06/090629_fat_stars_tv.shtml</link>
+  <description><![CDATA[
+                        Британский профессор-медик предупреждает, что излишне полные лица на экране создают у тучных людей ложное впечатление, что им худеть не надо. ...
+                        ]]></description>
+  <pubDate>Mon, 29 Jun 2009 16:42:56 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1246280409#1</guid>
+ </item>
+ <item>
+  <title>Саратовские милиционеры признаны виновными в сожжении гражданина Армении</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/Law/m.153055.html</link>
+  <description><![CDATA[
+                        Присяжные признали виновными трех оперуполномоченных Ленинского РОВД Саратова, обвиняемых в жестоком убийстве гражданина Армении Армена Гаспаряна. Присяжные признали всех троих полностью виновными по статье 286 УК (превышение служебных полномочий), по статье 105 (убийство) полностью виновным признан один милиционер. ...
+                        ]]></description>
+  <pubDate>Mon, 29 Jun 2009 16:48:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1246280409#2</guid>
+ </item>
+ <item>
+  <title>Что есть 'нормальность' в отношениях между США и Россией? ("New Europe", Бельгия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/250239.html</link>
+  <description><![CDATA[
+                        Россия больше не враг США. Наши страны стали партнерами и союзниками - да они и были ими большую часть последних двухсот лет. Тем не менее, хоть мы и союзники, но еще недавно между нами имело место стратегическое военное противостояние. ...
+                        ]]></description>
+  <pubDate>Mon, 29 Jun 2009 16:56:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1246280409#3</guid>
+ </item>
+ <item>
+  <title>В Баку подписано российско-азербайджанское соглашение по газу</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090629/17/17.html?id=1765177</link>
+  <description><![CDATA[
+                        Россия и Азербайджан договорились о сотрудничестве в газовой отрасли. В ходе визита российского президента Дмитрия Медведева в Баку подписаны основные условия контракта между «Газпромом» и азербайджанской Госнефтекомпанией. Соглашением предусмотрено, что со следующего года Россия будет закупать азербайджанский газ, добываемый на месторождении Шах-Дениз. По итогам переговоров Медведева с президентом Азербайджана Ильхамом Алиевым подписано заявление о принципах делимитации границы и ... ...
+                        ]]></description>
+  <pubDate>Mon, 29 Jun 2009 16:33:37 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1246280409#4</guid>
+ </item>
+ <item>
+  <title>Следователи рассматривают версию компьютерного сбоя в качестве причины авиакатастрофы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/29Jun2009/wsj/avia.html</link>
+  <description><![CDATA[
+                        Эксперты, расследующие причины крушения рейса 447 авиакомпании Air France, подозревают, что ряд компьютерных и технических неисправностей вывел из строя автоматизированную систему, на которую обычно полагаются пилоты для управления авиалайнерами. ...
+                        ]]></description>
+  <pubDate>Mon, 29 Jun 2009 16:05:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1246280409#5</guid>
+ </item>
+ <item>
+  <title>Sunday Times: от энергетического кризиса землю спасут бактерии-углееды</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/29jun2009/venter.html</link>
+  <description><![CDATA[
+                        Американский генетик предложил "заражать" уголь открытыми им бактериями: они способны перерабатывать каменный уголь в метан. Биотехнологии - хорошая приманка для привлечения инвестиций, говорят скептики. ...
+                        ]]></description>
+  <pubDate>Mon, 29 Jun 2009 16:56:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1246280409#6</guid>
+ </item>
+ <item>
+  <title>Погибшая в Москве нигерийка оказалась проституткой</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/06/29/n_1377188.shtml</link>
+  <description><![CDATA[
+                        Гражданка Нигерии, которая упала в понедельник утром с 13-го этажа жилого дома в московском районе Выхино оказалась проституткой, сообщил источник в УВД Восточного административного округа столицы.
+По его словам, тело 24-летней темнокожей ... ...
+                        ]]></description>
+  <pubDate>Mon, 29 Jun 2009 16:47:47 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1246280409#7</guid>
+ </item>
+ <item>
+  <title>Во Франции, Чехии и Эстонии появились пиратские партии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/381964.php</link>
+  <description><![CDATA[
+                        После того, как шведская Партия пиратов &#40;Piratpartiet&#41; одержала победу на выборах в Европейский Парламент, представители пиратского движения в ряде европейских стран стали более активно заявлять о себе.	 ...
+                        ]]></description>
+  <pubDate>Mon, 29 Jun 2009 15:09:30 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1246280409#8</guid>
+ </item>
+ <item>
+  <title>ULEB наградит «Химки» за маркетинг</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/sport/basketball/2009/06/29/ULEB_nagradit___Himk.phtml</link>
+  <description><![CDATA[
+                        Подмосковные "Химки" вошли в тройку лучших команд в проекте ULEB «Лучшая маркетинговая программа». Победитель конкурса станет известен 8 июля. ...
+                        ]]></description>
+  <pubDate>Mon, 29 Jun 2009 16:53:21 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1246280409#9</guid>
+ </item>
+ <item>
+  <title>Срочно! В Ингушетии уничтожен главарь иностранных наемников</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/57316/</link>
+  <description><![CDATA[
+                        Срочно! В Ингушетии уничтожен главарь иностранных наемников ...
+                        ]]></description>
+  <pubDate>Mon, 29 Jun 2009 17:00:15 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1246280409#10</guid>
+ </item>
+ <item>
+  <title>Пост № 255526</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/255526/#new</link>
+  <description><![CDATA[
+                        Сын Ющенко стрелял в экс-замминистра. ...
+                        ]]></description>
+  <pubDate>Mon, 29 Jun 2009 15:27:05 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1246280409#11</guid>
+ </item>
+  </channel>
+ </rss>

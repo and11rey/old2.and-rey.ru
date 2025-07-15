@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 22 Mar 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sun, 22 Mar 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Коронавирус: Россия сокращает авиасообщение со всеми странами
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-51992170</link>
+  <description><![CDATA[
+                        Россия резко сокращает международное авиасообщение, чтобы сдержать распространение коронавируса. ...
+                        ]]></description>
+  <pubDate>Sun, 22 Mar 2020 16:39:57 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1584887701#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Правда ли, что пандемия улучшила экологическую обстановку во всем мире? И что будет, когда мы победим коронавирус
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/feature/2020/03/22/vse-taki-net-zadachi-spasti-prirodu-ot-nas</link>
+  <description><![CDATA[
+                        В середине марта, когда Италия уже закрылась на карантин, среди тревожных новостей о коронавирусе появились и радостные: в опустевших каналах Венеции вода очистилась настолько, что туда вернулись лебеди и даже дельфины. К сожалению, это неправда: вирусные снимки животных сделаны, судя по всему, в других местах. Но пандемия коронавируса действительно уже влияет (положительно) на состояние окружающей среды. Международное авиасообщение резко сократилось, фондовые рынки обвалились, как и цена на неф ...
+                        ]]></description>
+  <pubDate>Sun, 22 Mar 2020 16:25:23 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1584887701#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Карантин не сплачивает нас, а еще больше разделяет 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/20Mar2020/slatefr/virusdivide.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Вирус не только не объединил нас, но и усугубил осознание неравенства. В карантине на одном полюсе люди, которые вынуждены работать (без защиты), а на другом богачи, выбирающие, в каком из домов им самоизолироваться. ...
+                        ]]></description>
+  <pubDate>Fri, 20 Mar 2020 20:29:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1584887701#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Умер актёр, бывший диктор Радио Свобода Эрнст Зорин
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30502538.html</link>
+  <description><![CDATA[
+                        Ему было 82 года ...
+                        ]]></description>
+  <pubDate>Sun, 22 Mar 2020 17:01:35 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1584887701#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Мурманске прогремел взрыв - Рамблер
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vbmV3cy5yYW1ibGVyLnJ1L2luY2lkZW50cy80Mzg4Njc2MC12LW11cm1hbnNrZS1wcm9ncmVtZWwtdnpyeXYv0gFLaHR0cHM6Ly9uZXdzLnJhbWJsZXIucnUvaW5jaWRlbnRzLzQzODg2NzYwLXYtbXVybWFuc2tlLXByb2dyZW1lbC12enJ5di9hbXAv?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 22 Mar 2020 17:24:04 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1584887701#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  За последние сутки в РФ зарегистрирован 61 случай коронавирусной инфекции
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/22mar2020/infected.html?utm_source=rss</link>
+  <description><![CDATA[
+                        В штабе подчеркнули, что заразившиеся граждане посещали страны, неблагополучные по коронавирусной инфекции, в последние две недели. Все госпитализированные находятся в инфекционных боксах. Установлен круг близких контактов пациентов. ...
+                        ]]></description>
+  <pubDate>Sun, 22 Mar 2020 17:24:43 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1584887701#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Открыта аккредитация журналистов на освещение мероприятий, посвящённых 75-й годовщине Победы в Великой Отечественной войне 1941–1945 годов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/62929</link>
+  <description><![CDATA[
+                        Оргкомитет начинает приём заявок
+на участие в освещении мероприятий, посвящённых 75-й годовщине Победы
+в Великой Отечественной войне 1941–1945 годов.    ...
+                        ]]></description>
+  <pubDate>Sun, 22 Mar 2020 12:50:38 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1584887701#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  S dnjom roshdenija: немцев раскритиковали за поздравления Лаврова
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/285/232681-s-dnjom-roshdenija-nemcev-raskritikovali-za-pozdravlenia-lavrova</link>
+  <description><![CDATA[
+                        В Германии разгорелся большой политический скандал. Телеканал ARD поздравил министра иностранных дел Сергея Лаврова с юбилеем. Коллеги из издания Bild уже посчитали такое поздравление едва ли не хуже ситуации с коронавирусом. ...
+                        ]]></description>
+  <pubDate>Sun, 22 Mar 2020 15:36:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1584887701#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  22.03.2020 17:33 : Патриарх  Кирилл утвердил тексты специальной утренней молитвы и прошения против  коронавируса
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2610808-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Как   сообщается на сайте Московского патриархата,  впервые молитвы прочли  сегодня  за Патриаршим богослужением.   Теперь  их будут читать во всех храмах РПЦ.  Коронавирус и  пандемия  в  молитве не упоминаются.
+ ...
+                        ]]></description>
+  <pubDate>Sun, 22 Mar 2020 17:33:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1584887701#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Четыре станции Некрасовской линии метро возобновят работу уже 23 марта
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/moscow/700356</link>
+  <description><![CDATA[
+                        Четыре станции Некрасовской линии московской подземки откроются для пассажиров на один день раньше запланированного срока - в понедельник, 23 марта. ...
+                        ]]></description>
+  <pubDate>Sun, 22 Mar 2020 16:55:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1584887701#48</guid>
+ </item>
+  </channel>
+ </rss>

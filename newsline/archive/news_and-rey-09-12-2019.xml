@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 09 Dec 2019 17:35:01 +0300</pubDate>
+         <lastBuildDate>Mon, 09 Dec 2019 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  "Приедет Алиса Бруновна и сама все сыграет". За что мы любим Алису Фрейндлих
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/features-50711268</link>
+  <description><![CDATA[
+                        8 декабря Алисе Фрейндлих исполнилось 85 лет. Эта актриса не нуждается в представлении. Увидев ее игру хоть один раз, забыть ее невозможно. Услышав хоть раз ее голос, ее уже ни с кем не перепутаешь. ...
+                        ]]></description>
+  <pubDate>Mon, 09 Dec 2019 16:30:25 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1575902101#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Джокер», «Чернобыль» и «Брачная история» номинированы на «Золотой глобус»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/12/09/dzhoker-chernobyl-i-brachnaya-istoriya-nominirovany-na-zolotoy-globus</link>
+  <description><![CDATA[
+                        В Лос-Анджелесе объявили номинантов на награду голливудской Ассоциации иностранной прессы — «Золотой глобус». По числу номинация лидирует «Брачная история» Ноа Баумбака, претендующая на шесть наград, в том числе за лучший драматический фильм и лучшие женскую (Скарлетт Йоханссон) и мужскую роль (Адам Драйвер). ...
+                        ]]></description>
+  <pubDate>Mon, 09 Dec 2019 16:57:53 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1575902101#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Матрасы - новая цель воров в пятизвездочных отелях
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/09Dec2019/times/matress.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Раньше постояльцы отелей воровали наборы туалетных принадлежностей, время от времени решаясь и на халаты. Теперь они идут на кражи матрасов класса люкс, которые могут стоить тысячи фунтов.  ...
+                        ]]></description>
+  <pubDate>Mon, 09 Dec 2019 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1575902101#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Мосгорсуд приговорил к двум годам колонии экс-депутата Верховной Рады 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30316074.html</link>
+  <description><![CDATA[
+                        Николай Рудьковский признан виновным в нападении на посольство России в Киеве  ...
+                        ]]></description>
+  <pubDate>Mon, 09 Dec 2019 17:10:36 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1575902101#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Извержение вулкана в Новой Зеландии. Фоторепортаж - РБК
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3LnJiYy5ydS9waG90b3JlcG9ydC8wOS8xMi8yMDE5LzVkZWUxZjcxOWE3OTQ3MzEyODBkNDYxMtIBSmh0dHBzOi8vYW1wLnJiYy5ydS9yYmNuZXdzL3Bob3RvcmVwb3J0LzA5LzEyLzIwMTkvNWRlZTFmNzE5YTc5NDczMTI4MGQ0NjEy?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 09 Dec 2019 17:18:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1575902101#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Во Внуково из камеры хранения вещдоков пропали 105 кг наркотиков
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/09dec2019/drugsvnukovo.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Исчезнувшие запрещенные вещества были изъяты пять лет назад у бортпроводника, прилетевшего из Китая. По одной из версий, наркотики могли уничтожить еще в 2015 году, но это было бы незаконно и документально не подтверждается. ...
+                        ]]></description>
+  <pubDate>Mon, 09 Dec 2019 17:01:51 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1575902101#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Telegram Open Network: теория и практика от валидатора сети
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/479354/?utm_campaign=479354&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 09 Dec 2019 17:17:59 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1575902101#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Владимир Путин прибыл во Францию для участия во встрече в «нормандском формате»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/62273</link>
+  <description><![CDATA[
+                              ...
+                        ]]></description>
+  <pubDate>Mon, 09 Dec 2019 15:46:32 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1575902101#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Украинцы в ярости: Зеленский подпишет мир на условиях Путина
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/283/228521-ukraincy-v-arosti-zelenskij-podpiset-mir-na-usloviah-putina</link>
+  <description><![CDATA[
+                        Сегодня в Париже проходит первая личная встреча Владимира Зеленского и Владимира Путина. ...
+                        ]]></description>
+  <pubDate>Mon, 09 Dec 2019 17:10:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1575902101#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  09.12.2019 17:32 : Температурные аномалии будут наблюдаться в течение этой недели по всей России
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2551407-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Об этом сообщил исполняющий обязанности директора Гидрометцентра Роман Вильфанд. Он уточнил, что заметнее всего это будет в Сибири, там ожидаются температуры на 15…17 градусов теплее обычного. Температуры выше нормы также будут на Урале, на всей европейской территории России, в том числе в Москве.
+ ...
+                        ]]></description>
+  <pubDate>Mon, 09 Dec 2019 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1575902101#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Металлодетекторы в гимназии Казани, где ученик удерживал одноклассников, были неисправны
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/687276</link>
+  <description><![CDATA[
+                        Металлодетекторы в казанской гимназии №7, где в мае этого года школьник с ножом и пистолетом удерживал одноклассников, были неисправны, сообщил прокурор Татарстана Илдус Нафиков. ...
+                        ]]></description>
+  <pubDate>Mon, 09 Dec 2019 17:25:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1575902101#48</guid>
+ </item>
+  </channel>
+ </rss>

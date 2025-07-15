@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 16 Nov 2011 17:00:05 +0400</pubDate>
+         <lastBuildDate>Wed, 16 Nov 2011 17:00:05 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Британские врачи просят запретить курение в автомобилях
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/uk/2011/11/111116_uk_car_smoking_ban_proposal.shtml</link>
+  <description><![CDATA[
+                        В настоящее время в Великобритании курение в общественных местах уже запрещено, однако после оценки известных рисков Британская медицинская ассоциация пришла к выводу, что этот запрет следует распространить и на автомобили. ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2011 16:48:39 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1321448405#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Книги Захара Прилепина решили проверить на экстремизм
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/m.193153.html</link>
+  <description><![CDATA[
+                        Нижегородское отделение молодежного движения "Новые Люди" решило направить в Минюст и Минобразования официальные письма с просьбой проверить на экстремизм книги Захара Прилепина "Санькя" и "Черная обезьяна". По словам Прилепина, способность "молодой поросли" к "любому подлому поступку" свидетельствует о том, "насколько быстро могут развращаться молодые люди". ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2011 16:24:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1321448405#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Надвигается израильско-иранская война?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/asia/20111116/177782222.html</link>
+  <description><![CDATA[
+                        Военное ведомство Израиля долгие годы размышляет о целесообразности и возможности нанесения ударов по иранским ядерным объектам, которые рассредоточены по всей стране, а во многих случаях находятся глубоко под землей. ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2011 16:55:01 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1321448405#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Спасти лейтенанта Бута
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/blog/24392800.html</link>
+  <description><![CDATA[
+                        Во вторник я через Скайп участвовал в организованной Сахаровским центром   дискуссии   о деле Виктора Бута. Я не видел зал, но мне показалось, что народу было мало. Поэтому я решил привести в порядок и изложить здесь свое мнение о возможных сценариях спасения Бута из американского узилища. 
+  
+Прежде всего: защита Бута   обжаловала   вердикт (приговор ему еще не вынесен) на основании   интервью   старшины жюри присяжных Хитер Хобсон газете New York Times. Среди прочего она говорит, что ... ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2011 16:55:00 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1321448405#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Идентификация останков погибших в ходе конфликта в Южной Осетии продолжается
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/feedproxy.google.com/~r/rosbalt/~3/QHOOlZGehGg/story01.htm</link>
+  <description><![CDATA[
+                        Продолжается работа по идентификации останков военнослужащих, погибших в ходе вооруженного конфликта в Южной Осетии в 2008 году. Об этом сообщили в пресс-службе Следственного комитета России.
+
+ ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2011 16:48:00 +0400</pubDate>
+  <source url="http://feeds2.feedburner.com">Информационное агентство Росбалт</source>
+  <guid isPermaLink="false">1321448405#38</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Петербурге за пропаганду гомосексуализма и педофилии решили наказывать. Нашлись недовольные (ФОТО)
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/16nov2011/gaypride.html</link>
+  <description><![CDATA[
+                        Одобренный почти единогласно законопроект предусматривает штраф за пропаганду мужеложества и педофилии среди подростков от тысячи до 50 тысяч рублей. Активисты ЛГБТ-движения в знак протеста устраивают стриптиз у стен Кремля и просят "не кормить гомофобскими законами". ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2011 16:59:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1321448405#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Интеллектуальная собственность / Microsoft атакует Android с помощью «тривиальных» патентов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/blogs/patent/132738/</link>
+  <description><![CDATA[
+                        Как известно, юристы Microsoft сейчас ведут активную работу, подписывая на лицензионные отчисления всех производителей Android-устройств. Большинство компаний соглашаются платить по несколько долларов с устройства, лишь бы не связываться с юридической машиной MS. Но некоторые пытаются сопротивляться (на схеме они обозначены красным цветом). Один из особо упорных противников, с которым уже давно идёт разбирательство — компания Barnes & Nobles, которая выпускает Android-устройства Nook и Nook Colo ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2011 15:35:35 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1321448405#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  На трассе под Тольятти, где столкнулись фура и джип, разбились двое мужчин и женщина - Комсомольская правда
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNHhOI8DsTxsm_FAy6rz7pi0RSIYNA&amp;url=http://samara.kp.ru/online/news/1020518</link>
+  <description><![CDATA[
+                        В страшной аварии в Ставропольском районе погибли двое мужчин и женщина. По информации УГИБДД по Самарской области, автокатастрофа произошла на 978 км трассы М-5 «Урал» в 12 часов 20 минут. 43-летний мужчина, который даже не потрудился пристегнуться, ехал за рулем иномарки «Мицубиси Монтеро» в ... ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2011 16:49:36 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1321448405#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Мозг геймера работает по-другому
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/hi-tech/games/2011/11/16/Mozg_gyeymyera_rabot.phtml</link>
+  <description><![CDATA[
+                        Тинэйджеры, проводящие много времени за компьютерными играми, отличаются несколько иной моделью функционирования мозга по сравнению со среднестатистическим человеком. Так гласят результаты исследования, опубликованного учеными в журнале Translational Psychiatry. ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2011 17:00:08 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1321448405#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  16.11.2011 16:37 : Сенатор Марио Монти,   получивший мандат на формирование правительства Италии, сегодня   представил президенту страны состав нового кабинета министров
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/830712-echo.html</link>
+  <description><![CDATA[
+                        
+ В частности, глава компании "Интеса Сан-Паулу" Коррадо   Пассера назначен министром инфраструктуры и транспорта.   Обязанности руководителя министерства экономики и финансов   Монти взял на себя. Формирование нового кабинета последовало за отставкой   правительства Сильвио Берлускони. 
+ ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2011 16:37:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1321448405#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Пост № 327348
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/327348/#new</link>
+  <description><![CDATA[
+                        CATvertising<br />
+Канадское агентство John St. сняло пародийный ролик о том, как оно собирается активнее использовать вирусные видео с котами в своей рекламе и в связи с этим хочет переименовать себя в первое в мире catvertising agency, то есть кошачье рекламное агентство. Шутка шуткой, но эта идея отражает вполне реальный тренд: увлечение рекламщиков животными и создание роликов специально для домашних питомцев.<br />
+"Спросите себя, что могут видео с котиками сделать для вашего бизнеса?"  -   ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2011 15:53:31 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1321448405#34</guid>
+ </item>
+  </channel>
+ </rss>

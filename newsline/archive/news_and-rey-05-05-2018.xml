@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 05 May 2018 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sat, 05 May 2018 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Алексея Навального задержали на акции в Москве
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/media-44005631</link>
+  <description><![CDATA[
+                        Во время акции "Он вам не царь" в Москве сотрудники ОМОН задержали оппозиционера Алексея Навального. ...
+                        ]]></description>
+  <pubDate>Sat, 05 May 2018 16:21:01 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1525530901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В России на акциях «Он нам не царь» задержали более тысячи человек
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/05/05/v-rossii-na-aktsiyah-on-nam-ne-tsar-zaderzhali-bolee-tysyachi-chelovek</link>
+  <description><![CDATA[
+                        В России на акциях «Он нам не царь» 5 мая задержали 1029 человек, сообщили «Медузе» в проекте «ОВД-Инфо». ...
+                        ]]></description>
+  <pubDate>Sat, 05 May 2018 17:12:38 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1525530901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российская армия, закаленная в войнах
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/04May2018/lemonde/armee.html?utm_source=rss</link>
+  <description><![CDATA[
+                        "Армия стала более важным, если не самым эффективным, инструментом внутренней и внешней политики Москвы", - считает эксперт Александр Гольц. Использование ВС совместно с тайными операциями и пропагандой показало превосходство Москвы над Западом. ...
+                        ]]></description>
+  <pubDate>Fri, 04 May 2018 20:02:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1525530901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  На акциях протеста по всей России задержали более 600 человек
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29210159.html</link>
+  <description><![CDATA[
+                        Митинги приурочены к инаугурации президента России Владимира Путина ...
+                        ]]></description>
+  <pubDate>Sat, 05 May 2018 16:00:34 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1525530901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В МВД объяснили задержание Навального и Ляскина на протестной акции
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rbc.ru/politics/05/05/2018/5aeda04a9a794724ad17acd5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 05 May 2018 17:26:15 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1525530901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  На акциях "Он нам не царь" задержали больше тысячи человек, половину - в Москве
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/05may2018/ovdsays.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Cайт мониторинга политических задержаний &#34;ОВД-Инфо&#34; приводит такую статистику по задержанным на 17 часов: 475 человек в Москве, 164 в Челябинске, 75 в Якутске, 63 в Тольятти, 53 в Петербурге, 49 в Краснодаре, 35 в Красноярске, 26 в Новокузнецке. ...
+                        ]]></description>
+  <pubDate>Sat, 05 May 2018 17:24:03 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1525530901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Проектирование процессора (CPU Design) Часть III
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.com/post/299595/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=299595</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 05 May 2018 17:27:24 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1525530901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Участникам, организаторам и гостям Общественно-патриотической акции-концерта «Спасибо за верность, потомки!»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/letters/57409</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Sat, 05 May 2018 09:06:04 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1525530901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В акции оппозиции в Москве приняли участие 1,5 тыс. человек
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/130/social/society/201715-v-akcii-oppozicii-v-moskve-prinali-ucastie-15-tys-celovek</link>
+  <description><![CDATA[
+                        Около полутора тысяч человек приняли участие в несогласованной акции в центре Москвы. Беспорядки пришлось пресекать сотрудникам правоохранительных органов. ...
+                        ]]></description>
+  <pubDate>Sat, 05 May 2018 17:16:43 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1525530901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  05.05.2018 17:34 : Общее число задержанных участников акции «Он нам не царь» по всей России превысило тысячу человек
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2196880-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Об этом сообщает интернет-издание ОВД-Инфо. Из них почти 500 человек оказались в автозаках и отделах полиции в Москве, более 160-ти – в Челябинске. Кроме того, по данным агентства FlashNord, около 150 человек задержаны в Петербурге.  <br>
+Тем временем, в район Пушкинской площади вернулись участники акции. Сообщалось, что там возобновились задержания.
+Организатор протестных акций Алексей Навальный сегодня был задержан в районе Пушкинской площади. Его доставили в ОВД Красносельское. Как написал ...
+                        ]]></description>
+  <pubDate>Sat, 05 May 2018 17:34:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1525530901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Парижане вышли на улицы в знак протеста против политики Макрона
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/611454</link>
+  <description><![CDATA[
+                        Организаторы оценили численность акции в 160 тыс. человек ...
+                        ]]></description>
+  <pubDate>Sat, 05 May 2018 17:06:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1525530901#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 06 Dec 2009 17:00:06 +0300</pubDate>
+         <lastBuildDate>Sun, 06 Dec 2009 17:00:06 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>В связи с пожаром в Перми возбуждено новое дело</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2009/12/091206_perm_investigation.shtml</link>
+  <description><![CDATA[
+                        СКП РФ возбудил второе уголовное дело по факту пожара в пермском клубе "Хромая лошадь", в результате которого погибли, по последним данным, 112 человек. ...
+                        ]]></description>
+  <pubDate>Sun, 06 Dec 2009 14:44:46 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1260108006#1</guid>
+ </item>
+ <item>
+  <title>Шойгу запретил использование пиротехники во время массовых мероприятий</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/m.171792.html</link>
+  <description><![CDATA[
+                        Глава МЧС Сергей Шойгу потребовал запретить использование пиротехники во время мероприятий с массовым пребыванием людей. Все места проведения  новогодних мероприятий в России будут внепланово проверены. Запрет должен действовать "невзирая на лица", сказал глава МЧС. ...
+                        ]]></description>
+  <pubDate>Sun, 06 Dec 2009 17:00:08 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1260108006#2</guid>
+ </item>
+ <item>
+  <title>Жупел изоляционизма</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/usa/20091206/156865860.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 06 Dec 2009 15:42:39 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1260108006#3</guid>
+ </item>
+ <item>
+  <title>В Афинах произошли столкновения демонстрантов с полицией</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091206/17/17.html?id=1896398</link>
+  <description><![CDATA[
+                        В столице Греции Афинах в годовщину убийства полицейским 15-летнего подростка произошли столкновения демонстрантов с полицией.  Как сообщают информационные агентства, стражи порядка применили слезоточивый газ, чтобы рассеять толпу молодых людей, которые начали бросать в витрины магазинов камни и бутылки с зажигательной смесью. Сообщается о задержании около 150 человек. Общее число участников демонстрации в Афинах составило несколько тысяч. Марш протеста прошел также в Салониках.  6 декабря 2008  ...
+                        ]]></description>
+  <pubDate>Sun, 06 Dec 2009 16:41:27 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1260108006#4</guid>
+ </item>
+ <item>
+  <title>"Джихад среди нас". Угроза терактов в США</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/04Dec2009/lastampa/jihad.html</link>
+  <description><![CDATA[
+                        На одном из мероприятий в Нью-Йорке министр национальной безопасности США рассказала о том, что джихад уже высадился в Америке, что для себя она сформулировала задачу: научиться распознавать американских граждан, вдохновляемых идеями "Аль-Каиды". ...
+                        ]]></description>
+  <pubDate>Fri, 04 Dec 2009 17:43:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1260108006#5</guid>
+ </item>
+ <item>
+  <title>В Перми прошли первые похороны погибших при пожаре в клубе</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/06dec2009/klub.html</link>
+  <description><![CDATA[
+                        Как сообщил представитель пресс-службы МЧС России по Пермскому краю, всего из бюро судмедэкспертизы, где проходит процедура опознания тел, родственникам переданы тела 25 погибших. Неопознанным остается тело одной женщины. ...
+                        ]]></description>
+  <pubDate>Sun, 06 Dec 2009 16:51:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1260108006#6</guid>
+ </item>
+ <item>
+  <title>В Каире в результате перестрелки с рыбаками погиб офицер полиции</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/12/06/n_1432493.shtml</link>
+  <description><![CDATA[
+                        В Каире в результате перестрелки между полицией и рыбаками погиб офицер полиции, другой офицер был ранен.
+Перестрелка произошла после того как офицеры прибыли, чтобы допросить 28 рыбаков, в связи с субботним инцидентом. Тогда на требование ... ...
+                        ]]></description>
+  <pubDate>Sun, 06 Dec 2009 16:42:24 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1260108006#7</guid>
+ </item>
+ <item>
+  <title>Мошенники пытаются нажиться на трагедии в Перми</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/79b84ce/l/0L0Ssecuritylab0Bru0Cnews0C38850A20Bphp/story01.htm</link>
+  <description><![CDATA[
+                        В связи с пожаром в клубе "Хромая лошадь" активизировались мошенники. Они рассылают горожанам sms-сообщения с предложениями перечислить деньги якобы для пострадавших. ...
+                        ]]></description>
+  <pubDate>Sat, 05 Dec 2009 18:28:11 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1260108006#8</guid>
+ </item>
+ <item>
+  <title>Жертвами гриппа на Украине стали 460 человек</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/accident/incident/2009/12/06/ZHyertvami_grippa_na.phtml</link>
+  <description><![CDATA[
+                        Заболеваемость гриппом и ОРВИ на Украине составляет более двух миллионов человек. Количество жертв этих болезней увеличилось до 460 человек. Эпидемический порог заболеваемости превышен в двух областях -- Закарпатской и Хмельницкой.  ...
+                        ]]></description>
+  <pubDate>Sun, 06 Dec 2009 16:36:21 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1260108006#9</guid>
+ </item>
+ <item>
+  <title>Королева Великобритании Елизавета Вторая требует от британских СМИ не публиковать снимки королевской семьи, сделанные папарацци</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/639367-echo.html</link>
+  <description><![CDATA[
+                        
+                         Адвокаты королевы напомнили газетчикам об обязательстве соблюдать право на частную жизнь...
+                          ...
+                        ]]></description>
+  <pubDate>Sun, 06 Dec 2009 16:34:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1260108006#10</guid>
+ </item>
+  </channel>
+ </rss>

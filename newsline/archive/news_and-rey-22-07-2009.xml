@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 22 Jul 2009 17:00:04 +0400</pubDate>
+         <lastBuildDate>Wed, 22 Jul 2009 17:00:04 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>О сферах влияния</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/interactivity/2009/07/090722_blog_krechetnikov_spheres_of_influence.shtml</link>
+  <description><![CDATA[
+                        В сферах влияния нет ничего плохого. При одном условии: когда вхождение в них - дело добровольное. ...
+                        ]]></description>
+  <pubDate>Wed, 22 Jul 2009 16:34:08 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1248267604#1</guid>
+ </item>
+ <item>
+  <title>Расходы на олимпиаду сократили на 10 миллиардов рублей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Economy/m.154326.html</link>
+  <description><![CDATA[
+                        Расходы на подготовку олимпийских объектов и инфраструктуры в Сочи сократятся на 10,7 миллиарда рублей до 195,3 миллиарда, заявил возглавляющий межведомственную комиссию по подготовке к Олимпиаде вице-премьер России Дмитрий Козак.  ...
+                        ]]></description>
+  <pubDate>Wed, 22 Jul 2009 16:52:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1248267604#2</guid>
+ </item>
+ <item>
+  <title>ИноВидео: "Религия в школах - опасно" ("Russia Today", Россия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/250938.html</link>
+  <description><![CDATA[
+                        В школе не стоит преподавать 'закон божий', считает Алла Глинчикова из Московского института глобализации и социальных движений. Преподавать нужно историю разных религий. Россия - многокультурная страна. ...
+                        ]]></description>
+  <pubDate>Wed, 22 Jul 2009 16:04:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1248267604#3</guid>
+ </item>
+ <item>
+  <title>Одноглазый лжец </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/1782721.html</link>
+  <description><![CDATA[
+                        23 июля исполняется 120 лет со дня рождения русского графика, живописца, театрального постановщика и мемуариста Юрия Анненкова. 35 лет назад, в июле 1974 года, художник скончался в Париже.
+ ...
+                        ]]></description>
+  <pubDate>Wed, 22 Jul 2009 15:51:10 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1248267604#4</guid>
+ </item>
+ <item>
+  <title>Стратегия выхода по версии ФРС </title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/22Jul2009/wsj/economy.html</link>
+  <description><![CDATA[
+                        Как пишет глава ФРС Бен Бернанке, глубина нынешней рецессии требует гибкой денежно-кредитной политики. Впрочем, рано или поздно начнется оздоровление экономики, тогда тенденции изменятся - ФРС будет вынуждена ужесточить кредитно-денежную политику. ...
+                        ]]></description>
+  <pubDate>Wed, 22 Jul 2009 15:51:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1248267604#5</guid>
+ </item>
+ <item>
+  <title>Подростки взбунтовались в кировской колонии: сгорели помещения, ущерб на два миллиона</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/22jul2009/colony.html</link>
+  <description><![CDATA[
+                        Серьезный инцидент произошел в районном центре Котельнич Кировской области. Заключенные требовали смягчить условия содержания, в частности, разрешить дневной сон, гражданскую одежду, а также не привлекать их к принудительным работам. Администрация отказалась. ...
+                        ]]></description>
+  <pubDate>Wed, 22 Jul 2009 16:50:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1248267604#6</guid>
+ </item>
+ <item>
+  <title>Суд признал законным приговор руководству "Брынцалов-А"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/07/22/n_1385374.shtml</link>
+  <description><![CDATA[
+                        Мосгорсуд признал законным приговор по делу руководства компании "Брынцалов-А", получивших от четырех до пяти лет условно за фальсификацию лекарств. Таким образом, суд оставил без удовлетворения кассационную жалобу компании ... ...
+                        ]]></description>
+  <pubDate>Wed, 22 Jul 2009 16:54:05 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1248267604#7</guid>
+ </item>
+ <item>
+  <title>Открыт исходный код ПО, разработанного для аппаратов Аполлон 11 </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/382827.php</link>
+  <description><![CDATA[
+                        В честь 40-летия миссии Аполлон 11 сообществу был открыт исходный код ПО, который был разработан для аппаратов миссии.	 ...
+                        ]]></description>
+  <pubDate>Wed, 22 Jul 2009 15:41:42 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1248267604#8</guid>
+ </item>
+ <item>
+  <title>Генерал-майор МЧС получил звание незаконно</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/law/2009/07/22/Eks_glava_svyerdlovs.phtml</link>
+  <description><![CDATA[
+                        Диплом о высшем образовании начальника ГУ МЧС по Свердловской области, генерал-майора Валерия Степанчука признан недействительным. Это значит, что он не имел права получать военные звания, начиная с лейтенанта, и далее. Степанчук лишен всех званий и уволен с занимаемой должности. ...
+                        ]]></description>
+  <pubDate>Wed, 22 Jul 2009 16:52:28 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1248267604#9</guid>
+ </item>
+ <item>
+  <title>Расходы на науку сокращены</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/58121/</link>
+  <description><![CDATA[
+                        В связи с кризисом пересмотрены расходы госбюджета на науку. А как же инновации? Не говоря уже о перспективах перехода к постиндустриальной модели. ...
+                        ]]></description>
+  <pubDate>Wed, 22 Jul 2009 17:00:10 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1248267604#10</guid>
+ </item>
+ <item>
+  <title>Пост № 256528</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/256528/#new</link>
+  <description><![CDATA[
+                        Хочешь  подзаработать  %username%? Антикризисное предложение от МВД. Твое согласие не требуется. ...
+                        ]]></description>
+  <pubDate>Wed, 22 Jul 2009 15:52:46 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1248267604#11</guid>
+ </item>
+  </channel>
+ </rss>

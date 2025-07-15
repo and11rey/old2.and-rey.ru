@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 26 Jun 2009 17:00:09 +0400</pubDate>
+         <lastBuildDate>Fri, 26 Jun 2009 17:00:09 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Мир скорбит о смерти Майкла Джексона</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/entertainment/2009/06/090625_jackson_hospital.shtml</link>
+  <description><![CDATA[
+                        "Король поп-музыки" скончался в своем доме в Лос-Анджелесе на 51-м году жизни, предположительно, от разрыва сердца. ...
+                        ]]></description>
+  <pubDate>Fri, 26 Jun 2009 16:47:49 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1246021209#1</guid>
+ </item>
+ <item>
+  <title>Евкуров пошел на поправку</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/Regions/m.152945.html</link>
+  <description><![CDATA[
+                        Президент Ингушетии Юнус-Бек Евкуров, раненый во время покушения, выздоравливает и в скором времени вернется к работе, заявил заместитель полпреда президента в Южном федеральном округе Сулейман Вагапов. Террорист-смертник взорвал автомобиль на пути следования кортежа Евкурова в понедельник. ...
+                        ]]></description>
+  <pubDate>Fri, 26 Jun 2009 16:35:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1246021209#2</guid>
+ </item>
+ <item>
+  <title>ИноВидео: Торговля водой? ("Russia Today", Россия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/250192.html</link>
+  <description><![CDATA[
+                        Ресурс, который раньше казался самым доступным, в скором времени будет стоить столько же, сколько нефть. ...
+                        ]]></description>
+  <pubDate>Fri, 26 Jun 2009 16:17:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1246021209#3</guid>
+ </item>
+ <item>
+  <title>Глава Рыбнинска приговорен к 7,5 годам заключения за получение взятки</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090626/17/17.html?id=1763431</link>
+  <description><![CDATA[
+                        Ярославский областной суд приговорил главу города Рыбинска Евгения Сдвижкова к семи с половиной годам лишения свободы за получение взятки. По данным следствия, мэр города получил миллион рублей в качестве аванса за разрешение на эксплуатацию торгового центра. Сдвижков был задержан в июне 2007 года и тогда же отстранен от должности. ...
+                        ]]></description>
+  <pubDate>Fri, 26 Jun 2009 16:40:16 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1246021209#4</guid>
+ </item>
+ <item>
+  <title>Великобритания - "маленький дьявол" Ирана? </title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/26Jun2009/time/satana.html</link>
+  <description><![CDATA[
+                        Иран, который на протяжении трех последних десятилетий направлял свой гнев преимущественно на США, теперь выбрал Великобританию в качестве мишени для нападок. Может быть, это обусловлено нежеланием отказываться от ближневосточных инициатив Обамы. ...
+                        ]]></description>
+  <pubDate>Fri, 26 Jun 2009 16:01:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1246021209#5</guid>
+ </item>
+ <item>
+  <title>Обиженный Макс Мосли передумал оставлять пост главы FIA</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/26jun2009/max.html</link>
+  <description><![CDATA[
+                        "Формуле-1", вероятно, грозит новый виток скандала: глава FIA Макс Мосли заявил, что команды-члены ассоциации сознательно пытаются ввести в заблуждение прессу, поэтому он собирается пересмотреть свои планы на будущее. ...
+                        ]]></description>
+  <pubDate>Fri, 26 Jun 2009 16:57:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1246021209#6</guid>
+ </item>
+ <item>
+  <title>Очевидцы: лидер КНДР сохраняет отличную память</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/06/26/n_1376360.shtml</link>
+  <description><![CDATA[
+                        Лидер КНДР Ким Чен Ир хорошо выглядит и сохраняет отличную память. Об этом рассказала директор Ансамбля народного танца Игоря Моисеева Елена Щербакова, которая встретилась с руководителем республики перед концертом российского коллектива в ... ...
+                        ]]></description>
+  <pubDate>Fri, 26 Jun 2009 16:53:26 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1246021209#7</guid>
+ </item>
+ <item>
+  <title>IBM сообщила о революционном открытии в криптографии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/381876.php</link>
+  <description><![CDATA[
+                        Исследователь из компании IBM решил сложную математическую задачу, которая 30 лет не давала покоя криптографам. Результатом исследования стал полноценный механизм полностью гомоморфного шифрования, который позволяет обрабатывать надежно зашифрованные данные, не заглядывая в их содержание.	 ...
+                        ]]></description>
+  <pubDate>Fri, 26 Jun 2009 14:30:12 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1246021209#8</guid>
+ </item>
+ <item>
+  <title>Ученики школы вождения AMG попробуют в деле купе SLS</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/auto/car/2009/06/26/Uchyeniki_shkolyy_vo.phtml</link>
+  <description><![CDATA[
+                        Школы вождения от известных автомобильных брендов популярны во всем мире. Mercedes решил организовать турне по США со своей AMG Driving Academy. ...
+                        ]]></description>
+  <pubDate>Fri, 26 Jun 2009 16:55:32 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1246021209#9</guid>
+ </item>
+ <item>
+  <title>РПЦ призывает государство финансирвать ее работу с соотечественниками за рубежом</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/57216/</link>
+  <description><![CDATA[
+                        РПЦ призывает государство финансирвать ее работу с соотечественниками за рубежом ...
+                        ]]></description>
+  <pubDate>Fri, 26 Jun 2009 17:00:14 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1246021209#10</guid>
+ </item>
+ <item>
+  <title>Жизнь на МКС</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/255459/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/06/26/25826-154250-331cc2858a5d1f82a0d17216d17056b0.jpg><br /><br />И другие потрясающие фотографии. ...
+                        ]]></description>
+  <pubDate>Fri, 26 Jun 2009 15:42:50 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1246021209#11</guid>
+ </item>
+  </channel>
+ </rss>

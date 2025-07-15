@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 21 Nov 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Tue, 21 Nov 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Четыре года после Майдана: ассоциации киевлян
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/media-42069561</link>
+  <description><![CDATA[
+                        Четыре года назад в Киеве начались события, которые позже назовут Евромайданом. Корреспонденты Би-би-си спросили прохожих на улицах украинской столицы, с чем у них сегодня ассоциируется Майдан. ...
+                        ]]></description>
+  <pubDate>Tue, 21 Nov 2017 16:50:53 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1511274901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Кадырова наградили медалью за заслуги в развитии медицины
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2017/11/21/kadyrova-nagradili-medalyu-za-zaslugi-v-razvitii-meditsiny</link>
+  <description><![CDATA[
+                        Министр здравоохранения Чечни Эльхан Сулейманов 20 ноября вручил главе республики Рамзану Кадырову золотую медаль имени Николая Блохина и диплом «за выдающиеся заслуги в развитии медицины». ...
+                        ]]></description>
+  <pubDate>Tue, 21 Nov 2017 17:26:28 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1511274901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Русские расковыривают язвы на теле Запада
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/21Nov2017/elpais/occidente.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Западные страны переходят в режим повышенной бдительности перед лицом того, что россияне, возможно, пытаются вмешаться в их демократические процессы, провоцируя раскол, раздоры и напряженность с помощью соцсетей и других цифровых платформ. ...
+                        ]]></description>
+  <pubDate>Tue, 21 Nov 2017 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1511274901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Полиция Чехии настаивает на отмене иммунитета будущего премьера Бабиша
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28867825.html</link>
+  <description><![CDATA[
+                        Миллиардер Андрей Бабиш пришел в политику в 2011 году и был министром финансов в предыдущем правительстве ...
+                        ]]></description>
+  <pubDate>Tue, 21 Nov 2017 17:03:53 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1511274901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 21 Nov 2017 17:35:03 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1511274901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Москве восьмиклассник ограбил магазин на 1 тысячу рублей
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/crime/21nov2017/14ybrobshop1trmsk.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Ученик колледжа зашел в мясной магазин на Лукинской улице в Ново-Переделкино, после чего открыто похитил деньги из кассы и скрылся. Подозреваемого удалось задержать по горячим следам. Арестовывать подростка не стали. ...
+                        ]]></description>
+  <pubDate>Tue, 21 Nov 2017 17:26:23 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1511274901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Из песочницы] Как я докатился до моноколеса
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/295643/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=best</link>
+  <description><![CDATA[
+                        Как всё начиналось
+Здравствуйте, уважаемые хабраюзеры! Хочу поведать вам о своём опыте езды на моноколесе. Про существование моноколеса в реальности я случайно узнал весной 2017, увидев едущего на нём человека. Несмотря на то, что меня сложно удивить, у того ездока это получилось. Проводив его глазами, в голове возникли мысли: «ничего себе штука», «я тоже так хочу», «и как только он не падает». Правда, через час я уже и думать забыл про колесо, вернувшись к своим делам и заботам. А недавно, в на ...
+                        ]]></description>
+  <pubDate>Tue, 21 Nov 2017 15:22:03 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1511274901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Совещание о выполнении гособоронзаказа
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56141</link>
+  <description><![CDATA[
+                        Владимир Путин провёл очередное совещание с руководящим составом Министерства обороны и оборонно-промышленного комплекса страны. Обсуждались вопросы, связанные с выполнением заданий государственного оборонного заказа.    ...
+                        ]]></description>
+  <pubDate>Tue, 21 Nov 2017 16:28:12 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1511274901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Увеличение губ у косметолога: методики и последствия
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/279/lifestyle/beauty/187931-uvelicenie-gub-u-kosmetologa-metodiki-i-posledstvia</link>
+  <description><![CDATA[
+                        Пухлые губы – это красиво и сексуально, а еще это признак молодости, ведь, согласитесь, естественных пухлых губ у людей пожилого возраста просто не бывает. ...
+                        ]]></description>
+  <pubDate>Tue, 21 Nov 2017 17:34:54 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1511274901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  21.11.2017 17:31 : Парламент Зимбабве начал процедуру импичмента президента страны Роберта Мугабе
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2096640-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Об этом сообщает Рейтер. Ранее в Твиттере правящей партии были опубликованы фотографии с заседания парламента, на котором рассматривается вопрос об отрешении Мугабе от власти. Спикер парламента Джейкоб Муденда объявил, что получил запрос на импичмент президента, и он будет обсуждаться на совместном заседании обеих палат парламента.  <br>
+Тем временем около здания парламента собрались тысячи людей, призывая Мугабе подать в отставку.
+ ...
+                        ]]></description>
+  <pubDate>Tue, 21 Nov 2017 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1511274901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Суд подтвердил запрет на получение АФК "Система" дивидендов на арестованные акции
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/business/588379</link>
+  <description><![CDATA[
+                        Девятый арбитражный апелляционный суд Москвы оставил в силе решение Арбитражного суда столицы, признавшего законным запрет на получение АФК "Система" дивидендов на арестованные по иску "Роснефти" акции, передает корреспондент "Интерфакса" из зала суда. ...
+                        ]]></description>
+  <pubDate>Tue, 21 Nov 2017 17:21:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1511274901#48</guid>
+ </item>
+  </channel>
+ </rss>

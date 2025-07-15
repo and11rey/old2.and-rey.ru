@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 09 Aug 2018 17:35:02 +0300</pubDate>
+         <lastBuildDate>Thu, 09 Aug 2018 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Убийство журналистов в ЦАР: что известно десять дней спустя
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/features-45130077</link>
+  <description><![CDATA[
+                        Версии о том, что именно произошло с российскими журналистами в ЦАР, продолжают противоречить друг другу. Би-би-си собрала основную информацию об убийстве Джемаля, Расторгуева и Радченко, известную на данный момент. ...
+                        ]]></description>
+  <pubDate>Thu, 09 Aug 2018 17:17:45 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1533825302#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  МИД пообещал «зеркальный» ответ на новые американские санкции
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/08/09/mid-poobeschal-zerkalnyy-otvet-na-novye-amerikanskie-sanktsii</link>
+  <description><![CDATA[
+                        Россия даст «зеркальный» ответ на новые американские санкции, объявила официальный представитель МИД России Мария Захарова. ...
+                        ]]></description>
+  <pubDate>Thu, 09 Aug 2018 17:22:49 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1533825302#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Возможно, вскоре красивейшие люди планеты больше не будут людьми
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/09Aug2018/wp/beautiful.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Лондонский фотограф Кэмерон-Джеймс Уилсон - создатель Шуду, удивительной Instagram-модели из Африки. Шуду нарекли "первой в мире цифровой супермоделью", и восторг перед ее реалистичной внешностью наводит на мысль, что она далеко не последняя. ...
+                        ]]></description>
+  <pubDate>Thu, 09 Aug 2018 17:35:05 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1533825302#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Марии Алехиной удалось покинуть Россию
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29422463.html</link>
+  <description><![CDATA[
+                        Накануне участницу Pussy Riot не выпустили на фестиваль в Великобританию ...
+                        ]]></description>
+  <pubDate>Thu, 09 Aug 2018 17:29:09 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1533825302#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Украинская писательница решила выгнать «пророссийских» детей из летних лагерей
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/lenta.ru/news/2018/08/09/nitsoi/</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 09 Aug 2018 17:11:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1533825302#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Госдепе пообещали не вводить прямые санкции против "Аэрофлота"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/09aug2018/aeroflotsanctions.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Ограничения на авиакомпанию наложат только в том случае, если она сама попытается обойти санкции, закупая импортное оборудование. При таком развитии событий &#34;Аэрофлоту&#34; могут запретить полеты над территорией США. ...
+                        ]]></description>
+  <pubDate>Thu, 09 Aug 2018 17:25:40 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1533825302#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Как парни из Storyline вернулись из Кремниевой долины в Минск с $770 тысячами на стартап
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/post/419381/?utm_campaign=419381</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 09 Aug 2018 16:45:14 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1533825302#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Перечень поручений по итогам совместного заседания Совета по развитию физической культуры и спорта и наблюдательного совета Оргкомитета «Россия-2018»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/acts/assignments/orders/58279</link>
+  <description><![CDATA[
+                        Владимир Путин утвердил перечень поручений по итогам совместного заседания Совета при Президенте по развитию физической культуры и спорта
+и наблюдательного совета автономной некоммерческой организации «Организационный
+комитет «Россия-2018», состоявшегося 20 июля 2018 года.    ...
+                        ]]></description>
+  <pubDate>Thu, 09 Aug 2018 15:59:45 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1533825302#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Звездопад Персеиды 2018: когда загадывать желания?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/254/lifestyle/hobby/207597-zvezdopad-perseidy-kogda-zagadyvat-zelania</link>
+  <description><![CDATA[
+                        В ночь с 12 на 13 августа 2018 года жителей Земли ждет самый красивый звездопад.  ...
+                        ]]></description>
+  <pubDate>Thu, 09 Aug 2018 17:27:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1533825302#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  09.08.2018 17:32 : Городской суд Серпухова снял с выборов главы Серпуховского района жену Александра Шестуна
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2256046-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Городской суд Серпухова снял с выборов главы Серпуховского района жену Александра Шестуна, который находится в СИЗО. Юлия Шестун рассказала, что Интерфаксу, что была проведена дополнительная проверка подписей по заявлению одного из ее конкурентов на выборах. Несколько из них были признаны недействительными.  <br>
+Нынешний глава района Александр Шестун был арестован по обвинению в превышении должностных полномочий. Сам он называет свое дело сфабрикованным и заказным.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 09 Aug 2018 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1533825302#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Pussy Riot сообщили об отъезде Алехиной из России вопреки запрету
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/624671</link>
+  <description><![CDATA[
+                        Участница Pussy Riot Мария Алехина покинула Россию, несмотря на запрет выезжать из страны. ...
+                        ]]></description>
+  <pubDate>Thu, 09 Aug 2018 17:26:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1533825302#48</guid>
+ </item>
+  </channel>
+ </rss>

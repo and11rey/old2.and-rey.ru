@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 10 Dec 2016 17:35:02 +0300</pubDate>
+         <lastBuildDate>Sat, 10 Dec 2016 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Выпуск видеоновостей Радио Свобода
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28168575.html</link>
+  <description><![CDATA[
+                        Выпуск видеоновостей Радио Свобода ...
+                        ]]></description>
+  <pubDate>Sat, 10 Dec 2016 17:00:00 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1481380502#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Bloomberg узнал о договоренности стран вне ОПЕК сократить добычу нефти - РБК
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNFQaxAxir-HasJ_XvZL8MTO_Pqhlg&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779911862774&amp;ei=qhFMWMjeLJCAyQOZvZrIAw&amp;url=http://www.rbc.ru/economics/10/12/2016/584bfbf99a7947739cfd76da</link>
+  <description><![CDATA[
+                        Страны, не входящие в ОПЕК, на встрече в Вене обязались сократить объемы добычи нефти на 600 тыс. барр./сутки, узнал Bloomberg. Две недели назад о сокращении добычи нефти договорились страны ОПЕК. Россия и ряд других не входящих в ОПЕК стран обязались сократитьВ ... ...
+                        ]]></description>
+  <pubDate>Sat, 10 Dec 2016 16:26:05 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1481380502#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Журналисты утверждают, что "Боруссия" ведет переговоры с Федором Смоловым
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/10dec2016/smolov.html?rss</link>
+  <description><![CDATA[
+                        Нападающий футбольной сборной России и ФК "Краснодара" Федор Смолов может перейти в дортмундскую "Боруссию" и уже ведет переговоры с немецким клубом. Кроме того, сообщается, что с нападающим контактируют и представители других клубов. ...
+                        ]]></description>
+  <pubDate>Sat, 10 Dec 2016 17:33:00 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1481380502#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Мейнтейнер ядра Linux забраковал патч для AMDGPU
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/283544/</link>
+  <description><![CDATA[
+                        
+
+8 декабря 2016 года компания AMD выложила для скачивания последнюю версию проприетарного драйвера AMDGPU-PRO 16.50 для операционных систем на ядре Linux. Этот драйвер основан на свободном модуле ядра AMDGPU. В нём реализована поддержка DirectGMA для OpenGL и технологии FreeSync, которая в некоторых гибридных и графических процессорах AMD решает проблему коммуникации между процессором и монитором и устраняет разрывы изображения, особенно в играх. AMDGPU-PRO 16.50 поддерживает некоторые модели г ...
+                        ]]></description>
+  <pubDate>Sat, 10 Dec 2016 12:27:20 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes</source>
+  <guid isPermaLink="false">1481380502#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Заседание наблюдательного совета Агентства стратегических инициатив
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/53442</link>
+  <description><![CDATA[
+                        Под председательством Владимира Путина состоялось заседание наблюдательного совета автономной некоммерческой организации «Агентство стратегических инициатив по продвижению новых проектов».       ...
+                        ]]></description>
+  <pubDate>Sat, 10 Dec 2016 15:55:59 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1481380502#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Банкир Аблязов вернулся домой после тюремного заключения во Франции
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/business/crime/2016/12/10/Bankir_Ablyazov_vyer.phtml</link>
+  <description><![CDATA[
+                        Родственники бывшего казахстанского банкира Мухтара Аблязова, который с 2013 года находился в тюрьме во Франции, сообщили о его освобождении. ...
+                        ]]></description>
+  <pubDate>Sat, 10 Dec 2016 16:05:02 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1481380502#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  10.12.2016 17:32 : Россию могут лишить права на проведение чемпионата мира по биатлону в 2021 году
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1889734-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Соревнования должны пройти в Тюмени. Отзыв права может произойти, если будет доказано участие Союза биатлонистов России в махинациях с допинг-пробами, упомянутыми в докладе комиссии ВАДА во главе с Ричардом Маклареном, — заявил глава Международного союза биатлонистов Андерс Бессеберг.
+ ...
+                        ]]></description>
+  <pubDate>Sat, 10 Dec 2016 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1481380502#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Каток на крыше небоскреба в "Москве-Сити" откроется 15 декабря
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/moscow/540799</link>
+  <description><![CDATA[
+                        Самый высокий в Европе городской каток откроется 15 декабря на территории ММДЦ "Москва-Сити", сообщил мэр столицы Сергей Собянин. ...
+                        ]]></description>
+  <pubDate>Sat, 10 Dec 2016 17:31:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1481380502#48</guid>
+ </item>
+  </channel>
+ </rss>

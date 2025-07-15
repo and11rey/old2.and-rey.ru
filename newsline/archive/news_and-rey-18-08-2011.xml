@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 18 Aug 2011 17:00:07 +0400</pubDate>
+         <lastBuildDate>Thu, 18 Aug 2011 17:00:07 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  На юге Израиля обстреляны автобусы: есть убитые
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2011/08/110818_israel_bus_shooting.shtml</link>
+  <description><![CDATA[
+                        По сообщениям из Израиля, пять человек погибли в результате обстрела боевиками автобусов и машин близ границы с Египтом. Не менее 10 человек получили ранения. Один из автобусов перевозил израильских солдат. ...
+                        ]]></description>
+  <pubDate>Thu, 18 Aug 2011 16:28:27 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1313672407#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Арестованный активист "Другой России" попросил вызвать в суд Нургалиева
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/Crime/m.190778.html</link>
+  <description><![CDATA[
+                        Активист "Другой России" Руслан Хубаев, арестованный по делу о беспорядках на Манежной площади, заявил ходатайство о вызове в суд главы МВД Рашида Нургалиева и начальника ГУВД Москвы Владимира Колокольцева. Тверской суд Москвы ответит на ходатайство 25 августа, заявил адвокат Дмитрий Аграновский. ...
+                        ]]></description>
+  <pubDate>Thu, 18 Aug 2011 16:10:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1313672407#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Сотрудники РС вспоминают путч
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/feature/24300916.html</link>
+  <description><![CDATA[
+                        Сотрудники Радио Свобода вспоминают об августовских днях 1991 года. ...
+                        ]]></description>
+  <pubDate>Thu, 18 Aug 2011 16:46:00 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1313672407#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Директор подмосковного интерната обвиняется в сокрытие данных об изнасиловании воспитанника
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/feedproxy.google.com/~r/rosbalt/~3/2_ylQGof0JQ/story01.htm</link>
+  <description><![CDATA[
+                        Следственными органами  возбуждено уголовное дело в отношении 39-летней директора  специального коррекционного образовательного учреждения для детей с ограниченными возможностями здоровья. Она подозревается в халатности.
+
+ ...
+                        ]]></description>
+  <pubDate>Thu, 18 Aug 2011 16:37:00 +0400</pubDate>
+  <source url="http://feeds2.feedburner.com">Информационное агентство Росбалт</source>
+  <guid isPermaLink="false">1313672407#38</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Белоруссия отказывается от кредита на 2 млрд долларов "Сбербанка" и Deutsche Bank
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/18aug2011/nocredits.html</link>
+  <description><![CDATA[
+                        Власти откажутся от кредита государственному предприятию "Беларуськалий" на 2 млрд долларов. Белорусские власти недовольны теми условиями, которые предложены &#8211; под залог 35% акций. ...
+                        ]]></description>
+  <pubDate>Thu, 18 Aug 2011 16:53:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1313672407#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  *nix / [Из песочницы] Программный RAID-массив из Dropbox
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/blogs/nix/126591/</link>
+  <description><![CDATA[
+                        Внезапно вашей разносторонней деятельности не хватило место на бесплатном аккаунте Dropbox`а? Сегодня попробуем создать программный RAID-массив 5 уровня на основе mdadm, который будет синхронизироваться через Dropbox.
+ Читать дальше &rarr;  ...
+                        ]]></description>
+  <pubDate>Thu, 18 Aug 2011 15:10:40 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1313672407#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  На теле Юлии Тимошенко появились синяки - Дни.Ру
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNHaYWPesuTKjswf4o8WEQbX_pAMVA&amp;url=http://www.dni.ru/news/2011/8/18/217344.html</link>
+  <description><![CDATA[
+                        На теле экс-премьера Украины Юлии Тимошенко появились синяки неизвестного происхождения. Защита подозреваемой тщетно пытается добиться вызова врача. Тимошенко в настоящее время находится в СИЗО, где состояние ее здоровья резко пошатнулось. Адвокат Юрий Сухов рассказал, что у подследственной ... ...
+                        ]]></description>
+  <pubDate>Thu, 18 Aug 2011 16:40:55 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1313672407#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Подмосковный санаторий, где отравились дети, не имел права их принимать
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/accident/incident/2011/08/18/Podmoskovnyyy_sanato.phtml</link>
+  <description><![CDATA[
+                        Санаторий «Лесная опушка» предназначен лишь для взрослых, и не имеет санитарно-эпидемиологического заключения о соответствии требованиям по организации отдыха и оздоровления детей, сообщает Роспотребнадзор. ...
+                        ]]></description>
+  <pubDate>Thu, 18 Aug 2011 16:37:40 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1313672407#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Возбуждено еще одно уголовное дело, в котором фигурирует "Банк Москвы"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/803724-echo.html</link>
+  <description><![CDATA[
+                        
+                         <br><img src='http://www.echo.msk.ru/att/element-803724-picture--.jpg?1313670921'><br>На этот раз он выступает как потерпевшая сторона......
+                          ...
+                        ]]></description>
+  <pubDate>Thu, 18 Aug 2011 16:32:00 +0400</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1313672407#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Smells like teen spirit.
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/320795/#new</link>
+  <description><![CDATA[
+                        <img src=http://img.youtube.com/vi/S7bz1gFc2kg/2.jpg><br /><br />Очень круто! ...
+                        ]]></description>
+  <pubDate>Thu, 18 Aug 2011 16:33:24 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1313672407#34</guid>
+ </item>
+  </channel>
+ </rss>

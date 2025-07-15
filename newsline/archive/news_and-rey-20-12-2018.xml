@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 20 Dec 2018 17:35:01 +0300</pubDate>
+         <lastBuildDate>Thu, 20 Dec 2018 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Ученые: регулярные упражнения помогают омолодить мозг
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-46629756</link>
+  <description><![CDATA[
+                        Регулярные физические упражнения в течение шести месяцев вкупе с правильным питанием могут повернуть процесс старения мозга вспять, выяснили ученые из Университета Дьюка в США. ...
+                        ]]></description>
+  <pubDate>Thu, 20 Dec 2018 16:57:08 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1545316501#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Европейские студенты все время ездят учиться в другие страны. А я так смогу? (Спойлер: да)
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/cards/evropeyskie-studenty-vse-vremya-ezdyat-uchitsya-v-drugie-strany-a-ya-tak-smogu-spoyler-da</link>
+  <description><![CDATA[
+                        Что случилось?Я тоже хочу поучиться за границей, но уже учусь в российском вузе. Какие есть варианты?Поехать может любой студент? Наверное, берут только отличников?И какие конкретно требования предъявляют к участникам программ по обмену?А кто выбирает, куда поехать по обмену? Я или вуз?Как найти подходящую программу?Это же за деньги, да?И стипендию дадут любому, кто отправил заявку?Куда можно поехать по такой программе?А что будет после возвращения?Что-нибудь еще расскажете? ...
+                        ]]></description>
+  <pubDate>Thu, 20 Dec 2018 17:24:10 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1545316501#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Похоже, что в отношениях между Африкой и бывшими товарищами-коммунистами, возобновляется медовый месяц  
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/20Dec2018/lemonde/afrika.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Вот уже несколько лет между Африкой и странами Центральной и Восточной восстанавливаются  хорошие ...
+                        ]]></description>
+  <pubDate>Thu, 20 Dec 2018 17:35:04 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1545316501#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Задержанные в Москве ингушские студенты пожаловались на полицию
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29667404.html</link>
+  <description><![CDATA[
+                        По их словам, при обыске в общежитии их били электрошокером в пах ...
+                        ]]></description>
+  <pubDate>Thu, 20 Dec 2018 16:46:37 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1545316501#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  InSight показал, как он работает на Марсе - Ridus.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.ridus.ru/news/289787</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 20 Dec 2018 17:07:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1545316501#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В окрестностях Ейска МиГ-29  потерял запасные топливные баки
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/20dec2018/yeisk.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Они упали в промзоне в районе Коммунистической улицы в промзоне города, никто не пострадал. Самолет предположительно мог принадлежать морской авиации. ...
+                        ]]></description>
+  <pubDate>Thu, 20 Dec 2018 16:59:09 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1545316501#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Финтех-дайджест: криптовалюта — это имущество, в РФ выпущено рекордное количество кредиток
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/post/433786/?utm_campaign=433786</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 20 Dec 2018 15:54:50 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1545316501#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Большая пресс-конференция Владимира Путина
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/59455</link>
+  <description><![CDATA[
+                              ...
+                        ]]></description>
+  <pubDate>Thu, 20 Dec 2018 16:30:12 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1545316501#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Владимир Путин: «Ситуация сложная, а ответ простой»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/277/social/society/211493-putin-situacia-sloznaa-a-otvet-prostoj</link>
+  <description><![CDATA[
+                        Когда самое высокопоставленное лицо в государстве отвечает на болезненные вопросы, так хочется услышать, что все проблемы будут решены максимально эффективным способом, и очень скоро мы будем жить лучше, чем в Париже. И Владимир Путин каждому вопрошающему говорит ровно то, что он сам и сотни тысяч россиян хотят слышать. ...
+                        ]]></description>
+  <pubDate>Thu, 20 Dec 2018 17:21:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1545316501#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  20.12.2018 17:31 : Население России, по итогам этого года, сократится впервые за 10 лет
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2337437-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Об этом сообщает РБК со ссылкой на данные Росстата. Эксперты отмечают, что приток мигрантов перестал компенсировать естественную убыль населения.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 20 Dec 2018 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1545316501#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Фонд CVC решил продать крупнейшее похоронное агентство в Азии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/643345</link>
+  <description><![CDATA[
+                        Инвестиционный фонд CVC Capital рассматривает возможность продажи крупнейшего в Азии по объему выручки похоронного агентства Nirvana Asia Ltd. ...
+                        ]]></description>
+  <pubDate>Thu, 20 Dec 2018 17:24:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1545316501#48</guid>
+ </item>
+  </channel>
+ </rss>

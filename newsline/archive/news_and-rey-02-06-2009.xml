@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 02 Jun 2009 17:00:08 +0400</pubDate>
+         <lastBuildDate>Tue, 02 Jun 2009 17:00:08 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Протестующие в Пикалеве перекрыли дорогу</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2009/06/090602_pikalevo_road_blocked.shtml</link>
+  <description><![CDATA[
+                        Жители города в Ленинградской области, где остановились все предприятия, перекрыли федеральную автотрассу, связывающую Санкт-Петербург с Вологдой. ...
+                        ]]></description>
+  <pubDate>Tue, 02 Jun 2009 16:40:21 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1243947608#1</guid>
+ </item>
+ <item>
+  <title>Иванов: Причина неудач "Булавы" - технологический брак</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/Cabinet/m.151897.html</link>
+  <description><![CDATA[
+                        Причиной неудачных испытаний новейшей морской ракеты "Булава" является технологический брак, заявил вице-премьер Сергей Иванов. По его словам, исправить ситуацию должно осуществление контроля за качеством продукции на максимальном количестве предприятий. ...
+                        ]]></description>
+  <pubDate>Tue, 02 Jun 2009 16:37:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1243947608#2</guid>
+ </item>
+ <item>
+  <title>Капитан и тридцать разбойников ("Вести Недели День за Днем", Эстония)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/249571.html</link>
+  <description><![CDATA[
+                        7 ноября прошлого года в Аденском заливе пиратами было захвачено груженное листовым металлом судно датской компании 'Future' с тринадцатью членами экипажа. 71 день и столько же беспокойных ночей люди провели в неволе. ...
+                        ]]></description>
+  <pubDate>Tue, 02 Jun 2009 16:24:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1243947608#3</guid>
+ </item>
+ <item>
+  <title>Прокуратура Москвы остановила организацию городского референдума</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1745094.html</link>
+  <description><![CDATA[
+                        Прокуратура Москвы признала незаконным решение Мосгоризбиркома по вопросу проведения городского референдума. Ранее Московская избирательная комиссия посчитала, что ходатайство инициативной группы граждан соответствует всем необходимым требованиям. В ... ...
+                        ]]></description>
+  <pubDate>Tue, 02 Jun 2009 16:42:35 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1243947608#4</guid>
+ </item>
+ <item>
+  <title>Израильтяне предлагают сделать Иорданию официальной родиной палестинцев</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/02Jun2009/csmonitor/jordan.html</link>
+  <description><![CDATA[
+                        Предложение, вынесенное на рассмотрение Кнессета, предполагает, что палестинцы, проживающие на Западном берегу, должны либо стать жителями Израиля, либо получить гражданство Иордании. При этом Иорданию никто не спросил, поддерживает ли она этот план. ...
+                        ]]></description>
+  <pubDate>Tue, 02 Jun 2009 16:25:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1243947608#5</guid>
+ </item>
+ <item>
+  <title>Россия ждет от Совбеза ООН "сильного" ответа на ядерные испытания Северной Кореи. Но без изоляции</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/02jun2009/strong4urkin.html</link>
+  <description><![CDATA[
+                        Полная международная изоляция КНДР не будет способствовать укреплению стабильности на Корейском полуострове и в целом в регионе, считает постпред РФ Виталий Чуркин. Члены Совбеза едины в оценке ответных мер на корейский "ядерный демарш" и это главное, думает он. О сроках принятия резолюции говорить пока рано. ...
+                        ]]></description>
+  <pubDate>Tue, 02 Jun 2009 16:47:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1243947608#6</guid>
+ </item>
+ <item>
+  <title>Подведены итоги первых ЕГЭ</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/06/02/n_1368191.shtml</link>
+  <description><![CDATA[
+                        Рособрнадзор подвел первые итоги сдачи ЕГЭ по биологии и информатике.
+"В целом по России не преодолели минимального порога: по биологии - 7,6% участников, по информатике и ИКТ - 11% участников", - говорится в ... ...
+                        ]]></description>
+  <pubDate>Tue, 02 Jun 2009 16:54:23 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1243947608#7</guid>
+ </item>
+ <item>
+  <title>Canonical выпустит Ubuntu Netbook Remix для Intel Classmate PC</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/380712.php</link>
+  <description><![CDATA[
+                        Компания Canonical, занимающаяся поддержкой Linux-дистрибутива Ubuntu, объявила о достижении договоренности с корпорацией Intel, в рамках которой она выпустит специальную версию Ubuntu Netbook Remix для новых компьютеров линейки Classmate PC.	 ...
+                        ]]></description>
+  <pubDate>Tue, 02 Jun 2009 15:19:17 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1243947608#8</guid>
+ </item>
+ <item>
+  <title>Обнаружены обломки пропавшего самолета Air France</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/incident/2009/06/02/165418.html</link>
+  <description><![CDATA[
+                        ВВС Бразилии обнаружили металлические детали, которые могут быть фрагментами пропавшего над Атлантикой лайнера А330-200 авиакомпании Air France.  Подтверждение последовало после того, как мужчина, проживающий на архипелаге Фернанду-де-Норонья, сообщил о том, что видел в районе архипелага некие... ...
+                        ]]></description>
+  <pubDate>Tue, 02 Jun 2009 16:54:18 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1243947608#9</guid>
+ </item>
+ <item>
+  <title>Первые «успехи» госкорпорации «Роснанотех»</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/56438/</link>
+  <description><![CDATA[
+                        Первые «успехи» госкорпорации «Роснанотех» ...
+                        ]]></description>
+  <pubDate>Tue, 02 Jun 2009 17:00:18 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1243947608#10</guid>
+ </item>
+ <item>
+  <title>Будьте бдительны</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/254218/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/06/02/25992-144347-f7e6efa68eb2e2e3723d97539e6c8897.jpg><br /><br />Одним чудесным вечером, в преддверии дня рождения супруги, мой знакомый решил зайти в магазин. И не в какой-нибудь, а в "Седьмой континент" неподалеку от дома, в котором он покупает продукты уже который год. Прикупив различных вкусностей на кругленькую сумму, он спокойно пошел домой.<br />
+Назавтра был банкет. В процессе приготовления супруга обратила его внимание на стоимость купленного ...
+                        ]]></description>
+  <pubDate>Tue, 02 Jun 2009 14:43:47 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1243947608#11</guid>
+ </item>
+  </channel>
+ </rss>

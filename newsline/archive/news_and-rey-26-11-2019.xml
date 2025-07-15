@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 26 Nov 2019 17:35:01 +0300</pubDate>
+         <lastBuildDate>Tue, 26 Nov 2019 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  МОК поддержит самые жесткие санкции за манипуляции с российскими данными о допинге
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-50562154</link>
+  <description><![CDATA[
+                        Международный Олимпийский комитет осудил манипуляции с базой данных о допинг-пробах РУСАДА, пообещал жесткие санкции в отношении всех виновных, но приветствовал идею допустить до международных соревнований тех спортсменов, кто не причастен к махинациям. ...
+                        ]]></description>
+  <pubDate>Tue, 26 Nov 2019 17:10:55 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1574778901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Разрушительное землетрясение в Албании. 15 погибших, более 600 пострадавших
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/video/2019/11/26/razrushitelnoe-zemletryasenie-v-albanii-15-pogibshih-bolee-600-postradavshih</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 26 Nov 2019 17:24:16 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1574778901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российское вооружение вот-вот станет лучшим в мире?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/26Nov2019/atlantico/weapins.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Согласно анализу двух экспертов, российские вооружения демонстрируют технологичесеое превосходство: их уже захотели купить многие страны.
+ ...
+                        ]]></description>
+  <pubDate>Tue, 26 Nov 2019 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1574778901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Чехии возбудили дело против бывших премьера и генсека ЦК КПЧ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30293253.html</link>
+  <description><![CDATA[
+                        Их обвиняют в гибели людей на границах ...
+                        ]]></description>
+  <pubDate>Tue, 26 Nov 2019 16:55:24 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1574778901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  МОК поддержит самые жесткие санкции за манипуляции российскими данными по допингу - BBC Русская служба
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiKWh0dHBzOi8vd3d3LmJiYy5jb20vcnVzc2lhbi9uZXdzLTUwNTYyMTU00gEtaHR0cHM6Ly93d3cuYmJjLmNvbS9ydXNzaWFuL2FtcC9uZXdzLTUwNTYyMTU0?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 26 Nov 2019 16:04:30 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1574778901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Режиссер Сенцов выступил в Европарламенте и призвал "не верить Путину"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/26nov2019/sentzov.html?utm_source=rss</link>
+  <description><![CDATA[
+                        На вручении премии Сахарова украинский режиссер Олег Сенцов  попросил не забывать, что на Украине &#34;ведется война и каждую неделю гибнут украинские военные&#34;.  Он также попросил &#34;не протягивать руку дружбы Путину через головы украинцев&#34;. ...
+                        ]]></description>
+  <pubDate>Tue, 26 Nov 2019 17:29:40 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1574778901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Wi-Fi Радар: когда реклама бьёт точно в цель
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/477588/?utm_campaign=477588&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 26 Nov 2019 17:25:20 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1574778901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Открыта аккредитация журналистов на участие в пресс-конференции Владимира Путина
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/62094</link>
+  <description><![CDATA[
+                        19 декабря 2019 года в 12.00 мск состоится ежегодная большая пресс-конференция Владимира Путина. Департамент аккредитации Управления пресс-службы и информации Президента России начинает приём заявок на участие в мероприятии.    ...
+                        ]]></description>
+  <pubDate>Tue, 26 Nov 2019 16:02:52 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1574778901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Госдуме наведут порядок с обеспечением сирот жильем
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/251/227887-v-gosdume-navedut-poradok-s-obespeceniem-sirot-zilem</link>
+  <description><![CDATA[
+                        В Государственной Думе хотят усовершенствовать процедуру обеспечения бесплатных жильем детей-сирот. ...
+                        ]]></description>
+  <pubDate>Tue, 26 Nov 2019 17:11:32 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1574778901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  26.11.2019 17:31 : Для борьбы с перегрузкой Московских центральных диаметров запустили два десятивагонных поезда «Ласточка»
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2544095-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Об этом сообщает агентство Москва со ссылкой на пресс-службу РЖД. Это касается маршрута «Нахабино-Подольск». Одновременно, как отмечают пассажиры, по этому же маршруту МЦД стали ходить сдвоенные поезда «Иволга». Планировалось, что эти составы станут главными поездами на Московских центральных диаметрах, но пассажиры сразу после запуска стали жаловаться, что у них только семь вагонов вместо двенадцати, которые есть в обычных электричках. Горожане также жаловались на проблемы с неработающими ва ...
+                        ]]></description>
+  <pubDate>Tue, 26 Nov 2019 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1574778901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Audi сократит до 9,5 тыс. рабочих мест в Германии к 2025 году
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/685695</link>
+  <description><![CDATA[
+                        Audi AG, входящая в группу Volkswagen, планирует сократить до 9,5 тысяч рабочих мест в Германии в период до 2025 года в рамках программы оптимизации операций, которая, как ожидают в компании, добавит к ее прибыли порядка 6 млрд евро в следующие 10 лет. ...
+                        ]]></description>
+  <pubDate>Tue, 26 Nov 2019 17:21:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1574778901#48</guid>
+ </item>
+  </channel>
+ </rss>

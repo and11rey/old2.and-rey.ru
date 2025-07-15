@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 03 Dec 2011 17:00:04 +0400</pubDate>
+         <lastBuildDate>Sat, 03 Dec 2011 17:00:04 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Фоторепортаж: туберкулез в постсоветских странах
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/multimedia/2011/12/111202_tb_fsu_photogallery.shtml</link>
+  <description><![CDATA[
+                        Туберкулез считается болезнью прошлого во многих странах, однако на постсоветском пространстве он превратился в невидимую эпидемию. Фотограф Михаил Фридман посвятил этой теме несколько проектов.     ...
+                        ]]></description>
+  <pubDate>Sat, 03 Dec 2011 15:58:49 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1322917204#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Таможенники отпустили директора ассоциации "Голос" Лилию Шибанову
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/m.193629.html</link>
+  <description><![CDATA[
+                        Таможенники отпустили директора ассоциации независимых наблюдателей "Голос" Лилию Шибанову, которая была задержана в аэропорту "Шереметьево". У Шибановой изъяли ноутбук с личными данными. Перед этим она отказывалась отдавать компьютер, в связи с чем ей пришлось провести в аэропорту всю ночь. В преддверии выборов в российских СМИ появились обличительные материалы о "Голосе", в которых ассоциацию обвиняли в получении западных грантов, а мировой суд оштрафовал "Голос" за нарушение избирательного за ...
+                        ]]></description>
+  <pubDate>Sat, 03 Dec 2011 13:41:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1322917204#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Чтобы противостоять сирийскому варварству, нужно осудить безразличие России и Китая
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/asia/20111203/179158868.html</link>
+  <description><![CDATA[
+                        Хотя во времена холодной войны это было заметнее, сейчас в сущности ничего не изменилось: различие между нами и властями России и Китая по-прежнему не сводится к периодическому расхождению интересов или к культурным различиям. Мы противоположны друг другу с моральной точки зрения. Эта пропасть между нами сохранится до тех пор, пока люди в этих странах не потребуют и не добьются того, чтобы власть защищала права человека, которые презирают нынешние правители. ...
+                        ]]></description>
+  <pubDate>Sat, 03 Dec 2011 15:09:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1322917204#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Таможня не дала "добро" на "Голос"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/24410405.html</link>
+  <description><![CDATA[
+                        Исполнительный директор ассоциации по защите прав избирателей "Голос" Лилия Шибанова в ночь на 3 декабря была задержана в аэропорту "Шереметьево" ...
+                        ]]></description>
+  <pubDate>Sat, 03 Dec 2011 16:55:13 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1322917204#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В поселке Металлострой грабитель ударил полицейского монтировкой
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/feedproxy.google.com/~r/rosbalt/~3/nu15-szbHaw/story01.htm</link>
+  <description><![CDATA[
+                        В поселке Металлострой сегодня утром было совершено нападение на сотрудника полиции. Инцидент произошел около 11:00.
+
+ ...
+                        ]]></description>
+  <pubDate>Sat, 03 Dec 2011 16:46:00 +0400</pubDate>
+  <source url="http://feeds2.feedburner.com">Информационное агентство Росбалт</source>
+  <guid isPermaLink="false">1322917204#38</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  МВД не увидело хищений на 300 млн рублей в программе "Электронная Россия"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/03dec2011/300m.html</link>
+  <description><![CDATA[
+                        О нарушениях огромного размера сообщала Генпрокуратура. Но в МВД решили, что сведений недостаточно для квалификации исследуемых деяний и возбуждения дела. ...
+                        ]]></description>
+  <pubDate>Sat, 03 Dec 2011 16:53:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1322917204#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  YouTube / Апофеоз копирастии или начало конца YouTube
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/blogs/youtube/133927/</link>
+  <description><![CDATA[
+                        Только что на YouTube был заблокирован крупнейший видеоблоггер в истории интернета Рэй Уильям Джонсон. 
+
+
+
+Почти 5 миллионов подписчиков и полтора миллиарда просмотров видео не смогли предотвратить блокировку. Книга рекордов Гиннесса тоже не возымела успеха. 
+
+На данный момент остаётся неизвестным, кому конкретно так насолил RWJ. На канале Equals Three каждую пятницу выпускались ролики с комментариями к новым «вирусным» или просто смешным видео. В связи с этим утверждения о том, что «YouTube соб ...
+                        ]]></description>
+  <pubDate>Sat, 03 Dec 2011 15:54:53 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1322917204#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Москве задержаны чеченцы, стрелявшие у элитного клуба - BFM.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNGxLoMx5yAJUylX6RDqYM8fnklC2Q&amp;url=http://www.bfm.ru/news/2011/12/03/v-moskve-zaderzhany-chechency-streljavshie-u-elitnogo-kluba.html</link>
+  <description><![CDATA[
+                        Московские полицейские задержали двух мужчин, устроивших стрельбу у ночного клуба в центре города. Найти их удалось по автомобилю Porsche Cayenne, на котором они скрылись с места преступления, сообщает пресс-служба главного управления МВД по Москве. Инцидент произошел в субботу в 10:30 мск у ... ...
+                        ]]></description>
+  <pubDate>Sat, 03 Dec 2011 16:50:08 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1322917204#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Медведев поручил придумать, как наказывать иностранных усыновителей за насилие над детьми из России 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/state/2011/12/03/Myedvyedyev_poruchil.phtml</link>
+  <description><![CDATA[
+                        Президент России Дмитрий Медведев поручил генпрокурору Юрию Чайке и уполномоченному при президенте РФ по правам ребенка Павлу Астахову совместно со следственными структурами и министерством иностранных дел проработать вопрос о выработке механизма привлечения к ответственности иностранных усыновителей в случаях применения ими насилия в отношении приемных детей из России. ...
+                        ]]></description>
+  <pubDate>Sat, 03 Dec 2011 16:26:30 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1322917204#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  03.12.2011 16:32 : Патриарх Московский и всея Руси Кирилл отменил визит в Киргизию
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/835912-echo.html</link>
+  <description><![CDATA[
+                        
+Это связано с напряженным графиком предстоятеля на ближайшее время, заявили ИТАР-ТАСС в пресс-службе патриарха. Ранее в Бишкеке в оргкомитете по встрече Кирилла утверждали, что визит отменен из-за состояния здоровья патриарха. Однако в пресс-службе эту информацию не подтверждают. Там также заявляют, что сегодня, в канун праздника Введения во храм Пресвятой Богородицы, патриарх Московский и всея Руси возглавит в пять вечера службу в храме Христа Спасителя, а в воскресенье утром в своей рабочей р ...
+                        ]]></description>
+  <pubDate>Sat, 03 Dec 2011 16:32:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1322917204#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Пост № 328936
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/328936/#new</link>
+  <description><![CDATA[
+                        Великолепный красочный краткометражный фильм об Афганистане. ...
+                        ]]></description>
+  <pubDate>Sat, 03 Dec 2011 16:00:53 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1322917204#34</guid>
+ </item>
+  </channel>
+ </rss>

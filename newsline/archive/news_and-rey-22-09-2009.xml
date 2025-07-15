@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 22 Sep 2009 17:00:10 +0400</pubDate>
+         <lastBuildDate>Tue, 22 Sep 2009 17:00:10 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Китай готовится к празднованию юбилея образования КНР</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/09/090922_china_celebrations.shtml</link>
+  <description><![CDATA[
+                        Жителям Пекина запретили выпускать в небо голубей, воздушных змеев и даже шарики, чтобы не мешать подготовке парада к 60-летию прихода к власти коммунистов. ...
+                        ]]></description>
+  <pubDate>Tue, 22 Sep 2009 16:33:43 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1253624410#1</guid>
+ </item>
+ <item>
+  <title>Мосгорсуд вынес приговор банде скинхедов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/Law/m.157597.html</link>
+  <description><![CDATA[
+                        Мосгорсуд приговорил участников банды скинхедов, покушавшихся на убийство иностранцев на почве национальной ненависти, к лишению свободы на сроки от пяти до десяти лет. Лидеры группировки Евгения Жихарева и Илья Шутко осуждены на 8 и 9,5 года заключения. ...
+                        ]]></description>
+  <pubDate>Tue, 22 Sep 2009 16:12:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1253624410#2</guid>
+ </item>
+ <item>
+  <title>ИноВидео: Российские корабли начали патрулирование абхазских вод ("Russia Today", Россия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/252860.html</link>
+  <description><![CDATA[
+                        Первое российское патрульное судно прибыло в республику Абхазия. Оно будет охранять морские границы молодого государства от незаконно пересекающих границы грузинских кораблей. "Новороссийск" - первый корабль из десяти, которые будут размещаться в черноморском ворту Очамчира. ...
+                        ]]></description>
+  <pubDate>Tue, 22 Sep 2009 16:51:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1253624410#3</guid>
+ </item>
+ <item>
+  <title>Парламентская комиссия по расследованию причин аварии на ГЭС завершит работу до конца года</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090922/17/17.html?id=1828428</link>
+  <description><![CDATA[
+                        Комиссия Госдумы и Совета Федерации по расследованию причин аварии на Саяно-Шушенской ГЭС провела во вторник первое заседание.   Объявлено, что комиссия намерена завершить работу до конца года и по итогам расследования разработать законопроекты об обеспечении безопасности на гидроэлектростанциях страны.   Выводы Ростехнадзора о причинах катастрофы на Саяно-Шушенской ГЭС будут представлены в ближайшие дни, заверил глава ведомства Николай Кутьин. Авария произошла 17 августа. Погибли 74 человека, . ...
+                        ]]></description>
+  <pubDate>Tue, 22 Sep 2009 16:27:52 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1253624410#4</guid>
+ </item>
+ <item>
+  <title>Кризис помогает в защите климата</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/22Sep2009/sueddeutsche/crisis2.html</link>
+  <description><![CDATA[
+                        У нынешнего экономического кризиса есть одна положительная сторона - это значительное сокращение выбросов парниковых газов, причем их снижение еще более заметно, чем во время кризиса 1981 года. ...
+                        ]]></description>
+  <pubDate>Tue, 22 Sep 2009 16:27:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1253624410#5</guid>
+ </item>
+ <item>
+  <title>МК извинился за публикацию фальшивого интервью с Саргсяном</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/22sep2009/int_.html</link>
+  <description><![CDATA[
+                        Накануне газета опубликовала материал, который был представлен как эксклюзивное интервью президента Армении Сержа Саргсяна. Однако его пресс-служба заявила, что никакого интервью не было. Оказывается, за интервью выдали фрагменты высказываний Саргсяна и гипотетические вопросы. ...
+                        ]]></description>
+  <pubDate>Tue, 22 Sep 2009 16:49:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1253624410#6</guid>
+ </item>
+ <item>
+  <title>Адвокат: приговор по второму делу Ходорковского вынесут весной 2010 года</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/09/22/n_1406254.shtml</link>
+  <description><![CDATA[
+                        Приговор по второму уголовному делу в отношении экс-главы ЮКОСа Михаила Ходорковского и бывшего руководителя МФО МЕНАТЕП Платона Лебедева может быть вынесен Хамовническим судом Москвы весной 2010 года. Об этом сегодня сообщил адвокат ... ...
+                        ]]></description>
+  <pubDate>Tue, 22 Sep 2009 16:47:27 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1253624410#7</guid>
+ </item>
+ <item>
+  <title>Бразильскому сайту запретили распространять P2P-клиент </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/385715.php</link>
+  <description><![CDATA[
+                        Бразильский суд вынес беспрецедентное решение, запретив одному из известных Интернет-ресурсов размещать на собственном сайте приложение для загрузки файлов из P2P-сетей.	 ...
+                        ]]></description>
+  <pubDate>Tue, 22 Sep 2009 15:01:59 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1253624410#8</guid>
+ </item>
+ <item>
+  <title>День без авто: 100-метровка до мэрии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/mans/2009/09/22/den_bez_avtomobily.phtml</link>
+  <description><![CDATA[
+                        Столичные чиновники попытались поддержать Всемирный день без автомобилей, отправившись во вторник на заседание мэрии на общественном транспорте и пешком. Впрочем, большинство участников акции пешком прошлись лишь по Тверской, оставив свои машины неподалеку. Более ответственные чиновники, пересев на общественный транспорт, терялись в дороге, удивляли прохожих и даже не пытались запомнить, сколько стоит проезд в метро. ...
+                        ]]></description>
+  <pubDate>Tue, 22 Sep 2009 16:58:35 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1253624410#9</guid>
+ </item>
+ <item>
+  <title>Украинский раскол</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/59906/</link>
+  <description><![CDATA[
+                        Украинский раскол ...
+                        ]]></description>
+  <pubDate>Tue, 22 Sep 2009 17:00:23 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1253624410#10</guid>
+ </item>
+  </channel>
+ </rss>

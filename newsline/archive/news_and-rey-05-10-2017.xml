@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 05 Oct 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Thu, 05 Oct 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Верховная рада обсуждает законы о новом статусе Донбасса
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-41515772</link>
+  <description><![CDATA[
+                        Петр Порошенко приехал в Верховную раду, чтобы убедить депутатов своей фракции поддержать внесенные им законопроекты о реинтеграции Донбасса. У депутатов возникло множество вопросов к обоим документам, а у стен Рады в четверг собрались представители националистических организаций - противники их принятия. ...
+                        ]]></description>
+  <pubDate>Thu, 05 Oct 2017 16:40:21 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1507214101#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Леонида Волкова задержали через несколько часов после освобождения из-под ареста
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2017/10/05/leonida-volkova-zaderzhali-cherez-neskolko-chasov-posle-osvobozhdeniya-iz-pod-aresta</link>
+  <description><![CDATA[
+                        Главу федерального штаба Алексея Навального Леонида Волкова задержали, сообщил директор Фонда борьбы с коррупцией Роман Рубанов. ...
+                        ]]></description>
+  <pubDate>Thu, 05 Oct 2017 17:06:06 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1507214101#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Станут ли парковки очередной жертвой американо-российского дипломатического конфликта?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/05Oct2017/foreignpolicy/parking.html?utm_source=rss</link>
+  <description><![CDATA[
+                        На фоне того как американо-российский дипломатический конфликт по поводу сотрудников посольств и зданий накаляется, возможно, что ответные меры по принципу "глаз за глаз" могут продолжиться. Речь идет о персонале, а также собственности и парковках. ...
+                        ]]></description>
+  <pubDate>Thu, 05 Oct 2017 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1507214101#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Депутаты Европарламента призвали освободить Кирилла Серебренникова 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28775867.html</link>
+  <description><![CDATA[
+                        Они направили Владимиру Путину открытое письмо, под которым подписались 59 политиков ...
+                        ]]></description>
+  <pubDate>Thu, 05 Oct 2017 17:19:06 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1507214101#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российские подлодки нанесли удар по объектам террористов в Сирии - РИА Новости
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNHlf7b5UvSXSaXPjjUAGkHpm8s3zw&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52780280301294&amp;ei=F0PWWYDKEZGl6QSK4YSwDQ&amp;url=https://ria.ru/syria/20171005/1506275123.html</link>
+  <description><![CDATA[
+                        МОСКВА, 5 окт — РИА Новости. Российские военные с подводных лодок нанесли удар ракетами "Калибр" по объектам террористов в Сирии, рассказал официальный представитель Минобороны Игорь Конашенков. Удар Военно-космических сил России по позициям ИГ у Дейр-эз-Зора. ...
+                        ]]></description>
+  <pubDate>Thu, 05 Oct 2017 17:28:19 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1507214101#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Краснодарский педагог оскорбилась подаренными ей на День учителя  "жалким букетом" и конвертом с "мизерной суммой"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/05oct2017/gift.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Подарок, сделанный всем классом, учительнице настолько не понравился, что она вернула его: пересчитав деньги в конверте, она решила, что заслуживает большего. Точные запросы педагога неизвестны, но она пояснила, что учителям физкультуры и музыки, а также директору и завучу "положено" дарить по 2 тыс. рублей. ...
+                        ]]></description>
+  <pubDate>Thu, 05 Oct 2017 17:19:21 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1507214101#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Уязвимости в прошивках австралийских животных
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/293693/</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 05 Oct 2017 15:06:43 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1507214101#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Начало российско-саудовских переговоров в расширенном составе
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/transcripts/55777</link>
+  <description><![CDATA[
+                              ...
+                        ]]></description>
+  <pubDate>Thu, 05 Oct 2017 16:03:00 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1507214101#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  05.10.2017 17:32 : Генпрокуратура ФРГ прекратила расследование о слежке американских и британских спецслужб за гражданами Германии
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2068178-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Генпрокуратура ФРГ прекратила расследование о возможной слежке американских и британских спецслужб за гражданами Германии.  Поводом для расследования стали разоблачения работавшего на ЦРУ Эдварда Сноудена в 13-м году. По его сведениям, АНБ США прослушивало телефонные разговоры глав 35-ти разных государств, в том числе и Ангелы Меркель.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 05 Oct 2017 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1507214101#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ЦБ РФ изучит сделку по покупке банком "Открытие" акций QIWI
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/business/581960</link>
+  <description><![CDATA[
+                        Временная администрация в лице ЦБ РФ изучает детали сделки по покупке банком "Открытие" акций класса "B" группы QIWI, по результатам чего подтвердит ее или пересмотрит, сообщили "Интерфаксу" в пресс-службе Банка России. ...
+                        ]]></description>
+  <pubDate>Thu, 05 Oct 2017 17:17:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1507214101#48</guid>
+ </item>
+  </channel>
+ </rss>

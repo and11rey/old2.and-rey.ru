@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 05 Dec 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Tue, 05 Dec 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  ЕС опубликовал черный список стран-офшоров
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/news-42239842</link>
+  <description><![CDATA[
+                        Министры финансов стран Евросоюза во вторник опубликовали черный список стран, не желающих сотрудничать с ЕС в сфере налоговой отчетности. Список состоит из 17 стран, в юрисдикции большинства из которых находятся офшорные зоны. ...
+                        ]]></description>
+  <pubDate>Tue, 05 Dec 2017 17:16:39 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1512484501#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Netflix уволил актера Дэнни Мастерсона, обвиненного в изнасилованиях. Одна из жертв упрекала сервис в бездействии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2017/12/05/netflix-uvolil-aktera-denni-mastersona-obvinennogo-v-iznasilovaniyah-odna-iz-zhertv-uprekala-servis-v-bezdeystvii</link>
+  <description><![CDATA[
+                        Стриминговый сервис Netflix объявил, что актер Дэнни Мастерсон, обвиненный в изнасилованиях, больше не будет сниматься в сериале «Ранчо», где он играл одну из главных ролей. ...
+                        ]]></description>
+  <pubDate>Tue, 05 Dec 2017 17:18:05 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1512484501#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Мадлен Олбрайт: Как защитить мир от Северной Кореи
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/05Dec2017/nytimes/albright.html?utm_source=rss</link>
+  <description><![CDATA[
+                        "Слишком долго американские политики тщетно искали ловкого, простого решения для северокорейских ядерных амбиций. В результате произошел откат назад. Настало время для более реалистичного и серьезного подхода", - пишет экс-госсек США Мадлен Олбрайт. ...
+                        ]]></description>
+  <pubDate>Tue, 05 Dec 2017 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1512484501#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Бывшего главу полиции Казани осудили на 10,5 лет строгого режима
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28898321.html</link>
+  <description><![CDATA[
+                        Руслана Халимдарова признали виновным в похищении жителя Казахстана для фабрикации уголовного дела о контрабанде наркотиков ...
+                        ]]></description>
+  <pubDate>Tue, 05 Dec 2017 16:51:31 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1512484501#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 05 Dec 2017 17:33:57 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1512484501#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Перевод] Странное искусство составления пояснений к релизу приложений
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/296137/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=best</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 05 Dec 2017 17:00:01 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1512484501#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В законодательство внесены изменения, устанавливающие требования к предоставлению государственных и муниципальных услуг
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/misc/56297</link>
+  <description><![CDATA[
+                        Президент подписал Федеральный закон «О внесении изменений в статьи
+7 и 29 Федерального закона «Об организации предоставления государственных и муниципальных услуг».    ...
+                        ]]></description>
+  <pubDate>Tue, 05 Dec 2017 16:30:31 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1512484501#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Посольство США призвало к сдержанности сторонников Саакашвили и украинских силовиков
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/251/world/politics/189058-posolstvo-ssa-prizvalo-k-sderzannosti-storonnikov-saakasvili-i-ukrainskih-silovikov</link>
+  <description><![CDATA[
+                        Посольство США в Киеве прокомментировало ситуацию вокруг спонтанного митинга сторонников Михаила Саакашвили у стен Верховной рады Украины. ...
+                        ]]></description>
+  <pubDate>Tue, 05 Dec 2017 17:30:04 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1512484501#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  05.12.2017 17:33 :  Минфин под конец года планирует закупить рекордный объем валюты — более чем на 200 миллиардов рублей
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2105114-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Объем закупок растет третий месяц подряд на фоне дорожающей нефти. Эксперты предупреждают, что операции Минфина наряду с другими факторами могут привести к ослаблению рубля в декабре
+ ...
+                        ]]></description>
+  <pubDate>Tue, 05 Dec 2017 17:33:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1512484501#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Рынок акций РФ к вечеру сократил потери вместе с нефтью
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/business/590505</link>
+  <description><![CDATA[
+                        Рынок акций РФ к вечеру вторника сократил потери вместе с нефтью, которая постепенно отыгрывает позиции после снижения начала недели; лидируют в росте бумаги "Башнефти" на новостях о дивидендах. ...
+                        ]]></description>
+  <pubDate>Tue, 05 Dec 2017 17:19:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1512484501#48</guid>
+ </item>
+  </channel>
+ </rss>

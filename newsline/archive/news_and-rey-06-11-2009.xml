@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 06 Nov 2009 17:00:04 +0300</pubDate>
+         <lastBuildDate>Fri, 06 Nov 2009 17:00:04 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>20 лет после падения Стены: что дальше? </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/11/091106_gemany_wall_segbers.shtml</link>
+  <description><![CDATA[
+                        В интервью Русской службе Би-би-си профессор политологии Клаус Зегберс оценивает перемены в Германии за прошедшие 20 лет.   ...
+                        ]]></description>
+  <pubDate>Fri, 06 Nov 2009 16:48:56 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1257516004#1</guid>
+ </item>
+ <item>
+  <title>По делу об убийстве Маркелова и Бабуровой задерживали лидера националистов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/Xenophobia/Skinhead/m.161727.html</link>
+  <description><![CDATA[
+                        Лидер националистической организации "Русский образ" Илья Горячев был задержан в связи с делом об убийстве адвоката Станислава Маркелова и журналистки Анастасии Бабуровой, но был отпущен и скрылся. Обвиняемые в убийстве Никита Тихонов и Евгения Хасис также являлись членами "Русского образа", а не РНЕ, как сообщалось ранее. ...
+                        ]]></description>
+  <pubDate>Fri, 06 Nov 2009 16:50:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1257516004#2</guid>
+ </item>
+ <item>
+  <title>Гадание на газопроводе</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/ukraine/20091106/156495313.html</link>
+  <description><![CDATA[
+                        Россия опять предупреждает Европу, что в этом году поставки газа вновь могут быть нарушены. Поскольку у Украины есть проблемы с оплатой российского газа. Однако вероятность того, что Кремль перекроет краны, невелика. ...
+                        ]]></description>
+  <pubDate>Fri, 06 Nov 2009 16:35:00 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1257516004#3</guid>
+ </item>
+ <item>
+  <title>Opel, нижегородская трагедия</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/1871179.html</link>
+  <description><![CDATA[
+                        В Нижнем Новгороде разочарованы срывом сделки с Opel, которая грозит стать для региона не только экономической. но и социальной катастрофой. 
+ ...
+                        ]]></description>
+  <pubDate>Fri, 06 Nov 2009 15:44:06 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1257516004#4</guid>
+ </item>
+ <item>
+  <title>Дневник кремлевского инсайдера повествует о влиянии Советского Союза на лейбористов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/06Nov2009/dailymail/labours.html</link>
+  <description><![CDATA[
+                        Дневник Анатолия Черняева рассказывает историю "особых отношений" между британской Лейбористской партией и КПСС. Между тем многие министры в нынешнем правительстве выросли из рядов британского социалистического движения. ...
+                        ]]></description>
+  <pubDate>Fri, 06 Nov 2009 16:00:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1257516004#5</guid>
+ </item>
+ <item>
+  <title>Глава европейского подразделения General Motors уходит в отставку из-за скандала с Opel</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/06nov2009/opel2.html</link>
+  <description><![CDATA[
+                        Карл-Петер Форстер покидает свой пост в ответ на решение американского автогиганта не продавать немецкий автоконцерн консорциуму Magna и "Сбербанка". Немецкие СМИ опасаются, что Opel "деградирует до уровня региональной европейской марки". ...
+                        ]]></description>
+  <pubDate>Fri, 06 Nov 2009 16:45:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1257516004#6</guid>
+ </item>
+ <item>
+  <title>Пираты, захватившие судно с россиянами, снизили сумму выкупа</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/11/06/n_1421979.shtml</link>
+  <description><![CDATA[
+                        В ходе переговоров с сомалийскими пиратами, захватившими экипаж тунцелова Thai Union 3, снижена сумма выкупа, установленная ранее, сообщил руководитель калининградского крюингового агентства ООО "Западное морское агентство ... ...
+                        ]]></description>
+  <pubDate>Fri, 06 Nov 2009 16:54:47 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1257516004#7</guid>
+ </item>
+ <item>
+  <title>В протоколах TLS и SSL найдена серьезная уязвимость</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/6f4957a/l/0L0Ssecuritylab0Bru0Cnews0C387420A0Bphp/story01.htm</link>
+  <description><![CDATA[
+                        В представленных технических данных сказано, что уязвимость в TLS кроется в процессе аутентификации. Потенциальный злоумышленник может вторгнуться в сессию легитимного пользователя и успешно перехватывать данные от пользователя и сервера. ...
+                        ]]></description>
+  <pubDate>Fri, 06 Nov 2009 14:28:15 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1257516004#8</guid>
+ </item>
+ <item>
+  <title>Найден неизвестный фильм Чарли Чаплина</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/afisha/cinema/2009/11/06/Naydyen_nyeizvyestny.phtml</link>
+  <description><![CDATA[
+                        На интернет-аукционе eBay «всплыл» ранее неизвестный фильм Чарли Чаплина 1916 года. Семиминутный «Zepped» рассказывает о победе над немецкими дирижаблями и показывает кайзера, вылезающего из сосиски.  ...
+                        ]]></description>
+  <pubDate>Fri, 06 Nov 2009 16:53:52 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1257516004#9</guid>
+ </item>
+ <item>
+  <title>Руководитель GM Europe - европейского подразделения концерна General Motors и председатель правления Opel Карл-Петер Форстер, может покинуть свой пост</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/632491-echo.html</link>
+  <description><![CDATA[
+                        
+                         <br><img src='http://www.echo.msk.ru/att/element-632491-picture-0.jpg?1257515061'><br> Сделать это он намерен в знак протеста против решения руководства GM не продавать марку Opel канадско-российскому консорциуму Magna-Сбербанк...
+                          ...
+                        ]]></description>
+  <pubDate>Fri, 06 Nov 2009 16:34:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1257516004#10</guid>
+ </item>
+ <item>
+  <title>Art Boobs</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/261798/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/11/06/26248-162824-a3310f27cbf6c2181173c6a3b9ec3ab6.jpg><br /><br />"Её Величество Королева Елизавета II", 1852. В этом бложике некий датчанин постит сиськи на главную. Но! Только если они так или иначе связаны с Искусством. ...
+                        ]]></description>
+  <pubDate>Fri, 06 Nov 2009 16:28:24 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1257516004#11</guid>
+ </item>
+  </channel>
+ </rss>

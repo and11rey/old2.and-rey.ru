@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+ <rss version="2.0">
+     <channel>
+         <title>And-rey.ru: Новости политики ТОП 10</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 10 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru</webMaster>
+         <managingEditor>info@and-rey.ru</managingEditor>
+         <pubDate>Sun, 30 Sep 2007 17:00:06 +0400</pubDate>
+         <lastBuildDate>Sun, 30 Sep 2007 17:00:06 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости политики ТОП 10</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+ <item>
+  <title>Украина снова выбирает Верховную Раду</title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.bbc.co.uk/go/rss/-/hi/russian/international/newsid_7020000/7020401.stm</link>
+  <description>Досрочные выборы были назначены весной из-за парламентского кризиса. По предварительным данным ЦИК Украины, на 12.00 местного времени явка превысила 20%. ...</description>
+  <pubDate>Sun, 30 Sep 2007 11:40:45 GMT</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1191157206#1</guid>
+ </item>
+ <item>
+  <title>В Москве отмечается крайне низкая явка граждан Украины на выборы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rian.ru/politics/cis/20070930/81703167.html</link>
+  <description>На 16.00 в посольстве Украины в РФ за депутатов проголосовали около 1,5% граждан, состоящих на консульском учете. Явка повторяет ситуацию с выборами 2006 года. (РИА Новости Украина. Все о выборах и не только) ...</description>
+  <pubDate>Sun, 30 Sep 2007 16:53:00 +0400</pubDate>
+  <source url="http://www.rian.ru">РИА Новости</source>
+  <guid isPermaLink="false">1191157206#2</guid>
+ </item>
+ <item>
+  <title>Спасены два рыбака в Новгородской области</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2007/09/30/n_1123601.shtml</link>
+  <description>В Новгородской области сотрудники МЧС спасли двух рыбаков, оказавшихся отрезанными от земли, сообщил представитель Новгородского управления МЧС. "Операция по розыску рыбаков прошла успешно, новгородцы были доставлены на берег, ... ...</description>
+  <pubDate>Sun, 30 Sep 2007 16:49:55 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1191157206#3</guid>
+ </item>
+ <item>
+  <title>А Ираке за сутки убиты 40 боевиков</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/News/2007/09/30.html?id=414317</link>
+  <description>Иракские военные сообщили, что за  последние сутки 40 повстанцев были ликвидированы в ходе операций в трех северных провинциях страны.   По данным министерства обороны Ирака, в городах Дияла, Салах Ад-Дин и Киркук обезврежены три взрывных устройства ... ...</description>
+  <pubDate>Sun, 30 Sep 2007 15:50:39 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1191157206#4</guid>
+ </item>
+ <item>
+  <title>Полюби меня и полюби мой тофу</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inopressa.ru/newsweek/2007/09/28/16:33:54/tofu</link>
+  <description>Казалось бы, у них масса общего: и веганы, и вегетарианцы не едят мяса. Но для многих веганов, которые не употребляют в пищу таких животных продуктов, как молоко и яйца, одной любви недостаточно, чтобы преодолеть идеологические расхождения. ...</description>
+  <pubDate>Fri, 28 Sep 2007 16:33:54 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1191157206#5</guid>
+ </item>
+ <item>
+  <title>Фернандо Алонсо: сохранить титул мне поможет только чудо</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/30sep2007/alo.html</link>
+  <description>"Я не собираюсь сдаваться заранее, но если у Хэмилтона не будет сходов, нужно быть реалистом: отыгрывать по шесть очков за гонку будет сложно", - заявил Алонсо. После победы в Японии у Хэмилтона стало 107 очков, у Алонсо осталось 95. ...</description>
+  <pubDate>Sun, 30 Sep 2007 16:31:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1191157206#6</guid>
+ </item>
+ <item>
+  <title>К 12 часам на Украине проголосовало 15,6 процента избирателей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/lenta.ru/news/2007/09/30/elections/</link>
+  <description>К 12 часам дня на Украине на досрочных парламентских выборах проголосовало 15,6 процента избирателей. Наименьшее количество избирателей пришло на участки в Закарпатье - там проголосовало чуть более 5 процентов. Свои бюллетени уже сдали все ведущие политики Украины, в том числе президент Виктор Ющенко и премьер Виктор Янукович.  ...</description>
+  <pubDate>Sun, 30 Sep 2007 14:09:54 +0400</pubDate>
+  <source url="http://img.lenta.ru">Ежедневная интернет-газета Lenta.ru</source>
+  <guid isPermaLink="false">1191157206#7</guid>
+ </item>
+ <item>
+  <title>Граждане Украины в Москве голосуют неактивно</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.vz.ru/news/2007/9/30/113501.html</link>
+  <description>На 16.00 в посольстве Украины в России за депутатов Верховной Рады проголосовали около 1,5% граждан, состоящих на консульском учете. ...</description>
+  <pubDate>Sun, 30 Sep 2007 16:57:14 +0400</pubDate>
+  <source url="http://www.vz.ru">Деловая газета "Взгляд"</source>
+  <guid isPermaLink="false">1191157206#8</guid>
+ </item>
+ <item>
+  <title>ИНЖЕНЕР советского союза</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/31656/</link>
+  <description>В ЗАМЕЧАТЕЛЬНОМ созвездии творцов промышленного и оборонного могущества нашей страны одна из самых ярких звёзд — Юрий Дмитриевич Маслюков. Он не из тех «звёзд», которые лезут, расталкивая друг друга, на телеэкраны. Он из той замечательной когорты людей, свечение которых фокусирует проявление коллективного разума и энергии. ...</description>
+  <pubDate>Sun, 30 Sep 2007 16:18:00 +0300</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1191157206#9</guid>
+ </item>
+ <item>
+  <title>***Юриг (р@ботаю под прикрытием)*** :: Не спите за рулём</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.udaff.com/news/77423.html</link>
+  <description>Пендостане по жизни ебанутая дорога. Женщина возвращалась с работы на огромной скорости. Вдруг выскочил подвыпивший чувак и начал петь песню со словами - "Я знаю точно невозможное возможно, сойти с ума, влюбиться так не осторожно..." -, та как даст по тормозам, машина подскочила на кочке и веерообразными движениями полетела в овраг. ...</description>
+  <pubDate>Sun, 30 Sep 2007 10:12:23 +0400</pubDate>
+  <source url="http://www.udaff.com">Ресурс Удава. Новости (18+)</source>
+  <guid isPermaLink="false">1191157206#10</guid>
+ </item>  </channel>
+ </rss>

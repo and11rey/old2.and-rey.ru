@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 07 Jun 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sun, 07 Jun 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Смеется ли над вами ваша кошка?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/vert-fut-52940074</link>
+  <description><![CDATA[
+                        Это знает любой хозяин домашнего животного: со временем между ним и его любимцем устанавливается эмоциональная связь. Но каковы ее проявления? Понимаем ли мы, что о нас думает наша кошка или собака? ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2020 16:35:01 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1591540501#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Главный раввин России Берл Лазар заболел COVID-19
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2020/06/07/glavnyy-ravvin-rossii-berl-lazar-zabolel-covid-19</link>
+  <description><![CDATA[
+                        Главный раввин России Берл Лазар заразился новой коронавирусной инфекцией, сообщает ТАСС. ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2020 17:10:47 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1591540501#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Принимать гидроксихлорохин в профилактических целях неэффективно, утверждают ученые
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/05Jun2020/lefigaro/treatment.html?utm_source=rss</link>
+  <description><![CDATA[
+                        По словам президента США Дональда Трампа, он принимает гидроксихлорохин для профилактики коронавируса, но ученые установили, что его прием через несколько дней после контакта с зараженным человеком может оказаться бесполезным.  ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jun 2020 22:14:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1591540501#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Росгвардейцы оскорбили чернокожего в Москве. В ведомстве это отрицают
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30657550.html</link>
+  <description><![CDATA[
+                        Видео задержания в Москве чернокожего молодого человека опубликовано в интернете очевидцами ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2020 16:24:01 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1591540501#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Захарова: Америка сеяла хаос по всему миру и получила его у себя - Вести.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiKGh0dHBzOi8vd3d3LnZlc3RpLnJ1L2RvYy5odG1sP2lkPTMyNzE3MjTSAShodHRwczovL2FtcC52ZXN0aS5ydS9kb2MuaHRtbD9pZD0zMjcxNzI0?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2020 16:41:29 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1591540501#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Московской области нашли похищенного 17-летнего сына адвоката Константина Скрыпника
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/07jun2020/skrypnikjr.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Подростка обнаружили живым в поле близ Ногинска. Скрыпник-старший является свидетелем по делу банды Аслана Гагиева, убившей более 50 человек. По словам потерпевшего, его больше суток держали в подвале связанным. ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2020 17:25:16 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1591540501#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с деятелями культуры
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/63462</link>
+  <description><![CDATA[
+                        В День русского языка Владимир Путин провёл в режиме видеоконференции встречу с деятелями культуры.      ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2020 10:59:24 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1591540501#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Германия жаждет китайской крови за коронавирус
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/285/236945-germania-zazdet-kitajskoj-krovi-za-koronavirus</link>
+  <description><![CDATA[
+                        Германия призвала выработать весь Евросоюз единую стратегию в отношении Китая. Это касается, прежде всего, ответственности Пекина за то, что весь мир заразился пандемией коронавируса. ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2020 16:16:11 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1591540501#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  07.06.2020 17:33 : В Минске и Гомеле задержаны около десятка активистов, участвовавших в пикетах
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2656484-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+В Минске и Гомеле задержаны около десятка активистов, участвовавших в пикетах в местах сбора подписей в поддержку выдвижения кандидатов в президенты Белоруссии.  
+
+Об этом сообщается на сайте белорусской правозащитной организации «Весна».    <br>
+По ее  данным, задержан и  лидер  оргкомитета по созданию партии «Белорусская христианская демократия» Павел Северинец.    <br>
+Как передает  ТАСС, участники пикетов критиковали действия властей и выражали  несогласие с проводимой президентом Алексан ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2020 17:33:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1591540501#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Нью-Йорке досрочно отменили комендантский час
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/712185</link>
+  <description><![CDATA[
+                        Мэр Нью-Йорка Билл де Блазио объявил в своем твиттере о немедленной отмене комендантского часа в городе. ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2020 17:01:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1591540501#48</guid>
+ </item>
+  </channel>
+ </rss>

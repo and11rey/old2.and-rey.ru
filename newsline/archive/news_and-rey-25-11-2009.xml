@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 25 Nov 2009 17:00:06 +0300</pubDate>
+         <lastBuildDate>Wed, 25 Nov 2009 17:00:06 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Репортаж Би-би-си о женщинах в Чечне получил награду</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/11/091125_chechny_women_award.shtml</link>
+  <description><![CDATA[
+                        Радиорепортаж Би-би-си "Чечня: судьба женщин" стал лауреатом престижной журналистской награды лондонской Ассоциации иностранной прессы (FPA Media Awards). ...
+                        ]]></description>
+  <pubDate>Wed, 25 Nov 2009 16:46:45 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1259157606#1</guid>
+ </item>
+ <item>
+  <title>Лидер националистов задержан возле офиса "Единой России"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/Xenophobia/m.162654.html</link>
+  <description><![CDATA[
+                        Лидер националистической организации "Славянский союз" Дмитрий Демушкин задержан за несанкционированную акцию возле московского офиса партии "Единая Россия". В настоящее время он доставлен в ОВД "Дорогомиловское". ...
+                        ]]></description>
+  <pubDate>Wed, 25 Nov 2009 16:23:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1259157606#2</guid>
+ </item>
+ <item>
+  <title>Война рекламных щитов на Украине</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/ukraine/20091125/156691868.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 25 Nov 2009 16:12:00 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1259157606#3</guid>
+ </item>
+ <item>
+  <title>Лидер талибов призвал афганцев не сотрудничать с властями</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091125/17/17.html?id=1887552</link>
+  <description><![CDATA[
+                        Лидер движения Талибан мулла Мохаммад Омар призвал граждан Афганистана прекратить всякое сотрудничество с правительством, назвав его "марионеточным".  Обращение Омара было размещено сегодня на одном из исламистских Интернет-сайтов. По словам лидера талибов, никакие переговоры с властями невозможны, пока в Афганистане находятся иностранные войска.  Президент Афганистана Хамид Карзай, выступая на днях на церемонии инаугурации, заявил о готовности включить в состав афганского ... ...
+                        ]]></description>
+  <pubDate>Wed, 25 Nov 2009 16:48:06 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1259157606#4</guid>
+ </item>
+ <item>
+  <title>Глобальное потепление - это фальсификация? Вот письмо, которое стоит прочесть</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/25Nov2009/guardian/climat.html</link>
+  <description><![CDATA[
+                        Чтобы окончательно покончить с наукой о глобальном потеплении, нужна масштабная теория заговора. К счастью для скептиков, корреспонденту The Guardian попался "проклятый email, который подтверждает, что вся наука о глобальном потеплении - вымысел"... ...
+                        ]]></description>
+  <pubDate>Wed, 25 Nov 2009 16:51:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1259157606#5</guid>
+ </item>
+ <item>
+  <title>Быков назвал состав сборной России на Кубок Первого канала</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/25nov2009/squard.html</link>
+  <description><![CDATA[
+                        Тренерский штаб сборной России по хоккею во главе с Вячеславом Быковым огласил расширенный список кандидатов на участие в Кубке Первого канала - московском этапе Евротура, который пройдет 17-20 декабря. ...
+                        ]]></description>
+  <pubDate>Wed, 25 Nov 2009 16:54:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1259157606#6</guid>
+ </item>
+ <item>
+  <title>В Ингушетии уничтожены двое боевиков</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/11/25/n_1428467.shtml</link>
+  <description><![CDATA[
+                        В ингушском городе Карабулак в ходе спецоперации уничтожены двое боевиков. Об этом сообщили в правоохранительных органах республики. По предварительной информации, боевики находились в частном доме по улице Рабочая. На место происшествия ... ...
+                        ]]></description>
+  <pubDate>Wed, 25 Nov 2009 16:50:02 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1259157606#7</guid>
+ </item>
+ <item>
+  <title>PandaLabs обнаружила фальшивый Facebook</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/759e721/l/0L0Ssecuritylab0Bru0Cnews0C3881150Bphp/story01.htm</link>
+  <description><![CDATA[
+                        PandaLabs обнаружила фальшивую страницу Facebook, предназначенную для кражи паролей у пользователей социальной сети. ...
+                        ]]></description>
+  <pubDate>Wed, 25 Nov 2009 14:58:43 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1259157606#8</guid>
+ </item>
+ <item>
+  <title>МВД: Магнитский вывел за границу 2% «Газпрома»</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/accident/crime/2009/11/25/MVD__Magnitskiy_vyyv.phtml</link>
+  <description><![CDATA[
+                        Скончавшийся в СИЗО аудитор Hermitage Capital Сергей Магнитский причастен к «серым» схемам, через которые за границу были выведены 2% акций «Газпрома», утверждают в МВД. В милиции ничего не знают о его болезнях и подчеркивают, что он никогда не жаловался на недомогание. Причиной смерти названа сердечно-сосудистая недостаточность. ...
+                        ]]></description>
+  <pubDate>Wed, 25 Nov 2009 16:52:17 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1259157606#9</guid>
+ </item>
+ <item>
+  <title>Государство должно помогать бизнесу в покупке зарубежных инновационных компаний</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/636942-echo.html</link>
+  <description><![CDATA[
+                        
+                         В этом убежден глава корпорации "Роснано" Анатолий Чубайс...
+                          ...
+                        ]]></description>
+  <pubDate>Wed, 25 Nov 2009 16:32:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1259157606#10</guid>
+ </item>
+ <item>
+  <title>Пост № 262879</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/262879/#new</link>
+  <description><![CDATA[
+                        Оказывается, все проблемы МВД можно решить. ...
+                        ]]></description>
+  <pubDate>Wed, 25 Nov 2009 15:55:04 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1259157606#11</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,7 @@
+# ----------------------------------
+# old2.and-rey.ru/newsline/archive/
+# ----------------------------------
+
+## archive xml
+Action add-header /cgi-bin/header-xml.pl
+AddHandler add-header .xml

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 01 Nov 2009 17:00:06 +0300</pubDate>
+         <lastBuildDate>Sun, 01 Nov 2009 17:00:06 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Абдулла вышел из афганской президентской гонки </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/11/091101_afghan_abdullah.shtml</link>
+  <description><![CDATA[
+                        Абдулла Абдулла, соперник Хамида Карзая во втором туре президентских выборов в Афганистане, отказался от дальнейшего участия в выборах. ...
+                        ]]></description>
+  <pubDate>Sun, 01 Nov 2009 16:28:06 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1257084006#1</guid>
+ </item>
+ <item>
+  <title>"Другая Россия" обвинила "Россию молодую" в провокации на митинге</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/activism/m.161476.html</link>
+  <description><![CDATA[
+                        "Другая Россия" обвинила активистов "России молодой" в провокации, из-за которой участников субботнего митинга несогласных забрали в милицию. Как сообщалось ранее, в самом начале "Митинга несогласных"  прокремлевские активисты разбросали на площади листовки "здесь собрались западные вурдалаки" и зажгли файеры. ...
+                        ]]></description>
+  <pubDate>Sun, 01 Nov 2009 16:25:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1257084006#2</guid>
+ </item>
+ <item>
+  <title>Президент против СМИ: Невидимая война</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/latamerica/20091101/156467566.html</link>
+  <description><![CDATA[
+                        Невозможно, вызвать хоть какую-то дискуссию, где принимают участие средства массовой информации, придерживающиеся радикальных позиций. Они утверждают, что самый лучший закон о СМИ - это его отсутствие. Эта позиция аналогична рыночной теории, которую защищает неолиберализм: не нужно регулирование и контроль, нужна конкуренция, когда сильные пожирают слабых. Каким образом может обычный гражданин конкурировать с «желтой прессой»? ...
+                        ]]></description>
+  <pubDate>Sun, 01 Nov 2009 16:32:00 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1257084006#3</guid>
+ </item>
+ <item>
+  <title>Комиссия: выборы в Ираке могут быть отложены</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091101/17/17.html?id=1866389</link>
+  <description><![CDATA[
+                        Всеобщие выборы в Ираке, намеченные на январь, могут быть отложены, если новое избирательное законодательство не будет утвеждено в ближайшие дни, заявила избирательная комиссия страны.  Ее руководитель Кассим аль-Аббуди заявил об этом после того, как парламент вновь отложил голосование по законопроекту.  Аль-Аббуди подчеркнул, что его ведмству необходимо уточнить процедуру, в частности, количество мест, квоты для женщин и меньшинств.  Споры парламентариев, обсуждающих избирательное ... ...
+                        ]]></description>
+  <pubDate>Sun, 01 Nov 2009 16:16:16 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1257084006#4</guid>
+ </item>
+ <item>
+  <title>Россия снижает ключевые ставки </title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/30Oct2009/wsj/bank.html</link>
+  <description><![CDATA[
+                        В четверг Центральный банк России снизит ставку рефинансирования на 0,5%. Эта мера будет нацелена на стимулирование банковского сектора и извлечение краткосрочного капитала с валютного рынка и рынка акций, дабы остановить дальнейшее укрепление рубля. ...
+                        ]]></description>
+  <pubDate>Fri, 30 Oct 2009 16:25:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1257084006#5</guid>
+ </item>
+ <item>
+  <title>Несанкционированная акция белорусской оппозиции в Куропатах завершилась без задержаний</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/01nov2009/kurop.html</link>
+  <description><![CDATA[
+                        Участники акции установили в Куропатах 10 новых деревянных крестов, которые они несли по всему маршруту шествия. Ранее они прошли по Минску. В шествии приняли участие представители практически всех правых партий и оппозиционных движений Белоруссии. ...
+                        ]]></description>
+  <pubDate>Sun, 01 Nov 2009 16:55:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1257084006#6</guid>
+ </item>
+ <item>
+  <title>При столкновении судов в Китае произошла утечка соляной кислоты</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/11/01/n_1420195.shtml</link>
+  <description><![CDATA[
+                        В Китае при столкновении двух грузовых судов на реке Янцзы произошла утечка промышленных химикатов. Как сообщает "Синьхуа", в результате столкновения судно, перевозившее около ста тонн соляной кислоты, начало тонуть. Члены ... ...
+                        ]]></description>
+  <pubDate>Sun, 01 Nov 2009 16:41:54 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1257084006#7</guid>
+ </item>
+ <item>
+  <title>Блондинка подает в суд на удмуртских судебных приставов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/6dcc996/l/0L0Ssecuritylab0Bru0Cnews0C3871910Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Выяснилось, что приставы не согласовали свои действия с блондинкой, изображение которой они использовали. Они просто взяли фотографии стилиста Яны Куликовой, чей настоящий аккаунт есть на сайте "Одноклассники", и начали спецоперацию по отлову должников. ...
+                        ]]></description>
+  <pubDate>Sat, 31 Oct 2009 16:36:07 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1257084006#8</guid>
+ </item>
+ <item>
+  <title>Московский «Спартак» разгромил «Ростов»</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/sport/football/2009/11/01/Moskovskiy___Spartak.phtml</link>
+  <description><![CDATA[
+                        Московский «Спартак» на своем поле разгромил футболистов «Ростова» со счетом 5:1, а «Томь» дома уступила столичному «Локомотиву» со счетом 1:3. ...
+                        ]]></description>
+  <pubDate>Sun, 01 Nov 2009 16:20:04 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1257084006#9</guid>
+ </item>
+ <item>
+  <title>Составлен рейтинг самых ненадежных автомобилей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/631244-echo.html</link>
+  <description><![CDATA[
+                        
+                         Список, автор которого – авторитетный американский журнал Consumer Reports – строится на количестве поломок новых машин...
+                          ...
+                        ]]></description>
+  <pubDate>Sun, 01 Nov 2009 16:34:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1257084006#10</guid>
+ </item>
+ <item>
+  <title>Свой среди чужих</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/261541/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/11/01/27337-163143-3481cde67011dc46aa0e74857f915d4f.jpg><br /><br />  ...
+                        ]]></description>
+  <pubDate>Sun, 01 Nov 2009 16:31:43 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1257084006#11</guid>
+ </item>
+  </channel>
+ </rss>

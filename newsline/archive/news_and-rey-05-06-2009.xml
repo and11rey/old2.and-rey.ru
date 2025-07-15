@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 05 Jun 2009 17:00:09 +0400</pubDate>
+         <lastBuildDate>Fri, 05 Jun 2009 17:00:09 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Взрыв в мечети в Пакистане унес более 30 жизней</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/06/090605_pakistan_blast_mosque.shtml</link>
+  <description><![CDATA[
+                        В результате взрыва бомбы в мечети на северо-западе Пакистана погибли более 30 человек. ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jun 2009 16:08:23 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1244206809#1</guid>
+ </item>
+ <item>
+  <title>На процесс по делу "Запретного искусства" не пустили журналистов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Culture/art/m.152065.html</link>
+  <description><![CDATA[
+                        На судебное заседание по делу о выставке "Запретное искусство-2006" не пустили  журналистов. Нескольких художников, пришедших поддержать обвиняемых организаторов выставки Андрея Ерофеева и Юрия Самодурова в майках с надписями "Возбуждаю ненависть", не пустили даже во двор здания. ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jun 2009 16:05:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1244206809#2</guid>
+ </item>
+ <item>
+  <title>Без прорыва ("ИноСМИ", Россия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/249676.html</link>
+  <description><![CDATA[
+                        Основной темой армянских и азербайджанских СМИ стало обсуждение итогов встречи в санкт-Петербурге президентов Армении и Азербайджан С.Саркисяна и И.Алиева, которая состоялась в рамках переговорного процесса по урегулированию нагорно-карабахского конфликта. ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jun 2009 16:31:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1244206809#3</guid>
+ </item>
+ <item>
+  <title>Взрыв в Пакистане: более 30 убитых, свыше 60 раненых</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1747640.html</link>
+  <description><![CDATA[
+                        Более 30 человек погибли и свыше 60 были ранены, по уточненным данным, сегодня в результате взрыва в мечети в районе Верхний Дир на северо-западе Пакистана.Верхний Дир находится недалеко от долины Сват, где продолжается операция пакистанских войск пр ... ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jun 2009 16:10:35 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1244206809#4</guid>
+ </item>
+ <item>
+  <title>Раскол с Германией - следующий пункт дипломатической программы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/05Jun2009/nytimes/raskol.html</link>
+  <description><![CDATA[
+                        Раскол между Германией и США стал медленно обозначаться на фоне официальных заявлений о согласии между двумя странами и недовольства, выказываемого в частном порядке. Это еще не кризис отношений, но существуют некоторые трения и разногласия. ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jun 2009 16:13:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1244206809#5</guid>
+ </item>
+ <item>
+  <title>Александр Поветкин готов выйти на ринг против "Доктора-Молота" 20-го июня</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/05jun2009/ready.html</link>
+  <description><![CDATA[
+                        Официальный претендент на титул чемпиона мира по боксу по версии IBF Александр Поветкин готов 20 июня выйти на ринг в Гельзенкирхене вместо британца Дэвида Хэя на поединок с чемпионом мира по версиям IBF и WBO украинцем Владимиром Кличко. ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jun 2009 16:50:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1244206809#6</guid>
+ </item>
+ <item>
+  <title>Экипаж МКС завершил выход в открытый космос</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/06/05/n_1369396.shtml</link>
+  <description><![CDATA[
+                        Россиянин Геннадий Падалка и астронавт NASA Майкл Барратт, несмотря на часовую задержку, связанную с дополнительным контролем новых скафандров, успешно выполнили все задачи первого планового выхода в открытый космос по российской ... ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jun 2009 16:54:39 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1244206809#7</guid>
+ </item>
+ <item>
+  <title>Microsoft подготовила к выходу очередную порцию патчей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/380915.php</link>
+  <description><![CDATA[
+                        В ближайший вторник Microsoft опубликует десять бюллетеней безопасности с описанием уязвимостей в операционных системах Windows различных версий, браузере Internet Explorer и офисных приложениях. 	 ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jun 2009 13:58:06 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1244206809#8</guid>
+ </item>
+ <item>
+  <title>Источник в правительстве назвал размер дыры в бюджете-2010</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/economics/2009/06/05/165219.html</link>
+  <description><![CDATA[
+                        Бюджет на 2010 год с учетом дефицита 5 % ВВП не поддается расчету Правительства РФ. "Пока не выходим на 5%. Скорее, на 5,5% с учетом всех источников покрытия дефицита, включая фонды", цитирует в пятницу источник в правительстве РИА Новости. Сообщается, что на параметр дефицита в 5% ВВП пока не... ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jun 2009 16:52:19 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1244206809#9</guid>
+ </item>
+ <item>
+  <title>Чёрное, надёжное золото. Уголь как ресурс России</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/56553/</link>
+  <description><![CDATA[
+                        Сегодня созрели условия для того, чтобы руководство России опять обратило свое внимание на уголь как один из серьёзных природных ресурсов страны... Главные геополитические конкуренты России на мировой арене планируют не снижать, а увеличивать добычу угля... За последние четверть века Китай увеличил добычу угля в 4,1 раза... В США в 1980 году добывали 753 миллиона тонн угля, а в 2007 году – 1118 миллионов тонн (второе после Китая место в мире)... ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jun 2009 17:00:16 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1244206809#10</guid>
+ </item>
+ <item>
+  <title>Фантастический музей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/254399/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/06/05/4103-154703-e02903456da01aa64aa93a5823f06435.jpg><br /><br />В Сиэтле существует «Музей Научной Фантастики», туалетную табличку из которого вы видите чуть выше. Само здание музея тоже довольно футуристично. ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jun 2009 15:47:03 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1244206809#11</guid>
+ </item>
+  </channel>
+ </rss>

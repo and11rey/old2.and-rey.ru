@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 14 Jan 2021 17:35:01 +0300</pubDate>
+         <lastBuildDate>Thu, 14 Jan 2021 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Коронавирус в мире: эксперты ВОЗ прибыли в Ухань, болезнь дает иммунитет на 5 месяцев
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-55633347</link>
+  <description><![CDATA[
+                        Группа экспертов ВОЗ приехала в китайский Ухань для расследования обстоятельств появления вируса Sars-cov-2, ставшего причиной пандемии. Ученые в Британии установили, что после болезни организм человека сохраняет иммунитет по меньшей мере в течение пяти месяцев, а британский теннисист Энди Маррей не смог улететь на Australian Open из-за положительного теста. ...
+                        ]]></description>
+  <pubDate>Thu, 14 Jan 2021 17:21:09 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1610634901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Росстат решил учитывать каршеринг и подписки при расчете инфляции. Меховые шапки и ковры из корзины уберут
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2021/01/14/rosstat-reshil-uchityvat-karshering-i-podpiski-pri-raschete-inflyatsii-mehovye-shapki-i-kovry-iz-korziny-uberut</link>
+  <description><![CDATA[
+                        Росстат изменил список товаров и услуг, цены на которые отслеживают для расчета инфляции. Об этом сообщается на сайте ведомства. ...
+                        ]]></description>
+  <pubDate>Thu, 14 Jan 2021 17:27:16 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1610634901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  За ужасным преступлением стоит страшная жизнь Лизы Монтгомери, первой женщины, казненной в США за 70 лет
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/14Jan2021/lefigaro/death.html?utm_source=rss</link>
+  <description><![CDATA[
+                        В детстве Лиза Монтгомери испытала ужасные вещи. 30 лет спустя нечто ужасное совершила она сама. Лиза, обвиненная в убийстве Бобби Джо Стиннетт, которой она вспорола живот и похитила ее ребенка, была казнена в тюрьме города Терре-Хот, штат Индиана. ...
+                        ]]></description>
+  <pubDate>Thu, 14 Jan 2021 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1610634901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Росздравнадзор запретил частным клиникам использовать вакцину Pfizer
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/31046496.html</link>
+  <description><![CDATA[
+                        О намерении вакцинировать клиентов американской вакциной заявляла израильская клиника, пользующаяся особым режимом в "Сколково". ...
+                        ]]></description>
+  <pubDate>Thu, 14 Jan 2021 17:09:05 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1610634901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Кубок мира по биатлону. Казакевич провалила «стойку». Девочки, что со стрельбой? LIVE - Чемпионат
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMikgFodHRwczovL3d3dy5jaGFtcGlvbmF0LmNvbS9iaWF0aGxvbi9hcnRpY2xlLTQyNDA5MTctYmlhdGxvbi1rdWJvay1taXJhLTIwMjAtMjAyMS1vYmVyaG9mLXpoZW5za2lqLXNwcmludC1vbmxham4tdHJhbnNseWFjaXlhLTE0LXlhbnZhcnlhLTIwMjEuaHRtbNIBkgFodHRwczovL2FtcC5jaGFtcGlvbmF0LmNvbS9iaWF0aGxvbi9hcnRpY2xlLTQyNDA5MTctYmlhdGxvbi1rdWJvay1taXJhLTIwMjAtMjAyMS1vYmVyaG9mLXpoZW5za2lqLXNwcmludC1vbmxham4tdHJhbnNseWFjaXlhLTE0LXlhbnZhcnlhLTIwMjEuaHRtbA?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 14 Jan 2021 17:16:20 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1610634901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Возбуждено дело о жестоком обращении с животными в иркутском приюте "Пять звезд"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/14jan2021/dogknzlagirk.html?utm_source=rss</link>
+  <description><![CDATA[
+                        По данным зоозащитников, за 12 лет в регионе умерщвлено 50 тысяч собак и кошек, причем все контракты на отлов животных получает владелец приюта &#34;Пять звезд&#34;. Активисты говорят, что многих собак убивают сразу после отлова, а остальные умирают в приюте мучительной смертью. ...
+                        ]]></description>
+  <pubDate>Thu, 14 Jan 2021 17:03:51 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1610634901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Sony MZ-RH1 — последний минидисковый рекордер
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/537356/?utm_campaign=537356&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        Рано или поздно любая задача, над которой ты работал много лет, вложил душу и время, перестает быть актуальной. Руководство перебрасывает бюджет и ресурсы на горячие направления, уходят ищущие новых вызовов талантливые коллеги. При этом есть огромный список идей, бэклог улучшений, еще бы работать и работать, но нет - рынок уехал в другую сторону, технологии сменились, высший менеджмент, ранее вызывавший на ковер ежедневно, уже и не вспоминает про бывший флагманский продукт. В большинстве случаев ...
+                        ]]></description>
+  <pubDate>Thu, 14 Jan 2021 17:07:17 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1610634901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Объявлены получатели грантов Президента на развитие гражданского общества
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/administration/64893</link>
+  <description><![CDATA[
+                        Под
+председательством Первого заместителя Руководителя Администрации Президента
+Сергея Кириенко состоялось заседание Координационного комитета по проведению
+конкурсов на предоставление грантов Президента на развитие гражданского
+общества, на котором были подведены итоги первого конкурса 2021 года.    ...
+                        ]]></description>
+  <pubDate>Thu, 14 Jan 2021 16:25:03 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1610634901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Политолог рассказал, улучшатся ли отношения РФ и США при Байдене
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/282/249531-politolog-rasskazal-ulucsatsa-li-otnosenia-rf-i-ssa-pri-bajdene</link>
+  <description><![CDATA[
+                        Американские аналитики полагают, что отношения Москвы и Вашингтона потеплеют при Джо Байдене. ...
+                        ]]></description>
+  <pubDate>Thu, 14 Jan 2021 17:07:57 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1610634901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  14.01.2021 17:33 : Курс евро на Московской бирже этим вечером опустился до 89 рублей
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2773868-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Это произошло впервые с середины декабря прошлого года. Эксперты агентства «Интерфакс» сказали, что рубль активно повышается к доллару и евро благодаря позитивным    сигналам с внешних  рынков  и  подготовке компаний-экспортеров  к налоговому периоду января. Поддержку рублю также оказывают высказывания представителей Банка России, что они пока не видят веских  оснований  для  продолжения  снижения  ключевой ставки. В то же время инвесторов по-прежнему беспокоит рост числа заражений коронавиру ...
+                        ]]></description>
+  <pubDate>Thu, 14 Jan 2021 17:33:31 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1610634901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В "Газпроме" заявили, что поставщики газа занялись стабилизацией рынка в ущерб выгоде
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/business/745188</link>
+  <description><![CDATA[
+                        Поставщики трубопроводного газа в Европу (крупнейшим из который является "Газпром") в прошлом году взяли на себя ответственность за стабилизации рынка, даже в ущерб собственной выгоде, заявила зампред "Газпрома" Елена Бурмистрова в обращении к "Гайдаровскому форуму". ...
+                        ]]></description>
+  <pubDate>Thu, 14 Jan 2021 17:22:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1610634901#48</guid>
+ </item>
+  </channel>
+ </rss>

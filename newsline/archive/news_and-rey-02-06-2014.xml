@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 02 Jun 2014 17:35:03 +0400</pubDate>
+         <lastBuildDate>Mon, 02 Jun 2014 17:35:03 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Паводок в Алтайском крае движется к Барнаулу
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2014/06/140602_altai_floods_evacuation.shtml</link>
+  <description><![CDATA[
+                        Оперативное предупреждение в связи с угрозой подтопления было объявлено в понедельник в Барнауле в Алтайском крае. Из-за паводков в этом регионе, а также республиках Алтай, Хакасия и Тува действует режим ЧС. ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jun 2014 16:58:42 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1401716103#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Ингушетии взорвали военных и полицейских
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/Terror/m.229908.html</link>
+  <description><![CDATA[
+                        В Сунженском районе Ингушетии у селения Берд-Юрт прогремели два взрыва. Первый произошел, когда по дороге проезжала колонна военных; пострадали двое. Второй раздался после прибытия на место инцидента полиции. Ранены трое полицейских, в том числе, по предварительным данным, начальник райотдела МВД. 31 мая в районе ввели режим КТР. ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jun 2014 16:43:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1401716103#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Казахстан как модель сотрудничества с Россией для Украины
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/ukraine/20140602/220742145.html</link>
+  <description><![CDATA[
+                        Победивший на президентских выборах в Украине Петр Порошенко обещает начать переговоры с Москвой и наладить отношения между двумя странами. Сейчас на востоке Украины продолжаются бои, экономика страны движется к краху, а западная сочувственная риторика не подкрепляется ни конкретными шагами, ни долларами. На этом фоне Порошенко и его окружение могут решить, что им стоит поучиться у Казахстана тому, как иметь дело с русским медведем. ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jun 2014 17:34:09 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1401716103#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Король Испании передал трон наследному принцу Фелипе
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/content/article/25407357.html</link>
+  <description><![CDATA[
+                        Испанский король Хуан Карлос объявил об отречении от престола, передав трон сыну, наследному принцу Фелипе. В телеобращении 76-летний монарх сказал, что настало время передать бразды правления молодому и энергичному поколению,  способному осуществить необходимые реформы.
+
+Хуан Карлос занимал испанский трон с 1975 года. До него в Испании не было короля в течение почти тридцати лет – в период правления генерала Франко.
+
+По конституции Испании король является главой государства и... ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jun 2014 17:03:01 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1401716103#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Ополченцы захватили райотдел милиции в Донецке - Lenta.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNFkmK7EkwZ0X-wLRinycfoDIUBfAQ&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52778846438176&amp;ei=iH2MU6DrOqaByQPrkoGIDg&amp;url=http://lenta.ru/news/2014/06/02/milicia/</link>
+  <description><![CDATA[
+                        Сторонники самопровозглашенной Донецкой народной республики захватили Шахтерский райотдел милиции в Донецке. Об этом сообщает «Остров» со ссылкой на источник в правоохранительных органах. По данным издания, в ходе штурма был убит один человек, еще одинВ ... ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jun 2014 17:28:45 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1401716103#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Минске открывается Четвертый православно-католический форум
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/religy/02jun2014/forum.html</link>
+  <description><![CDATA[
+                        О своем участии в форуме заявили известные богословы, религиоведы и философы более чем из 20 стран мира. Одной из главных тем форума станет духовный кризис Европы. Представители двух крупнейших христианских конфессий будут говорить о путях выхода из него. Столь масштабная встреча на белорусской земле состоится впервые в современной истории. ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jun 2014 17:30:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1401716103#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Хочешь жить — умей вертеться. История компании CDNvideo
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/post/95081/</link>
+  <description><![CDATA[
+                        В основе любой работы должны лежать принципы. Мы с самого начала используем «принципы успеха» основателя Panasonic Коносуке Мацусита из одноименной книги. Его взгляд отличается от всего, чему учат западные бизнес-гуру, и мне кажется, что у нас в России работают именно советы знаменитого японца.
+
+Главное, чему учит Мацусита — все возможности для бизнеса можно найти прямо у себя под носом. Надо найти инвесторов и клиентов для нового бизнеса? Поспрашивай у своих друзей в «Одноклассниках». Нужно сде ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jun 2014 16:27:39 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1401716103#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Участникам и гостям «Фестиваля российской культуры в Японии – 2014»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.kremlin.ru/letters/45819</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jun 2014 16:45:00 +0400</pubDate>
+  <source url="http://www.kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1401716103#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Украинская авиация якобы обстреляла здание Луганской обладминистрации
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/accident/incident/2014/06/02/Ukrainskiy_samolyet_.phtml</link>
+  <description><![CDATA[
+                        Самолет воздушных сил Украины днем в понедельник якобы обстрелял здание Луганской областной госадминистрации. В здании начался сильный пожар. В результате как минимум пять человек погибли. ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jun 2014 17:28:11 +0400</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1401716103#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Ласточкино гнездо
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/img.d3.ru/comments/564407</link>
+  <description><![CDATA[
+                        
+		
+				<img src="http://std3.ru/fa/ab/1401704423-faab2ff6ae22f408d4ed80222fe4033b.jpg" alt=""><br>
+		
+	
+		Снимаю на планшет.
+	
+
+ ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jun 2014 17:35:08 +0400</pubDate>
+  <source url="http://d3.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1401716103#34</guid>
+ </item>
+  </channel>
+ </rss>

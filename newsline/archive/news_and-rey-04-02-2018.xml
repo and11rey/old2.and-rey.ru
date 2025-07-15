@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 04 Feb 2018 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sun, 04 Feb 2018 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Пекин осудил ядерный план США за "подход времен холодной войны"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/news-42937098</link>
+  <description><![CDATA[
+                        Китай присоединился к России, раскритиковавшей объявленный Вашингтоном план по разработке атомных бомб малой мощности и диверсификации своего ядерного арсенала. ...
+                        ]]></description>
+  <pubDate>Sun, 04 Feb 2018 17:24:52 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1517754901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Южной Каролине пассажирский поезд столкнулся с товарным составом. Два человека погибли, 70 ранены
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/02/04/v-yuzhnoy-karoline-passazhirskiy-poezd-stolknulsya-s-tovarnym-sostavom-dva-cheloveka-pogibli-70-raneny</link>
+  <description><![CDATA[
+                        В Южной Каролине потерпел крушение пассажирский поезд, следовавший из Нью-Йорка в Майами. Он столкнулся с товарным составом, несколько вагонов при этом сошли с рельсов. ...
+                        ]]></description>
+  <pubDate>Sun, 04 Feb 2018 16:43:28 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1517754901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Стычки между мигрантами в Кале: глава МВД Франции сказал, что не хочет их "закрепления"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/02Feb2018/lemonde/calais.html?utm_source=rss</link>
+  <description><![CDATA[
+                        В четверг во французском Кале произошло несколько драк между афганцами и эритрейцами, ранения получил 21 человек. Глава МВД заявил, что власти не хотели бы "закрепления" мигрантов в Кале: "Если они хотят ехать в Британию, то не надо приезжать сюда". ...
+                        ]]></description>
+  <pubDate>Fri, 02 Feb 2018 20:45:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1517754901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Саакашвили провёл в Киеве шествие за отставку Порошенко
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29017452.html</link>
+  <description><![CDATA[
+                        Участники акции говорят, что их было "около десяти тысяч" ...
+                        ]]></description>
+  <pubDate>Sun, 04 Feb 2018 16:25:21 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1517754901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Двое мужчин погибли в Омске при обрушении стены нежилого дома
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/ria.ru/incidents/20180204/1513954442.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 04 Feb 2018 16:41:26 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1517754901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Матвиенко пообещала поднять на международном уровне вопрос о реформе  МОК и  WADA
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/04feb2018/matvienko.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Так спикер Совета Федерации отреагировала на заявление  главы МОК Томаса Баха о необходимости реформирования Спортивного арбитражного суда  в Лозанне, который оправдал российских олимпийцев. ...
+                        ]]></description>
+  <pubDate>Sun, 04 Feb 2018 17:16:40 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1517754901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Из песочницы] Почти случившийся полет к Луне
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/297865/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=297865</link>
+  <description><![CDATA[
+                        Редкий пилотируемый Протон. Ну почти.
+
+Не все модели пилотируемых космических кораблей доходят до полноценного полета с экипажем. На этом можно было бы и закончить, но дальнейшая судьба такого корабля может сложиться по разному. Буран, советский ответ Спейс Шаттлу совершил лишь один испытательный полет. И в глазах многих он уже одним этим полетом превзошел Шаттл, сделав в беспилотном режиме то, что на Шаттле всегда делали пилоты. В итоге, по своей известности он может поспорить с некоторыми кора ...
+                        ]]></description>
+  <pubDate>Sun, 04 Feb 2018 16:18:30 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1517754901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  75-летие победы в Сталинградской битве
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56772</link>
+  <description><![CDATA[
+                        В день 75-летия победы в Сталинградской битве Президент посетил музей-заповедник «Сталинградская битва» на Мамаевом кургане. Глава государства возложил венок к Вечному огню в Зале воинской славы и почтил память погибших минутой молчания.      ...
+                        ]]></description>
+  <pubDate>Sun, 04 Feb 2018 14:34:43 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1517754901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Москвичам лучше пересесть на метро
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/130/social/society/193591-moskvicam-lucse-peresest-na-metro</link>
+  <description><![CDATA[
+                        Загруженность московских дорог в воскресенье из-за снегопада достигла 6 баллов. ...
+                        ]]></description>
+  <pubDate>Sun, 04 Feb 2018 17:19:39 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1517754901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  04.02.2018 17:32 : Борис Титов встретился в Лондоне с бизнесменами, покинувшими Россию из-за уголовного преследования
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2141946-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Уполномоченный по защите прав предпринимателей Борис Титов встретился в Лондоне с бизнесменами, покинувшими Россию из-за уголовного преследования. После этого он передал президенту Путину список тех предпринимателей, которые хотели бы вернуться на родину. Имен бизнесменов Титов не назвал. В списке 10 человек. Титов отметил, что речь идет о делах, расследование которых в России приостановлено.
+ ...
+                        ]]></description>
+  <pubDate>Sun, 04 Feb 2018 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1517754901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Тысячи противников компромисса с Македонией вышли на митинг в Афинах
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/598451</link>
+  <description><![CDATA[
+                        Десятки тысяч человек вышли в воскресенье на массовую демонстрацию в центре Афин с призывом к властям Греции отказаться от компромисса с Македонией относительно названия македонского государства, сообщают западные СМИ. ...
+                        ]]></description>
+  <pubDate>Sun, 04 Feb 2018 17:02:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1517754901#48</guid>
+ </item>
+  </channel>
+ </rss>

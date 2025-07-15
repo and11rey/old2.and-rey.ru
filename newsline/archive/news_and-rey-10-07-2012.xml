@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 10 Jul 2012 17:00:03 +0400</pubDate>
+         <lastBuildDate>Tue, 10 Jul 2012 17:00:03 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Британия: семье для жизни нужно 37 тыс. фунтов в год
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/uk/2012/07/120710_british_family_minimum_income.shtml</link>
+  <description><![CDATA[
+                        Семье с двумя детьми нужно 36800 фунтов ежегодно, чтобы вести "приемлемый в обществе" образ жизни, заявляет британская благотворительная организация, которая борется с бедностью. ...
+                        ]]></description>
+  <pubDate>Tue, 10 Jul 2012 16:00:00 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1341925203#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ЕСПЧ рассмотрит жалобу на арест участниц Pussy Riot
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/World/Europe/m.198940.html</link>
+  <description><![CDATA[
+                        Европейский суд по правам человека рассмотрит в приоритетном порядке жалобу на незаконное содержание под стражей участниц панк-группы Pussy Riot, обвиняемых по делу о хулиганстве в храме Христа Спасителя. Об этом сообщила в своем твиттере адвокат Виолетта Волкова. Мосгорсуд признал арест Надежды Толоконниковой, Марии Алехиной и Екатерины Самуцевич законным.  ...
+                        ]]></description>
+  <pubDate>Tue, 10 Jul 2012 16:26:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1341925203#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Русскоязычная "Википедия" закрыта в знак протеста против цензуры
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/10Jul2012/forbes/wiki.html</link>
+  <description><![CDATA[
+                        Русскоязычная "Википедия" временно прекратила работу во вторник утром в знак протеста против законопроекта о создании реестра сайтов с запрещенной информацией. Экс-президент Медведев обещал, что правительство не будет ограничивать доступ к интернету. ...
+                        ]]></description>
+  <pubDate>Tue, 10 Jul 2012 16:45:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1341925203#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Александр Починок - в прямой видеотрансляции на сайте РС
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/24640793.html</link>
+  <description><![CDATA[
+                        Каковы реальные возможности региональной власти в России? Экс-министр социального развития - в 19:07. ...
+                        ]]></description>
+  <pubDate>Tue, 10 Jul 2012 16:52:14 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1341925203#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В московском тоннеле загорелась "Газель" с газовым баллоном - РБК - RBC.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNFwgIPJmmwdpBl0-i-XxtWhRQcJHQ&amp;url=http://top.rbc.ru/incidents/10/07/2012/659284.shtml</link>
+  <description><![CDATA[
+                        Как сообщили РБК в МЧС, инцидент произошел в Северо-Западном тоннеле, связывающем проспект Маршала Жукова с Новорижским шоссе. Тушение осложнялось тем, что в тоннеле было много машин, двигавшихся в сторону области. В результате спустя полчаса после сообщения о возгорании пожарным удалось ... ...
+                        ]]></description>
+  <pubDate>Tue, 10 Jul 2012 16:47:43 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1341925203#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Антимонопольщики оштрафуют "Сбербанк" на 100 тысяч рублей за незаконные комиссии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/10jul2012/100sber.html</link>
+  <description><![CDATA[
+                        "Сбербанк" незаконно взимал комиссию с клиентов за перечисление в бюджет страхового взноса по обязательному страхованию на случай временной нетрудоспособности в размере 3%, выснило пермское Управление ФАС. Банк признал нарушение и будет оштрафован на минимальную сумму. ...
+                        ]]></description>
+  <pubDate>Tue, 10 Jul 2012 16:59:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1341925203#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Synology® представила DiskStation Manager 4.1 Beta
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/post/147505/</link>
+  <description><![CDATA[
+                        
+
+Компания Synology® объявила о выпуске бета-версии новой операционной системы DiskStation Manager (DSM) 4.1. 
+
+Новая ОС предлагает пользователям:
+
+Передовые и надежные решения в области хранения данных для виртуальной инфраструктуры
+Повышение эффективности бизнеса и системы управления благодаря развертыванию таких сервисов, как Cloud Station, Syslog Server и Mail Server
+Создание эффективной системы распределения ресурсов и применение высокопроизводительных решений, для совместного использования ...
+                        ]]></description>
+  <pubDate>Tue, 10 Jul 2012 16:32:46 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1341925203#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Заседание Комиссии по вопросам стратегии развития ТЭК и экологической безопасности
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.kremlin.ru/news/15912</link>
+  <description><![CDATA[
+                        Владимир Путин провёл первое заседание Комиссии при Президенте по вопросам стратегии развития топливно-энергетического комплекса и экологической безопасности. Обсуждались приоритетные направления работы Комиссии. ...
+                        ]]></description>
+  <pubDate>Tue, 10 Jul 2012 14:00:00 +0400</pubDate>
+  <source url="http://www.kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1341925203#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Строительство домов взамен разрушенных наводнением на Кубани обойдется в 800 млн
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/realty/city/2012/07/10/Stroityelstvo_domov_.phtml</link>
+  <description><![CDATA[
+                        Свыше 2 млн рублей выделяется на строительство каждого нового дома для жителей Краснодарского края, потерявших жилье из-за наводнения. ...
+                        ]]></description>
+  <pubDate>Tue, 10 Jul 2012 16:46:46 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1341925203#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  10.07.2012 16:33 : Сторожевик Черноморского  флота РФ  "Сметливый" направляется  в Сирию
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/907761-echo.html</link>
+  <description><![CDATA[
+                        
+
+Сторожевой корабль Черноморского флота  России "Сметливый" вышел во вторник  из Севастополя в Средиземное  море,  где зайдет в сирийский порт Тартус, сообщил "Интерфаксу"  военно-дипломатический источник. "Корабль вышел из Севастопольской  бухты  сегодня утром.  В  среду  "Сметливый" пройдет пролив Босфор и Черноморские проливы. Через три  дня  сторожевик должен зайти для пополнения запасов в сирийский порт Тартус",  - сказал собеседник агентства. По его словам, в Средиземном море корабль Черн ...
+                        ]]></description>
+  <pubDate>Tue, 10 Jul 2012 16:33:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1341925203#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Свитер от сглаза
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/353629/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2012/07/10/5170-163535-ef2c6fe3d49138b10a930c80d8d9190f.jpg><br /><br />Одежда со встроенными амулетами, уберегающая хипстера от злого глаза. ...
+                        ]]></description>
+  <pubDate>Tue, 10 Jul 2012 16:35:35 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1341925203#34</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 18 Feb 2019 17:35:04 +0300</pubDate>
+         <lastBuildDate>Mon, 18 Feb 2019 17:35:04 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Как малазийцы борются с нелегальными свалками
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/media-47259885</link>
+  <description><![CDATA[
+                        Малазийские активисты ищут незаконные свалки мусора и жалуются правительству. И это работает. ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2019 17:26:35 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1550500504#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Как переехать из одной страны в другую, перевезти больше тонны вещей да еще и сэкономить!
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/episodes/2019/02/18/kak-pereehat-iz-odnoy-strany-v-druguyu-perevezti-bolshe-tonny-veschey-da-esche-i-sekonomit</link>
+  <description><![CDATA[
+                        Саша Поливанов расспрашивает Илью Красильщика про переезд из Латвии в Россию. Что взять с собой, а что оставить? Сколько багажа можно провести бесплатно? Как сэкономить? Чем переезд похож на тетрис, а чем — на запуск стартапа ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2019 17:09:03 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1550500504#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  "Гроссофобия" медперсонала препятствует лечению пациентов с ожирением
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/18Feb2019/lefigaro/grossophobia.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Проведенные во Франции исследования показывают, что работники здравоохранения менее терпимы к пациентам с ожирением. В целях борьбы с этой "гроссофобией" предпринимаются специальные меры. ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2019 17:35:06 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1550500504#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Россия уничтожила ракеты С-400, которые были проданы в Китай
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29776857.html</link>
+  <description><![CDATA[
+                        По словам главы "Ростеха", части зенитно-ракетного комплекса были повреждены во время транспортировки ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2019 17:20:00 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1550500504#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Назван самый популярный автомобиль в Москве - РИА Новости
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/ria.ru/20190218/1551036248.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2019 16:50:20 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1550500504#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Белые медведи покинули поселок на Новой Земле - Росприроднадзор
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/18feb2019/polarbears.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Хищники ушли дальше от жилищ человека, поскольку в районе Новой Земли появился лед, с которого они могут охотиться. В итоге белые медведи &#34;потеряли интерес к помойкам&#34;, в которых они ранее пытались найти пищу. ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2019 17:09:17 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1550500504#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Как смотреть в завтрашний день игрофикаючи
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/440680/?utm_campaign=440680</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2019 16:49:37 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1550500504#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с президентом ПАО «Ростелеком» Михаилом Осеевским
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/59849</link>
+  <description><![CDATA[
+                        М.Осеевский информировал Президента об итогах работы «Ростелекома» за 2018 год и планах реализации новой пятилетней стратегии.      ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2019 12:43:49 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1550500504#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Мовчан: арест Майкла Калви - произвол
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/283/economy/finance/213197-movcan-arest-majkla-kalvi-proizvol</link>
+  <description><![CDATA[
+                        Фактически состояние дел в России следует назвать произволом, так как именно он обеспечивает стабильность положения нынешней правящей элиты. ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2019 17:34:19 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1550500504#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  18.02.2019 17:32 : В Петербурге эвакуированы посетители всех «Макдоналдсов» из-за сообщения о минировании
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2373593-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Посетители и сотрудники всех ресторанов «Макдоналдс» в Петербурге эвакуированы в понедельник из-за анонимного сообщения о минировании. Об этом ТАСС сообщил источник в правоохранительных органах.
+ ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2019 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1550500504#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Митрохин обжалует в ЕСПЧ штраф за акцию против застройки Кунцево
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/651056</link>
+  <description><![CDATA[
+                        Мосгорсуд признал законным штраф в 150 тысяч рублей, назначенный бывшему руководителю московского "Яблока" Сергею Митрохину после задержания на митинге против застройки района Кунцево. ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2019 17:22:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1550500504#48</guid>
+ </item>
+  </channel>
+ </rss>

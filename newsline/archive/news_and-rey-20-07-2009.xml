@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 20 Jul 2009 17:00:05 +0400</pubDate>
+         <lastBuildDate>Mon, 20 Jul 2009 17:00:05 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Подозреваемый в нападениях в Мумбаи признал вину</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/07/090720_mumbai_trial.shtml</link>
+  <description><![CDATA[
+                        Единственный оставшийся в живых боевик, подозреваемый в нападениях на индийский город Мумбаи в ноябре 2008 года, признал себя виновным. ...
+                        ]]></description>
+  <pubDate>Mon, 20 Jul 2009 16:44:38 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1248094805#1</guid>
+ </item>
+ <item>
+  <title>Трое военнослужащих Минобороны ранены в Чечне</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/War/Chechnya/m.154211.html</link>
+  <description><![CDATA[
+                        Неизвестные обстреляли из гранатомета в горах Чечни военнослужащих Минобороны – трое военных ранены. С места происшествия изъяты фрагменты снаряда от РПГ. Грозненский межрайонный следственный отдел СУ СКП по Чечне проводит доследственную проверку. ...
+                        ]]></description>
+  <pubDate>Mon, 20 Jul 2009 16:09:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1248094805#2</guid>
+ </item>
+ <item>
+  <title>Обзор СМИ стран СНГ и Балтии (20.07) ("ИноСМИ", Россия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/250862.html</link>
+  <description><![CDATA[
+                        Российские исторические институты и отдельные исследователи непропорционально много времени уделяют тому, что происходит в историческом дискурсе соседних государств, забывая, что в их собственном прошлом есть немало недоисследованных моментов. В частности, речь идет о фактах массового сотрудничества россиян в период Второй мировой войны с нацистской Германией. ...
+                        ]]></description>
+  <pubDate>Mon, 20 Jul 2009 16:34:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1248094805#3</guid>
+ </item>
+ <item>
+  <title>В России подписан закон об упрощении налогообложения малого бизнеса </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090720/17/17.html?id=1781017</link>
+  <description><![CDATA[
+                        Президент России подписал закон, расширяющий возможности перехода к упрощенной системе налогообложения предприятиями малого бизнеса. В частности, он предусматривает увеличение в три раза - с 15 до 45 миллионов рублей - максимально возможной суммы текущего годового дохода компании, при которой она получает возможность перехода на упрощенную систему налогообложения своего бизнеса. Эта система предусматривает замену сразу нескольких налогов (в том числе подоходного, единого социального и НДС) ... ...
+                        ]]></description>
+  <pubDate>Mon, 20 Jul 2009 16:12:26 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1248094805#4</guid>
+ </item>
+ <item>
+  <title>Неонацисты в Монголии: свастики против Китая</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/20Jul2009/time/mongol.html</link>
+  <description><![CDATA[
+                        В Улан-Баторе действуют три ультранационалистические группировки, насчитывающие несколько тысяч человек. Неонацисты, хотя и находятся на обочине общественной жизни, представляют собой крайнее проявление нынешнего истинного национализма. ...
+                        ]]></description>
+  <pubDate>Mon, 20 Jul 2009 16:10:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1248094805#5</guid>
+ </item>
+ <item>
+  <title>Минздрав: "простаивают" в России более 1,5 млн человек, они не уволены и не работают</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/20jul2009/bezrab.html</link>
+  <description><![CDATA[
+                        По последним данным Минздравсоцразвития, с начала экономического кризиса были уволены около 550 тысяч россиян, из которых менее трети сумели найти работу. ...
+                        ]]></description>
+  <pubDate>Mon, 20 Jul 2009 16:53:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1248094805#6</guid>
+ </item>
+ <item>
+  <title>Первый канал Грузии подтвердил отставку своего гендиректора</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/07/20/n_1384618.shtml</link>
+  <description><![CDATA[
+                        Генеральный директор Общественного вещателя Грузии (ОВГ) - Первого канала Леван Кубанеишвили подал в отставку.
+В информационном выпуске Первого канала в понедельник было сказано, что Кубанеишвили несколько часов назад подал заявление об ... ...
+                        ]]></description>
+  <pubDate>Mon, 20 Jul 2009 16:53:34 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1248094805#7</guid>
+ </item>
+ <item>
+  <title>Cisco представила Midyear Security Report</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/382741.php</link>
+  <description><![CDATA[
+                        В отчете Cisco говорится, что  что сетевые преступники все чаще действуют как заправские корпорации, заимствуя у законопослушных компаний успешный опыт ведения бизнеса и устанавливая между собой партнерские отношения, чтобы повысить прибыльность своих противозаконных действий.	 ...
+                        ]]></description>
+  <pubDate>Mon, 20 Jul 2009 14:38:06 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1248094805#8</guid>
+ </item>
+ <item>
+  <title>На Пальма-де-Майорке увидят Кубок «Семь футов»</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/extreme/water/2009/07/20/seven_feet_cup_final.phtml</link>
+  <description><![CDATA[
+                        Россияне Андрей Арбузов и Сергей Мусихин разыграли между собой бронзовые медали Кубка «Семь футов», который завершился во Владивостоке. В итоге победу праздновал Андрей, который, несмотря на поражение в первой гонке, сумел собраться и дать бой чемпиону Европы по матчевым гонкам. ...
+                        ]]></description>
+  <pubDate>Mon, 20 Jul 2009 16:54:31 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1248094805#9</guid>
+ </item>
+ <item>
+  <title>Украинское село переживает "день сурка"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/58046/</link>
+  <description><![CDATA[
+                        Украина успешно возвращается к историческим корням в виде феодализма ...
+                        ]]></description>
+  <pubDate>Mon, 20 Jul 2009 16:31:00 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1248094805#10</guid>
+ </item>
+ <item>
+  <title>Пост № 256429</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/256429/#new</link>
+  <description><![CDATA[
+                        Из-за внезапно изменившегося лицензионного соглашения, у пользователей Amazon Kindle (электронных девайсов для чтения) стерлись некоторые ранее купленные книги. Что примечательно, это были «1984» и «Скотный двор» Дж. Оруэлла. Старший Брат смотрит на тебя. ...
+                        ]]></description>
+  <pubDate>Mon, 20 Jul 2009 15:45:14 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1248094805#11</guid>
+ </item>
+  </channel>
+ </rss>

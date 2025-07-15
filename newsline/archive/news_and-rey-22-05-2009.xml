@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 22 May 2009 17:00:08 +0400</pubDate>
+         <lastBuildDate>Fri, 22 May 2009 17:00:08 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>В Сомали армия начала операцию против исламистов </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/05/090522_somali_mogadishu.shtml</link>
+  <description><![CDATA[
+                        Правительственные войска Сомали начали крупномасштабную операцию против радикальных исламистов в Могадишо в попытке отвоевать у них ряд районов столицы. ...
+                        ]]></description>
+  <pubDate>Fri, 22 May 2009 16:28:53 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1242997208#1</guid>
+ </item>
+ <item>
+  <title>Курс доллара к рублю снизился на 26 копеек</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Economy/m.151427.html</link>
+  <description><![CDATA[
+                        Официальный курс доллара к рублю, установленный Центробанком на 23-25 мая составляет 31,20 рубля за доллар. По сравнению со значением предыдущего дня курс снизился на 26 копеек. Уровень ликвидности остается стабильным. ...
+                        ]]></description>
+  <pubDate>Fri, 22 May 2009 16:32:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1242997208#2</guid>
+ </item>
+ <item>
+  <title>Кавказские треугольники ("Al Ahram", Арабская пресса)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/249311.html</link>
+  <description><![CDATA[
+                        Нынешняя ситуация в гонке за влияние на Кавказе выглядит следующим образом: Россия лидирует, Турция чуть-чуть отстает, наступая ей на пятки, а Иран идет третьим. Однако эта динамика событий позволяет нам извлечь третий урок: иерархия региональных держав не меняется в одночасье - для этого необходим длительный и сложный процесс, в рамках которого экономические, политические и стратегические активы задействуются реалистичным, рациональным и решительным образом. ...
+                        ]]></description>
+  <pubDate>Fri, 22 May 2009 16:49:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1242997208#3</guid>
+ </item>
+ <item>
+  <title>Джо Байден посещает Ливан</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1737436.html</link>
+  <description><![CDATA[
+                        Вице-президент США Джо Байден посещает Ливан - за две недели до парламентских выборов в этой стране. После встречи с президентом Ливана Мишелем Сулейманом Байден заявил, что его визит не следует рассматривать как поддержку какой-либо из политических ... ...
+                        ]]></description>
+  <pubDate>Fri, 22 May 2009 16:48:28 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1242997208#4</guid>
+ </item>
+ <item>
+  <title>Россия и Украина вступили в противоборство из-за своей общей истории</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/22May2009/time/history.html</link>
+  <description><![CDATA[
+                        Не успел затихнуть январский газовый конфликт между Украиной и Россией, как эти страны снова вступили в противоборство друг с другом. Последние события знаменуют собой обострение словесной войны между странами по поводу их тесно связанной истории. ...
+                        ]]></description>
+  <pubDate>Fri, 22 May 2009 16:40:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1242997208#5</guid>
+ </item>
+ <item>
+  <title>В штате Висконсин ищут человека в костюме обезьяны, ворующего муляжи бананов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/22may2009/aperobber.html</link>
+  <description><![CDATA[
+                        Неизвестный хулиган "грабит" только бензозаправки. За последние два дня он совершил три попытки, и хотя только одна была успешной, владельцы забили тревогу. Человек-обезьяна действует не один, с ним видели молодую женщину и мужчину. Они передвигаются на старом белом автомобиле. ...
+                        ]]></description>
+  <pubDate>Fri, 22 May 2009 16:50:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1242997208#6</guid>
+ </item>
+ <item>
+  <title>Россия хочет  оплатить Украине транзит газа авансом на 5 лет</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/05/22/n_1364596.shtml</link>
+  <description><![CDATA[
+                        Россия предлагает Украине осуществить авансовые платежи за транзит российского газа через ее территорию на срок до пяти лет - для оплаты Киевом газа, необходимого для закачки в украинские ПХГ, заявил в пятницу премьер России Владимир ... ...
+                        ]]></description>
+  <pubDate>Fri, 22 May 2009 16:41:24 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1242997208#7</guid>
+ </item>
+ <item>
+  <title>Заинтересованность судьи в деле Pirate Bay определит другой заинтересованный судья</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/380085.php</link>
+  <description><![CDATA[
+                        Апелляционный суд решил рассмотреть вопрос о связях судьи, вынесшего недавно обвинительный приговор владельцам Pirate Bay, с организациями по защите авторских прав. 	 ...
+                        ]]></description>
+  <pubDate>Fri, 22 May 2009 15:20:28 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1242997208#8</guid>
+ </item>
+ <item>
+  <title>"Форд" во Всеволожске остановил конвейер до пятого июня</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/auto/2009/05/22/165222.html</link>
+  <description><![CDATA[
+                        Руководство завода "Форд" во Всеволожске приняло решение о временной приостановке конвейера с 25 мая по 5 июня. Об этом сообщила директор по связям с общественностью "Форд Мотор Компани" Екатерина Кулиненко. По ее словам, решение было принято в связи с тем, что сократился спрос на автомобили и... ...
+                        ]]></description>
+  <pubDate>Fri, 22 May 2009 16:52:22 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1242997208#9</guid>
+ </item>
+ <item>
+  <title>Крымский «Прорыв» под знаменами Киевской Руси</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/56059/</link>
+  <description><![CDATA[
+                        В Крымской молодежной организации «Прорыв» рассматривается проект нового знамени крымской молодежи с учетом того, что вся организация в полном составе вступила в партию «Киевская Русь». ...
+                        ]]></description>
+  <pubDate>Fri, 22 May 2009 17:00:15 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1242997208#10</guid>
+ </item>
+ <item>
+  <title>В городе Сочи - темный ночи или нацпроект "Образование" в действии.</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/253655/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/05/22/12122-161901-bbb0051c585dea086ec55844d7039034.jpg><br /><br />И кто сказал, что быть педагогом несолидно? ...
+                        ]]></description>
+  <pubDate>Fri, 22 May 2009 16:19:01 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1242997208#11</guid>
+ </item>
+  </channel>
+ </rss>

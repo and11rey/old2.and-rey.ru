@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 25 Jun 2021 17:35:01 +0300</pubDate>
+         <lastBuildDate>Fri, 25 Jun 2021 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Британский министр здравоохранения целовался с любовницей в разгар пандемии. Теперь у него проблемы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-57614312</link>
+  <description><![CDATA[
+                        Британский таблоид The Sun опубликовал фотографию министра здравоохранения Мэтта Хэнкока и его давней подруги Джины Коладанджело. На фото они целуются - при этом у обоих есть семьи и дети. Оппозиция требует его отставки. ...
+                        ]]></description>
+  <pubDate>Fri, 25 Jun 2021 16:58:21 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1624631701#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Федерация независимых профсоюзов и РСПП призвали правительство сделать вакцинацию от COVID-19 обязательной для всего взрослого населения
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2021/06/25/federatsiya-nezavisimyh-profsoyuzov-i-rspp-prizvali-pravitelstvo-ob-yavit-obyazatelnuyu-vaktsinatsiyu-vsego-vzroslogo-naseleniya-rossii</link>
+  <description><![CDATA[
+                        ДАННОЕ СООБЩЕНИЕ (МАТЕРИАЛ) СОЗДАНО И (ИЛИ) РАСПРОСТРАНЕНО ИНОСТРАННЫМ СРЕДСТВОМ МАССОВОЙ ИНФОРМАЦИИ, ВЫПОЛНЯЮЩИМ ФУНКЦИИ ИНОСТРАННОГО АГЕНТА, И (ИЛИ) РОССИЙСКИМ ЮРИДИЧЕСКИМ ЛИЦОМ, ВЫПОЛНЯЮЩИМ ФУНКЦИИ ИНОСТРАННОГО АГЕНТА.Спасите «Медузу»!https://support.meduza.ioФедерация независимых профсоюзов России и Российский союз промышленников и предпринимателей (РСПП) обратились к правительству РФ с призывом сделать обязательной вакцинацию от коронавируса для всего взрослого населения страны ...
+                        ]]></description>
+  <pubDate>Fri, 25 Jun 2021 17:01:07 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1624631701#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Высокопоставленный офицер НАТО предупреждает о "шокирующих" военных достижениях Китая
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/25Jun2021/ft/nato.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Уходящий в отставку глава военного комитета НАТО Стюарт Пич указал на "шокирующую" скорость военной модернизации Китая, но отверг любые предположения о том, что Китай и Россия движутся к стратегическому партнерству. ...
+                        ]]></description>
+  <pubDate>Fri, 25 Jun 2021 16:26:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1624631701#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Союз промышленников и профсоюзы призвали к обязательной вакцинации
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/soyuz-promyshlennikov-i-profsoyuzy-prizvali-k-obyazateljnoy-vaktsinatsii/31326232.html</link>
+  <description><![CDATA[
+                        "Уровень вакцинации населения — один из самых низких среди развитых стран" ...
+                        ]]></description>
+  <pubDate>Fri, 25 Jun 2021 17:01:05 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1624631701#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Евросоюз продлил санкции против России из-за Украины - РБК
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LnJiYy5ydS9wb2xpdGljcy8yNS8wNi8yMDIxLzYwZDVkOTdjOWE3OTQ3YTFmY2NhYmE2Y9IBR2h0dHBzOi8vYW1wLnJiYy5ydS9yYmNuZXdzL3BvbGl0aWNzLzI1LzA2LzIwMjEvNjBkNWQ5N2M5YTc5NDdhMWZjY2FiYTZj?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 25 Jun 2021 16:34:37 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1624631701#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Спасибо всем, кто был с нами в течение 21 года
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/31may2021/newsrucomoutoforder2.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Мы каждый день старались предельно честно выполнять профессиональные обязанности - рассказывать, что важного происходит, составлять объективную информационную картину дня. Но наша картина дня стала сильно отличаться от государственной. Ситуация, сложившаяся в экономике и в правовом поле, делает работу NEWSru.com более невозможной. ...
+                        ]]></description>
+  <pubDate>Mon, 31 May 2021 09:00:20 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1624631701#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Всё о проекте «Спутниковый интернет Starlink». Часть 32. Проблемы терминалов StarLink из-за перегрева
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/564742/?utm_campaign=564742&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 25 Jun 2021 17:28:14 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1624631701#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Телефонный разговор с Эмиром Катара Тамимом Бен Хамадом Аль Тани
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/65929</link>
+  <description><![CDATA[
+                        Состоялся телефонный разговор
+Владимира Путина с Эмиром Государства Катар Тамимом Бен Хамадом Аль Тани.     ...
+                        ]]></description>
+  <pubDate>Fri, 25 Jun 2021 15:48:16 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1624631701#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Можно ли готовить еду для школьников на костре?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/opinion/246/Chernigov/258647-mozno-li-gotovit-edu-dla-skolnikov-na-kostre</link>
+  <description><![CDATA[
+                        Любая хозяйка знает, что можно приготовить обед и на костре, но гораздо быстрее, вкуснее и полезнее приготовить его с использованием современной кухонной техники, которая дает возможность сохранять полезные свойства продуктов при их приготовлении. ...
+                        ]]></description>
+  <pubDate>Fri, 25 Jun 2021 17:10:25 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1624631701#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  25.06.2021 17:32 : Московская биржа с понедельника будет отклонять заявки на размещения облигаций федерального займа от клиентов из США
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2860906-echo.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 25 Jun 2021 17:32:49 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1624631701#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В ЦВО до конца года создадут четыре воинских части и подразделения
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/773943</link>
+  <description><![CDATA[
+                        Несколько воинских частей будут сформированы до конца 2021 года в Центральном военном округе (ЦВО), сообщил министр обороны Сергей Шойгу. ...
+                        ]]></description>
+  <pubDate>Fri, 25 Jun 2021 17:19:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1624631701#48</guid>
+ </item>
+  </channel>
+ </rss>

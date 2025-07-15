@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 27 Jan 2019 17:35:05 +0300</pubDate>
+         <lastBuildDate>Sun, 27 Jan 2019 17:35:05 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Фото: Москву засыпало снегом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/other-news-47019834</link>
+  <description><![CDATA[
+                        В московском регионе за один день выпала треть месячной нормы осадков. Снегопад продолжится до понедельника. В соцсетях, тем временем, публикуют фотографии заснеженных улиц и людей в сугробах. ...
+                        ]]></description>
+  <pubDate>Sun, 27 Jan 2019 16:10:34 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1548599705#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Саратовских учителей заставили на морозе собирать снег в мешки. Мэрия начала проверку
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/01/27/saratovskih-uchiteley-zastavili-na-moroze-sobirat-sneg-v-meshki-meriya-nachala-proverku</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 27 Jan 2019 16:51:39 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1548599705#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Почему в России сильно опустился рейтинг Владимира Путина 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/25Jan2019/atlantico/putin.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Президент вкладывает свои силы преимущественно в международные проблемы, несколько забросив внутреннюю политику. Растущее число россиян устало от этого. Но в отсутствие организованной оппозиции ему нечего бояться.  ...
+                        ]]></description>
+  <pubDate>Fri, 25 Jan 2019 18:39:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1548599705#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Кремле назвали причину, мешающую подписать договор с Японией 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29733920.html</link>
+  <description><![CDATA[
+                        По словам пресс-секретаря Путина Дмитрия Пескова – это поддержка Японией антироссийских санкций ...
+                        ]]></description>
+  <pubDate>Sun, 27 Jan 2019 16:15:15 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1548599705#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Новая цена Xiaomi Mi A2 в России поразила всех - AKKet.com
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/akket.com/android/149854-novaya-tsena-xiaomi-mi-a2-v-rossii-porazila-vseh.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 27 Jan 2019 16:22:28 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1548599705#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Кремле опровергают информацию о содействии РФ в охране Мадуро
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/27jan2019/peskov.html?utm_source=rss</link>
+  <description><![CDATA[
+                        &#34;Да нет, конечно&#34;, - ответил президентский пресс-секретарь Песков на вопрос о том, подтверждает ли он направление &#34;российских бойцов&#34; в Венесуэлу для охраны Мадуро, о котором ранее сообщил ряд СМИ. &#34;У страха глаза велики&#34;, - добавил он. ...
+                        ]]></description>
+  <pubDate>Sun, 27 Jan 2019 16:46:42 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1548599705#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Выбираем, наконец, бюджетный мультиметр с хорошим функционалом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/417401/?utm_campaign=417401</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 27 Jan 2019 16:00:41 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1548599705#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с врио главы Санкт-Петербурга Александром Бегловым
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/59739</link>
+  <description><![CDATA[
+                        Владимир
+Путин провёл рабочую встречу
+с временно исполняющим обязанности губернатора Санкт-Петербурга
+Александром Бегловым.    ...
+                        ]]></description>
+  <pubDate>Sun, 27 Jan 2019 15:43:36 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1548599705#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Не ядерной бомбой единой: Россия разрабатывает импульсное оружие
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/285/science/technology/212349-ne-adernoj-bomboj-edinoj-rossia-razrabatyvaet-impulsnoe-oruzie</link>
+  <description><![CDATA[
+                        Американские эксперты обнаружили, что сразу несколько стран, среди которых и Россия, серьезно продвинулись в создании нового типа оружия – бомб, которые выводят электронику с помощью сильнейших электромагнитных импульсов. Для США этот тип оружия может стать особенно уязвимым. ...
+                        ]]></description>
+  <pubDate>Sun, 27 Jan 2019 16:03:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1548599705#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  27.01.2019 17:32 : Ночью умер руководитель департамента региональной безопасности и противодействия коррупции Москвы Владимир Черников
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2359863-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Ему было  54 года.  В его обязанности среди прочего входило    согласование  акций протеста. Мэр Москвы Сергей Собянин назвал Черникова кристально честным, настоящим профессионалом. Его уход, по мнению градоначальника – огромная потеря для Москвы.
+ ...
+                        ]]></description>
+  <pubDate>Sun, 27 Jan 2019 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1548599705#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В мэрии Перми уточнили число эвакуированных людей из дома с рухнувшим перекрытием
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/647931</link>
+  <description><![CDATA[
+                        По ее данным, это 151 человек, в том числе 31 ребенок, пострадавших нет ...
+                        ]]></description>
+  <pubDate>Sun, 27 Jan 2019 17:17:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1548599705#48</guid>
+ </item>
+  </channel>
+ </rss>

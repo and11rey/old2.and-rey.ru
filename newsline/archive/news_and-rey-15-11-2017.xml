@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 15 Nov 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Wed, 15 Nov 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Призыв по-украински: из ночного клуба в военкомат
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-41996802</link>
+  <description><![CDATA[
+                        Вручением повестки в военкомат закончился визит в один из ночных клубов в центре Львова для двенадцати молодых людей вечером 3 ноября. Будут ли люди в форме и дальше искать призывников в барах и ресторанах, а также зачем 22-летнему парню может понадобиться жениться на собственной двоюродной бабушке? ...
+                        ]]></description>
+  <pubDate>Wed, 15 Nov 2017 17:00:44 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1510756501#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Швеции вынесен приговор капитану и штурману из России, которые пьяными посадили судно на мель
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2017/11/15/v-shvetsii-vynesen-prigovor-kapitanu-i-shturmanu-iz-rossii-kotorye-pyanymi-posadili-sudno-na-mel</link>
+  <description><![CDATA[
+                        Шведский суд вынес приговор капитану и штурману из России, которые, находясь в состоянии алкогольного опьянения, в сентябре посадили судно на мель возле порта Оскарсхамн. ...
+                        ]]></description>
+  <pubDate>Wed, 15 Nov 2017 17:23:21 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1510756501#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Договоренность между Москвой и племенами на юге Ливии. "Остановить потоки мигрантов в Италию"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/15Nov2017/repubblica/libya.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Племена Феццана и правительство национального согласия в Триполи достигли договоренности, которая может ускорить борьбу с миграционным кризисом. Способствовала диалогу между премьером Сараджем и племенными лидерами российская контактная группа. ...
+                        ]]></description>
+  <pubDate>Wed, 15 Nov 2017 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1510756501#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Навальный пожаловался в прокуратуру на сотрудников Центра "Э"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28855653.html</link>
+  <description><![CDATA[
+                        Центр "Э", предположительно, курировал напавших на оппозиционера членов SERB ...
+                        ]]></description>
+  <pubDate>Wed, 15 Nov 2017 16:45:00 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1510756501#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 15 Nov 2017 17:31:08 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1510756501#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  К юбилею Эльдара Рязанова покажут цветную версию "Берегись автомобиля"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/cinema/15nov2017/color.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Эльдар Рязанов, ушедший из жизни в 2015 году, успел поработать над цветной версией фильма. Вместе с художником-постановщиком Павлом Липатовым они занимались главным - установочными цветовыми решениями. ...
+                        ]]></description>
+  <pubDate>Wed, 15 Nov 2017 17:13:00 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1510756501#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  19 ноября приглашаем на пятый DIY Meetup
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/295403/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=best</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 15 Nov 2017 16:59:41 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1510756501#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Владимир Путин поддержал предложение Виктора Медведчука об обмене пленными между Украиной и Донецкой и Луганской республиками
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56095</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Wed, 15 Nov 2017 16:12:34 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1510756501#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Подмосковье категорически не хочет «новых технологий» в виде мусоросжигательных заводов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/111/social/society/187453-podmoskove-kategoriceski-ne-hocet-novyh-tehnologij-v-vide-musoroszigatelnyh-zavodov</link>
+  <description><![CDATA[
+                        Несколько дней назад в Воскресенском районе Московской области состоялись первые из четырех общественных слушаний по влиянию на окружающую среду мусоросжигательных заводов. ...
+                        ]]></description>
+  <pubDate>Wed, 15 Nov 2017 17:33:05 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1510756501#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  15.11.2017 17:31 : Руководство компании Lamborghini подарило Папе Римскому Франциску спорткар в цветах Ватикана
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2093080-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Понтифик благословил машину, оставил на ней автограф и заявил, что продаст с аукциона. Выручка пойдет на благотворительные цели.
+ ...
+                        ]]></description>
+  <pubDate>Wed, 15 Nov 2017 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1510756501#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Мэй заявила об отсутствии в своей критике РФ слов о вмешательстве в дела Британии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/587500</link>
+  <description><![CDATA[
+                        Премьер-министр Великобритании Тереза Мэй заявила в среду, что, критикуя РФ за предполагаемое вмешательство в выборы в других странах, не озвучила каких-либо данных, которые бы указывали на подобные случаи в королевстве. ...
+                        ]]></description>
+  <pubDate>Wed, 15 Nov 2017 17:18:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1510756501#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 02 Jan 2017 17:35:02 +0300</pubDate>
+         <lastBuildDate>Mon, 02 Jan 2017 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Выпуск видеоновостей Радио Свобода
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28209718.html</link>
+  <description><![CDATA[
+                        Выпуск видеоновостей Радио Свобода ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jan 2017 17:00:00 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1483367702#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  СМИ прочат России лишение четырех медалей ОИ-2014 в Сочи - Росбалт.RU
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNEz24n4p1RtRlElTjpVlnOWtKmVXQ&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779933936407&amp;ei=WGVqWKi_LK2MyQPc-pPoDA&amp;url=http://www.rosbalt.ru/world/2017/01/02/1580757.html</link>
+  <description><![CDATA[
+                        В частности, по данным Iltalehti.fi, наград могут лишиться Александр Легков и Максим Вылегжанин, которые ранее были временно отстранены вместе с четырьмя другими российскими лыжниками на основе доклада главы независимой комиссии WADA Ричарда Макларена. По даннымВ ... ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jan 2017 16:59:28 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1483367702#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Генконсульстве РФ назвали имя погибшей при теракте в стамбульском ночном клубе россиянки
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/02jan2017/nuranagasanova.html?rss</link>
+  <description><![CDATA[
+                        Тело Нураны Гасановой 1988 года рождения вечером будет отправлено в Азербайджан, где она проживала в последнее время, рассказали в Генконсульстве. Родственники погибшей прибыли в Стамбул для прохождения процедуры опознания. ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jan 2017 17:21:00 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1483367702#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Ресемплинг. Цифровая кирпичная стена против теории заговора. Рождественская сказка для любителей чистого звука
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/284272/</link>
+  <description><![CDATA[
+                        Ни в одной области электроники не скопилось столько мифов,
+как в области Hi-Fi и Hi-End устройств для воспроизведения звука.
+Ударим Рождественской Историей по одному из них!
+
+
+
+Когда старый год уже проводили, Новый встретили сначала в узком семейном кругу, а затем с более дальними родственниками, когда закончились или пришли в негодность новогодние салаты и стало отпускать похмелье…
+ Те, кто не захотел или не смог встречать Новый Год в Дальнем Зарубежье, начинают ощущать на себе зов персональног ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jan 2017 13:35:19 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes</source>
+  <guid isPermaLink="false">1483367702#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Соболезнования в связи с кончиной маршала артиллерии Владимира Михалкина
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/53694</link>
+  <description><![CDATA[
+                        Владимир Путин выразил
+глубокие соболезнования и слова поддержки Ирине Михалкиной в связи с кончиной
+маршала артиллерии Владимира Михалкина.     ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jan 2017 14:26:38 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1483367702#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Восемь человек задержаны после теракта в Турции
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/accident/crime/2017/01/02/Vosyem_chyelovyek_za.phtml</link>
+  <description><![CDATA[
+                        Стражи порядка Турции задержали восьмерых человек, вероятно, причастных к террористическому акту в ночном клубе Reina, сообщают турецкие СМИ. ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jan 2017 14:48:40 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1483367702#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  02.01.2017 17:31 : По меньшей мере 50 человек погибли в ходе тюремного бунта в Бразилии
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1902994-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Причиной инцидента стала драка двух банд, — сообщает агентство Рейтер со ссылкой на службу безопасности города Манаус. Отмечается, что число жертв может возрасти после того, как власти оценят масштаб инцидента.
+ ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jan 2017 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1483367702#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Правозащитник Пономарев попросил ФСИН сообщить место этапирования Дадина
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/543954</link>
+  <description><![CDATA[
+                        Движение "За права человека" направило письмо во ФСИН с требованием сообщить о местонахождении осужденного оппозиционера Ильдара Дадина, текст письма в понедельник опубликовал в фейсбуке руководитель движения Лев Пономарев.В России01 января 2017Жена Ильдара Дадина за месяц не смогла добиться информации о его местонахожденииЧитать подробнее"Просим вас незамедлительно сообщить о местонахождении Дадина Ильдара Ильдусовича, эпатированного 02.12.2016 из колонии ИК-7 респ. ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jan 2017 16:56:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1483367702#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 02 Oct 2019 17:35:01 +0300</pubDate>
+         <lastBuildDate>Wed, 02 Oct 2019 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Пилоту сгоревшего в Шереметьево "Суперджета" предъявлено обвинение
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-49911176</link>
+  <description><![CDATA[
+                        Следственный комитет России предъявил обвинение командиру экипажа самолета Sukhoi Superjet 100 Денису Евдокимову по делу о катастрофе в Шереметьево, произошедшей в мае этого года, сообщают СМИ со ссылкой на пресс-службу "Аэрофлота". ...
+                        ]]></description>
+  <pubDate>Wed, 02 Oct 2019 17:19:34 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1570026901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Американец приехал в «Макдоналдс» на мотодиване. До этого он летал в «Бургер Кинг» на мотопараплане
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/shapito/2019/10/02/amerikanets-priehal-v-makdonalds-na-motodivane-do-etogo-on-letal-v-burger-king</link>
+  <description><![CDATA[
+                        Ютьюбер Коллин Рэндл из штата Юта любит фастфуд и увлекается экспериментами с техникой. Недавно он собрал мотодиван — чудище, состоящее из, собственно, дивана, колес, рамы детского велосипеда и силовой установки от мотопараплана. И все чтобы съездить со своим другом за наггетсами и коктейлями в соседний «Макдоналдс». ...
+                        ]]></description>
+  <pubDate>Wed, 02 Oct 2019 17:23:16 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1570026901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  "Дональд Трамп хочет уничтожить и сокрушить людей, которые вытащили на свет "российское расследование"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/02Oct2019/lexpress/trump.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Американский историк и политолог Николь Бахаран в интервью расшифровывает   последние заявления американского президента и подводит итоги последних разоблачений. ...
+                        ]]></description>
+  <pubDate>Wed, 02 Oct 2019 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1570026901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Командиру сгоревшего самолёта "Аэрофлота" предъявлено обвинение
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30195512.html</link>
+  <description><![CDATA[
+                        В катастрофе в Шереметьеве в мае погиб 41 человек
+
+ ...
+                        ]]></description>
+  <pubDate>Wed, 02 Oct 2019 16:37:09 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1570026901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Командиру сгоревшего в Шереметьево SSJ100 предъявили обвинение - РБК
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiPmh0dHBzOi8vd3d3LnJiYy5ydS9zb2NpZXR5LzAyLzEwLzIwMTkvNWQ5NDllZjI5YTc5NDcyMjM4YjY4YTc10gFGaHR0cHM6Ly9hbXAucmJjLnJ1L3JiY25ld3Mvc29jaWV0eS8wMi8xMC8yMDE5LzVkOTQ5ZWYyOWE3OTQ3MjIzOGI2OGE3NQ?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 02 Oct 2019 16:28:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1570026901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  РФС дисквалифицировал стадион, где заперли в клетку болельщиков "Спартака"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/02oct2019/kamaz.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Российский футбольный союз запретил клубу Профессиональной футбольной лиги &#34;КамАЗ&#34; из Набережных Челнов проводить домашние матчи на одноименном стадионе из-за несоблюдения требований по обеспечению безопасности зрителей. ...
+                        ]]></description>
+  <pubDate>Wed, 02 Oct 2019 17:16:12 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1570026901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Советские мечты о будущем, часть 2. Теперь с сепульками
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/469835/?utm_campaign=469835&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 02 Oct 2019 17:31:25 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1570026901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с главами профильных ведомств и международных организаций в сфере энергетики
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/61702</link>
+  <description><![CDATA[
+                              ...
+                        ]]></description>
+  <pubDate>Wed, 02 Oct 2019 15:28:18 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1570026901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Количество случаев травли в Интернете за год выросло в три раза
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/283/225173-kolicestvo-slucaev-travli-v-internete-za-god-vyroslo-v-tri-raza</link>
+  <description><![CDATA[
+                        Число случаев травли молодежи со стороны сверстников и взрослых в информационном пространстве — так называемый кибербуллинг — за прошедший год возросло в 3 раза. ...
+                        ]]></description>
+  <pubDate>Wed, 02 Oct 2019 17:28:28 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1570026901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  02.10.2019 17:30 : Эквадор со следующего года покинет Организацию стран-экспортеров нефти
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2512229-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Это произойдет из-за финансовых проблем республики. Несмотря на это, Министерство энергетики страны заверяет, что будет и дальше поддерживать усилия по стабилизации мирового рынка нефти.  
+
+Эквадор вошел в состав ОПЕК 12 лет назад после 15-летнего перерыва. Объемы нефтедобычи страны среди членов организации были минимальными.
+ ...
+                        ]]></description>
+  <pubDate>Wed, 02 Oct 2019 17:30:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1570026901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Путин сказал, что готов к публикации любого его телефонного разговора
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/678864</link>
+  <description><![CDATA[
+                        Президент Владимир Путин всегда исходит из того, что любой его разговор может быть опубликован. ...
+                        ]]></description>
+  <pubDate>Wed, 02 Oct 2019 17:16:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1570026901#48</guid>
+ </item>
+  </channel>
+ </rss>

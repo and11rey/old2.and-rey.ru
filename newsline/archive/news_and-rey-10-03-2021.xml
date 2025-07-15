@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 10 Mar 2021 17:35:01 +0300</pubDate>
+         <lastBuildDate>Wed, 10 Mar 2021 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Купи кирпич: компания получила крашеные камни вместо меди
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-56347787</link>
+  <description><![CDATA[
+                        Швейцарская компания судится с турецким поставщиком, подменившим, как она утверждает, медь на булыжник и подделавшим страховые документы. ...
+                        ]]></description>
+  <pubDate>Wed, 10 Mar 2021 17:25:27 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1615386901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Из-за попыток Роскомнадзора замедлить работу твиттера пострадали все сайты с сочетанием t.co в адресе. Например, это Microsoft, Github и RT
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2021/03/10/iz-za-popytok-roskomnadzora-zamedlit-rabotu-tvittera-postradali-vse-sayty-s-sochetaniem-t-co-v-adrese-naprimer-eto-microsoft-github-i-rt</link>
+  <description><![CDATA[
+                        Роскомнадзор в рамках ограничения скорости работы твиттера замедлил работу сайтов, в доменных именах которых есть сочетание t.co (это один из доменов, используемых твиттером). Внимание на это обратил создатель бесплатного сервиса обхода блокировок AntiZapret, известный под псевдонимом ValdikSS. ...
+                        ]]></description>
+  <pubDate>Wed, 10 Mar 2021 17:24:35 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1615386901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  От "абсурдистана" до пандемической усталости - нужно срочно найти выход из тупика
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/10Mar2021/slatefr/absurdistan.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Противоречивые правила, меры с сомнительной эффективностью: текущее управление пандемией Covid-19 утомляет, а также мешает наконец увидеть выход, считают французские эксперты. ...
+                        ]]></description>
+  <pubDate>Wed, 10 Mar 2021 17:35:01 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1615386901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Опубликовано видео избиения заключенного из колонии Камчатского края
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/31143616.html</link>
+  <description><![CDATA[
+                        Максиму Белькову заламывали руки и требовали надеть грязную тюремную робу ...
+                        ]]></description>
+  <pubDate>Wed, 10 Mar 2021 17:12:00 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1615386901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Госдуму внесли законопроект об изменении ставки НДФЛ - РИА НОВОСТИ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiLGh0dHBzOi8vcmlhLnJ1LzIwMjEwMzEwL25kZmwtMTYwMDYzNzM0OC5odG1s0gEwaHR0cHM6Ly9yaWEucnUvYW1wLzIwMjEwMzEwL25kZmwtMTYwMDYzNzM0OC5odG1s?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 10 Mar 2021 17:15:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1615386901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В попытке замедлить работу Twitter Роскомнадзор нанес удар по тысячам других сайтов, включая сайты Microsoft и RT
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/hitech/10mar2021/rkn_fail_again.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Эксперты связывают крупную аварию на сетях "Ростелекома" с действиями Роскомнадзора. Также выяснилось, что в попытке повлиять на служебный домен Twitter ведомство замедлило работу всех сайтов, в адресе которых содержится сочетание t.co. ...
+                        ]]></description>
+  <pubDate>Wed, 10 Mar 2021 17:28:44 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1615386901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Перевод] Удивительная математика внутри кубика Рубика
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/546094/?utm_campaign=546094&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        В прошлом году исполнилось 40 лет с того времени, как человечество узнало о кубике Рубика. Эта головоломка сразу смутила умы почти полумиллиарда энтузиастов, которые полагали, что могут раскрыть сумасшедшие секреты этого удивительного кубика, если разберут его на составные части. В преддверии юбилея кубика Рубика (да, юбилея!) и стартов новых потоков курсов Математика для Data Science и его расширенной версии Математика и Machine Learning для Data Science, пришло время раз и навсегда разгадать э ...
+                        ]]></description>
+  <pubDate>Wed, 10 Mar 2021 16:08:18 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1615386901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Совещание с членами Правительства
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/65134</link>
+  <description><![CDATA[
+                        Глава государства в режиме видеоконференции проводит совещание с членами Правительства Российской Федерации.      ...
+                        ]]></description>
+  <pubDate>Wed, 10 Mar 2021 16:25:50 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1615386901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Верхи власти замерли в ожидании послания Путина»: Россия готовится к новому повороту
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/283/252667-verhi-vlasti-zamerli-v-ozidanii-poslania-putina-rossia-gotovitsa-k-novomu-povorotu</link>
+  <description><![CDATA[
+                        В последние недели в СМИ все меньше интересных новостей, замечает политолог Илья Гращенков. ...
+                        ]]></description>
+  <pubDate>Wed, 10 Mar 2021 17:06:38 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1615386901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  10.03.2021 17:32 : В Ереване начался очередной митинг оппозиции
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2803116-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+У здания парламента Армении, по данным ТАСС, собралось около 3 тысяч человек. Обстановка спокойная, каких-либо инцидентов не происходит. На место стянуты силы полиция, однако их немного, у них нет защитной экипировки и оружия, и они не препятствуют проведению акции. Прилегающие улицы закрыты для движения автотранспорта. Напротив парламента по-прежнему действует палаточный городок оппозиции. На палатках установлены флаги Армении и непризнанной Нагорно-Карабахской республики. 
+
+Сегодня вступил  ...
+                        ]]></description>
+  <pubDate>Wed, 10 Mar 2021 17:32:37 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1615386901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Четверых бывших полицейских будут судить за кражи и грабеж
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/755334</link>
+  <description><![CDATA[
+                        В Ростовской области завершено расследование дела группы из шести человек, в которую входили трое бывших полицейских и один, который тогда еще состоял на службе. ...
+                        ]]></description>
+  <pubDate>Wed, 10 Mar 2021 17:23:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1615386901#48</guid>
+ </item>
+  </channel>
+ </rss>

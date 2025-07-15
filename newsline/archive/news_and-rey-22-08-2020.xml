@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 22 Aug 2020 17:35:02 +0300</pubDate>
+         <lastBuildDate>Sat, 22 Aug 2020 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Коронавирус в мире: как безопасно провести рок-концерт и навсегда ли с нами этот вирус?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-53874430</link>
+  <description><![CDATA[
+                        Коронавирус будет присутствовать в нашей жизни постоянно, предупреждают британские ученые; в Индии новый антирекорд на фоне главного индуистского праздника; в немецком Лейпциге ученые пытаются понять, можно ли безопасно провести рок-концерт. ...
+                        ]]></description>
+  <pubDate>Sat, 22 Aug 2020 16:49:17 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1598106902#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Марш по проспекту Независимости в Минске. Фотография
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/short/2020/08/22/marsh-po-prospektu-nezavisimosti-v-minske-fotografiya</link>
+  <description><![CDATA[
+                        В Минске днем 22 августа несколько сотен человек, среди которых подавляющее большинство составляли женщины, собрались в «живую цепь» возле Комаровского рынка. После этого они прошли маршем по проспекту Независимости в знак поддержки бастующих рабочих. ...
+                        ]]></description>
+  <pubDate>Sat, 22 Aug 2020 16:10:26 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1598106902#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российский оппозиционер Алексей Навальный находится между жизнью и смертью
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/21Aug2020/letemps/navalny.html?utm_source=rss</link>
+  <description><![CDATA[
+                        За отравлением Навального могут стоять фигуранты его расследований, считают эксперты: он стал реальной системной угрозой для самой влиятельной части элиты. ...
+                        ]]></description>
+  <pubDate>Fri, 21 Aug 2020 22:41:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1598106902#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Житель Таганрога оштрафован за унижение социальных групп "полицейские", "судьи" и "прокуроры"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30797197.html</link>
+  <description><![CDATA[
+                        Он назвал их подонками, мерзавцами и жуликами ...
+                        ]]></description>
+  <pubDate>Sat, 22 Aug 2020 15:31:27 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1598106902#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Американский вирусолог — РБК: «Обязательная вакцинация просто невозможна» - РБК
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LnJiYy5ydS9wb2xpdGljcy8yMi8wOC8yMDIwLzVmM2U4ODFhOWE3OTQ3NzdjMmI2MjYyNNIBR2h0dHBzOi8vYW1wLnJiYy5ydS9yYmNuZXdzL3BvbGl0aWNzLzIyLzA4LzIwMjAvNWYzZTg4MWE5YTc5NDc3N2MyYjYyNjI0?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 22 Aug 2020 16:43:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1598106902#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Больше половины россиян не хотят прививаться от коронавируса российской вакциной: "боятся, не верят"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/22aug2020/fear_vaccine.html?utm_source=rss</link>
+  <description><![CDATA[
+                        52% россиян не готовы вакцинироваться первым зарегистрированным препаратом &#34;Спутник V&#34;, показал опрос ВЦИОМ. 42% опрошенных ответили, что, &#34;скорее всего&#34;, будут прививаться. Большинство россиян также ожидает второй волны коронавируса в стране. ...
+                        ]]></description>
+  <pubDate>Sat, 22 Aug 2020 17:07:54 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1598106902#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Из песочницы] Отслеживаем состояние своего портфеля у брокера «Тинькофф Инвестиции» через Google Таблицы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/516210/?utm_campaign=516210&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        Наверняка многие ведут учет сделок и следят за состоянием своего портфеля в Google-таблицах или в Excel. Раньше мне приходилось вручную вносить информацию о каждом купленном или проданном инструменте и это отнимало значительную часть моего времени. Тогда мне захотелось автоматизировать этот процесс и я начал искать способы реализации данной идеи. 
+
+Я обнаружил статью пользователя ErhoSen. Из неё я узнал, что брокер «Тинькофф Инвестиции» предлагает своим клиентам API для взаимодействия с брокерск ...
+                        ]]></description>
+  <pubDate>Sat, 22 Aug 2020 15:54:57 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1598106902#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Участникам и гостям II Всероссийского молодёжного образовательного Дальневосточного форума «Восток»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/letters/63932</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Sat, 22 Aug 2020 09:03:33 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1598106902#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Несколько человек задержали во время беспорядков в Портленде
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/722850</link>
+  <description><![CDATA[
+                        Полиция города Портленд (штат Орегон, США) задержала нескольких участников беспорядков, вспыхнувших ранним утром в субботу возле полицейского участка, сообщает газета The Hill. ...
+                        ]]></description>
+  <pubDate>Sat, 22 Aug 2020 17:05:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1598106902#48</guid>
+ </item>
+  </channel>
+ </rss>

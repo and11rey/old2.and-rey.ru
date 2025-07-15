@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 22 Apr 2019 17:35:01 +0300</pubDate>
+         <lastBuildDate>Mon, 22 Apr 2019 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Дмитрий Быков: "Слухи, как обычно, сильно преувеличены"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-48006355</link>
+  <description><![CDATA[
+                        Писатель и журналист Дмитрий Быков пришел в сознание и снят с аппарата искусственной вентиляции лёгких. Ранее на этой неделе 51-летнему Быкову стало плохо, после чего он был госпитализирован и введен в медикаментозную кому. ...
+                        ]]></description>
+  <pubDate>Mon, 22 Apr 2019 17:03:30 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1555943701#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ФАС признала российскую «дочку» Samsung виновной в координации цен на смартфоны
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/04/22/fas-priznala-rossiyskuyu-dochku-samsung-vinovnoy-v-koordinatsii-tsen-na-smartfony</link>
+  <description><![CDATA[
+                        Федеральная антимонопольная служба признала «Самсунг электроникс Рус Компани», российскую «дочку» Samsung, виновной в нарушении закона о защите конкуренции. ...
+                        ]]></description>
+  <pubDate>Mon, 22 Apr 2019 17:09:02 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1555943701#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Шри-Ланка: "Такого насилия никогда не наблюдалось в период 30-летней гражданской войны"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/22Apr2019/lefigaro/srilanka.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Алан Кинан, директор проекта Шри-Ланки в аналитическом центре Международная кризисная группа, в интервью изданию выражает надежду на то, что совершенные на Шри-Ланке теракты не будут использованы в политических целях. ...
+                        ]]></description>
+  <pubDate>Mon, 22 Apr 2019 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1555943701#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Начальник хакасской колонии получил 6 лет за пытки заключённых
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29896923.html</link>
+  <description><![CDATA[
+                        Прокуратура запрашивала для него 12 лет лишения свободы ...
+                        ]]></description>
+  <pubDate>Mon, 22 Apr 2019 17:08:18 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1555943701#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ФАС признала «дочку» Samsung виновной в координации цен на гаджеты - РБК
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rbc.ru/business/22/04/2019/5cbdc94f9a79474a04e752b3</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 22 Apr 2019 17:08:28 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1555943701#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Сенатор Елена Мизулина считает, что наличие прав у россиян делает их несвободными
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/22apr2019/mizulina.html?utm_source=rss</link>
+  <description><![CDATA[
+                        &#34;Что такое право? Это и есть самая большая несвобода, - рассуждает в катехизисной форме законодатель Елена Мизулина. - То есть ты должен заполнить бумажки, их куда-то отнести, сходить в суд - то есть это целая гамма действий, в результате - ты несвободен&#34;. ...
+                        ]]></description>
+  <pubDate>Mon, 22 Apr 2019 16:47:11 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1555943701#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Продвигаем Ethereum DAPP
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/449014/?utm_campaign=449014</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 22 Apr 2019 17:28:57 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1555943701#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Телефонный разговор с Президентом Белоруссии Александром Лукашенко
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/60340</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Mon, 22 Apr 2019 16:04:30 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1555943701#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российских журналистов обстреляли под Донецком
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/282/world/incidents/216257-rossijskih-zurnalistov-obstrelali-pod-doneckom</link>
+  <description><![CDATA[
+                        Под обстрел украинских военных в Донбассе попала съемочная группа ВГТРК, сообщили в МИД России. ...
+                        ]]></description>
+  <pubDate>Mon, 22 Apr 2019 17:25:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1555943701#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  22.04.2019 17:31 : В Мурманске бюджетников заставляют участвовать в шествии «Бессмертный полк»
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2412651-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+В бюджетных организациях начали составлять списки тех, кто будет участвовать в шествии 9-го мая. При этом руководство дает понять подчиненным, что участие обязательно, — пишет информационное агентство «СеверПост». Его источники в одной из бюджетных организаций говорят, что от руководства требуют максимального числа участников, поскольку это необходимо для отчета перед Москвой.  <br>
+Накануне стало известно, что в «Бессмертном полку» заставляют участвовать учителей в Саратове. Одна из педагого ...
+                        ]]></description>
+  <pubDate>Mon, 22 Apr 2019 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1555943701#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Сербия выделит более миллиона евро на восстановление Нотр-Дама
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/658979</link>
+  <description><![CDATA[
+                        Власти Сербии в понедельник приняли решение выделить 1,1 млн евро на восстановление Собора Парижской Богоматери, сообщают европейские СМИ. ...
+                        ]]></description>
+  <pubDate>Mon, 22 Apr 2019 17:15:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1555943701#48</guid>
+ </item>
+  </channel>
+ </rss>

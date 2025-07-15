@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 02 Jul 2009 17:00:09 +0400</pubDate>
+         <lastBuildDate>Thu, 02 Jul 2009 17:00:09 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>На Украине запретили хранение порнографии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/07/090702_ukraine_porno.shtml</link>
+  <description><![CDATA[
+                        Президент Украины Виктор Ющенко утвердил изменения в уголовном кодексе страны, в котором теперь предусмотрена уголовная ответственность за хранение предметов порнографического содержания.
+
+ ...
+                        ]]></description>
+  <pubDate>Thu, 02 Jul 2009 16:44:58 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1246539609#1</guid>
+ </item>
+ <item>
+  <title>Роспотребнадзор назвал дату открытия Черкизовского рынка</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/Law/m.153248.html</link>
+  <description><![CDATA[
+                        Черкизовский рынок на востоке Москвы, закрытый в понедельник из-за нарушения санитарных норм, откроется утром 3 июля, сообщили в Роспотребнадзоре, добавив, что работа рынка продлится не дольше декабря 2009 года. Рынок планировалось закрыть еще в 2007 году. ...
+                        ]]></description>
+  <pubDate>Thu, 02 Jul 2009 16:50:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1246539609#2</guid>
+ </item>
+ <item>
+  <title>"Великий инквизитор России" ("The Washington Post", США)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/250359.html</link>
+  <description><![CDATA[
+                        Собирая чемодан перед предстоящей ему на следующей неделе поездкой в Россию, Барак Обама должен не забыть положить в него 'Братьев Карамазовых'. Современная Россия, Россия Владимира Путина, продолжает биться над теми же политическими загадками, которые 130 лет назад описал Федор Достоевский. ...
+                        ]]></description>
+  <pubDate>Thu, 02 Jul 2009 16:47:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1246539609#3</guid>
+ </item>
+ <item>
+  <title>ЕЦБ оставил без изменений базовую ставку по кредитам</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090702/17/17.html?id=1767806</link>
+  <description><![CDATA[
+                        Европейский центральный банк не изменил базовую процентную ставку по кредитам для 16 стран евро-зоны, оставив ее на уровне 1% годовых, минимального значения за все время после создания банка в 1999 году. Последний раз банк менял эту ставку в начале мая, снизив ее с 1,25%. Действующая ставка в США – в диапазоне от нуля до 0,25%, а в Японии – 0,1%.  Снижение ставок стимулирует экономический рост и ускоряет инфляцию, так как банковские кредиты становятся более доступными. При этом вложения в ... ...
+                        ]]></description>
+  <pubDate>Thu, 02 Jul 2009 16:23:42 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1246539609#4</guid>
+ </item>
+ <item>
+  <title>США начали крупномасштабную операцию против талибов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/02Jul2009/guardian/afgan.html</link>
+  <description><![CDATA[
+                        Как сообщается, в операции "Ханьяр", или "Удар меча", принимают участие 4000 морских пехотинцев США и 600 афганских военнослужащих - они действуют совместно. Главной целью операции является зачистка долины реки Гильменд. ...
+                        ]]></description>
+  <pubDate>Thu, 02 Jul 2009 15:36:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1246539609#5</guid>
+ </item>
+ <item>
+  <title>"Сочинские взрывники" могут быть причастны еще к двум взрывам в городе, решило следствие</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/02jul2009/so42more.html</link>
+  <description><![CDATA[
+                        По данным следствия, обвиняемые в серии взрывов в Сочи в 2008-2009 годах также причастны к двум взрывам - 2 июля и 31 декабря 2008 года в Адлерском районе Сочи. В результате первого погибла женщина и ее внук, от второго взрыва погиб мужчина. ...
+                        ]]></description>
+  <pubDate>Thu, 02 Jul 2009 16:59:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1246539609#6</guid>
+ </item>
+ <item>
+  <title>КНДР произвела третий за сутки запуск ракеты</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/07/02/n_1378352.shtml</link>
+  <description><![CDATA[
+                        КНДР произвела третий за сутки запуск ракеты ближней дальности. Об этом сообщил пресс-секретарь министерства обороны Южной Кореи.
+Ракета была запущена в 19.50 (14.50 мск).
+Ранее сегодня КНДР уже провела запуск двух ... ...
+                        ]]></description>
+  <pubDate>Thu, 02 Jul 2009 16:51:37 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1246539609#7</guid>
+ </item>
+ <item>
+  <title>Сайты госструктур признаны бесполезными</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/382081.php</link>
+  <description><![CDATA[
+                        Сайты российских государственных структур малоинформативны, а получить через них какую-либо услугу практически невозможно. 	 ...
+                        ]]></description>
+  <pubDate>Thu, 02 Jul 2009 14:50:34 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1246539609#8</guid>
+ </item>
+ <item>
+  <title>Лондонская фондовая биржа отказывается от программы Microsoft</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/hi-tech/soft/2009/07/02/Londonskaya_fondovay.phtml</link>
+  <description><![CDATA[
+                        Руководство лондонской фондовой биржи решило отказаться от программного обеспечения Microsoft, которое перестало отвечать последним требованиям надежности. ...
+                        ]]></description>
+  <pubDate>Thu, 02 Jul 2009 16:49:34 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1246539609#9</guid>
+ </item>
+ <item>
+  <title>Дуга нестабильности</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/57433/</link>
+  <description><![CDATA[
+                        Чем бы ни кончился иранский кризис, возврата к прежнему в Иране быть не может. Скорее, произойдет замыкание Дуги нестабильности в Евразии: от Ирака – через Иран – к афгано-пакистанскому пространству. Таким образом, в мире возникает новая обстановка. К чему следует готовиться нам? ...
+                        ]]></description>
+  <pubDate>Thu, 02 Jul 2009 17:00:15 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1246539609#10</guid>
+ </item>
+ <item>
+  <title>Пост № 255656</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/255656/#new</link>
+  <description><![CDATA[
+                        А у нас, в Калининграде, бизнесмены киллерам морды бьют. Итак, нужен ли короткоствол, если есть яйца? ...
+                        ]]></description>
+  <pubDate>Thu, 02 Jul 2009 16:31:02 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1246539609#11</guid>
+ </item>
+  </channel>
+ </rss>

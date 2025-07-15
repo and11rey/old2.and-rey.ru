@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 28 Apr 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Tue, 28 Apr 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Коронавирус в России: у Путина на сегодня запланировано "большое выступление"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-52438343</link>
+  <description><![CDATA[
+                        Ожидается, что во вторник президент России объявит, насколько будут продлены карантинные ограничения в стране. Футболист самарских "Крыльев Советов" раскритиковал власти за режим самоизоляции - и его накажут. Эти и другие события, связанные с коронавирусом, - в обзоре Би-би-си. ...
+                        ]]></description>
+  <pubDate>Tue, 28 Apr 2020 17:30:29 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1588084501#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Нидерландах цветут тюльпаны, но туристы сидят дома. Специально для них на полях оставляют послания
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/shapito/2020/04/28/v-niderlandah-tsvetut-tyulpany-no-turisty-sidyat-doma-spetsialno-dlya-nih-na-polyah-ostavlyayut-poslaniya</link>
+  <description><![CDATA[
+                        Из-за пандемии коронавируса туристы не смогут посетить тюльпановые поля в Нидерландах. Но местные цветочные фермы придумали, как приободрить тех, кому не удастся вживую посмотреть на цветение тюльпанов. Специально для расстроенных туристов на поле начали оставлять различные послания из цветов. Например, «Увидимся в следующем году» или «Оставайтесь сильными». ...
+                        ]]></description>
+  <pubDate>Tue, 28 Apr 2020 17:17:59 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1588084501#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Добро пожаловать в Никарагуа, страну, не желающую признавать Covid-19
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/28Apr2020/liberation/ortega.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Президент Никарагуа Ортега и его жена, вице-президент Росарио Мурильо, говорят о неправдоподобно низких показателях заражения, отказываясь вводить карантин и закрывать границы. Продолжаются религиозные шествия и чемпионат по футболу. ...
+                        ]]></description>
+  <pubDate>Tue, 28 Apr 2020 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1588084501#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Якутии рабочие месторождения "Газпрома" устроили митинг из-за коронавируса
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30581505.html</link>
+  <description><![CDATA[
+                        Они считают, что их незаконно удерживают ...
+                        ]]></description>
+  <pubDate>Tue, 28 Apr 2020 17:09:15 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1588084501#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Стало холодно, захрипел»: Раиса Рязанова рассказала о смерти сына - Московский Комсомолец
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3Lm1rLnJ1L3NvY2lhbC8yMDIwLzA0LzI4L3N0YWxvLWtob2xvZG5vLXpha2hyaXBlbC1yYWlzYS1yeWF6YW5vdmEtcmFzc2themFsYS1vLXNtZXJ0aS1zeW5hLmh0bWzSAW5odHRwczovL3d3dy5tay5ydS9hbXAvc29jaWFsLzIwMjAvMDQvMjgvc3RhbG8ta2hvbG9kbm8temFraHJpcGVsLXJhaXNhLXJ5YXphbm92YS1yYXNza2F6YWxhLW8tc21lcnRpLXN5bmEuaHRtbA?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 28 Apr 2020 17:28:26 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1588084501#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Питерский хоккейный клуб СКА расстался с тремя олимпийскими чемпионами
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/28apr2020/ska.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Защитники Артем Зуб, Андрей Зубарев, нападающие Александр Барабанов, Ярно Коскиранта и Йори Лехтеря завершили выступления в петербургском хоккейном клубе СКА в связи с истечением контрактов. ...
+                        ]]></description>
+  <pubDate>Tue, 28 Apr 2020 17:23:10 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1588084501#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Перечень поручений по итогам встречи с представителями медицинского сообщества
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/acts/assignments/orders/63285</link>
+  <description><![CDATA[
+                        Президент утвердил перечень поручений
+по итогам встречи с представителями
+медицинского сообщества 20 апреля 2020 года.    ...
+                        ]]></description>
+  <pubDate>Tue, 28 Apr 2020 15:34:49 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1588084501#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Требование изгнать с ТВ и конфликт с Уткиным: у Соловьева наступила черная полоса?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/250/234816-trebovanie-izgnat-s-tv-i-konflikt-s-utkinym-u-soloveva-nastupila-cernaa-polosa</link>
+  <description><![CDATA[
+                        Более половины россиян, опрошенных аналитической службой Рамблера, посоветовали Владимиру Соловьеву уйти с ТВ, раз дело дошло до петиций. Ведущий сдавать позиции не собирается и призвал голосовать кнопкой. ...
+                        ]]></description>
+  <pubDate>Tue, 28 Apr 2020 17:32:10 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1588084501#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  28.04.2020 17:29 : Москвичам с коронавирусом и симптомами ОРВИ аннулировали 20 тысяч рабочих пропусков
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2633472-echo.html</link>
+  <description><![CDATA[
+                        
+
+ ...
+                        ]]></description>
+  <pubDate>Tue, 28 Apr 2020 17:29:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1588084501#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Рынку гостиничной недвижимости в РФ предрекли рекордное снижение загрузки
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/706474</link>
+  <description><![CDATA[
+                        Беспрецедентно низкие показатели загрузки, зафиксированные в первом квартале текущего года на рынке гостиничной недвижимости РФ, снизятся во втором квартале до 5-10%, говорится в исследовании консалтинговой компании JLL. ...
+                        ]]></description>
+  <pubDate>Tue, 28 Apr 2020 17:25:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1588084501#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 20 Jun 2019 17:35:01 +0300</pubDate>
+         <lastBuildDate>Thu, 20 Jun 2019 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Умер владелец банка "Уралсиб" Владимир Коган
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-48708089</link>
+  <description><![CDATA[
+                        Умер основной владелец банка "Уралсиб" и один из богатейших бизнесменов России Владимир Коган. Ему было 56 лет. ...
+                        ]]></description>
+  <pubDate>Thu, 20 Jun 2019 17:00:59 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1561041301#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Сына отставного генерала ФСБ приговорили к 10 годам по делу о сбыте наркотиков
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/06/20/syna-otstavnogo-generala-fsb-prigovorili-k-10-godam-po-delu-o-sbyte-narkotikov</link>
+  <description><![CDATA[
+                        Никулинский суд Москвы приговорил 36-летнего Евгения Здановича, сына генерал-лейтенанта ФСБ в отставке Александра Здановича, к 10 годам колонии строгого режима, сообщил РИА Новости адвокат Александр Иванов. ...
+                        ]]></description>
+  <pubDate>Thu, 20 Jun 2019 17:21:25 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1561041301#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  После 9 вечера подростки больше не должны смотреть на экраны
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/20Jun2019/letemps/teen.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Самое лучшее, что вы можете предпринять - это ограничить подростка в использовании гаджетов после 9 часов вечера, утверждают ученые. ...
+                        ]]></description>
+  <pubDate>Thu, 20 Jun 2019 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1561041301#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Патриарх Филарет объявил о воссоздании Украинской православной церкви Киевского патриархата
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30010682.html</link>
+  <description><![CDATA[
+                        В ПЦУ констатировали, что их почётный патриарх выделился из церкви ...
+                        ]]></description>
+  <pubDate>Thu, 20 Jun 2019 17:24:08 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1561041301#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Многомиллионные долги Кержакова по алиментам выросли - Lenta.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/lenta.ru/news/2019/06/20/kerzh/</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 20 Jun 2019 16:38:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1561041301#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Умер владелец "Уралсиба" Владимир Коган
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/20jun2019/kogan.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Год назад банкир и бывший чиновник Владимир Коган, награжденный за свою работу орденами, перенес инсульт.  Последние годы он занимался санацией банка, которая так и не была завершена. На спасение банка ЦБ выделил свыше 80 миллиардов рублей. ...
+                        ]]></description>
+  <pubDate>Thu, 20 Jun 2019 17:29:21 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1561041301#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Перевод] Нейронные сети — все, что нужно знать
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/456254/?utm_campaign=456254&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 20 Jun 2019 17:28:02 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1561041301#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Прямая линия с Владимиром Путиным
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/60795</link>
+  <description><![CDATA[
+                        В эфире телеканалов «Первый», «Россия
+1», «Россия 24», НТВ, ОТР,
+«Мир», радиостанций «Маяк», «Вести FM» и «Радио России» вышла ежегодная специальная программа «Прямая
+линия с Владимиром Путиным».      ...
+                        ]]></description>
+  <pubDate>Thu, 20 Jun 2019 16:31:01 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1561041301#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Туле отчиталась о ремонте дорог
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/29/social/society/219316-v-tule-otcitalas-o-remonte-dorog</link>
+  <description><![CDATA[
+                        Администрация Тулы отчиталась о ремонте городских дорог. ...
+                        ]]></description>
+  <pubDate>Thu, 20 Jun 2019 17:27:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1561041301#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  20.06.2019 17:33 : Конституционный суд Украины признал законным указ президента Зеленского о роспуске Рады
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2449065-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Как говорится в сообщении в Телеграм-канале команды Зеленского, выборы парламента состоятся 21-го июля.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 20 Jun 2019 17:33:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1561041301#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Путин подтвердил присутствие частных "охранных" компаний Пригожина в Сирии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/666012</link>
+  <description><![CDATA[
+                        Эти люди рискуют жизнями и отбивают месторождения у террористов, но государство они не представляют ...
+                        ]]></description>
+  <pubDate>Thu, 20 Jun 2019 17:19:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1561041301#48</guid>
+ </item>
+  </channel>
+ </rss>

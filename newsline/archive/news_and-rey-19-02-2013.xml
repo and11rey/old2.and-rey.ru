@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 19 Feb 2013 17:00:03 +0400</pubDate>
+         <lastBuildDate>Tue, 19 Feb 2013 17:00:03 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  В Германии расширены права гомосексуальных пар по усыновлению детей 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/World/Europe/m.211801.html</link>
+  <description><![CDATA[
+                        Федеральный конституционный суд Германии решил, что участник гражданского партнерства имеет право на усыновление ребенка, ранее усыновленного другим партнером. Это решение расценивается как шаг на пути к снятию запрета на совместное усыновление. В Германии однополые пары могут заключать гражданские партнерства, но не брак. ...
+                        ]]></description>
+  <pubDate>Tue, 19 Feb 2013 15:16:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1361278803#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Оскар Писториус признался в убийстве своей девушки - Lenta.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNGHc2t2vLfIm33KY1_urjgD9gBN2A&amp;url=http://lenta.ru/news/2013/02/19/pistorius/</link>
+  <description><![CDATA[
+                        Шестикратный чемпион Паралимпийских игр, участник Олимпиады-2012 в Лондоне бегун Оскар Писториус признался в убийстве своей девушки Ревы Стенкамп. Писториус заявил, что он застрелил Стенкамп по ошибке, приняв ее за грабителя. Показания спортсмена в суде зачитал его ... ...
+                        ]]></description>
+  <pubDate>Tue, 19 Feb 2013 16:41:28 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1361278803#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В сахалинской больнице сотрудник обстрелял из ружья трех рабочих из Северной Кореи
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/crime/19feb2013/shothosp3kndrsah.html</link>
+  <description><![CDATA[
+                        34-летний работник медучреждения, не входящий в число медиков, весь день ссорился с корейскими гастарбайтерами, которые проводили ремонт. Затем злоумышленник сходил домой за ружьем и расстрелял оппонентов через закрытую дверь. Пострадавшие отделались ранениями рук. Для участия в расследовании инцидента на Сахалин вылетел дипломат КНДР. ...
+                        ]]></description>
+  <pubDate>Tue, 19 Feb 2013 16:54:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1361278803#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Андроид: [DirectoryBind] Простой способ связать внешнюю и внутреннюю sd карты, чтобы освободить место для данных
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/post/169965/</link>
+  <description><![CDATA[
+                        Сразу оговорюсь, что речь пойдет не о программах типа link2sd. Принцип похож, но связывать мы будем не программные каталоги, а каталоги данных этих программ, например /sdcard2/Navigon -> /sdcard/Navigon или /mnt/extSdCard/Books -> /sdcard/Books и т.д.
+Кроме того, нам нужен рут (куда ж без него). Кстати, после того как я узнал про эту программу, это для меня очередной аргумент за root.
+
+Многие владельцы андроид смартфонов или таблеток с небольшей встроеной памятью наверняка сталкивались со следущ ...
+                        ]]></description>
+  <pubDate>Tue, 19 Feb 2013 16:56:31 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1361278803#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Телефонный разговор с Премьер-министром Болгарии Бойко Борисовым
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.kremlin.ru/news/17535</link>
+  <description><![CDATA[
+                        По инициативе болгарской стороны состоялся телефонный разговор Владимира Путина с Премьер-министром Республики Болгария Бойко Борисовым. ...
+                        ]]></description>
+  <pubDate>Tue, 19 Feb 2013 13:15:00 +0400</pubDate>
+  <source url="http://www.kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1361278803#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  У извергающегося вулкана Плоский Толбачик появится туристическая база
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/tourism/russia/2013/02/19/U_izvyergayushcyegos.phtml</link>
+  <description><![CDATA[
+                        Власти Камчатского края планируют в ближайшее время создать базу для приема туристов у извергающегося вулкана Плоский Толбачик. ...
+                        ]]></description>
+  <pubDate>Tue, 19 Feb 2013 16:42:29 +0400</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1361278803#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  19.02.2013 16:33 : МВД  не  приняло  заявление  "Русгидро"  о  неуплате  налогов  одним   из  субподрядчиков, поскольку соответствующие документы уже направлены в суд
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1015266-echo.html</link>
+  <description><![CDATA[
+                        
+
+Об этом сообщает МВД.
+ ...
+                        ]]></description>
+  <pubDate>Tue, 19 Feb 2013 16:33:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1361278803#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Пенопластовая амфибия
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/avia.d3.ru/comments/417668</link>
+  <description><![CDATA[
+                        
+		
+
+
+
+
+					<img src="http://g3.std3.ru/G/1/E5/62/25392-b054116c75308ef09a2420763763ef2f.jpg" alt="Пенопластовая амфибия"><br>
+		
+	
+		Репортаж о производстве восьмиместной амфибии ЛА–8.<br>В России немало людей, готовых строить самолеты. Местный же рынок узок — во–первых из–за недостатка платежеспособного спроса, во–вторых из–за зарегулированности воздушного движения. Поэтому сотни легких и ультралегких самолетов, автожиров, реплик, дирижаблей поставляется ежегодно на экспорт, большей частью в  ...
+                        ]]></description>
+  <pubDate>Tue, 19 Feb 2013 17:00:09 +0400</pubDate>
+  <source url="http://d3.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1361278803#34</guid>
+ </item>
+  </channel>
+ </rss>

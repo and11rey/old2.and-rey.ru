@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 04 Mar 2010 17:00:05 +0300</pubDate>
+         <lastBuildDate>Thu, 04 Mar 2010 17:00:05 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Блог пенсионера:</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/blogs/russian/pensioners/2010/03/post-5.html</link>
+  <description><![CDATA[
+                        Не мог я читать по слогам "мы не ра-бы, ра-бы не мы"... ...
+                        ]]></description>
+  <pubDate>Thu, 04 Mar 2010 16:22:14 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1267711205#1</guid>
+ </item>
+ <item>
+  <title>Генпрокурор раскритиковал работу СКП</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/Law/m.175539.html</link>
+  <description><![CDATA[
+                        Генпрокурор  Юрий Чайка заявил, что считает недостаточными результаты работы Следственного комитета при прокуратуре. "В условиях снижения нагрузки, сокращения оконченных уголовных дел и постоянного увеличения штатной численности СКП  мы вправе ожидать более весомых результатов", - сказал он. ...
+                        ]]></description>
+  <pubDate>Thu, 04 Mar 2010 16:38:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1267711205#2</guid>
+ </item>
+ <item>
+  <title>Налоговый галоп
+			    ( "Час", Латвия )
+			</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/europe/20100304/158446639.html</link>
+  <description><![CDATA[
+                        Как и ожидалось, правительство Греции одобрило меры, которые позволят уменьшить дефицит бюджета страны сверх объявленных ранее сокращений еще на 4,8 млрд евро. ...
+                        ]]></description>
+  <pubDate>Thu, 04 Mar 2010 15:58:00 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1267711205#3</guid>
+ </item>
+ <item>
+  <title>В Уганде наводнение вынуждает тысячи людей покинуть дома</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20100304/17/17.html?id=1974591</link>
+  <description><![CDATA[
+                         В Уганде более 20 тысяч человек были вынуждены покинуть свои дома - в результате наводнений.    По сообщению властей, бедствие, вызванное проливными дождями, затрудняет поиски сотни пропавших без вести людей.   Угандийский Красный Крест информирует, что найдены тела 92 погибших.  ...
+                        ]]></description>
+  <pubDate>Thu, 04 Mar 2010 16:26:14 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1267711205#4</guid>
+ </item>
+ <item>
+  <title>В кишечнике каждого из нас живет по 160 видов микроорганизмов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/04Mar2010/independent/microbe.html</link>
+  <description><![CDATA[
+                        Исследование ДНК показало, что в кишечнике человека может обитать около тысячи видов микробов, и большинство этих видов одинаковы для разных людей. "Мы едва ли знаем, что это за бактерии, и понятия не имеем, что они делают", - заявляют ученые. ...
+                        ]]></description>
+  <pubDate>Thu, 04 Mar 2010 15:52:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1267711205#5</guid>
+ </item>
+ <item>
+  <title>В поисках замены Хиддинку Россия положила глаз на Фабио Капелло</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/04mar2010/fabio.html</link>
+  <description><![CDATA[
+                        Ходят слухи, что в прошлую субботу президент Российского футбольного союза Сергей Фурсенко предложил итальянскому тренеру Фабио Капелло прийти на смену Гусу Хиддинку в качестве наставника сборной России, пишет The Daily Mail. ...
+                        ]]></description>
+  <pubDate>Thu, 04 Mar 2010 16:49:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1267711205#6</guid>
+ </item>
+ <item>
+  <title>Испания экстрадирует россиянку, осужденную за сбыт героина</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2010/03/04/n_1465667.shtml</link>
+  <description><![CDATA[
+                        Власти Испании экстрадируют в Россию Елену Власову, осужденную на семь лет за хранение и попытку сбыта героина, сообщила официальный представитель Генпрокуратуры Марина Гриднева.
+"Власова была осуждена по ч. 3 ст. 30, ч. 4 ст. 228 ... ...
+                        ]]></description>
+  <pubDate>Thu, 04 Mar 2010 16:57:16 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1267711205#7</guid>
+ </item>
+ <item>
+  <title>Экран выбора в Windows увеличил популярность Opera</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/95d0837/l/0L0Ssecuritylab0Bru0Cnews0C391360A0Bphp/story01.htm</link>
+  <description><![CDATA[
+                        В норвежской компании Opera Software заявили о трехкратном росте популярности Opera в ряде европейских стран после запуска корпорацией Microsoft экрана выбора браузеров. ...
+                        ]]></description>
+  <pubDate>Thu, 04 Mar 2010 14:43:34 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1267711205#8</guid>
+ </item>
+ <item>
+  <title>Севернокорейского рабочего казнили за разговоры по нелегальному мобильньнику</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/accident/crime/2010/03/04/Syevyernokoryeyskogo.phtml</link>
+  <description><![CDATA[
+                        Северокорейский рабочий поплатился жизнью за разговоры с перебежчиком по мобильному телефону. Корейцу также вменяется раскрытие информации о жизни в Северной Корее -- он поведал другу о ценах на рис. Рабочий стал первым человеком в Северной Корее, приговоренным к смерной казни за использование "серого" телефона. ...
+                        ]]></description>
+  <pubDate>Thu, 04 Mar 2010 16:58:58 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1267711205#9</guid>
+ </item>
+ <item>
+  <title>В Европейском суде по правам человека  в Страсбурге состоялись слушания по иску акционеров ЮКОСа, которые требуют от России 98 миллиардов долларов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/661254-echo.html</link>
+  <description><![CDATA[
+                        
+                         Представитель Российской Федерации в суде Георгий Матюшкин назвал претензии необоснованными...
+                          ...
+                        ]]></description>
+  <pubDate>Thu, 04 Mar 2010 16:33:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1267711205#10</guid>
+ </item>
+ <item>
+  <title>Американская Трилогия</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/269335/#new</link>
+  <description><![CDATA[
+                        <img src=http://img.youtube.com/vi/dbk-hXjSTgM/2.jpg><br /><br />Хочу поделиться с вами, друзья, песней, которая для меня идеально иллюстрирует понятие "патриотизм". Сразу извиняюсь перед местными патриотами: песня, как можно догадаться уже из заголовка, доносится до нас из проклятого пиндостана; но мы закроем на это глаза, раз уж говорим о понятии, хорошо?<br />
+Автор  -  Майки Ньюбери, американский кантри-певец; именно его можно наблюдать в этом видео. На самом деле он лишь сделал аранжировку, ...
+                        ]]></description>
+  <pubDate>Thu, 04 Mar 2010 16:24:46 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25 (лет..?)</source>
+  <guid isPermaLink="false">1267711205#11</guid>
+ </item>
+  </channel>
+ </rss>

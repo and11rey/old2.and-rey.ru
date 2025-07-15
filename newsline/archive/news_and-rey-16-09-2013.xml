@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 16 Sep 2013 17:05:00 +0400</pubDate>
+         <lastBuildDate>Mon, 16 Sep 2013 17:05:00 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Два взрыва в Чечне и Ингушетии: погибли 4 полицейских
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2013/09/130916_chechnya_ingushetia_blasts.shtml</link>
+  <description><![CDATA[
+                        В Сунженском районе Чечни в результате взрыва смертника погибли трое полицейских, еще четверо получили ранения разной степени тяжести. В результате взрыва автомобиля в станице Нестеровской Сунженского района Ингушетии погиб один полицейский. ...
+                        ]]></description>
+  <pubDate>Mon, 16 Sep 2013 16:51:49 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1379336700#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Кадыров открыл памятник женщинам - героям войны с Россией
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/m.219038.html</link>
+  <description><![CDATA[
+                        Глава Чечни Рамзан Кадыров открыл памятник чеченским женщинам, которые во время Кавказской войны XIX века совершили самоубийство, захватив с собой конвоировавших их российских солдат. В память об этом событии в республике учрежден День чеченской женщины. Сам Кадыров заявил, что из истории нужно извлекать правильные уроки.  ...
+                        ]]></description>
+  <pubDate>Mon, 16 Sep 2013 15:45:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1379336700#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Как изменится население мира к 2100 году?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/world/20130916/213017440.html</link>
+  <description><![CDATA[
+                        Население мира в будущем ждут перемены. Как следует из анализа Deutsche Bank, сейчас оно составляет чуть больше 7 миллиардов и достигнет пиковой отметки в 8,7 миллиардов к 2055 году. Далее его ждет постепенное сокращение. Самые главные изменения касаются возрастной пирамиды: население неизменно стареет, причем как в Европе, так и в Африке. ...
+                        ]]></description>
+  <pubDate>Mon, 16 Sep 2013 17:00:08 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1379336700#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Теракты подлинные и выдуманные
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/content/article/25107481.html</link>
+  <description><![CDATA[
+                        В России вспоминают жертв терактов 1999 года – взрывами были разрушены несколько жилых домов в Буйнакске, Москве и Волгодонске. ...
+                        ]]></description>
+  <pubDate>Mon, 16 Sep 2013 16:37:58 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1379336700#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Госдуму внесен законопроект, запрещающий въезд педофилам. - РБК - RBC.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNEQBuuyQwW4xM48qABuEj74Ii3hug&amp;url=http://www.rbc.ru/rbcfreenews/20130916165318.shtml</link>
+  <description><![CDATA[
+                        РБК 16.09.2013, Москва 16:53:18 В Государственную думу внесен законопроект о запрете въезда в Россию иностранных граждан или лиц без гражданства, совершивших преступление сексуального характера в отношении несовершеннолетних. С инициативой выступил депутатВ ... ...
+                        ]]></description>
+  <pubDate>Mon, 16 Sep 2013 16:59:22 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1379336700#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Туроператоры, опередив МИД, "открыли" Египет: в неспокойную страну вылетела новая партия россиян
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/16sep2013/egipetopen.html</link>
+  <description><![CDATA[
+                        Накануне вечером два рейса "Трансаэро" вылетели в Шарм-эш-Шейх и Хургаду. В Ростуризме заявили, что "сожалеют" и будут разбираться - ситуация в Египте по-прежнему нестабильна. Из-за запретов МИД РФ египтяне несут миллионные убытки. На переговоры в Москву прибыли египетские министры. ...
+                        ]]></description>
+  <pubDate>Mon, 16 Sep 2013 16:58:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1379336700#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Из песочницы] Инфекция на сайте — история на примере
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/post/193882/</link>
+  <description><![CDATA[
+                        
+Инъекция вредоносного кода в WordPress (Источник картинки)
+
+Эта история начинается между 28.03.2013 и 2.04.2013. В этот промежуток времени сайт ******.ru был инфицирован. Это хорошо можно отследить по archive.org. В коде страниц появляется следующая строчка.
+ Читать дальше в†’ ...
+                        ]]></description>
+  <pubDate>Mon, 16 Sep 2013 16:50:58 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1379336700#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Посещение Российского международного олимпийского университета
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.kremlin.ru/news/19227</link>
+  <description><![CDATA[
+                        Владимир Путин принял участие в церемонии открытия кампуса Российского международного олимпийского университета в Сочи. ...
+                        ]]></description>
+  <pubDate>Mon, 16 Sep 2013 16:45:00 +0400</pubDate>
+  <source url="http://www.kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1379336700#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Дед с 15 зайцами эвакуирован из затопленного дома в Комсомольске-на-Амуре 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/accident/crime/2013/09/16/Dyed_s_15_zaycami_ev.phtml</link>
+  <description><![CDATA[
+                        Более десятка зайцев и их хозяина перевезли на сушу спасатели из затопленного дома в пострадавшем от паводка Комсомольске-на-Амуре. ...
+                        ]]></description>
+  <pubDate>Mon, 16 Sep 2013 16:56:45 +0400</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1379336700#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  16.09.2013 17:01 : Следственный Комитет начал проверку по факту противоправных  действий в отношении российского ребенка в  американской семье
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1158470-echo.html</link>
+  <description><![CDATA[
+                        
+
+По предварительным данным, после смерти матери, 7-летнюю девочку удочерила  семья из американского  штата Индиана. В 13 лет приемные родители передали ее в другую  семью,  живущую в Техасе.  Новые родители разместили объявление в интернете и отдали  девочку по  договоренности незнакомым людям, - сообщил официальный представитель  Следственного комитета  Владимир Маркин.  Он подчеркнул,  что новые опекуны неоднократно  попадали в поле зрения правоохранительных органов  по подозрению в  социальн ...
+                        ]]></description>
+  <pubDate>Mon, 16 Sep 2013 17:01:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1379336700#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Поправка на дальность.
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/img.d3.ru/comments/476523</link>
+  <description><![CDATA[
+                        
+			
+					<img src="http://std3.ru/90/d1/1379321650-90d19cfce24597c6de96622ad38e9f5f.jpg" alt="Поправка на дальность."><br>
+			
+	
+		
+	
+
+ ...
+                        ]]></description>
+  <pubDate>Mon, 16 Sep 2013 16:54:25 +0400</pubDate>
+  <source url="http://d3.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1379336700#34</guid>
+ </item>
+  </channel>
+ </rss>

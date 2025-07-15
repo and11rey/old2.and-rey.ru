@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 25 Oct 2009 17:00:06 +0300</pubDate>
+         <lastBuildDate>Sun, 25 Oct 2009 17:00:06 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Взрывы в Багдаде: более 130 погибших</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/10/091025_baghdad_blast.shtml</link>
+  <description><![CDATA[
+                        По меньшей мере 130 человек погибли и 520 получили ранения в результате двух мощных взрывов в центре Багдада. ...
+                        ]]></description>
+  <pubDate>Sun, 25 Oct 2009 16:06:59 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1256479206#1</guid>
+ </item>
+ <item>
+  <title>Крупный теракт в Багдаде: 106 погибших</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/World/Iraq/m.161151.html</link>
+  <description><![CDATA[
+                        В центре Багдада в воскресенье прогремели два мощных взрыва. В результате совершенных терактов погибли 106 человек и более 500 получили ранения. Большинство погибших - случайные прохожие и люди, находившиеся в проезжавших мимо автомобилях. ...
+                        ]]></description>
+  <pubDate>Sun, 25 Oct 2009 16:24:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1256479206#2</guid>
+ </item>
+ <item>
+  <title>Берлинская стена? Многие подростки никогда о ней не слышали</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/europe/20091025/156422709.html</link>
+  <description><![CDATA[
+                        «Так стену сломали или она сама упала? А жертвы были?», - так 22-летний художник-аэрограф Патрицио реагирует на сообщение о памятных мероприятиях, приуроченных к 20-ой годовщине падения Берлинской стены. ...
+                        ]]></description>
+  <pubDate>Sun, 25 Oct 2009 16:36:00 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1256479206#3</guid>
+ </item>
+ <item>
+  <title>В поддержку Ходорковского</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/1860588.html</link>
+  <description><![CDATA[
+                        В воскресенье центре Москвы прошел пикет в поддержку Михаила Ходорковского и Платона Лебедева под лозунгом "Шесть потерянных для России лет".  
+ ...
+                        ]]></description>
+  <pubDate>Sun, 25 Oct 2009 16:22:05 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1256479206#4</guid>
+ </item>
+ <item>
+  <title>Акционерная война в "Арсенале": миллиардеры Усманов и Кронке готовы к сражению</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/23Oct2009/dailymail/arsenal.html</link>
+  <description><![CDATA[
+                        Между россиянином Алишером Усмановым и американцем Стэном Кронке началась холодная война за контроль над "Арсеналом". Усманов, который считает предпочтительной нынешнюю модель независимого владения несколькими акционерами, хочет увеличить свою долю. ...
+                        ]]></description>
+  <pubDate>Fri, 23 Oct 2009 17:01:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1256479206#5</guid>
+ </item>
+ <item>
+  <title>Кудрин ждет от Лужкова извинений за его "эмоциональные и не совсем корректные" слова</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/25oct2009/kl.html</link>
+  <description><![CDATA[
+                        "Я думаю, что мы это недоразумение с Юрием Михайловичем ликвидируем в ближайшие дни, сверим подходы. Я надеюсь, что Юрий Михайлович принесет извинения", - отметил Кудрин. Пресс-секретарь мэра Москвы Сергей Цой назвал цифры роста доходов московских чиновников, приведенные Кудриным, ложью. ...
+                        ]]></description>
+  <pubDate>Sun, 25 Oct 2009 16:43:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1256479206#6</guid>
+ </item>
+ <item>
+  <title>Дело об убийстве Макшарипа Аушева передадут в прокуратуру России</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/10/25/n_1417821.shtml</link>
+  <description><![CDATA[
+                        Как рассказал источник в правоохранительных органах Кабардино-Балкарии, дело об убийстве лидера ингушской оппозиции Макшарипа Аушева, возможно, будет передано в Главное Управление СКП при Прокуратуре России, сообщает сайт Ингушетия.org. ... ...
+                        ]]></description>
+  <pubDate>Sun, 25 Oct 2009 16:40:00 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1256479206#7</guid>
+ </item>
+ <item>
+  <title>Потенциальные пользователи Windows 7 беспокоятся о совместимости приложений</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/6be7a2d/l/0L0Ssecuritylab0Bru0Cnews0C3868980Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Пользователи, желающие перейти на Windows 7, больше всего обеспокоены вопросами совместимости приложений и процедурой миграции с прежних версий операционной системы Microsoft, говорится в отчете компании iYogi, оказывающей услуги технической поддержки. ...
+                        ]]></description>
+  <pubDate>Fri, 23 Oct 2009 13:58:10 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1256479206#8</guid>
+ </item>
+ <item>
+  <title>У композитора Эндрю Ллойда Уэббера обнаружили рак</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/afisha/music/2009/10/25/U_kompozitora_Endryu.phtml</link>
+  <description><![CDATA[
+                        У британского композитора Эндрю Ллойда Уэббера диагностирован рак предстательной железы. Болезнь обнаружили на ранней стадии. Ожидается, что Уэббер еще до конца года, после курса лечения, вернется к работе. ...
+                        ]]></description>
+  <pubDate>Sun, 25 Oct 2009 15:34:29 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1256479206#9</guid>
+ </item>
+ <item>
+  <title>Английский Арсенал интересуется футболистом сборной Грузии и российского Спартака Джано Ананидзе</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/629570-echo.html</link>
+  <description><![CDATA[
+                        
+                          Об этом сообщает британский таблоид News of the World...
+                          ...
+                        ]]></description>
+  <pubDate>Sun, 25 Oct 2009 16:33:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1256479206#10</guid>
+ </item>
+ <item>
+  <title>"Живой" фасад.</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/261172/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/10/25/26880-162332-49c62f16aa41635a192130b495ad672d.gif><br /><br />Видео, Фото ...
+                        ]]></description>
+  <pubDate>Sun, 25 Oct 2009 16:23:32 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1256479206#11</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 22 Feb 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sat, 22 Feb 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Ложный вывод Монте-Карло: почему “ошибка игрока” так опасна в повседневной жизни
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/vert-fut-51575655</link>
+  <description><![CDATA[
+                        От нее вас не убережет ни образование, ни высокий коэффициент интеллекта. Более того, чем умнее человек, тем легче он попадается в ловушку так называемой ошибки игрока. И это ему может дорого обойтись. ...
+                        ]]></description>
+  <pubDate>Sat, 22 Feb 2020 15:03:33 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1582382101#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Проблема была и остается только в деньгах». Продюсер Илья Стюарт — о внезапном уходе из проекта Звягинцева, «Уроках фарси» и «Петровых в гриппе»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/feature/2020/02/22/problema-byla-i-ostaetsya-tolko-v-dengah</link>
+  <description><![CDATA[
+                        22 февраля на Берлинском кинофестивале покажут картину американского режиссера украинского происхождения Вадима Перельмана «Уроки фарси» — историю еврея, который во время Холокоста выдавал себя за перса. Продвигает фильм Илья Стюарт, российский продюсер компании Hype Film, имя которого связано в том числе со знаковыми проектами Кирилла Серебренникова (он работал над фильмами «Лето» и «Ученик», а теперь занят его же экранизацией романа Алексея Сальникова «Петровы в гриппе») и со скандалом вокруг  ...
+                        ]]></description>
+  <pubDate>Sat, 22 Feb 2020 15:42:49 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1582382101#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Дженнифер Лопес и Шакира, источник вдохновения или стресса для женщин старше 40 лет?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/21Feb2020/slatefr/jlo.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Являются ли 50-летняя J Lo и 40-летняя Шакира источником вдохновения для женщин старше 50 лет? Или они устанавливают планку так высоко, что те чувствуют, что должны выйти из борьбы и сдаться? ...
+                        ]]></description>
+  <pubDate>Fri, 21 Feb 2020 20:20:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1582382101#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Болгария выдаст Украине подозреваемого в убийстве Гандзюк
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30448850.html</link>
+  <description><![CDATA[
+                        Алексея Левина задержали в ходе спецоперации в городе Бургас ...
+                        ]]></description>
+  <pubDate>Sat, 22 Feb 2020 16:31:49 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1582382101#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Эрдоган заявил о планах Турции действовать в Сирии решительней - Lenta.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiKWh0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIwLzAyLzIyL2VyZG9nYW4v0gEvaHR0cHM6Ly9tLmxlbnRhLnJ1L25ld3MvMjAyMC8wMi8yMi9lcmRvZ2FuL2FtcC8?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 22 Feb 2020 17:15:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1582382101#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Адвокаты, правозащитники и эксперты прокомментировали громкую статью "Медузы" о связи фигурантов дела "Сети"* с убийством
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/22feb2020/mdz_murder.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Публикация основывается на рассказах знакомых фигурантов. Один из них, бежавший за границу, признался в причастности к убийству, причем детали его версии тщательно не проверялись. Материал вызвал негативную реакцию, высказываются предположения, что это вброс со стороны силовиков. ...
+                        ]]></description>
+  <pubDate>Sat, 22 Feb 2020 16:44:10 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1582382101#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Телефонный разговор с Президентом Турции Реджепом Тайипом Эрдоганом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/62845</link>
+  <description><![CDATA[
+                        По инициативе турецкой стороны состоялся
+телефонный разговор Владимира Путина с Президентом Турецкой Республики Реджепом Тайипом Эрдоганом.     ...
+                        ]]></description>
+  <pubDate>Fri, 21 Feb 2020 19:35:44 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1582382101#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Идентичность с акцентом: паспорта для Великобритании сделают в Польше
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/285/231231-identicnost-s-akcentom-pasporta-dla-velikobritanii-sdelaut-v-polse</link>
+  <description><![CDATA[
+                        Брексит только совершился, а уже нашелся повод издеваться над Великобританией. Выяснилось, что новые паспорта, которые страна вводит взамен устаревших Евросоюза, будут напечатаны в Польше. ...
+                        ]]></description>
+  <pubDate>Sat, 22 Feb 2020 16:56:40 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1582382101#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  22.02.2020 17:32 : Жителям столицы предлагают  разработать свои экскурсии по городу в рамках Дней исторического и культурного наследия
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2593008-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Как рассказала заммэра Москвы Наталья Сергунина, поучаствовать в проекте может любой, кто знает историю района и умеет выступать перед публикой. Это может быть квест, пешеходный или велосипедный маршрут, также приветствуется использование фотографий и воспоминаний местных жителей. Как сообщает  Росбалт,  маршруты нужно до 3 апреля прислать в Департамент культурного наследия  на  электронную   почту.   Авторам лучших экскурсий окажут организационную помощь и пригласят  стать экскурсоводами про ...
+                        ]]></description>
+  <pubDate>Sat, 22 Feb 2020 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1582382101#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Кудрин назвал ситуацию с ВИЧ в России критической
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/696395</link>
+  <description><![CDATA[
+                        Председатель Счетной палаты Алексей Кудрин отметил рост внимания в России к проблеме ВИЧ, ситуацию с которой в стране он назвал критической. ...
+                        ]]></description>
+  <pubDate>Sat, 22 Feb 2020 16:34:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1582382101#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 25 Mar 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Wed, 25 Mar 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  В Кыргызстане людей с подозрением на Covid-19 размещают на военной базе. Они говорят об ужасных условиях содержания
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/features-52018923</link>
+  <description><![CDATA[
+                        Прилетевших из зараженных коронавирусом стран в Кыргызстане помещают в карантин в казарму бывшей американской авиабазы. Несколько дней назад там находились несколько сотен человек: некоторых с тех пор выпустили, но люди продолжают прибывать. Часть из них жалуются на невыносимые условия содержания. В минздраве страны говорят, что делают все, что возможно в этой ситуации. ...
+                        ]]></description>
+  <pubDate>Wed, 25 Mar 2020 16:45:30 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1585146901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Давайте не будем поступать, полагаясь на наш русский „авось“». Полное видео обращения Путина к россиянам
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/video/2020/03/25/davayte-ne-budem-postupat-polagayas-na-nash-russkiy-avos-polnoe-video-obrascheniya-putina-k-rossiyanam</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 25 Mar 2020 17:12:39 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1585146901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Швейцарии самая высокая плотность людей, зараженных коронавирусом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/25Mar2020/letemps/swiss.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Среди стран с населением более миллиона человек Швейцария опережает Италию по количеству больных. ...
+                        ]]></description>
+  <pubDate>Wed, 25 Mar 2020 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1585146901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  На Алексея Навального напали при входе на радиостанцию "Эхо Москвы"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30508968.html</link>
+  <description><![CDATA[
+                        По словам политика, его облили неизвестной жидкостью и обсыпали мукой ...
+                        ]]></description>
+  <pubDate>Wed, 25 Mar 2020 17:12:37 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1585146901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Путин пообещал выплаты по 5 тыс. руб. семьям с детьми до трех лет - РБК
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LnJiYy5ydS9wb2xpdGljcy8yNS8wMy8yMDIwLzVlN2I1ZDkwOWE3OTQ3ZjJlNTFjNTQ0NNIBR2h0dHBzOi8vYW1wLnJiYy5ydS9yYmNuZXdzL3BvbGl0aWNzLzI1LzAzLzIwMjAvNWU3YjVkOTA5YTc5NDdmMmU1MWM1NDQ0?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 25 Mar 2020 17:30:32 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1585146901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Москве Алексея Навального обсыпали мукой и облили молоком
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/25mar2020/navalnymilk.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Нападение на оппозиционера произошло возле редакции радиостанции &#34;Эхо Москвы&#34;. В 2017 году возле офиса ФБК Алексею Навальному плеснули в лицо раствором зеленки и какой-то ядовитой жидкости. Он частично потерял зрение. Пострадавшего политика прооперировали в зарубежной клинике. ...
+                        ]]></description>
+  <pubDate>Wed, 25 Mar 2020 17:16:28 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1585146901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Обращение к гражданам России
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/63061</link>
+  <description><![CDATA[
+                              ...
+                        ]]></description>
+  <pubDate>Wed, 25 Mar 2020 16:31:02 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1585146901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Люди бросятся снимать деньги»: о последствиях ограничения выдачи наличных из банкоматов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/283/232875-ludi-brosatsa-snimat-dengi-o-posledstviah-ogranicenia-vydaci-nalicnyh-iz-bankomatov</link>
+  <description><![CDATA[
+                        ЦБ рекомендовал банкам ограничить выдачу и прием наличных в банкоматах для предотвращения распространения коронавируса. ...
+                        ]]></description>
+  <pubDate>Wed, 25 Mar 2020 17:30:24 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1585146901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  25.03.2020 17:32 : Сахар за неделю в России подорожал на 7%. Лук – на 3,5%, картошка и морковь – на 2,5%
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2612847-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Сахар за неделю в России подорожал на 7%. Лук – на 3,5%, картошка и морковь – на 2,5%, сообщает Росстат. Гречка подорожала почти  на  3%,  рис,  мука и макароны прибавили в цене по одному проценту, — передает «Интерфакс».
+ ...
+                        ]]></description>
+  <pubDate>Wed, 25 Mar 2020 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1585146901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Глава ФРБ Сент-Луиса предсказал экономике США худший в истории квартал
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/business/700892</link>
+  <description><![CDATA[
+                        Экономические данные в США во втором квартале будут наихудшими в истории, заявил председатель Федерального резервного банка (ФРБ) Сент-Луиса Джеймс Баллард. ...
+                        ]]></description>
+  <pubDate>Wed, 25 Mar 2020 17:27:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1585146901#48</guid>
+ </item>
+  </channel>
+ </rss>

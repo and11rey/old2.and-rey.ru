@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 28 Jan 2010 17:00:06 +0300</pubDate>
+         <lastBuildDate>Thu, 28 Jan 2010 17:00:06 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Ответ на отзывы читателей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/blogs/russian/pensioners/2010/01/post-3.html</link>
+  <description><![CDATA[
+                        У казаков был запрет на три "в": врать, воровать и веру предавать ...
+                        ]]></description>
+  <pubDate>Thu, 28 Jan 2010 16:00:31 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1264687206#1</guid>
+ </item>
+ <item>
+  <title>Усилилась хакерская атака на сайт "Новой газеты"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Internet/m.173982.html</link>
+  <description><![CDATA[
+                        Сайт "Новой газеты" третий день недоступен, а хакерские атаки на него только усилились, сообщила  руководитель пресс-службы издания Надежда Прусенкова. По ее словам, редакция подготовила заявление в правоохранительные органы с требованием возбудить уголовное дело по этому факту. ...
+                        ]]></description>
+  <pubDate>Thu, 28 Jan 2010 16:30:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1264687206#2</guid>
+ </item>
+ <item>
+  <title>Израиль стоит на пороге новой войны </title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/asia/20100128/157852772.html</link>
+  <description><![CDATA[
+                        Публичное заявление президента США Барака Обамы о провале американских усилий возобновить переговорный процесс между Израилем и палестинцами вызывает глубокую тревогу. ...
+                        ]]></description>
+  <pubDate>Thu, 28 Jan 2010 16:59:19 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1264687206#3</guid>
+ </item>
+ <item>
+  <title>В Москве задержаны пикетчики-"яблочники"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20100128/17/17.html?id=1942235</link>
+  <description><![CDATA[
+                        В Москве сотрудники милиции сегодня задержали двух активистов партии "Яблоко", проводивших одиночные пикеты у здания правительства Московской области.  Как сообщили в пресс-службе партии, двое задержанных были отведены к охране здания, еще одну пикетчицу с плакатом милиционеры окружили, чтобы скрыть содержание плаката.  Активисты "Яблока" протестовали против запрета на проведение одиночных пикетов. Соответствующий законопроект внес в Госдуму России парламент Московской ... ...
+                        ]]></description>
+  <pubDate>Thu, 28 Jan 2010 16:00:27 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1264687206#4</guid>
+ </item>
+ <item>
+  <title>Йемен приближается к кризису, представляющему глобальную угрозу</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/28Jan2010/times/yemen.html</link>
+  <description><![CDATA[
+                        Йемену грозит кризис, представляющий угрозу глобальной безопасности, заявили вчера министры иностранных дел, встретившиеся в Лондоне, чтобы выразить поддержку арабскому государству в его борьбе с попытками "Аль-Каиды" создать убежище в его границах. ...
+                        ]]></description>
+  <pubDate>Thu, 28 Jan 2010 16:22:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1264687206#5</guid>
+ </item>
+ <item>
+  <title>Польша будет получать газ от "Газпрома" до 2037 года</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/28jan2010/polgaz.html</link>
+  <description><![CDATA[
+                        Польская сторона согласилась списать долг "Газпрома" в 80 млн долларов за транзит по территории страны. Взамен она будет получать газ по более низкой цене, чем предусмотрено в контракте. ...
+                        ]]></description>
+  <pubDate>Thu, 28 Jan 2010 16:57:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1264687206#6</guid>
+ </item>
+ <item>
+  <title>Суд в Дагестане отказался обязать ЦИК назначить выборы в Дербенте</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2010/01/28/n_1450180.shtml</link>
+  <description><![CDATA[
+                        Верховный суд Дагестана оставил без удовлетворения исковое заявление о назначении повторных выборов в Дербенте. 
+Кандидаты в мэры Дербента Эльхан Казимов и Салих Рамазанов, а также избиратель Шазбан Гафизов просили суд обязать ЦИК, ... ...
+                        ]]></description>
+  <pubDate>Thu, 28 Jan 2010 16:54:20 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1264687206#7</guid>
+ </item>
+ <item>
+  <title>Windows 8 может выйти в 2011 году</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/8dd19c2/l/0L0Ssecuritylab0Bru0Cnews0C390A2330Bphp/story01.htm</link>
+  <description><![CDATA[
+                        По новой информации, клиентская операционная система Windows 8 выйдет уже в следующем году. Известно, что ОС будет 128-разрядной, получит поддержку кластеров и технологии односторонней репликации, а также в корне изменит доступ к файлам. ...
+                        ]]></description>
+  <pubDate>Thu, 28 Jan 2010 14:53:56 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1264687206#8</guid>
+ </item>
+ <item>
+  <title>Платные дороги: за что с нас будут брать деньги?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/auto/right/2010/01/27/Plata_za_udovolstviy.phtml</link>
+  <description><![CDATA[
+                        Правительство России утвердило Правила оказания услуг по организации проезда транспортных средств по платным автодорогам. Согласно этому документу, нам придется платить от 3 до 5 рублей за каждый километр проезда по таким дорогам. Однако за что мы должны платить свои кровные? За какие именно услуги?  ...
+                        ]]></description>
+  <pubDate>Thu, 28 Jan 2010 16:48:38 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1264687206#9</guid>
+ </item>
+ <item>
+  <title>С 1-го февраля в Российской армии появятся первые военные священники</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/652340-echo.html</link>
+  <description><![CDATA[
+                        
+                         Они будут служить на зарубежных российских военных базах и на Северном Кавказе...
+                          ...
+                        ]]></description>
+  <pubDate>Thu, 28 Jan 2010 16:34:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1264687206#10</guid>
+ </item>
+ <item>
+  <title>Кто виноват?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/266956/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2010/01/28/27216-162938-6c082b4ee9dcd78431b847dc78e6d6fe.png><br /><br />  ...
+                        ]]></description>
+  <pubDate>Thu, 28 Jan 2010 16:29:38 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25 (лет..?)</source>
+  <guid isPermaLink="false">1264687206#11</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 08 Jul 2020 17:35:02 +0300</pubDate>
+         <lastBuildDate>Wed, 08 Jul 2020 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Коронавирус в мире: рекорд по заражениям в США и новый карантин в Австралии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-53333477</link>
+  <description><![CDATA[
+                        В США выявлено более 60 тыс. новых случаев заражения коронавирусом за сутки, что является рекордным показателем для страны с начала пандемии. В австралийском Мельбурне из-за скачка новых заражений вновь начинает действовать жесткий карантин. ...
+                        ]]></description>
+  <pubDate>Wed, 08 Jul 2020 16:26:18 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1594218902#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Москве с 1 августа театры откроют для зрителей. Но занимать разрешат лишь половину мест в зале
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2020/07/08/v-moskve-s-1-avgusta-teatry-otkroyut-dlya-zriteley-no-zanimat-razreshat-lish-polovinu-mest-v-zale</link>
+  <description><![CDATA[
+                        Московский театры откроются для зрителей с 1 августа, но смогут принять только 50% зрителей от количества мест в зале. Об этом, сообщает «Интерфакс», объявил специальный представитель президента РФ по международному культурному сотрудничеству Михаил Швыдкой. ...
+                        ]]></description>
+  <pubDate>Wed, 08 Jul 2020 17:26:08 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1594218902#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Коронавирус вновь настиг Израиль, Нетаньяху под огнем критики
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/08Jul2020/liberation/israel.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Израиль, отличившийся в начале года своим эффективным управлением эпидемией, сегодня расплачивается за поспешное снятие карантина, при котором политические расчеты одержали верх над санитарной стратегией. ...
+                        ]]></description>
+  <pubDate>Wed, 08 Jul 2020 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1594218902#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В США вновь возросло число заражений коронавирусом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30714377.html</link>
+  <description><![CDATA[
+                        В США за 7 июля число заболевших коронавирусом достигло почти 55,5 тысяч. Умерли 993 человека. 6 июня умерли 378 пациентов. Рост числа заболевших – почти на пять тысяч – произошёл после выходных и праздников. За эти дни статистика могла обновляться нерегулярно.
+
+
+Последний раз рекорд заболеваемости в Соединённых Штатах был зафиксирован 3 июля. Тогда было выявлено почти 59 тысяч заболевших COVID-19.
+
+
+
+
+Общее число заражений в Соединённых Штатах превысило три миллиона. Умерли с начала пандемии по ...
+                        ]]></description>
+  <pubDate>Wed, 08 Jul 2020 16:42:02 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1594218902#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Во время беспорядков в Белграде пострадали более 60 человек - Газета.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiOmh0dHBzOi8vd3d3LmdhemV0YS5ydS9wb2xpdGljcy8yMDIwLzA3LzA4X2FfMTMxNDQ5NDUuc2h0bWzSATxodHRwczovL20uZ2F6ZXRhLnJ1L2FtcC9wb2xpdGljcy8yMDIwLzA3LzA4X2FfMTMxNDQ5NDUuc2h0bWw?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 08 Jul 2020 17:25:53 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1594218902#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Зять премьер-министра Михаила Мишустина потребовал 500 тыс. рублей от Алексея Навального по иску о защите чести и достоинства
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/08jul2020/udodov500tr.html?utm_source=rss</link>
+  <description><![CDATA[
+                        В суде пояснили, что поводом для подачи иска стала публикация Алексеем Навальным видео на портале Youtube.  Беседа по иску назначена на 27 июля. Ранее Алексей Навальный выпустил расследование о нью-йоркских квартирах семьи Мишустина. Там упоминался и его зять Александр Удодов. ...
+                        ]]></description>
+  <pubDate>Wed, 08 Jul 2020 17:05:38 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1594218902#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Как организовать и провести детские роботехнические соревнования для всей страны в условиях карантина
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/505630/?utm_campaign=505630&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        Хабр, приветствую! Мы занимаемся организацией и проведением детских робототехнических соревнований в рамках АгроНТИ 2020 по направлению Агророботы. Но, как вы уже догадываетесь, в этом году с массовыми мероприятиями, а тем более детскими, не все так однозначно…
+ Читать дальше в†’ ...
+                        ]]></description>
+  <pubDate>Wed, 08 Jul 2020 17:32:09 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1594218902#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Заседание Межведомственной рабочей группы по вопросам, связанным с изменением климата и обеспечением устойчивого развития
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/administration/63619</link>
+  <description><![CDATA[
+                        Советник Президента,
+специальный представитель главы Российского государства по вопросам климата Руслан
+Эдельгериев провёл в формате видеоконференции 31-е заседание Межведомственной рабочей группы при
+Администрации Президента по вопросам, связанным с изменением климата и обеспечением устойчивого развития.    ...
+                        ]]></description>
+  <pubDate>Wed, 08 Jul 2020 16:31:58 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1594218902#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Эксперт объяснил, чем идея переноса Дня России выгодна властям
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/283/238566-ekspert-obasnil-cem-idea-perenosa-dna-rossii-vygodna-vlastam</link>
+  <description><![CDATA[
+                        День России предложили перенести с 12 июня на 1 июля. ...
+                        ]]></description>
+  <pubDate>Wed, 08 Jul 2020 17:04:21 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1594218902#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  08.07.2020 17:33 : Зять Мишустина потребовал от Навального полмиллиона рублей по иску о защите чести, достоинства и деловой репутации
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2673259-echo.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 08 Jul 2020 17:33:14 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1594218902#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Суд удовлетворил ходатайство об УДО осужденного за покушение на депутата Госдумы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/716494</link>
+  <description><![CDATA[
+                        Тосненский городской суд Ленинградской области удовлетворил ходатайство об условно-досрочном освобождении (УДО) Олега Маковоза, фигуранта дела о покушении на депутата Госдумы Башира Кодзоева, который более десяти лет назад был осужден на 23 года заключения, сообщила пресс-служба судов региона в среду. ...
+                        ]]></description>
+  <pubDate>Wed, 08 Jul 2020 17:23:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1594218902#48</guid>
+ </item>
+  </channel>
+ </rss>

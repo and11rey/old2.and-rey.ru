@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 25 Nov 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sat, 25 Nov 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Полиция Лондона опросила двоих мужчин в связи с паникой в метро
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/news-42120457</link>
+  <description><![CDATA[
+                        Двое мужчин откликнулись на обращение полиции в связи с инцидентом на станции метро Оксфорд-серкус, произошедшим в пятницу вечером, когда на самой оживленной улице в центре Лондона неожиданно началась массовая паника. ...
+                        ]]></description>
+  <pubDate>Sat, 25 Nov 2017 17:28:38 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1511620501#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Крым выставил на продажу завод шампанских вин «Новый свет»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2017/11/25/krym-vystavil-na-prodazhu-zavod-shampanskih-vin-novyy-svet</link>
+  <description><![CDATA[
+                        Министерство имущества и земельных отношений Крыма выставило на продажу завод шампанских вин «Новый свет». Стартовая цена актива, вместе с землей и всеми зданиями, составляет полтора миллиарда рублей. Заявки принимаются до 13 декабря, итоги приватизации власти Крыма надеются подвести до 20 декабря.  ...
+                        ]]></description>
+  <pubDate>Sat, 25 Nov 2017 16:35:17 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1511620501#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Оливер Стоун: "Путин, с которым я встречался, сильно отличается от "злодея" в американских СМИ"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/24Nov2017/lefigaro/stone.html?utm_source=rss</link>
+  <description><![CDATA[
+                        "Путина выставляют "злодеем" в американских СМИ. Единственная его вина состоит в том, что он продемонстрировал настороженность и сопротивление в отношении концепции нового миропорядка, установленного США". Интервью с кинорежиссером Оливером Стоуном. ...
+                        ]]></description>
+  <pubDate>Fri, 24 Nov 2017 21:46:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1511620501#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Суд признал действия военных в Зимбабве законными
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28876581.html</link>
+  <description><![CDATA[
+                        Выступление военных привело к отставке президента Роберта Мугабе ...
+                        ]]></description>
+  <pubDate>Sat, 25 Nov 2017 16:22:35 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1511620501#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 25 Nov 2017 17:35:04 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1511620501#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В НАТО исследовали российскую пропаганду: 60% аккаунтов на русском объявлены ботами
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/25nov2017/trollingnato.html?utm_source=rss</link>
+  <description><![CDATA[
+                        По оценке европейских экспертов, с августа по октябрь этого года около 70% русскоязычных записей в сервисе, посвященных присутствию НАТО в Прибалтике и Польше, были сгенерированы ботами. В англоязычном сегменте активность ботов заметно ниже. ...
+                        ]]></description>
+  <pubDate>Sat, 25 Nov 2017 17:27:00 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1511620501#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Перевод] Струи: проявления кварков и глюонов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/295789/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=best</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 25 Nov 2017 12:37:02 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1511620501#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Участникам и гостям 16-го заседания российско-германского форума общественности «Петербургский диалог»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/letters/56157</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Sat, 25 Nov 2017 09:53:54 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1511620501#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Народный Совет ЛНР внес изменения в Конституцию республики
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/130/world/politics/188322-narodnyj-sovet-lnr-vnes-izmenenia-v-konstituciu-respubliki</link>
+  <description><![CDATA[
+                        Народный совет самопровозглашенной ЛНР принял закон о внесении изменений во временный основной закон республики. ...
+                        ]]></description>
+  <pubDate>Sat, 25 Nov 2017 17:08:29 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1511620501#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  25.11.2017 17:32 : В Союзе журналистов России сменилось руководство
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2099070-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Новым председателем союза на съезде организации избран Владимир Соловьев. Возглавлявший союз с 1992 года Всеволод Богданов сложил полномочия и выдвигать свою кандидатуру не стал. Он останется почетным председателем Союза журналистов.
+ ...
+                        ]]></description>
+  <pubDate>Sat, 25 Nov 2017 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1511620501#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Йемен доставили гуманитарную помощь
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/589034</link>
+  <description><![CDATA[
+                        Четыре самолета с гуманитарной помощью, включая продукты питания и медикаменты, приземлились в аэропорту столицы Йемена Саны после трехнедельной блокады арабской коалицией, сообщают в субботу местные СМИ. ...
+                        ]]></description>
+  <pubDate>Sat, 25 Nov 2017 17:09:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1511620501#48</guid>
+ </item>
+  </channel>
+ </rss>

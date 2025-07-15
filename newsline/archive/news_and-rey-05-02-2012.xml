@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 05 Feb 2012 17:00:05 +0400</pubDate>
+         <lastBuildDate>Sun, 05 Feb 2012 17:00:05 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Северная Корея хочет создать собственный беспилотник
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2012/02/120205_north_korea_drone.shtml</link>
+  <description><![CDATA[
+                        Как сообщают южнокорейские средства массовой информации, КНДР занимается разработкой собственного беспилотного летательного аппарата, основанного на образцах американских беспилотников, полученных от стран Ближнего Востока. ...
+                        ]]></description>
+  <pubDate>Sun, 05 Feb 2012 16:29:38 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1328446805#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Ливии сирийцы захватили посольство России
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/War/m.195429.html</link>
+  <description><![CDATA[
+                        Около двухсот сирийцев ворвались в посольство России в ливийской столице Триполи. Нападавшие подняли над резиденцией российского посла флаг сирийской оппозиции. Толпа скандировала антироссийские лозунги в знак поддержки резолюции Совбеза ООН по Сирии, которую накануне заблокировали Россия и Китай. За принятие резолюции проголосовали 13 государств.  ...
+                        ]]></description>
+  <pubDate>Sun, 05 Feb 2012 16:48:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1328446805#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  На Мюнхенской конференции миссию воздушной полиции в Балтии назвали примером разумной обороны
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/baltic/20120205/184993707.html</link>
+  <description><![CDATA[
+                        На Мюнхенской конференции, проходящей в выходные дни, миссию воздушной полиции назвали примером разумной обороны, сказала министр обороны Литвы Раса Юкнявичене. ...
+                        ]]></description>
+  <pubDate>Sun, 05 Feb 2012 16:46:53 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1328446805#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Глава МИД РФ встретится с президентом Сирии в Дамаске 7 февраля 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20120205/17/17.html?id=24474236</link>
+  <description><![CDATA[
+                        Министр иностранных дел России Сергей Лавров и глава Службы внешней разведки Михаил Фрадков 7 февраля посетят Дамаск, где встретятся с президентом Сирии Башаром Асадом. 
+ 
+В российском внешнеполитическом ведомстве подчеркнули, что Москва намерена добиваться стабилизации ситуации и проведения демократических реформ в Сирии. 
+Именно поэтому президент России Дмитрий Медведев поручил Лаврову и Фрадкову провести переговоры с Асадом, отметили в МИДе. 
+ 
+Накануне Россия и Китай наложили вето на ... ...
+                        ]]></description>
+  <pubDate>Sun, 05 Feb 2012 16:41:09 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1328446805#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Американский боксер погиб, попав под поезд
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/feedproxy.google.com/~r/rosbalt/~3/sbDA-q7V2cA/story01.htm</link>
+  <description><![CDATA[
+                        В Хаверхилле, штат Массачусетс, 34-летний американский боксер Джефф Фрэза попал под поезд и погиб. Как передает NEWSru.
+
+ ...
+                        ]]></description>
+  <pubDate>Sun, 05 Feb 2012 16:35:00 +0400</pubDate>
+  <source url="http://feeds2.feedburner.com">Информационное агентство Росбалт</source>
+  <guid isPermaLink="false">1328446805#38</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Ограбление почты в Москве раскрыли, больше половины денег найдено
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/crime/05feb2012/postrus.html</link>
+  <description><![CDATA[
+                        Уже к вечеру в день нападения полицейские установили личность наводчика и вышли на остальных злоумышленников. В субботу ранним утром один из предполагаемых грабителей был задержан при попытке покинуть Москву. У него обнаружили в общей сложности 5 млн рублей из 7 млн похищенных на почте. ...
+                        ]]></description>
+  <pubDate>Sun, 05 Feb 2012 16:52:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1328446805#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Информационная безопасность / Боитесь что снова закроют ex.ua? Не стоит — все можно скачать на сервере Министерства внутренних дел Украины
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/blogs/infosecurity/137634/</link>
+  <description><![CDATA[
+                        Заходим на 91.227.69.2/Install/ и качаем. Там и пиратская Windows с ключем и MS Office, и еще много чего:
+ Читать дальше &rarr;  ...
+                        ]]></description>
+  <pubDate>Sun, 05 Feb 2012 16:00:08 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1328446805#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Спасены все члены экипажа сухогруза "Иван Викулов" - Вести.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNHYb4eEAJq22iMleDpstldbFqBKKw&amp;url=http://www.vesti.ru/doc.html?id%3D706457%26cid%3D8</link>
+  <description><![CDATA[
+                        Все члены экипажа сухогруза "Иван Викулов" эвакуированы. Последние четверо моряков во главе с капитаном пересели с горящего судна на ледокол "Капитан Мошкин". Ранее с борта терпящего бедствие в Азовском море судна были эвакуированы 10 членов экипажа, среди которых была одна женщина - кок. ...
+                        ]]></description>
+  <pubDate>Sun, 05 Feb 2012 16:36:22 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1328446805#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В 60 км от побережья Крыма терпит бедствие судно
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/accident/incident/2012/02/05/V_60_km_ot_pobyeryez.phtml</link>
+  <description><![CDATA[
+                        Сухогруз «Иван Викулов» горит в 60 километрах от побережья Крыма в Азовском море.  ...
+                        ]]></description>
+  <pubDate>Sun, 05 Feb 2012 15:59:05 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1328446805#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  05.02.2012 16:32 : Около 150 рейсов отменил из-за непогоды главный британский аэропорт «Хитроу»
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/855900-echo.html</link>
+  <description><![CDATA[
+                        
+Работу воздушных ворот британской столицы осложнил сильный снегопад. Среди отмененных – рейсы в Москву и из российской столицы. Впрочем, пока, согласно расписанию, аэропорт принимает десятки международных рейсов. В последние дни Соединенное Королевство, как и другие страны Европы, захлестнула волна холодной "арктической" погоды, в ночь на субботу температура в ряде районов центральной Англии опустилась ниже 10 градусов мороза. Ожидается, что сегодня снег во многих районах Великобритании может с ...
+                        ]]></description>
+  <pubDate>Sun, 05 Feb 2012 16:32:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1328446805#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  А вам нравится такая школа?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/336590/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2012/02/05/26603-163933-1bfeec07001dea6f09acd60b43735ca1.jpg><br /><br />Новый взгляд на архитектуру и дизайн школы (Стокгольм, Швеция, Rosan Bosch). ...
+                        ]]></description>
+  <pubDate>Sun, 05 Feb 2012 16:39:34 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1328446805#34</guid>
+ </item>
+  </channel>
+ </rss>

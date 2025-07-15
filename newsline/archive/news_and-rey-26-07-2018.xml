@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 26 Jul 2018 17:35:10 +0300</pubDate>
+         <lastBuildDate>Thu, 26 Jul 2018 17:35:10 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Ушла из жизни одна из последних летчиц Второй мировой - Мэри Эллис. Ей был 101 год
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/features-44943560</link>
+  <description><![CDATA[
+                        В Британии умерла одна из последних женщин-пилотов Второй мировой войны. Эллис был 101 год. Мэри с детства любила самолеты и за время службы управляла более чем тысячей самолетов: от бомбардировщиков до реактивного истребителя. ...
+                        ]]></description>
+  <pubDate>Thu, 26 Jul 2018 17:05:06 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1532615710#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  МИД России назвал Марию Бутину политзаключенной
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/07/26/mid-rossii-nazval-mariyu-butinu-politzaklyuchennoy</link>
+  <description><![CDATA[
+                        МИД России назвал политзаключенной Марию Бутину, обвиняемую в незаконном лоббировании интересов России в США. «Ее арест обусловлен исключительно мотивами американской внутренней и внешней политики», — заявил заместитель официального представителя министерства Артем Кожин. ...
+                        ]]></description>
+  <pubDate>Thu, 26 Jul 2018 17:00:14 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1532615710#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Астрономы: огромное подземное озеро повышает вероятность жизни на Красной планете
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/26Jul2018/guardian/mars.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Исследователи впервые обнаружили единый объем жидкой воды на Красной планете. Находка повышает вероятность того, что жизнь на микробном уровне, появившаяся на Марсе, могла продолжить влачить жалкое существование глубоко под поверхностью планеты. ...
+                        ]]></description>
+  <pubDate>Thu, 26 Jul 2018 17:35:12 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1532615710#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  СМИ: Роналду за признание вины и 19 млн евро освободят от тюрьмы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29392301.html</link>
+  <description><![CDATA[
+                        Знаменитый футболист пошёл на сделку с налоговой службой Испании ...
+                        ]]></description>
+  <pubDate>Thu, 26 Jul 2018 16:57:20 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1532615710#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Москве задержали членов банды после вооруженных нападений
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.m24.ru/news/proisshestviya/26072018/40062</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 26 Jul 2018 17:03:45 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1532615710#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Испанские налоговики выставили Криштиану Роналду счет на 19 млн евро
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/26jul2018/cr7.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Налоговая служба Испании одобрила сделку, предусматривающую штраф в размере почти 19 млн евро и приговор к двум годам тюрьмы в отношении бывшего футболиста мадридского &#34;Реала&#34; по делу об уклонении от уплаты налогов. ...
+                        ]]></description>
+  <pubDate>Thu, 26 Jul 2018 17:33:02 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1532615710#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Из песочницы] «Ручной» манипулятор
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/post/418339/?utm_campaign=418339</link>
+  <description><![CDATA[
+                        Как-то раз, учась на втором курсе университета, передо мной была поставлена задача: стряпать что-нибудь «этакое», дабы подтвердить высокое звание «будущего инженера-робототехника». На этой пафосной ноте я отправился в глубины сознания для поиска идей. После непродолжительного путешествия появилась мысль об устройстве, теорией создания которого хочу поделиться с общественностью.
+
+Суть разработки такая. Рассмотрим обычный, скажем, 5-ти осевой манипулятор (кинематическая структурная схема изображен ...
+                        ]]></description>
+  <pubDate>Thu, 26 Jul 2018 16:39:15 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1532615710#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Американские СМИ подняли панику из-за стандартного чипа в мяче для Трампа
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/282/lifestyle/sport/207146-amerikanskie-smi-podnali-paniku-iz-za-standartnogo-cipa-v-mace-dla-trampa</link>
+  <description><![CDATA[
+                        В Хельсинки российский лидер Владимир Путин подарил американскому президенту Дональду Трампу футбольный мяч с символикой прошедшего ЧМ-2018. В нем обнаружили сюрприз. ...
+                        ]]></description>
+  <pubDate>Thu, 26 Jul 2018 17:30:23 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1532615710#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  26.07.2018 17:33 : В Турции задержан подозреваемый по делу об убийстве российского посла Андрея Карлова
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2247564-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+В Турции задержан подозреваемый по делу об убийстве российского посла Андрея Карлова. Это сотрудник правоохранительных органов. По данным следствия, он состоял в ячейке организации Фетхулаха Гюлена, в которую входил также непосредственный убийца посла Мевлют Алтынташ.  <br>
+Напомним, Андрей Карлов был убит в декабре 2016-го года во время выступления на фотовыставке в Центре современного искусства в Анкаре.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 26 Jul 2018 17:33:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1532615710#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Четверо приезжих задержаны в Москве по подозрению в бандитизме
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/moscow/622687</link>
+  <description><![CDATA[
+                        Четверо подозреваемых в бандитизме мужчин задержаны в Москве, троим из них предъявлено обвинение, сообщила "Интерфаксу" представитель столичного главка Следственного комитета РФ Юлия Иванова. ...
+                        ]]></description>
+  <pubDate>Thu, 26 Jul 2018 17:26:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1532615710#48</guid>
+ </item>
+  </channel>
+ </rss>

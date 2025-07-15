@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 11 Nov 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sat, 11 Nov 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Саудовская Аравия и Иран: борьба за власть на Ближнем Востоке
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-41953451</link>
+  <description><![CDATA[
+                        Соперничество Саудовской Аравии и Ирана привело к росту напряженности на Ближнем Востоке. Кто на чьей стороне? ...
+                        ]]></description>
+  <pubDate>Sat, 11 Nov 2017 16:39:03 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1510410901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Подозреваемому по делу о взрыве дома в Ижевске предъявили обвинение в убийстве
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2017/11/11/podozrevaemomu-po-delu-o-vzryve-doma-v-izhevske-pred-yavili-obvinenie-v-ubiystve</link>
+  <description><![CDATA[
+                        Следственный комитет РФ предъявил обвинение в убийстве Александру Копытову, задержанному по делу об обрушении части жилого дома в Ижевске.  ...
+                        ]]></description>
+  <pubDate>Sat, 11 Nov 2017 17:25:31 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1510410901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Что делать... с Лениным?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/10Nov2017/slatefr/lenine.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Настало время захоронить Ленина у Кремлевской стены, вместе с другими советскими руководителями. Но Путин, выдвинув на первый план примирение в обществе, а не празднование революции, не заинтересован поднимать вопросы, способные привести к розни. ...
+                        ]]></description>
+  <pubDate>Fri, 10 Nov 2017 22:07:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1510410901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Берлине появилась инсталляция в память об Алеппо
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28848302.html</link>
+  <description><![CDATA[
+                        Её установил немецкий художник сирийского происхождения ...
+                        ]]></description>
+  <pubDate>Sat, 11 Nov 2017 16:52:44 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1510410901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 11 Nov 2017 17:35:03 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1510410901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Собчак освистали на митинге защитников Европейского университета в Петербурге
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/11nov2017/eurosobchak.html?utm_source=rss</link>
+  <description><![CDATA[
+                        У вуза в прошлом году отозвали лицензию на обучение и выгоняют из арендуемого здания. Собчак под крики "Позор" заявила о том, что вуз учит людей думать и высказывать свое мнение, а происходящее с ним - это "позор". ...
+                        ]]></description>
+  <pubDate>Sat, 11 Nov 2017 17:29:10 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1510410901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Из песочницы] История проекта длинною в год от 11.11.16 до 11.11.17
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/295299/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=best</link>
+  <description><![CDATA[
+                        Всем привет! В этой статье я хотел бы рассказать о двух вещах: с какими трудностями я столкнулся в ходе работы над Прайс Архивом и что из этого вышло. Мой рассказ я построю, может быть, не совсем обычно. Я почти не буду давать ответы на возникшие вопросы. Я только озвучу те вопросы и проблемы, которые возникали и возникают, которые решил или которые находятся в процессе решения. Инсайд чистой воды, можно сказать.
+
+Как говорится — все от земли, из первых уст. Предполагаю, что Вы устанете просто о ...
+                        ]]></description>
+  <pubDate>Sat, 11 Nov 2017 16:55:15 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1510410901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Визит во Вьетнам
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/trips/56051</link>
+  <description><![CDATA[
+                        Владимир
+Путин принял участие в 25-м саммите форума «Азиатско-тихоокеанское
+экономическое сотрудничество». Лидеры АТЭС-2017 дали оценку текущей
+региональной и мировой экономической ситуации, согласовали пути дальнейшего
+развития сотрудничества, обозначили ряд задач на следующий год. По итогам
+форума утверждена совместная декларация.Президент
+России принял также участие во встречах лидеров экономик форума АТЭС с членами
+Делового консультативного совета и главами делегаций стран АСЕАН. Кроме того, ...
+                        ]]></description>
+  <pubDate>Sat, 11 Nov 2017 15:28:57 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1510410901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Бизнесмен Сергей Полонский потратит на предвыборную кампанию 10 млн долларов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/130/social/rupolitics/187205-biznesmen-sergej-polonskij-potratit-predvybornuu-kampaniu-10-mln-dollarov</link>
+  <description><![CDATA[
+                        Бизнесмен Сергей Полонский, заявивший о намерении баллотироваться на выборах президента России, потратит миллионы долларов на расходы предвыборного штаба. ...
+                        ]]></description>
+  <pubDate>Sat, 11 Nov 2017 17:32:45 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1510410901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  11.11.2017 17:30 : Владельцу квартиры в Ижевске, в которой произошел взрыв газа, повлекший обрушение подъезда, предъявлено обвинение
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2090660-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Владельцу квартиры в Ижевске, в которой произошел взрыв газа, повлекший частичное обрушение подъезда многоэтажки, предъявлено обвинение в убийстве двух и более лиц. Следствие будет ходатайствовать об аресте подозреваемого. Как передает «Интерфакс», его уже доставили в суд. <br>
+Ранее Александр Копытов признался, что умышленно отсоединил шланг от газовой плиты и скрылся. У следствия имеются сомнения в психическом здоровье Копытова. Ожидается, что в ближайшее время ему будет назначена судебно-п ...
+                        ]]></description>
+  <pubDate>Sat, 11 Nov 2017 17:30:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1510410901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Задержанному жильцу обрушившегося в Ижевске дома предъявлено обвинение
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/587011</link>
+  <description><![CDATA[
+                        Главным следственным управлением СК России предъявлено обвинение задержанному по делу об обрушении дома в Ижевске Александру Копытову. ...
+                        ]]></description>
+  <pubDate>Sat, 11 Nov 2017 17:18:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1510410901#48</guid>
+ </item>
+  </channel>
+ </rss>

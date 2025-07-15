@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 08 Jun 2019 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sat, 08 Jun 2019 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Журналиста Ивана Голунова отправили на обследование в больницу
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-48566076</link>
+  <description><![CDATA[
+                        Журналиста "Медузы" Ивана Голунова увезли на обследование в больницу. Врачи подозревают у него сотрясение мозга. Следствие заявляло, что будет просить о продлении задержания Голунова на 72 часа. Журналиста обвинили в покушении на сбыт крупной партии наркотиков. ...
+                        ]]></description>
+  <pubDate>Sat, 08 Jun 2019 16:45:17 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1560004501#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Полиция утверждает, что Ивана Голунова не били. Тогда откуда эти травмы?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/short/2019/06/08/politsiya-utverzhdaet-chto-ivana-golunova-ne-bili-togda-otkuda-eti-travmy</link>
+  <description><![CDATA[
+                        Врач бригады скорой помощи, которую вызывали к задержанному корреспонденту «Медузы» Ивану Голунову, рассказал «Интерфаксу» о результатах осмотра. У журналиста выявили телесные повреждения. Голунов рассказывал, что после задержания его избили. Полиция утверждала, что это не соответствует действительности. ...
+                        ]]></description>
+  <pubDate>Sat, 08 Jun 2019 17:11:35 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1560004501#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Гендерный разрыв в оплате труда начинается задолго до ухода женщин в декрет 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/07Jun2019/letemps/salary.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Разрыв в оплате труда мужчин и женщин является значительным сразу, как только они выходят на рынок труда. Даже молодые женщины без детей получают вполовину меньше денег, чем мужчины. ...
+                        ]]></description>
+  <pubDate>Fri, 07 Jun 2019 20:04:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1560004501#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Саакашвили заявил о самостоятельном участии его партии в выборах в Раду
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29988324.html</link>
+  <description><![CDATA[
+                        Ранее он призывал сторонников поддержать на выборах президента Зеленского ...
+                        ]]></description>
+  <pubDate>Sat, 08 Jun 2019 16:55:35 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1560004501#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Очевидцы рассказали подробности убийства мастера спорта по борьбе в Москве - РИА НОВОСТИ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/ria.ru/20190608/1555405574.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 08 Jun 2019 17:19:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1560004501#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Россия и Белоруссия обсуждают возможность введения единой валюты
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/08jun2019/edinvaluta.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Глава Минэкономразвития РФ Максим Орешкин отметил, что создание единой валюты прописано в союзном договоре между странами 1999 года. Ее введение станет возможным в условиях создания единого экономического пространства. Отдельно от союзного договора этот пункт не рассматривается. ...
+                        ]]></description>
+  <pubDate>Sat, 08 Jun 2019 17:08:53 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1560004501#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Из песочницы] Автоматика для дома своими руками
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/455321/?utm_campaign=455321&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        Моя статья будет полезна тем, кто только задумывается над подобного рода системой, поможет определиться делать ли самому и ориентирована в основном на энтузиастов-колхозников. Изначально пишу “автоматика” а не умный дом, потому что на данном этапе умных функций в моей системе управления нет, сейчас стояла задача в сборе данных и управлении устройствами. Всё должно измениться в будущем, когда появятся алгоритмы которые, и сделают дом умным. С моей точки зрения, если вы можете включать свет со сма ...
+                        ]]></description>
+  <pubDate>Sat, 08 Jun 2019 14:29:57 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1560004501#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с руководителями иностранных компаний
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/60712</link>
+  <description><![CDATA[
+                        В рамках Петербургского
+международного экономического форума состоялась встреча Владимира Путина с руководителями иностранных компаний.      ...
+                        ]]></description>
+  <pubDate>Sat, 08 Jun 2019 10:18:24 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1560004501#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Дело о наркотиках журналиста Голунова дошло до Кремля
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/285/218692-delo-o-narkotikah-zurnalista-golunova-doslo-do-kremla</link>
+  <description><![CDATA[
+                        Дело журналиста Ивана Голунова, которого, кажется, хотели «по-тихому» взять в Москве, пока весь политический, экономический и любой другой бомонд, включая журналистский, находится в Петербурге на экономическом форуме окончательно потеряло первоначальный замысел. Теперь Голуновым заинтересовались в Кремле. ...
+                        ]]></description>
+  <pubDate>Sat, 08 Jun 2019 15:57:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1560004501#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  08.06.2019 17:33 : В Калифорнии продан лотерейный билет, на который выпал выигрыш 530 миллионов долларов
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2441649-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+На полное вознаграждение он может рассчитываться, если согласится на постепенные ежегодные выплаты в течение 30 лет.
+ ...
+                        ]]></description>
+  <pubDate>Sat, 08 Jun 2019 17:33:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1560004501#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Джокович проиграл Тиму в полуфинале "Ролан Гаррос"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.sport-interfax.ru/664436</link>
+  <description><![CDATA[
+                        Лидер мирового рейтинга сербский теннисист Новак Джокович не смог пробиться в финал турнира Большого шлема "Ролан Гаррос". ...
+                        ]]></description>
+  <pubDate>Sat, 08 Jun 2019 17:05:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1560004501#48</guid>
+ </item>
+  </channel>
+ </rss>

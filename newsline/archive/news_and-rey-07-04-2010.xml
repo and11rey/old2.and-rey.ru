@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 07 Apr 2010 17:00:05 +0400</pubDate>
+         <lastBuildDate>Wed, 07 Apr 2010 17:00:05 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Испанский судья Гарсон может предстать перед судом</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2010/04/100407_garzon_judge_trial.shtml</link>
+  <description><![CDATA[
+                        По сообщениям из Испании, Бальтасар Гарсон, самый известный в стране судья, предстанет перед судом: его обвиняют в превышении полномочий.  ...
+                        ]]></description>
+  <pubDate>Wed, 07 Apr 2010 16:50:42 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1270645205#1</guid>
+ </item>
+ <item>
+  <title>В управлении Росимущества по Московской области прошли обыски</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/m.176804.html</link>
+  <description><![CDATA[
+                        В территориальном управлении Росимущества по Московской области прошли обыски. По неподтвержденным данным, они приводились в рамках уголовного дела, возбужденного по статье 159 УК ("Мошенничество") в отношении одного из депутатов Коломенского района Московской области.  ...
+                        ]]></description>
+  <pubDate>Wed, 07 Apr 2010 16:43:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1270645205#2</guid>
+ </item>
+ <item>
+  <title>Лагеря ГУЛАГа
+			    ( "РИА Новости", Россия )
+			</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/infographic/20100407/159089415.html</link>
+  <description><![CDATA[
+                        Главное управление лагерей образовалось чуть позже, спустя несколько месяцев, а сами лагеря появились еще в первые годы советской власти. Но именно 7 апреля 1930 г. постановлением Совнаркома было утверждено Положение об исправительно-трудовых лагерях. Тем самым многочисленные пенитенциарные учреждения были окончательно сведены под крышу единого тюремного ведомства. ...
+                        ]]></description>
+  <pubDate>Wed, 07 Apr 2010 16:55:35 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1270645205#3</guid>
+ </item>
+ <item>
+  <title>Рене Магритт, фотограф смерти</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/2005172.html</link>
+  <description><![CDATA[
+                        В Петербурге в Музее Достоевского проходит выставка фотографий художника-сюрреалиста Рене Магритта "Верность изображений". ...
+                        ]]></description>
+  <pubDate>Wed, 07 Apr 2010 15:39:25 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1270645205#4</guid>
+ </item>
+ <item>
+  <title> Америка хочет обладать свободой действий в противостоянии Ирану и Корее</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/07Apr2010/repubblica/nuclear.html</link>
+  <description><![CDATA[
+                        В новой версии ядерной стратегии США говорится о "фундаментальной роли ядерного сдерживания для защиты Америки и ее союзников от ядерных ударов". Иран и Северная Корея остаются вне списка стран, против которых не будет применяться атомное оружие. ...
+                        ]]></description>
+  <pubDate>Wed, 07 Apr 2010 16:49:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1270645205#5</guid>
+ </item>
+ <item>
+  <title>Депутаты предлагают возмещать ущерб потерпевшим за счет имущества террористов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/07apr2010/vasiliev.html</link>
+  <description><![CDATA[
+                        Сейчас в Госдуме готовится соответствующий законопроект, сообщил один из его авторов, глава комитета по безопасности Владимир Васильев. Необходимо создать механизм, который позволит не переписывать имущество на родственников террориста, а взыскать его в пользу потерпевших, сказал он. ...
+                        ]]></description>
+  <pubDate>Wed, 07 Apr 2010 16:58:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1270645205#6</guid>
+ </item>
+ <item>
+  <title>Столичный гаишник уволен за потерю секретных кодов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2010/04/07/n_1480137.shtml</link>
+  <description><![CDATA[
+                        Инспектор Управления ГИБДД Москвы уволен в среду за потерю секретного служебного документа во время дежурства на одной из федеральных трасс столицы 6 апреля, сообщила начальник отдела пропаганды безопасности дорожного движения УГИБДД при ... ...
+                        ]]></description>
+  <pubDate>Wed, 07 Apr 2010 16:54:16 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1270645205#7</guid>
+ </item>
+ <item>
+  <title>В России отключен крупнейший провайдер McHost</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/9d84df1/l/0L0Ssecuritylab0Bru0Cnews0C3926910Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Вчера в 10 часов вечера были отключены каналы дата центра Mchost. Клиенты хостинг-провайдера в срочном порядке делают бэкапы и переезжают на другие площадки. ...
+                        ]]></description>
+  <pubDate>Wed, 07 Apr 2010 14:48:45 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1270645205#8</guid>
+ </item>
+ <item>
+  <title>Главу МВД Киргизии взяли в заложники</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/foreign/2010/04/07/Ministra_MVD_Kirgizi.phtml</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 07 Apr 2010 16:14:54 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1270645205#9</guid>
+ </item>
+ <item>
+  <title>В Киргизии возобновил вещание государственный телеканал КТР</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/670093-echo.html</link>
+  <description><![CDATA[
+                        
+                         <br><img src='http://www.echo.msk.ru/att/element-670093-picture-0.jpeg?1270644601'><br> В эфире телеканала выступают представители оппозиции, а также правозащитники...
+                          ...
+                        ]]></description>
+  <pubDate>Wed, 07 Apr 2010 16:47:00 +0400</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1270645205#10</guid>
+ </item>
+ <item>
+  <title>Поле Чудес</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/271739/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2010/04/07/20992-155316-750d4cff8d6fcd2f8f5e4fa8d9de117b.jpg><br /><br />На Мавзолее в преддверии майского парада обновляют надпись или?... Даже подумать страшно. <br />
+Источник ...
+                        ]]></description>
+  <pubDate>Wed, 07 Apr 2010 15:53:16 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25 (лет..?)</source>
+  <guid isPermaLink="false">1270645205#11</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 19 Nov 2009 17:00:04 +0300</pubDate>
+         <lastBuildDate>Thu, 19 Nov 2009 17:00:04 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Столкновение с подлодкой - следствие безалаберности</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/11/091119_submarine_crush_investigated.shtml</link>
+  <description><![CDATA[
+                        Комиссия американского военно-морского флота пришла к выводу, что столкновение подводной лодки с кораблем ВМФ в марте 2009 года произошло из-за "неумелого и небрежного" поведения командного состава подлодки. ...
+                        ]]></description>
+  <pubDate>Thu, 19 Nov 2009 15:58:42 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1258639204#1</guid>
+ </item>
+ <item>
+  <title>Путин предложил снизить ставку по ипотечным кредитам</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/Cabinet/m.162371.html</link>
+  <description><![CDATA[
+                        Средняя ставка по ипотечным кредитам должна составлять 10-11 процентов, заявил премьер-министр Владимир Путин. "Сейчас средняя ставка по ипотечным кредитам составляет 14,5 процента. Это очень много для граждан страны. Их доходы пока не соответствуют требованиям банков", - отметил он.  ...
+                        ]]></description>
+  <pubDate>Thu, 19 Nov 2009 16:02:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1258639204#2</guid>
+ </item>
+ <item>
+  <title>Россия использует Иран как «пешку», заявляет депутат </title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/asia/20091119/156571661.html</link>
+  <description><![CDATA[
+                        Влиятельный член иранского парламента, как сообщается, заявил во вторник, что Россия использует эту исламскую республику как «пешку» в своих отношениях с таким державами как Соединенные Штаты. ...
+                        ]]></description>
+  <pubDate>Thu, 19 Nov 2009 16:54:17 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1258639204#3</guid>
+ </item>
+ <item>
+  <title>Интервью об Украине</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/blog/1882369.html</link>
+  <description><![CDATA[
+                        За тридцать лет работы на радио я взял сотни интервью: у стариков, детей, философов, бомжей и даже у животных. Это живой  жанр: он рождается на глазах, в разговоре. Любопытство интервьюера – здоровое чувство. И любопытство слушателя - тоже. Но время от времени я сам даю интервью: о своих новых книжках, о вине, об искусстве радио. Вот два недавних интервью. Это было напечатано в киевском еженедельнике "Украинский Тыждень" ( 6 февраля 2009) в переводе на украинский язык, так что ... ...
+                        ]]></description>
+  <pubDate>Thu, 19 Nov 2009 16:06:43 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1258639204#4</guid>
+ </item>
+ <item>
+  <title>Анна Политковская - одна героиня из многих</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/19Nov2009/lexpress/politkovskaya2.html</link>
+  <description><![CDATA[
+                        В среду на французские экраны вышел документальный фильм о жизни и борьбе Анны Политковской. В фильме рассказывается об убийстве российской журналистки, ее близких, коллегах, а также врагах, например, чеченском президенте Рамзане Кадырове. ...
+                        ]]></description>
+  <pubDate>Thu, 19 Nov 2009 16:22:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1258639204#5</guid>
+ </item>
+ <item>
+  <title>Увидел свет первый в России рецензируемый интернет-журнал по религиоведению</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/religy/19nov2009/relwissenschaft.html</link>
+  <description><![CDATA[
+                        Первый номер посвящен теме "Миф и ритуал". Этой теме посвящены четыре статьи. ,Кроме того, на суд читателей представлен целый ряд рецензий, отчетов о событиях в религиоведческом сообществе и дискуссия об определении понятия "религии" и его применимости в науки и культуре, а также информация о международной интернет-конференции по религиоведению. ...
+                        ]]></description>
+  <pubDate>Thu, 19 Nov 2009 16:59:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1258639204#6</guid>
+ </item>
+ <item>
+  <title>В Белграде прошли похороны предстоятеля Сербской православной церкви</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/11/19/n_1426452.shtml</link>
+  <description><![CDATA[
+                        В Белграде состоялись похороны предстоятеля Сербской православной церкви Павла. Как сообщает АР, попрощаться с Павлом пришли тысячи людей. Президент Сербии Борис Тадич выразил благодарность, что патриарх призывал к человечности и просил ... ...
+                        ]]></description>
+  <pubDate>Thu, 19 Nov 2009 16:59:42 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1258639204#7</guid>
+ </item>
+ <item>
+  <title>Microsoft рассказала о разработке IE9</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/73dbaaf/l/0L0Ssecuritylab0Bru0Cnews0C3878970Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Корпорация Microsoft на конференции разработчиков PDC 2009 в Лос-Анджелесе сообщила подробности о следующей, девятой, версии браузера Internet Explorer. ...
+                        ]]></description>
+  <pubDate>Thu, 19 Nov 2009 14:44:10 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1258639204#8</guid>
+ </item>
+ <item>
+  <title>Запад хочет применить против Ирана «энергетическое оружие» </title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/foreign/2009/11/19/Protiv_Irana_gotovya.phtml</link>
+  <description><![CDATA[
+                        Так и не сумев договориться с Ираном по вопросу ядерной программы, Запад готов применить к Тегерану «энергетическое оружие». В качестве возможной санкции предлагается ввести запрет на передачу иранской стороне технологий в сфере сжиженного природного газа.  ...
+                        ]]></description>
+  <pubDate>Thu, 19 Nov 2009 16:49:00 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1258639204#9</guid>
+ </item>
+ <item>
+  <title> ГИБДД заставит всех милиционеров пристегиваться ремнями безопасности</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/635535-echo.html</link>
+  <description><![CDATA[
+                        
+                          Об этом заявил сегодня первый замначальника департамента обеспечения безопасности дорожного движения МВД Владимир Швецов......
+                          ...
+                        ]]></description>
+  <pubDate>Thu, 19 Nov 2009 16:38:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1258639204#10</guid>
+ </item>
+ <item>
+  <title>Пост № 262544</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/262544/#new</link>
+  <description><![CDATA[
+                        Про сплетни.<br />
+<br />
+Сегодня "Интернет переполнился слухами" что Фидель Кастро предположительно умер. Снова. Не буду касаться самого факта. Если он умер  -  этот человек достоен отдельного поста. Он "умирал" уже столько раз, что вокруг его смерти уже построен целый бизнес. Есть сайты типа Наблюдение за Смертью Кастро и Кастро Умер.  Какой то странный бизнес, не находишь, %username%? ...
+                        ]]></description>
+  <pubDate>Thu, 19 Nov 2009 14:59:06 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1258639204#11</guid>
+ </item>
+  </channel>
+ </rss>

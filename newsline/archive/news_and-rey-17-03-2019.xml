@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 17 Mar 2019 17:35:02 +0300</pubDate>
+         <lastBuildDate>Sun, 17 Mar 2019 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  История самого богатого человека в истории. И это не Джефф Безос
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/features-47522358</link>
+  <description><![CDATA[
+                        Правитель Мали Манса Муса был богаче кого-либо в истории человечества, включая возглавляющего рейтинг Forbes основателя Amazon Джеффа Безоса. Вот его история. ...
+                        ]]></description>
+  <pubDate>Sun, 17 Mar 2019 15:22:49 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1552833302#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Футболист Павел Погребняк назвал «смешным» присутствие темнокожего игрока в сборной России. РФС начал проверку
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/03/17/futbolist-pavel-pogrebnyak-nazval-smeshnym-prisutstvie-temnokozhego-igroka-v-sbornoy-rossii-rfs-nachal-proverku</link>
+  <description><![CDATA[
+                        Российский футбольный союз (РФС) проверит высказывания Павла Погребняка о выступлении темнокожих игроков за сборную. ...
+                        ]]></description>
+  <pubDate>Sun, 17 Mar 2019 17:14:17 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1552833302#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Турция рискует спровоцировать гнев США по поводу сделки с Россией о покупке системы ПРО
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/15Mar2019/ft/turkey.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Турция продолжает работать над противоречивой покупкой российской системы S-400, рискуя спровоцировать ответный удар Вашингтона, который пытается остановить эту сделку и "вылез из кожи вон", чтобы предложить Турции альтернативы российской технике. ...
+                        ]]></description>
+  <pubDate>Fri, 15 Mar 2019 18:59:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1552833302#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Футболисту Павлу Погребняку грозит дисквалификация за расизм
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29826284.html</link>
+  <description><![CDATA[
+                        Павлу Погребняку показалось "смешным", что темнокожий игрок выступает за сборную России ...
+                        ]]></description>
+  <pubDate>Sun, 17 Mar 2019 16:17:03 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1552833302#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Жители деревни в Псковской области устроили травлю девочки, написавшей письмо Путину - Новая газета
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.novayagazeta.ru/news/2019/03/17/150076-zhiteli-derevni-v-pskovskoy-oblasti-ustroili-travlyu-devochki-napisavshey-pismo-putinu</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 17 Mar 2019 16:59:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1552833302#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Белграде возобновились антиправительственные  акции протеста
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/17mar2019/belgradeprotest.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Несколько сот человек прорвали выставленные перед дворцом президента Сербии  полицейские кордоны и подошли ко входу в резиденцию главы государства. Позднее они покинули район президентского дворца и двинулись к полицейскому участку, где находится один из задержанных. ...
+                        ]]></description>
+  <pubDate>Sun, 17 Mar 2019 16:26:15 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1552833302#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Новые идеи для нового будущего
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/444064/?utm_campaign=444064</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 17 Mar 2019 14:36:27 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1552833302#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  18 марта Президент посетит Крым и Севастополь
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/press/announcements/60072</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Sun, 17 Mar 2019 14:30:55 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1552833302#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Футболист Павел Погребняк вляпался в расистский скандал
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/285/social/society/214330-futbolist-pavel-pogrebnak-vlapalsa-v-rasistskij-skandal</link>
+  <description><![CDATA[
+                        В российском футболе произошел первый серьезный расистский скандал с участием не фанатов, а футболистов. Павел Погребняк усомнился в том, что в сборной России могут играть темнокожие футболисты. Даже если его не накажет РФС, практически наверняка этим вопросом озаботятся европейские футбольные чиновники. ...
+                        ]]></description>
+  <pubDate>Sun, 17 Mar 2019 14:31:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1552833302#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  17.03.2019 17:33 : Юлия Началова будет похоронена в четверг, 21 марта, на Троекуровском кладбище в Москве
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2390405-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Юлия Началова будет похоронена в четверг, 21 марта, на Троекуровском кладбище в Москве. Об этом ТАСС сообщила официальный представитель певицы Анна Исаева.  Прощание —   в Траурном зале кладбища  с 12 до 14 часов.    <br>
+ Певица умерла в субботу в возрасте 38 лет в московской больнице после  операции.   Причиной смерти стала остановка сердца.
+ ...
+                        ]]></description>
+  <pubDate>Sun, 17 Mar 2019 17:33:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1552833302#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  На горящем здании завода в Хакасии обрушилась кровля
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/654561</link>
+  <description><![CDATA[
+                        Пожарные локализовали возгорание на территории завода по производству резины в Черногорске (Республика Хакасия), сообщает пресс-центр главного управления МЧС России по региону в воскресенье. ...
+                        ]]></description>
+  <pubDate>Sun, 17 Mar 2019 17:22:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1552833302#48</guid>
+ </item>
+  </channel>
+ </rss>

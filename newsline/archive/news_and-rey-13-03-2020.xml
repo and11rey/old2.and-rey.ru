@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 13 Mar 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Fri, 13 Mar 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  В Британии выросло число венерических заболеваний. Даже среди пенсионеров
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/features-51477439</link>
+  <description><![CDATA[
+                        Коронавирус-коронавирусом, но венерические заболевания пока тоже никто не отменял, а между тем их число заразившихся растет во все мире. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Mar 2020 16:56:40 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1584110101#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Почему во время пандемии важнее всего защитить ваших родителей, бабушек и дедушек. Отвечаем одной картинкой
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/short/2020/03/13/pochemu-vo-vremya-pandemii-vazhnee-vsego-zaschitit-svoih-pozhilyh-rodstvennikov-otvechaem-odnoy-kartinkoy</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 13 Mar 2020 17:17:44 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1584110101#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Чтобы остановить коронавирус, мы должны уменьшить наши социальные взаимодействия в четыре раза
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/13Mar2020/lefigaro/coronavirus.html?utm_source=rss</link>
+  <description><![CDATA[
+                        По мнению экспертов, нам требуется сократить свои социальные взаимодействия до того уровня, чтобы каждый зараженный человек заражал в среднем менее одного человека, а не 3, как это сейчас во Франции. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Mar 2020 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1584110101#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  СМИ: в совет по Донбассу войдут представители Киева и сепаратистов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30485987.html</link>
+  <description><![CDATA[
+                        В него войдут по 10 представителей от Киева и самопровозглашённых "ДНР" и "ЛНР". Киев ранее всегда отказывался от переговоров с сепаратистами ...
+                        ]]></description>
+  <pubDate>Fri, 13 Mar 2020 17:16:21 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1584110101#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Президент Бразилии заразился коронавирусом - Lenta.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiM2h0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIwLzAzLzEzL3ZzZXRha2l6YXJhemlsc3lhL9IBOWh0dHBzOi8vbS5sZW50YS5ydS9uZXdzLzIwMjAvMDMvMTMvdnNldGFraXphcmF6aWxzeWEvYW1wLw?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 13 Mar 2020 17:17:21 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1584110101#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Розыгрыш Кубка мира по лыжным гонкам решили завершить досрочно из-за коронавируса
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/13mar2020/outbreak.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Этап Кубка мира по лыжным гонкам в канадском Квебеке, который должен был пройти с 14 по 15 марта, отменен из-за ситуации с коронавирусом, сообщается на странице Международной федерации лыжного спорта (FIS). ...
+                        ]]></description>
+  <pubDate>Fri, 13 Mar 2020 17:03:14 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1584110101#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Заседание Комиссии по предварительному рассмотрению кандидатур на должности судей федеральных судов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/councils/62985</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Fri, 13 Mar 2020 15:59:41 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1584110101#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  13.03.2020 17:31 : В результате урагана в Москве погиб человек
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2605164-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Об этом сообщил мэр Сергей Собянин. Он также рассказал, что есть пострадавшие, их число градоначальник не уточнил. По данным мэрии, ураган в Москве повалил более 200 деревьев, повредил почти 50 автомобилей. Чиновники рекомендуют москвичам сегодня не выпускать на прогулку детей из-за погодных условий.
+ ...
+                        ]]></description>
+  <pubDate>Fri, 13 Mar 2020 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1584110101#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  "Заминированный" самолет из Москвы благополучно сел в Челябинске
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/699024</link>
+  <description><![CDATA[
+                        Самолет, летевший из Москвы в Челябинск, благополучно приземлился после сообщения о "минировании", сообщил "Интерфаксу" информированный источник. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Mar 2020 17:24:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1584110101#48</guid>
+ </item>
+  </channel>
+ </rss>

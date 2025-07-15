@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 30 Jul 2009 17:00:05 +0400</pubDate>
+         <lastBuildDate>Thu, 30 Jul 2009 17:00:05 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Арестован бывший начальник ОБЭП Калмыкии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/07/30/n_1388255.shtml</link>
+  <description><![CDATA[
+                        Элистинский городской суд санкционировал арест бывшего начальника ОБЭП по республике Калмыкия Вячеслава Чудутова. Представитель суда сообщила "Газете.Ru", что суд вынес постановление во вторник вечером, в силу оно еще не ... ...
+                        ]]></description>
+  <pubDate>Thu, 30 Jul 2009 17:06:03 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1248958805#1</guid>
+ </item>
+ <item>
+  <title>У GGF нет денег на покупку Pirate Bay</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/383120.php</link>
+  <description><![CDATA[
+                        Сделка по продаже торрент-портала The Pirate Bay компании Global Gaming Factory X &#40;GGF&#41; оказалась под угрозой срыва.	 ...
+                        ]]></description>
+  <pubDate>Thu, 30 Jul 2009 16:31:53 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1248958805#2</guid>
+ </item>
+ <item>
+  <title>На Майорке взорвали полицейских</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/accident/incident/2009/07/30/Na_Mayorkye_vzorvali.phtml</link>
+  <description><![CDATA[
+                        На испанской Майорке произошел взрыв у здания полицейской казармы. По предварительным данным, два человека погибли, еще несколько получили ранения. ...
+                        ]]></description>
+  <pubDate>Thu, 30 Jul 2009 16:57:59 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1248958805#3</guid>
+ </item>
+ <item>
+  <title>Джеймс Коннолли</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/58405/</link>
+  <description><![CDATA[
+                        Джеймс Коннолли ...
+                        ]]></description>
+  <pubDate>Thu, 30 Jul 2009 17:09:19 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1248958805#4</guid>
+ </item>
+ <item>
+  <title>он будет своим среди белых медведей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/256898/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/07/30/25127-150253-0ffca56fce85276f08752498322cb6e2.jpg><br /><br />В продолжение темы альбиносов хочется показать Вам вот такого прелестного медведика. А в нагрузку  -  Усурийский тигр альбинос. ...
+                        ]]></description>
+  <pubDate>Thu, 30 Jul 2009 15:02:53 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1248958805#5</guid>
+ </item>
+  </channel>
+ </rss>

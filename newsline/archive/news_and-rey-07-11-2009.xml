@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 07 Nov 2009 17:00:06 +0300</pubDate>
+         <lastBuildDate>Sat, 07 Nov 2009 17:00:06 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>На митинге в центре Москвы задержаны коммунисты</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2009/11/091107_red_square.shtml</link>
+  <description><![CDATA[
+                        Около десяти участников коммунистического митинга, посвященного годовщине Октябрьской революции, задержаны в центре Москвы при попытке пройти на Красную площадь. ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2009 16:07:25 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1257602406#1</guid>
+ </item>
+ <item>
+  <title>КПРФ и автомобилисты провели акцию "Красные в городе" в Новосибирске</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Cars/m.161762.html</link>
+  <description><![CDATA[
+                        В Новосибирске 46 автомобилей приняли участие в акции "Красные в городе", организованной коммунистами и представителями Федерации автовладельцев России и движения ТИГР. Машины проехали по городу с красными флагами, чтобы напомнить о 92-й годовщине Октябрьской революции. ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2009 16:41:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1257602406#2</guid>
+ </item>
+ <item>
+  <title>Прогнозы о расколе Америки начинают подтверждаться</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/multimedia/20091107/156499060.html</link>
+  <description><![CDATA[
+                        Изначально предсказания Панарина о дезинтеграции США никто не воспринимал всерьез. Однако теперь к голосу российского академика присоединился, к примеру, и голос губернатора штата Техас. Рик Перри хочет, чтобы штат вышел из состава союза.  ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2009 13:52:10 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1257602406#3</guid>
+ </item>
+ <item>
+  <title>Союз Белоруссии и Украины</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/1871923.html</link>
+  <description><![CDATA[
+                        Визит президента Белоруссии Александра Лукашенко на Украину может стать реальным шагом в оздоровлении всей энергетической системы Европы.
+ ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2009 15:41:03 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1257602406#4</guid>
+ </item>
+ <item>
+  <title>Дневник кремлевского инсайдера повествует о влиянии Советского Союза на лейбористов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/06Nov2009/dailymail/labours.html</link>
+  <description><![CDATA[
+                        Дневник Анатолия Черняева рассказывает историю "особых отношений" между британской Лейбористской партией и КПСС. Между тем многие министры в нынешнем правительстве выросли из рядов британского социалистического движения. ...
+                        ]]></description>
+  <pubDate>Fri, 06 Nov 2009 16:00:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1257602406#5</guid>
+ </item>
+ <item>
+  <title>Фидель Кастро назвал договор Вашингтона и Боготы "аннексией" Колумбии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/07nov2009/kastro.html</link>
+  <description><![CDATA[
+                        Колумбия и США настаивают, что договор носит исключительно мирный характер и направлен на борьбу с наркотрафиком и терроризмом. "Любой более или менее информированный человек сразу же понимает, что договор... равноценен аннексии Колумбии Соединенными Штатами", - пишет Фидель в статье, которую публикуют в субботу кубинские СМИ. ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2009 16:55:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1257602406#6</guid>
+ </item>
+ <item>
+  <title>Тимошенко не видит оснований для введения ЧП на Украине</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/11/07/n_1422237.shtml</link>
+  <description><![CDATA[
+                        Украинский премьер-министр Юлия Тимошенко по-прежнему полагает, что нет оснований для введения режима чрезвычайного положения в связи с эпидемией гриппа в стране. Как сообщает УНИАН, об этом Тимошенко заявила на брифинге в ... ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2009 16:48:53 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1257602406#7</guid>
+ </item>
+ <item>
+  <title>В протоколах TLS и SSL найдена серьезная уязвимость</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/6f4957a/l/0L0Ssecuritylab0Bru0Cnews0C387420A0Bphp/story01.htm</link>
+  <description><![CDATA[
+                        В представленных технических данных сказано, что уязвимость в TLS кроется в процессе аутентификации. Потенциальный злоумышленник может вторгнуться в сессию легитимного пользователя и успешно перехватывать данные от пользователя и сервера. ...
+                        ]]></description>
+  <pubDate>Fri, 06 Nov 2009 14:28:15 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1257602406#8</guid>
+ </item>
+ <item>
+  <title>Летевший в Москву самолет аварийно сел в Минске</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/accident/incident/2009/11/07/Lyetyevshiy_v_Moskvu.phtml</link>
+  <description><![CDATA[
+                        Самолет, следовавший из Италии в Москву, вынужден был сесть в Минске из-за трещины стекла в кабине пилота. Никто не пострадал. ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2009 16:39:07 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1257602406#9</guid>
+ </item>
+ <item>
+  <title>Сборная России одержала победу над командой Швеции во втором туре хоккейного кубка Карьяла</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/632695-echo.html</link>
+  <description><![CDATA[
+                        
+                         Он проходит в столице Финляндии Хельсинки...
+                          ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2009 16:33:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1257602406#10</guid>
+ </item>
+ <item>
+  <title>Пост № 261827</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/261827/#new</link>
+  <description><![CDATA[
+                        В США проведены испытания, которые могут претворить в жизнь фантазии писателей-фантастов о космическом лифте. Робот, прикрепленный к тросу, один конец которого был зафиксирован на земле, а другой на вертолете, смог подняться вверх на 1 километр за 4 минуты.<br />
+<br />
+Энергию для поднятия космического лифта планируется вырабатывать благодаря лазеру, который с земли будет воздействовать на фотодиод на дне летательного аппарата.<br />
+<br />
+тц ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2009 14:15:38 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1257602406#11</guid>
+ </item>
+  </channel>
+ </rss>

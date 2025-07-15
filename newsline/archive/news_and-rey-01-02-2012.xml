@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 01 Feb 2012 17:00:04 +0400</pubDate>
+         <lastBuildDate>Wed, 01 Feb 2012 17:00:04 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Полиция сняла плакат "Путин, уходи" напротив Кремля
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2012/02/120118_putin_go_placard.shtml</link>
+  <description><![CDATA[
+                        Плакат был вывешен активистами оппозиционного движения "Солидарность" на здании напротив Кремля и провисел там около часа. Активисты утверждают, что плакат стал самым крупным объектом такого рода "в протестной истории России". ...
+                        ]]></description>
+  <pubDate>Wed, 01 Feb 2012 16:39:21 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1328101204#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Путин: В Чечне голосуют за власть, потому что уважают лидеров тейпов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/War/Chechnya/m.195341.html</link>
+  <description><![CDATA[
+                        Премьер-министр Владимир Путин считает, что на результаты голосования избирателей на Северном Кавказе влияют местные обычаи и традиции.  "Если руководители тейпов считают, что нужно участвовать так-то и поддержать такого-то кандидата, они транслируют свое отношение членам семьи, группы и, как правило, люди им доверяют", – сказал Путин. ...
+                        ]]></description>
+  <pubDate>Wed, 01 Feb 2012 16:38:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1328101204#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Тень олигархов над Россией
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/politic/20120201/184565695.html</link>
+  <description><![CDATA[
+                        Идет массированная атака на премьер-министра Владимира Путина со стороны оппозиционеров за рубежом и внутри России, объединенных желанием свалить премьера, символа национального возрождения. ...
+                        ]]></description>
+  <pubDate>Wed, 01 Feb 2012 16:56:42 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1328101204#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Аналитик: Украинскую команду переговорщиков с Россией надо менять
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/feedproxy.google.com/~r/rosbalt/~3/PUp_9Hotuhc/story01.htm</link>
+  <description><![CDATA[
+                        Беспрецедентная длительность переговорного процесса Киева и Москвы по поводу снижения цены на газ говорит о том, что сами переговоры организованы неправильно. Об этом корреспонденту «Росбалта» рассказал украинский независимый эксперт по вопросам энергетики Александр Нарбут.
+
+ ...
+                        ]]></description>
+  <pubDate>Wed, 01 Feb 2012 16:46:00 +0400</pubDate>
+  <source url="http://feeds2.feedburner.com">Информационное агентство Росбалт</source>
+  <guid isPermaLink="false">1328101204#38</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Мир через 113 лет после смерти "железного канцлера" снова услышал голос Отто фон Бисмарка
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/01feb2012/bismarck.html</link>
+  <description><![CDATA[
+                        Впервые обнародована оцифрованная аудиозапись голоса первого канцлера Германской империи XIX века. Она выложена на сайте музея великого американского изобретателя Томаса Эдисона, подарившего миру фонограф. Запись свидетельствует об удивительных вещах. ...
+                        ]]></description>
+  <pubDate>Wed, 01 Feb 2012 16:57:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1328101204#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Python / [Из песочницы] Пользовательские атрибуты в Python
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/blogs/python/137415/</link>
+  <description><![CDATA[
+                        Вы когда нибудь задумывались о том, что происходит, когда вы ставите точку в python? Что скрывает за собой символ str(“\u002E”)? Какие тайны он хранит? Если без мистики, вы знаете как происходит поиск и установка значений пользовательских атрибутов в python? Хотели бы узнать? Тогда… добро пожаловать! Читать дальше &rarr;  ...
+                        ]]></description>
+  <pubDate>Wed, 01 Feb 2012 15:32:13 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1328101204#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Дело об аварии на СШГЭС переквалифицируют - Российская Газета
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNHeN1Ur-YMEYYg8-PTXa1gGAwvj9w&amp;url=http://www.rg.ru/2012/02/01/ges-site.html</link>
+  <description><![CDATA[
+                        Весьма неприятные новости для фигурантов уголовного дела об аварии на Саяно-Шушенской ГЭС пришли сегодня из Следственного комитета России. Там заявили, что громкое уголовное дело на семерых бывших руководителей электростанции переквалифицировали с менее тяжкой статьи на более тяжкую. ...
+                        ]]></description>
+  <pubDate>Wed, 01 Feb 2012 16:52:25 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1328101204#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Обновился дизайн Smart ForTwo 2012 года
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/auto/car/2012/02/01/Obnovilsya_dizayn_Sm.phtml</link>
+  <description><![CDATA[
+                        Автопроизводитель Smart официально объявил, что этой весной стартуют продажи модели ForTwo в обновленном дизайне. В первую очередь это коснулось решетки радиатора — ее линии стали более четкими, на нее переехала эмблема производителя, изменилась форма передних фонарей, а также форма переднего и заднего бамперов. Компания Daimler заявила, что обновленные версии Smart появятся у дилеров уже в апреле. ...
+                        ]]></description>
+  <pubDate>Wed, 01 Feb 2012 16:55:23 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1328101204#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  01.02.2012 16:32 : Американские специалисты создали самонаводящуюся пулю
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/854592-echo.html</link>
+  <description><![CDATA[
+                        
+Похожий на дротик боеприпас способен поражать цели на расстоянии 2-х километров. Как сообщает "Лента.ру", пуля наводится по лазерному лучу. У нее есть оптический сенсор, микрочип, а также микрорули, которыми она управляется в полете. Когда новое оружие поступит в армию, пока неизвестно. 
+ ...
+                        ]]></description>
+  <pubDate>Wed, 01 Feb 2012 16:32:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1328101204#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Пост № 335989
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/335989/#new</link>
+  <description><![CDATA[
+                        Самый большой в мире макет страны (много фотографий в комментариях).<br />
+Рельеф  макета России  находится у нас в Петербурге (на ул.Цветочной, 16) и состоит из морей, озёр и рек, возвышенностей и гор, полей и лесов. На площади 800 м2 раскинуты города и деревни, представлены туннели и мосты, порты и аэродромы, вокзалы и подземные станции метро, заводы и фабрики, шахты и нефтяные вышки, стадионы и военные базы, и многое, многое другое. Есть даже митинги несогласных и встреча Путина с байкерами.< ...
+                        ]]></description>
+  <pubDate>Wed, 01 Feb 2012 16:34:05 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1328101204#34</guid>
+ </item>
+  </channel>
+ </rss>

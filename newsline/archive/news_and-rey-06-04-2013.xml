@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 06 Apr 2013 17:00:05 +0400</pubDate>
+         <lastBuildDate>Sat, 06 Apr 2013 17:00:05 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                   "Справедливая Россия"  начинает  сотрудничество с ОНФ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/Parties/m.213409.html</link>
+  <description><![CDATA[
+                        "Справедливая Россия"  начинает  сотрудничество с ОНФ, заявил председатель партии Николай Левичев. В связи с "вырождением белого протеста" партия отказалась от участия в нем, отметил он. Часть эсеров выступила с критикой это решения, однако другие члены партии одобрили изменение политики. В избирательной компании  партия будет опираться на социальные темы. ...
+                        ]]></description>
+  <pubDate>Sat, 06 Apr 2013 14:58:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1365253205#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Google против ФБР
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/world/20130406/207777080.html</link>
+  <description><![CDATA[
+                        Если у кого-то и есть достаточно сил, средств и энергии для борьбы с ФБР, то это, несомненно, Google. Этот поисковый интернет-гигант, который постоянно вынужден бороться с опасениями по поводу использования им личных данных, готовится оспорить права ФБР на получение данных его пользователей. ...
+                        ]]></description>
+  <pubDate>Sat, 06 Apr 2013 16:16:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1365253205#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Сотрудник полиции устроил ДТП на МКАД, в результате которого пострадали три человека - Газета.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNHP3ZQmk6Sq0EVz55jsR8kAdwVAjQ&amp;url=http://www.gazeta.ru/auto/news/2013/04/06/n_2838369.shtml</link>
+  <description><![CDATA[
+                        Виновником ДТП с тремя пострадавшими, которое произошло утром на МКАД, оказался сотрудник полиции. Об этом сообщает «Интерфакс» со ссылкой на пресс-службу ГУ МВД по Москве. «Сегодня в 06.45 на 95-м километре МКАД произошло ДТП, в котором пострадали три человека. ...
+                        ]]></description>
+  <pubDate>Sat, 06 Apr 2013 16:42:40 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1365253205#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ЦСКА выиграл пятый раз подряд, приблизившись еще к чемпионскому титулу
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/06apr2013/cska.html</link>
+  <description><![CDATA[
+                        В 23-м туре чемпионата России футболисты ЦСКА переиграли в Москве нижегородскую "Волгу" со счетом 2:0 благодаря голам Алана Дзагоева и Вагнера Лава. Для армейского клуба, который уверенно идет на первом месте, эта победа стала пятой подряд в первенстве страны. ...
+                        ]]></description>
+  <pubDate>Sat, 06 Apr 2013 16:55:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1365253205#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  NetFlow, Cisco и мониторинг трафика. Пора разобраться
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/post/175359/</link>
+  <description><![CDATA[
+                        Всем доброго времени суток! Разбираясь с NetFlow, таким простым, удобным и часто используемым протоколом, я осознал, что он не такой уж и простой, и подводных камней при его эксплуатации хватает. 
+Под катом я собрал все, что для начала необходимо знать о NetFlow и его настройках на Cisco, отдал дань eucariot, пишущему отличные статьи о сетях, и… Картинки, немного веселых картинок.
+ Поехали! ...
+                        ]]></description>
+  <pubDate>Sat, 06 Apr 2013 16:02:30 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1365253205#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Россия и Нидерланды – традиции, историческая преемственность и новые перспективы партнёрства
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.kremlin.ru/news/17810</link>
+  <description><![CDATA[
+                        В преддверии рабочего визита в Нидерланды опубликована статья Владимира Путина в нидерландской газете «De Telegraaf». ...
+                        ]]></description>
+  <pubDate>Sat, 06 Apr 2013 08:00:00 +0400</pubDate>
+  <source url="http://www.kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1365253205#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ЦСКА дома победил «Волгу»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/sport/football/2013/04/06/CSKA_doma_pobyedil__.phtml</link>
+  <description><![CDATA[
+                        Футболисты ЦСКА в матче 23-го тура чемпионата России добились победы над нижегородской «Волгой». ...
+                        ]]></description>
+  <pubDate>Sat, 06 Apr 2013 16:51:53 +0400</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1365253205#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Народное кино
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/pulpfilm.d3.ru/comments/430559</link>
+  <description><![CDATA[
+                        
+		
+				<br>
+
+
+
+
+		
+	
+		У какого русского комок в горле не станет при просмотре этого фильма? Таким картинам посвящается этот сайт.
+	
+
+ ...
+                        ]]></description>
+  <pubDate>Sat, 06 Apr 2013 15:02:23 +0400</pubDate>
+  <source url="http://d3.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1365253205#34</guid>
+ </item>
+  </channel>
+ </rss>

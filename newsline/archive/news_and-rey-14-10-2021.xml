@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 14 Oct 2021 17:35:02 +0300</pubDate>
+         <lastBuildDate>Thu, 14 Oct 2021 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Пожар в тайваньской многоэтажке: погибли не менее 46 человек
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-58902232?at_medium=RSS&amp;at_campaign=KARANGA</link>
+  <description><![CDATA[
+                        В результате пожара в 13-этажном многоквартирном доме на юге Тайваня погибли по меньшей мере 46 человек и десятки получили серьезные ранения. ...
+                        ]]></description>
+  <pubDate>Thu, 14 Oct 2021 17:05:39 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1634222102#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Госдума решила разобраться в ситуации с увольнением учительницы из-за блога о секспросвете. Педагог заявила, что в школу возвращаться не хочет
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2021/10/14/gosduma-reshila-razobratsya-v-situatsii-s-uvolneniem-uchitelnitsy-iz-za-bloga-o-seksprosvete-ta-zayavila-chto-ne-hochet-vozvraschatsya-v-shkolu</link>
+  <description><![CDATA[
+                        ДАННОЕ СООБЩЕНИЕ (МАТЕРИАЛ) СОЗДАНО И (ИЛИ) РАСПРОСТРАНЕНО ИНОСТРАННЫМ СРЕДСТВОМ МАССОВОЙ ИНФОРМАЦИИ, ВЫПОЛНЯЮЩИМ ФУНКЦИИ ИНОСТРАННОГО АГЕНТА, И (ИЛИ) РОССИЙСКИМ ЮРИДИЧЕСКИМ ЛИЦОМ, ВЫПОЛНЯЮЩИМ ФУНКЦИИ ИНОСТРАННОГО АГЕНТА.Спасите «Медузу»!https://support.meduza.ioСпикер Госдумы Вячеслав Володин поручил думскому комитету по просвещению разобраться в ситуации учителя биологии из Петербурга Ольги Щеголевой, которую вынудили уволиться из-за блога о секспросвете. ...
+                        ]]></description>
+  <pubDate>Thu, 14 Oct 2021 17:20:39 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1634222102#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Звезду "Русской весны" отправляют в почетную ссылку в Кабо-Верде 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/14Oct2021/lemonde/poklonskaya.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Это не остров Святой Елены и не Сибирь, но трудно не усмотреть в этом почетную ссылку. Указ президента РФ подтвердил слух, ходивший с конца лета, о назначении Натальи Поклонской Чрезвычайным и Полномочным послом Российской Федерации в Кабо-Верде. ...
+                        ]]></description>
+  <pubDate>Thu, 14 Oct 2021 16:13:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1634222102#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Правительство спрогнозировало сокращение населения России на миллион человек за два года
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/praviteljstvo-sprognozirovalo-sokraschenie-naseleniya-rossii-million-chelovek-za-dva-goda/31509590.html</link>
+  <description><![CDATA[
+                        Естественная убыль только за 12 месяцев увеличилась до 997 тысяч ...
+                        ]]></description>
+  <pubDate>Thu, 14 Oct 2021 17:16:30 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1634222102#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Исследование показало эффективность 'Спутника Лайт' как бустерной дозы - РИА НОВОСТИ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiMGh0dHBzOi8vcmlhLnJ1LzIwMjExMDE0L3Zha3RzaW5hLTE3NTQ1OTUxOTMuaHRtbNIBNGh0dHBzOi8vcmlhLnJ1L2FtcC8yMDIxMTAxNC92YWt0c2luYS0xNzU0NTk1MTkzLmh0bWw?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 14 Oct 2021 16:34:41 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1634222102#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Спасибо всем, кто был с нами в течение 21 года
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/31may2021/newsrucomoutoforder2.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Мы каждый день старались предельно честно выполнять профессиональные обязанности - рассказывать, что важного происходит, составлять объективную информационную картину дня. Но наша картина дня стала сильно отличаться от государственной. Ситуация, сложившаяся в экономике и в правовом поле, делает работу NEWSru.com более невозможной. ...
+                        ]]></description>
+  <pubDate>Mon, 31 May 2021 09:00:20 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1634222102#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Улучшаем генеративных чатботов на нейросети ruGPT3: умный ранжировщик ответов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/583516/?utm_campaign=583516&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        Нейронные сети все прочнее входят в нашу жизнь. В последнее время особую значимость приобретают исследования, связанные с обучением искусственных нейронных сетей в сфере анализа естественного языка (NLP, NLU) для создания реалистичных, человечных разговорных «скиллов». Одним из первых примеров «человечных» диалоговых решений стала Xiaoice от Microsoft, которая обладала навыками дружелюбности. Позже такие компании как Яндекс, Google [1], Mail.ru и другие выпустили на рынок своих голосовых помощни ...
+                        ]]></description>
+  <pubDate>Thu, 14 Oct 2021 17:07:10 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1634222102#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Заседание Высшего Евразийского экономического совета
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/66927</link>
+  <description><![CDATA[
+                        Владимир
+Путин в режиме видеоконференции принял участие в заседании Высшего
+Евразийского экономического совета.      ...
+                        ]]></description>
+  <pubDate>Thu, 14 Oct 2021 16:27:10 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1634222102#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Банк простил долг: как это происходит
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/usefull/282/263931-bank-prostil-dolg-kak-eto-proishodit</link>
+  <description><![CDATA[
+                        Значит ли это, что банк заботится о вас? ...
+                        ]]></description>
+  <pubDate>Thu, 14 Oct 2021 17:23:22 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1634222102#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  14.10.2021 17:11 : В России впервые выявили более 30000 случаев коронавируса, обновлен и абсолютный максимум умерших за сутки
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2919482-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+На этом фоне в 10 российских школах начнут экспресс-тестирование детей на ковид. Общественно-политическое движение «Объединение родителей» направило обращение в прокуратуру. Его лидер Инна Гориславцева сказала «Эху Москвы», что родители считают процедуру опасной. Отстранение детей от очного обучения из-за отказа тестироваться незаконно, напомнила Гориславцева.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 14 Oct 2021 17:11:42 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1634222102#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ВТБ разработал ESG-стратегию на 2022-2025 годы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/business/797374</link>
+  <description><![CDATA[
+                        ВТБ разработал ESG-стратегию на 2022-2025 годы, в ближайшее время вынесет ее на рассмотрение наблюдательного совета, рассказал "Интерфаксу" зампред банка Анатолий Печатников. ...
+                        ]]></description>
+  <pubDate>Thu, 14 Oct 2021 17:21:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1634222102#48</guid>
+ </item>
+  </channel>
+ </rss>

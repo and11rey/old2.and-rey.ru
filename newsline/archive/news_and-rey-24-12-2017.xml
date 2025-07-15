@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 24 Dec 2017 17:35:02 +0300</pubDate>
+         <lastBuildDate>Sun, 24 Dec 2017 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Лондонский зоопарк открылся после пожара. Трубкозуб и сурикаты погибли
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/news-42472005</link>
+  <description><![CDATA[
+                        Лондонский зоопарк вновь открыт, после того как в субботу там произошел пожар, в результате которого погибли трубкозуб по имени Миша и четыре суриката. ...
+                        ]]></description>
+  <pubDate>Sun, 24 Dec 2017 17:01:11 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1514126102#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Умер лингвист Андрей Зализняк
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2017/12/24/umer-akademik-andrey-zaliznyak</link>
+  <description><![CDATA[
+                        Умер лингвист, доктор филологических наук, академик РАН Андрей Зализняк. Об этом сообщил сотрудник Института русского языка Дмитрий Сичинава. Зализняку было 82 года. ...
+                        ]]></description>
+  <pubDate>Sun, 24 Dec 2017 17:20:07 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1514126102#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Трамп, Путин и новая холодная война
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/22Dec2017/politico/coldwar.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Действительно ли нынешняя эскалация между Западом и Россией является новой холодной войной? Историческая аналогия, наиболее созвучная с Путиным, это не биполярный мир холодной войны, а империалистическое состязание великих держав в XIX веке. ...
+                        ]]></description>
+  <pubDate>Fri, 22 Dec 2017 21:05:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1514126102#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Муж Меркель, Иоахим Зауэр, рассказал, что не планировал бежать из ГДР
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28936117.html</link>
+  <description><![CDATA[
+                        Зауэр, у которого двое детей от первого брака, работал в берлинском университете имени Гумбольдта до октября и сохранил статус профессора, вышедшего на пенсию ...
+                        ]]></description>
+  <pubDate>Sun, 24 Dec 2017 16:53:38 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1514126102#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 24 Dec 2017 17:35:04 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1514126102#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ЦИК продлил рабочий день из-за наплыва кандидатов. Ждут Навального
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/24dec2017/cikevening.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Документы в ЦИК в воскресенье принесли бизнесмен-"развиватель" Сергей Полонский, а также кандидат от "Коммунистов России" Максим Сурайкин. Телеведущая Ксения Собчак перенесла свой визит на понедельник. ...
+                        ]]></description>
+  <pubDate>Sun, 24 Dec 2017 17:02:15 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1514126102#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Звезда в созвездии Рыб «пожирает» планеты и засоряет пространство вокруг себя пылью и газом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/296789/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=296789</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 24 Dec 2017 15:41:35 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1514126102#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  25 декабря Президент встретится с руководством Совета Федерации и Госдумы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/press/announcements/56479</link>
+  <description><![CDATA[
+                        25 декабря Владимир Путин проведёт традиционную встречу с руководством Совета
+Федерации и Государственной Думы, а также профильных комитетов двух палат.    ...
+                        ]]></description>
+  <pubDate>Sun, 24 Dec 2017 14:03:24 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1514126102#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Команда Путина победила в матче НХЛ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/130/lifestyle/sport/190457-komanda-putina-pobedila-v-matce-nhl</link>
+  <description><![CDATA[
+                        Первый заместитель председателя комитета Госдумы по спорту Вячеслав Фетисов сообщил, что  вматче Ночной хоккейной лиги победила команда Владимира Путина. ...
+                        ]]></description>
+  <pubDate>Sun, 24 Dec 2017 17:28:33 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1514126102#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  24.12.2017 17:32 :  Умер академик Андрей Зализняк
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2116712-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Умер академик, лингвист, доктор филологических наук Андрей Зализняк. Об этом сообщил сотрудник Института русского языка Дмитрий Сичинава. Академику было 82 года.
+ ...
+                        ]]></description>
+  <pubDate>Sun, 24 Dec 2017 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1514126102#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Полиция насчитала около 300 человек на несогласованной акции в Москве
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/moscow/593210</link>
+  <description><![CDATA[
+                        Как отметили в столичном главке, примерно половина из них журналисты ...
+                        ]]></description>
+  <pubDate>Sun, 24 Dec 2017 16:26:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1514126102#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 30 Jul 2019 17:35:01 +0300</pubDate>
+         <lastBuildDate>Tue, 30 Jul 2019 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Крысы-ниндзя из пустыни Аризоны
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/media-49156025</link>
+  <description><![CDATA[
+                        Ученые обнаружили крыс, которые умеют уворачиваться от охотящихся на них змей в самый последний момент. ...
+                        ]]></description>
+  <pubDate>Tue, 30 Jul 2019 16:46:18 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1564497301#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Правозащитницу Светлану Ганнушкину оштрафовали на 150 тысяч рублей за пикет в память о Наталье Эстемировой на Красной площади
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/07/30/pravozaschitnitsu-svetlanu-gannushkinu-oshtrafovali-na-150-tysyach-rubley-za-piket-v-pamyat-o-natalie-estemirovoy-na-krasnoy-ploschadi</link>
+  <description><![CDATA[
+                        В Москве суд оштрафовал на 150 тысяч рублей правозащитницу, председателя комитета «Гражданское содействие» Светлану Ганнушкину, которая 15 июля устроила на Красной площади пикет в память о Наталье Эстемировой. ...
+                        ]]></description>
+  <pubDate>Tue, 30 Jul 2019 17:27:40 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1564497301#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В 2019 году у провидцев появился новый дар: бизнес-чутье
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/30Jul2019/lefigaro/business.html?utm_source=rss</link>
+  <description><![CDATA[
+                        В США множество ясновидящих перепрофилировались в "интуитивных коучей", которых вырывают друг у друга  ВИП-персоны. Такая тенденция набирает силу и во Франции. ...
+                        ]]></description>
+  <pubDate>Tue, 30 Jul 2019 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1564497301#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Дагестане задержан бывший глава Махачкалы Рабаданов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30083598.html</link>
+  <description><![CDATA[
+                        С октября 2017 года был возбуждён ряд уголовных дел против высокопоставленных чиновников республики ...
+                        ]]></description>
+  <pubDate>Tue, 30 Jul 2019 16:56:22 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1564497301#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  На Украине арестовали российский танкер - РИА Новости
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/ria.ru/20190730/1557014974.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 30 Jul 2019 16:33:50 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1564497301#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Украинский суд наложил арест на российский танкер Nika Spirit
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/30jul2019/nikaspirit.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Определение о наложении ареста может быть оспорено в течение пяти дней в Одесском апелляционном суде. Дата вынесения определения - 29 июля. ...
+                        ]]></description>
+  <pubDate>Tue, 30 Jul 2019 17:27:42 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1564497301#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Чайник и голосовые ассистенты. Начало большой дружбы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/461363/?utm_campaign=461363&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 30 Jul 2019 16:42:01 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1564497301#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Заседание рабочей группы по вопросу о национальной программе развития Дальнего Востока на период до 2025 года и на перспективу до 2035 года
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/administration/61190</link>
+  <description><![CDATA[
+                        Помощник
+Президента, секретарь Государственного совета Игорь Левитин провёл второе заседание рабочей
+группы по подготовке президиума Государственного совета «О национальной программе развития Дальнего Востока на период до 2025 года и на перспективу до 2035 года».    ...
+                        ]]></description>
+  <pubDate>Tue, 30 Jul 2019 15:58:47 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1564497301#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Флот без кораблей: может ли Россия гордиться состоянием ВМФ?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/283/social/rupolitics/221549-flot-bez-korablej-mozet-li-rossia-gorditsa-sostoaniem-vmf</link>
+  <description><![CDATA[
+                        Прошедший Петербурге парад проявил отличительную особенность милитаристского государства: сосредоточение на внешней, парадной, стороне часто идет в ущерб эффективности ВС, считает военный обозреватель Александр Гольц. ...
+                        ]]></description>
+  <pubDate>Tue, 30 Jul 2019 17:23:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1564497301#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  30.07.2019 17:30 : Межгосударственный авиационный комитет рекомендует проверить тормозные системы самолетов Ан-24 и Ан-26
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2473671-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Соответствующие процедуры предложено провести после ЧП с лайнером авиакомпании «Ангара» в Бурятии. Об этом говорится в промежуточном отчете, опубликованном на сайте МАК.  
+
+Инцидент произошел в прошлом месяце. Самолет, летевший из Улан-Удэ в Нижнеангарск, при посадке выехал за пределы полосы, врезался в здание и загорелся. Командир экипажа и бортмеханик погибли на месте. Восемь человек госпитализировали. По факту ЧП возбуждено уголовное дело.
+ ...
+                        ]]></description>
+  <pubDate>Tue, 30 Jul 2019 17:30:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1564497301#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Дмитрий Гудков получил 30 суток ареста
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/670949</link>
+  <description><![CDATA[
+                        Тверской суд Москвы назначил тридцать суток ареста лидеру "Партии перемен", незарегистрированному кандидату в Мосгордуму Дмитрию Гудкову. ...
+                        ]]></description>
+  <pubDate>Tue, 30 Jul 2019 17:17:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1564497301#48</guid>
+ </item>
+  </channel>
+ </rss>

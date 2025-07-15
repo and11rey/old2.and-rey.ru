@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2008, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 15 Mar 2009 17:00:05 +0300</pubDate>
+         <lastBuildDate>Sun, 15 Mar 2009 17:00:05 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+ <item>
+  <title>ОПЕК решает, сокращать ли добычу нефти </title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.bbc.co.uk/go/rss/-/hi/russian/international/newsid_7944000/7944470.stm</link>
+  <description><![CDATA[
+                        Об этом заявил на конференции ОПЕК вице-премьер Игорь Сечин. Среди членов организации нет единого мнения, что делать с рынком в условиях кризиса. ...
+                        ]]></description>
+  <pubDate>Sun, 15 Mar 2009 13:59:10 GMT</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1237125605#1</guid>
+ </item>
+ <item>
+  <title>Лидера "Ночного дозора" задержали в Латвии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/m.148639.html</link>
+  <description><![CDATA[
+                        Лидера эстонского общественного движения "Ночной дозор" Дмитрия Линтера задержали пограничники Латвии. Он отправлялся в Ригу на международную конференцию антифашистов "Будущее - без нацизма". ...
+                        ]]></description>
+  <pubDate>Sun, 15 Mar 2009 16:10:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1237125605#2</guid>
+ </item>
+ <item>
+  <title>Белый дом спешит на помощь ("The Washington Post", США)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/247900.html</link>
+  <description><![CDATA[
+                        К многочисленным опасностям, грозящим мировой экономике, следует прибавить бедственное положение Восточной Европы. Страны региона, переживавшие в последние годы бум благодаря импорту капиталов, предоставлявшихся в основном западноевропейскими банками, сейчас одна за другой оказываются на грани банкротства из-за иссякших кредитных потоков ...
+                        ]]></description>
+  <pubDate>Fri, 13 Mar 2009 16:17:00 GMT</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1237125605#3</guid>
+ </item>
+ <item>
+  <title>В Тбилиси проходит многотысячный митинг</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1510341.html</link>
+  <description><![CDATA[
+                        В центре Тбилиси проходит массовый антиправительственный митинг. У памятника Руставели собрались до трех тысяч активистов ряда неправительственных организаций, которые требуют отставки президента Грузии Михаила Саакашвили, сообщает корреспондент Ради ... ...
+                        ]]></description>
+  <pubDate>Sun, 15 Mar 2009 16:17:25 +0300</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1237125605#4</guid>
+ </item>
+ <item>
+  <title>Для Швеции крохотные Латвия, Литва Эстония - слишком большая ставка, чтобы проиграть</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/13Mar2009/iht/baltic.html</link>
+  <description><![CDATA[
+                        За последнее десятилетие шведские банки вложили миллиарды крон в три бурно развивавшихся, но маленьких прибалтийских государства, однако серьезная рецессия в Прибалтике привела некогда выгодные инвестиции к падению. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Mar 2009 16:26:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1237125605#5</guid>
+ </item>
+ <item>
+  <title>В Тбилиси на митинг с требованием отставки Саакашвили вышли около пяти тысяч человек</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/15mar2009/hdgf.html</link>
+  <description><![CDATA[
+                        Участники, выступавшие под лозунгом "Миша, уходи!", потребовали от властей и всех политических сил, включая оппозицию принять меры "для установления в стране справедливости, недопущения насилия и вооруженного противостояния между разными политическими и общественными силами и решения всех проблем мирным путем". ...
+                        ]]></description>
+  <pubDate>Sun, 15 Mar 2009 16:56:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1237125605#6</guid>
+ </item>
+ <item>
+  <title>В Афганистане погибли четверо военнослужащих НАТО</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/03/15/n_1341194.shtml</link>
+  <description><![CDATA[
+                        Четверо военнослужащих НАТО погибли в результате взрыва на востоке Афганистана. Об этом в воскресение сообщили представители командования. Двое солдат погибли на месте взрыва, двое скончались позже в госпитале.
+Национальности погибших не ... ...
+                        ]]></description>
+  <pubDate>Sun, 15 Mar 2009 16:54:04 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1237125605#7</guid>
+ </item>
+ <item>
+  <title>Сегодня 20 лет WWW и 15 лет ядру Linux</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/369994.php</link>
+  <description><![CDATA[
+                        Сегодня, в пятницу, 13 марта, WWW исполняется двадцать лет, а ядро Linux празднует 15-летний юбилей.	 ...
+                        ]]></description>
+  <pubDate>Fri, 13 Mar 2009 21:32:07 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1237125605#8</guid>
+ </item>
+ <item>
+  <title>Глава Минфина РФ: зарплаты чиновникам госкорпораций могут быть значительно сокращены</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/wallet/2009/03/15/165638.html</link>
+  <description><![CDATA[
+                        Зарплаты чиновникам госкорпораций могут быть значительно сокращены в 2009 году. Об этом на пресс-конференции в английском Хоршеме накануне вечером заявил вице-премьер, министр финансов РФ Алексей Кудрин, передает ИТАР-ТАСС. "Думаю, что это произойдет в этом году. Есть поручение премьера... ...
+                        ]]></description>
+  <pubDate>Sun, 15 Mar 2009 16:56:38 +0300</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1237125605#9</guid>
+ </item>
+ <item>
+  <title>Обращение к Президенту в поддержку С.Аракчеева: сбор подписей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/53702/</link>
+  <description><![CDATA[
+                        Обращение к Президенту в поддержку С.Аракчеева: сбор подписей ...
+                        ]]></description>
+  <pubDate>Sun, 15 Mar 2009 14:26:00 +0300</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1237125605#10</guid>
+ </item>
+ <item>
+  <title>Цитата #402841</title>
+  <link>http://www.and-rey.ru/inc/go3.php/bash.org.ru/quote/402841</link>
+  <description><![CDATA[
+                        Ходила в ЗАГС по делам. Там рядышком 2 двери. Одна в зал регистрации брака, другая к секретарю. Сижу на стуле в этом холле, рядом девушка в красивом вечернем белом платье, с цветами, смирно сидит и ждет кого-то, звонит телефон. Она медленно достает мобилу из сумочки и я слышу следующий разговор:<br>-Привет, дорогой.<br>-Да, я в ЗАГСЕ, сижу жду тебя...<br>-Ты снова не сможешь?... Ну ничего, тогда как-нить в следующий раз, милый.<br>Затем встает и спокойно уходит... ну, невеста... ну, видимо, не в ...
+                        ]]></description>
+  <pubDate>Sun, 15 Mar 2009 09:12:50 +0400</pubDate>
+  <source url="http://bash.org.ru">bash.org.ru — Цитатник Рунета</source>
+  <guid isPermaLink="false">1237125605#11</guid>
+ </item>
+   <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+  </channel>
+ </rss>

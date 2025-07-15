@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 24 Nov 2009 17:00:07 +0300</pubDate>
+         <lastBuildDate>Tue, 24 Nov 2009 17:00:07 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Число смертей от ВИЧ-инфекции в мире снизилось на 10%</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/11/091124_hiv_deaths.shtml</link>
+  <description><![CDATA[
+                        По данным Всемирной организации здравоохранения (ВОЗ), благодаря большей доступности лекарств число людей, умирающих от ВИЧ, сократилось на 10%.  ...
+                        ]]></description>
+  <pubDate>Tue, 24 Nov 2009 16:31:29 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1259071207#1</guid>
+ </item>
+ <item>
+  <title>ИТАР-ТАСС: ДТП в Швейцарии устроил Бабаев</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/m.162595.html</link>
+  <description><![CDATA[
+                        Фамилия 22-летнего гражданина России, который в Швейцарии устроил ДТП на Lamborghini, - Бабаев.  Фамилии других участников нелегальной гонки - Исмаиловы и Миронов. Официальный представитель МИДа России Андрей Нестеренко заявил, что, по предварительной информации, все молодые люди являются гражданами России. ...
+                        ]]></description>
+  <pubDate>Tue, 24 Nov 2009 15:54:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1259071207#2</guid>
+ </item>
+ <item>
+  <title>Представитель Ирана угрожает России судом из-за поставок С-300</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/asia/20091124/156674520.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 24 Nov 2009 16:58:29 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1259071207#3</guid>
+ </item>
+ <item>
+  <title>В Ингушетии обстреляны военнослужащие, двое госпитализированы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091124/17/17.html?id=1886596</link>
+  <description><![CDATA[
+                        В Сунженском районе Ингушетии неизвестные обстреляли военнослужащих, двое госпитализированы.   Как сообщили в силовых структурах республики, нападение произошло у поста в селении Даттых.   На месте работает оперативно-следственная группа. Нападавших ищут.   ...
+                        ]]></description>
+  <pubDate>Tue, 24 Nov 2009 16:50:04 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1259071207#4</guid>
+ </item>
+ <item>
+  <title>Чему нас обучает интернет </title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/24Nov2009/independent/inet.html</link>
+  <description><![CDATA[
+                        Ежедневно повторяемые действия, такие как поиск информации в интернете, влияют на рост нейронов и взаимосвязи в мозге, что, в свою очередь, изменяет образ мышления и поведение. Даже полчаса в день могут серьезно улучшить навыки обработки информации. ...
+                        ]]></description>
+  <pubDate>Tue, 24 Nov 2009 16:30:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1259071207#5</guid>
+ </item>
+ <item>
+  <title>Путин: планы и порядок проверки малого бизнеса будут выложены в интернете</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/24nov2009/smalls.html</link>
+  <description><![CDATA[
+                        Правительство предъявило достижения в защите малого бизнеса от административного давления: в органы прокуратуры поступило 27 тысяч заявок на осуществление внеплановых проверок и почти половина была отклонена. ...
+                        ]]></description>
+  <pubDate>Tue, 24 Nov 2009 16:51:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1259071207#6</guid>
+ </item>
+ <item>
+  <title>На юге Филиппин введено военное положение</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/11/24/n_1428073.shtml</link>
+  <description><![CDATA[
+                        Президент Филиппин ввел режим военного положения в двух южных провинциях страны после того, как число найденных военными трупов достигло 46.
+Поисковый отряд в составе военных и полиции обнаружил еще одно массовое захоронение из 22 тел. ... ...
+                        ]]></description>
+  <pubDate>Tue, 24 Nov 2009 16:51:02 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1259071207#7</guid>
+ </item>
+ <item>
+  <title>Обнаружен опасный червь для iPhone</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/7543694/l/0L0Ssecuritylab0Bru0Cnews0C3880A780Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Появились сообщения, что злоумышленники разработали новый вирус для iPhone, который распространяется из Австралии и уже успел заразить тысячи смартфонов. ...
+                        ]]></description>
+  <pubDate>Tue, 24 Nov 2009 13:04:20 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1259071207#8</guid>
+ </item>
+ <item>
+  <title>Дело об убийстве журналиста Зимина направлено в московский суд</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/accident/crime/2009/11/24/Dyelo_ob_ubiystvye_z.phtml</link>
+  <description><![CDATA[
+                        Дело об убийстве журналиста НТВ Ильи Зимина направлено судебными органами Молдавии в один из московских судов. Свидетели по делу будут допрошены не раньше апреля будущего года. ...
+                        ]]></description>
+  <pubDate>Tue, 24 Nov 2009 16:53:08 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1259071207#9</guid>
+ </item>
+ <item>
+  <title>Главный тренер сборной России по футболу Гуус Хиддинк должен в течение месяца решить, подписывать или нет новый контракт с Российским футбольным союзом</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/636688-echo.html</link>
+  <description><![CDATA[
+                        
+                         Об этом сообщил министр спорта Виталий Мутко...
+                          ...
+                        ]]></description>
+  <pubDate>Tue, 24 Nov 2009 16:33:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1259071207#10</guid>
+ </item>
+ <item>
+  <title>Пост № 262810</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/262810/#new</link>
+  <description><![CDATA[
+                        Детроит 30-х годов. Одна из лучших фотографий. ...
+                        ]]></description>
+  <pubDate>Tue, 24 Nov 2009 16:14:41 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1259071207#11</guid>
+ </item>
+  </channel>
+ </rss>

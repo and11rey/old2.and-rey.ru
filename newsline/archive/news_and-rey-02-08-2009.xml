@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 02 Aug 2009 17:00:03 +0400</pubDate>
+         <lastBuildDate>Sun, 02 Aug 2009 17:00:03 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>В Китае боятся эпидемии легочной чумы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/08/090802_china_plague.shtml</link>
+  <description><![CDATA[
+                        Тысячи человек находятся на карантине в городе Цзыкэтань на северо-востоке Китая после смерти 32-летнего мужчины от легочной чумы.  ...
+                        ]]></description>
+  <pubDate>Sun, 02 Aug 2009 14:05:22 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1249218003#1</guid>
+ </item>
+ <item>
+  <title>Три человека погибли в ДТП в Подмосковье</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/m.154855.html</link>
+  <description><![CDATA[
+                        Три человека, в том числе ребенок, погибли и еще двое пострадали в воскресенье при лобовом столкновении двух легковых автомобилей в Московской области. ДТП произошло около 12.00 на 131-м километре Новорязанского шоссе. Водитель одного из автомобилей не справился с управлением и выехал на полосу встречного движения. ...
+                        ]]></description>
+  <pubDate>Sun, 02 Aug 2009 15:44:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1249218003#2</guid>
+ </item>
+ <item>
+  <title>Абхазы не избегают разговаривать на грузинском ("Georgian Times", Грузия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/251220.html</link>
+  <description><![CDATA[
+                        'После августовской войны у нас, к сожалению, нет ни времени ни возможности чтобы поговорить с другими, потому что внутри нас серьезная проблема, которую мы пока не решили. Сейчас идет борьба за трон, за его сохранение и нет времени для разговоров о территориальных вопросах. Наше общество расколото внутри, и на этом этапе у нас нет людей, которые могли бы говорить с Абхазией',- считает писатель Гурам Одишария, который недавно вернулся из Сухуми. ...
+                        ]]></description>
+  <pubDate>Sun, 02 Aug 2009 12:54:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1249218003#3</guid>
+ </item>
+ <item>
+  <title>Войска НАТО в Афганистане за два дня потеряли 6 человек убитыми</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090802/17/17.html?id=1790762</link>
+  <description><![CDATA[
+                        Трое американских военнослужащих, по уточненным данным, погибли сегодня в Афганистане.  По сообщению командования международных сил, машина американцев подорвалась на мине, после чего они были обстреляны боевиками.  В субботу на юге Афганистана в столкновениях с талибами погиб французский солдат и еще двое военнослужащих, о гражданстве которых не сообщается.  Этим летом войска НАТО в Афганистане несут рекордные потери. Самым тяжелым для них месяцем был июль, когда погибли 75 военнослужащих. ...
+                        ]]></description>
+  <pubDate>Sun, 02 Aug 2009 15:43:22 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1249218003#4</guid>
+ </item>
+ <item>
+  <title>Молдаване хотят и того, и другого</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/31Jul2009/ft/moldova.html</link>
+  <description><![CDATA[
+                        Не будет преувеличением сказать, что молдаване буквально разрываются между Востоком и Западом. По данным опросов, 75% населения хотели бы вступления страны в ЕС. При этом 80% доверяют России больше, чем кому-либо еще. Они хотят и того, и другого. ...
+                        ]]></description>
+  <pubDate>Fri, 31 Jul 2009 16:07:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1249218003#5</guid>
+ </item>
+ <item>
+  <title>Опасность эпидемии легочной чумы в Китае - на карантине целый город</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/02aug2009/ca.html</link>
+  <description><![CDATA[
+                        Если обнаруженная на ранней стадии бубонная чума поддается лечению антибиотиками, то легочная чума остается заболеванием с высоким уровнем смертности. По данным ВОЗ, человек может умереть спустя всего сутки после заражения. ...
+                        ]]></description>
+  <pubDate>Sun, 02 Aug 2009 16:53:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1249218003#6</guid>
+ </item>
+ <item>
+  <title>В Зимбабве в аварии автобуса погибли 33 человека</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/08/02/n_1389175.shtml</link>
+  <description><![CDATA[
+                        В Зимбабве в результате столкновения автобуса с другой машиной погибли 33 человека, сообщает местное радио. 
+Инцидент произошел в 80 км от столицы страны, когда автобус совершал неудачный обгон и врезался в автомобиль, двигавшийся по ... ...
+                        ]]></description>
+  <pubDate>Sun, 02 Aug 2009 16:51:47 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1249218003#7</guid>
+ </item>
+ <item>
+  <title>Cуд присяжных  обязал студента выплатить 675 тысяч долларов звукозаписывающим компаниям </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/383188.php</link>
+  <description><![CDATA[
+                        По данным агентства, это второй случай в США, когда суд признает физическое лицо виновным в нарушении авторских прав путем скачивания музыки из интернета.	 ...
+                        ]]></description>
+  <pubDate>Sat, 01 Aug 2009 11:50:48 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1249218003#8</guid>
+ </item>
+ <item>
+  <title>В столкновении автобусов в Польше пострадали 18 человек</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/accident/incident/2009/08/02/V_stolknovyenii_avto.phtml</link>
+  <description><![CDATA[
+                        18 человек получили ранения в результате аварии в Тарновских Горах в Польше. Состояние семи из пострадавших медики оценивают как тяжелое. ...
+                        ]]></description>
+  <pubDate>Sun, 02 Aug 2009 16:52:11 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1249218003#9</guid>
+ </item>
+ <item>
+  <title>Актуальный антинацизм</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/58499/</link>
+  <description><![CDATA[
+                        Увлекшись радикальными либеральными формулами, Европа не смогла понять культурную противоречивость восточноевропейских обществ, допущенных до влияния на политику ЕС. А те, вернувшись к довоенным традициям, начали воспроизводить национализм, не прошедший денацификацию. И вот уже Запад - на почве отношения к России - готов потакать им в переоценке Второй мировой войны и оправдании коллаборации. Ревизионистская волна, чреватая реабилитацией нацизма, грозит самой Европе, ее интеграционному проекту. ...
+                        ]]></description>
+  <pubDate>Sun, 02 Aug 2009 17:00:10 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1249218003#10</guid>
+ </item>
+ <item>
+  <title>Птицы над Римом</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/256998/#new</link>
+  <description><![CDATA[
+                        <img src=http://img.youtube.com/vi/aj3r0YxkDBE/2.jpg><br /><br />Тысячи птиц кружатся в небе над Римом в причудливом танце, создавая порой удивительные, фантастические картины. Возможно, они хотят что-то сказать людям. Например, что жизнь прекрасна. Что ее стоит любить. Стоит беречь.<br />
+Или что собирается дождь. Что будет гроза. Возможно, даже буря, ураган, смерч, землетрясение. И все умрут.<br />
+Этой зимой за танцем птиц наблюдал также итальянский фотограф Массимо Кристалди. Однако не над Р ...
+                        ]]></description>
+  <pubDate>Sun, 02 Aug 2009 14:09:19 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1249218003#11</guid>
+ </item>
+  </channel>
+ </rss>

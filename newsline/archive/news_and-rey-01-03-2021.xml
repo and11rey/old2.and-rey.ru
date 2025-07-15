@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 01 Mar 2021 17:35:01 +0300</pubDate>
+         <lastBuildDate>Mon, 01 Mar 2021 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Метеорит в небе Англии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/media-56242247</link>
+  <description><![CDATA[
+                        В ночь на 1 марта камеры наблюдения в некоторых частях Англии зафиксировали падение метеорита. ...
+                        ]]></description>
+  <pubDate>Mon, 01 Mar 2021 17:07:48 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1614609301#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Правительство предложило обязать граждан эвакуироваться из зоны ЧС
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2021/03/01/pravitelstvo-predlozhilo-obyazat-grazhdan-evakuirovatsya-iz-zony-chs</link>
+  <description><![CDATA[
+                        Правительство России внесло на рассмотрение Госдумы законопроект, который среди прочего обязывает граждан эвакуироваться с территории, где объявлена чрезвычайная ситуация. ...
+                        ]]></description>
+  <pubDate>Mon, 01 Mar 2021 16:54:53 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1614609301#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В 2038 году может появиться ошибка, которая покажет уязвимость информатики
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/01Mar2021/letemps/2038.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Что вы делаете 19 января 2038 года в 3:14:07? Переход на эту дату и время может вызвать сбои в работе компьютера. Это следствие беспечности, долгое время царившей в информатике, из-за которой "проблема 2000 года" стала весьма дорогим предприятием.  ...
+                        ]]></description>
+  <pubDate>Mon, 01 Mar 2021 17:35:01 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1614609301#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Николя Саркози осуждён на три года по обвинению в коррупции
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/31127630.html</link>
+  <description><![CDATA[
+                        Как минимум год из назначенного срока бывший президент Франции должен будет провести в тюрьме ...
+                        ]]></description>
+  <pubDate>Mon, 01 Mar 2021 16:10:42 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1614609301#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Экс-президент Франции Николя Саркози признан виновным в коррупции - Би-би-си Русская служба
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiKWh0dHBzOi8vd3d3LmJiYy5jb20vcnVzc2lhbi9uZXdzLTU2MjQxMjgz0gEtaHR0cHM6Ly93d3cuYmJjLmNvbS9ydXNzaWFuL25ld3MtNTYyNDEyODMuYW1w?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 01 Mar 2021 16:30:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1614609301#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  World Athletics одобрил дорожную карту по восстановлению доверия к ВФЛА
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/01mar2021/athletic.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Совет Всемирной легкоатлетической ассоциации одобрил план восстановления в правах Всероссийской федерации легкой атлетики, который был разработан во взаимодействии с международными экспертами и представлен российской стороной 16 февраля. ...
+                        ]]></description>
+  <pubDate>Mon, 01 Mar 2021 17:14:33 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1614609301#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Перевод] Как я сократил время загрузки GTA Online на 70%
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/544764/?utm_campaign=544764&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        
+GTA Online печально известна своей медленной скоростью загрузки. Запустив недавно игру, чтобы выполнить новые миссии-налёты, я был шокирован тем, что она загружается так же медленно, как и в момент выпуска семь лет назад.
+
+Время настало. Пока разобраться в причинах этого.
+
+Разведка
+Для начала я захотел проверить, не решил ли уже кто-нибудь эту проблему. Большинство найденных результатов состояло из анекдотичных данных о том, насколько сложна игра, что ей приходится грузиться так долго, историй  ...
+                        ]]></description>
+  <pubDate>Mon, 01 Mar 2021 17:21:03 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1614609301#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с главой Федерального медико-биологического агентства Вероникой Скворцовой
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/65080</link>
+  <description><![CDATA[
+                        Владимир
+Путин провёл рабочую встречу с руководителем Федерального
+медико-биологического агентства Вероникой Скворцовой. Глава ФМБА доложила
+Президенту о результатах работы ведомства за 2020 год.      ...
+                        ]]></description>
+  <pubDate>Mon, 01 Mar 2021 13:13:44 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1614609301#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Госдуме возмутились: Skoda теперь роскошный автомобиль
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/283/252202-v-gosdume-vozmutilis-skoda-teper-roskosnyj-avtomobil</link>
+  <description><![CDATA[
+                        Повышенный налог должны платить собственники автомашин дороже трех млн рублей. ...
+                        ]]></description>
+  <pubDate>Mon, 01 Mar 2021 17:17:40 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1614609301#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  01.03.2021 17:33 : Зампред ПАСЕ Петр Толстой призвал Россию готовиться к выходу из Совета Европы
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2798280-echo.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 01 Mar 2021 17:33:52 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1614609301#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Движение по МЦД-2 частично ограничат в марте
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/moscow/754010</link>
+  <description><![CDATA[
+                        Между станциями "Перерва" и "Красный Строитель" второй линии Московских центральных диаметров (МЦД-2) большую часть марта после 23:30 не будут ходить электропоезда, сообщает mos.ru. ...
+                        ]]></description>
+  <pubDate>Mon, 01 Mar 2021 17:25:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1614609301#48</guid>
+ </item>
+  </channel>
+ </rss>

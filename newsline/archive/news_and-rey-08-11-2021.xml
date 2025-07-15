@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 08 Nov 2021 17:35:02 +0300</pubDate>
+         <lastBuildDate>Mon, 08 Nov 2021 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Даниэль Ортега в пятый раз стал президентом Никарагуа. Оппозиция назвала выборы фарсом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-59196894?at_medium=RSS&amp;at_campaign=KARANGA</link>
+  <description><![CDATA[
+                        На выборах в Никарагуа, как и ожидалось, победу с большим перевесом одерживает действующий президент Даниэль Ортега, возглавляющий страну последние 14 лет. На должность вице-президента претендует его супруга Росарио Мурильо. ...
+                        ]]></description>
+  <pubDate>Mon, 08 Nov 2021 16:52:10 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1636382102#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В телеграме появились (невероятно раздражающие) рекламные объявления. А помните, как Павел Дуров говорил, что будет монетизировать мессенджер «ненавязчиво» и «незаметно»? Цепочка обещаний
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/feature/2021/11/08/v-telegrame-poyavilis-neveroyatno-razdrazhayuschie-reklamnye-ob-yavleniya-a-pomnite-kak-pavel-durov-govoril-chto-budet-monetizirovat-messendzher-nenavyazchivo-i-nezametno</link>
+  <description><![CDATA[
+                        ДАННОЕ СООБЩЕНИЕ (МАТЕРИАЛ) СОЗДАНО И (ИЛИ) РАСПРОСТРАНЕНО ИНОСТРАННЫМ СРЕДСТВОМ МАССОВОЙ ИНФОРМАЦИИ, ВЫПОЛНЯЮЩИМ ФУНКЦИИ ИНОСТРАННОГО АГЕНТА, И (ИЛИ) РОССИЙСКИМ ЮРИДИЧЕСКИМ ЛИЦОМ, ВЫПОЛНЯЮЩИМ ФУНКЦИИ ИНОСТРАННОГО АГЕНТА.Спасите «Медузу»!https://support.meduza.ioВ мессенджере Telegram 7 ноября появились первые официальные рекламные сообщения. Многие пользователи сразу начали жаловаться на их навязчивость, хотя основатель мессенджера Павел Дуров ранее уверял, что изменения будут «почти незаметны» ...
+                        ]]></description>
+  <pubDate>Mon, 08 Nov 2021 17:14:42 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1636382102#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Распад СССР: "Я чувствовал дыхание истории, Горбачев тоже"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/08Nov2021/liberation/ussr.html?utm_source=rss</link>
+  <description><![CDATA[
+                        В интервью Андрей Грачев, кандидат исторических наук, писатель, советник и пресс-секретарь президента СССР Горбачева, обсуждает причины распада СССР и место России в современном мире. ...
+                        ]]></description>
+  <pubDate>Mon, 08 Nov 2021 17:17:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1636382102#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Журналисток признали "иноагентами" за репосты других "иноагентов"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/zhurnalistok-priznali-inoagentami-za-reposty-drugih-inoagentov/31551303.html</link>
+  <description><![CDATA[
+                        Среди СМИ-"иноагентов", которые они цитировали, "Медуза", VTimes и Радио Свобода ...
+                        ]]></description>
+  <pubDate>Mon, 08 Nov 2021 16:50:23 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1636382102#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Россия заранее знала подробности захвата власти талибами в Афганистане - Lenta.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiLWh0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIxLzExLzA4L2FmZ2hhbl9pbmZvL9IBM2h0dHBzOi8vbS5sZW50YS5ydS9uZXdzLzIwMjEvMTEvMDgvYWZnaGFuX2luZm8vYW1wLw?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 08 Nov 2021 16:20:55 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1636382102#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Спасибо всем, кто был с нами в течение 21 года
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/31may2021/newsrucomoutoforder2.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Мы каждый день старались предельно честно выполнять профессиональные обязанности - рассказывать, что важного происходит, составлять объективную информационную картину дня. Но наша картина дня стала сильно отличаться от государственной. Ситуация, сложившаяся в экономике и в правовом поле, делает работу NEWSru.com более невозможной. ...
+                        ]]></description>
+  <pubDate>Mon, 31 May 2021 09:00:20 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1636382102#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Перевод] Дюна: ученые смоделировали пустынную планету Арракис, чтобы посмотреть, смогут ли там выжить люди
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/587884/?utm_campaign=587884&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        Кто контролирует спайс — тот контролирует Вселенную. Недавно все (кто успел до локдауна) радовались новой экранизации легендарной «Дюны», в этот раз режиссера Дени Вильнева. Снова разгорелись споры о том, насколько реалистичен Арракис. Песчаные черви — это данность, но сохранил бы Тимоти Шаламе идеальную шевелюру в таком климате?В Группа ученых-климатологов из университетов Бристоля и Шеффилда смоделировала пустынную планету и рассказала, каким Арракис мог быть на практике. Делимся нашим перевод ...
+                        ]]></description>
+  <pubDate>Mon, 08 Nov 2021 17:31:22 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1636382102#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с генеральным директором холдинга «Вертолёты России» Андреем Богинским
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/67072</link>
+  <description><![CDATA[
+                        Владимир Путин
+провёл рабочую встречу с генеральным директором холдинга «Вертолёты
+России» Андреем Богинским.      ...
+                        ]]></description>
+  <pubDate>Mon, 08 Nov 2021 14:07:14 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1636382102#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Нелегальные хостелы будут искать в Подмосковье
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/283/264996-nelegalnye-hostely-budut-iskat-v-podmoskove</link>
+  <description><![CDATA[
+                        Весь жилой сектор в Подмосковье проверят, чтобы выявить нелегальные хостелы. ...
+                        ]]></description>
+  <pubDate>Mon, 08 Nov 2021 17:25:01 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1636382102#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  08.11.2021 17:05 : Региональным властям поручили выяснить причины нехватки врачей
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2932718-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Вице-премьер Татьяна Голикова также сказала, что они должны оценить эффективность программ по привлечению медицинских специалистов.  Ее слова приводит агентство РИА Новости.  <br>
+Как ранее писала газета «Коммерсантъ»,  в регионах  решили последовать примеру Москвы, где на практику в поликлиники планируют привлекать студентов старших курсов  медицинского  университета имени Сеченова.   В профсоюзе полагают, что это поможет восполнить дефицит рабочих рук, но на учебном процессе,  вероятно, ска ...
+                        ]]></description>
+  <pubDate>Mon, 08 Nov 2021 17:05:15 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1636382102#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Синод РПЦ разрешил епархиям переносить ежегодные собрания из-за эпидемий
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/801820</link>
+  <description><![CDATA[
+                        Священный Синод Русской православной церкви внес поправку в ее устав, предоставив право епархиям переносить ежегодные собрания, если на их территориях обостряется эпидемическая ситуация. ...
+                        ]]></description>
+  <pubDate>Mon, 08 Nov 2021 17:24:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1636382102#48</guid>
+ </item>
+  </channel>
+ </rss>

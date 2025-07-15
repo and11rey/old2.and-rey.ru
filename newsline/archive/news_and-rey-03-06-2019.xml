@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 03 Jun 2019 17:35:01 +0300</pubDate>
+         <lastBuildDate>Mon, 03 Jun 2019 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  "Будто война". Взрыв в Дзержинске в рассказах очевидцев
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/features-48501103</link>
+  <description><![CDATA[
+                        На оборонном заводе "Кристалл" в Дзержинске в субботу прогремели несколько взрывов. В результате пострадали более ста человек, погибших нет. Би-би-си узнала у местных жителей, что произошло в городе и стоит ли ждать возмещения ущерба. ...
+                        ]]></description>
+  <pubDate>Mon, 03 Jun 2019 17:25:41 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1559572501#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Шведский суд решил не добиваться экстрадиции Джулиана Ассанжа
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/06/03/shvedskiy-sud-reshil-ne-dobivatsya-ekstraditsii-dzhuliana-assanzha</link>
+  <description><![CDATA[
+                        Суд в Швеции решил, что не будет добиваться экстрадиции основателя Wikileaks Джулиана Ассанжа по делу об изнасиловании и сексуальных домогательствах. ...
+                        ]]></description>
+  <pubDate>Mon, 03 Jun 2019 17:22:03 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1559572501#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Центра "Э" наградил священника, выступавшего против "Тангейзера"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29979026.html</link>
+  <description><![CDATA[
+                        Александру Новопашину вручили медаль "За противодействие экстремизму" ...
+                        ]]></description>
+  <pubDate>Mon, 03 Jun 2019 17:18:21 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1559572501#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Евросоюз решил продлить санкции против России - Lenta.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/lenta.ru/news/2019/06/03/eurocomission/</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 03 Jun 2019 16:58:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1559572501#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  СКА с нового сезона перейдет на канадский формат хоккейной площадки
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/03jun2019/can.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Хоккейный клуб СКА с большой вероятностью в следующем сезоне Континентальной хоккейной лиги будет играть на площадке канадского образца - шириной 26 метров и длиной 60 метров. Ее также будут использовать на ЧМ. ...
+                        ]]></description>
+  <pubDate>Mon, 03 Jun 2019 17:16:05 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1559572501#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Машинное обучение в микрофинансах: строим скоринговую модель для клиентов с пустой кредитной историей
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/454574/?utm_campaign=454574</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 03 Jun 2019 17:10:57 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1559572501#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с Министром экономического развития Максимом Орешкиным
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/60651</link>
+  <description><![CDATA[
+                        Владимир
+Путин провёл рабочую встречу с Министром экономического развития Максимом
+Орешкиным, в ходе которой обсуждалась динамика макроэкономических показателей в стране.      ...
+                        ]]></description>
+  <pubDate>Mon, 03 Jun 2019 14:10:57 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1559572501#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  03.06.2019 17:31 : На станции метро «Технопарк» в Москве сегодня горела электрощитовая
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2438295-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Как сообщили ТАСС в экстренных службах, возгорание ликвидировано. Станция метро работает в штатном режиме. Эвакуация не проводилась. Пострадавших нет.
+ ...
+                        ]]></description>
+  <pubDate>Mon, 03 Jun 2019 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1559572501#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Удмуртии телефонная мошенница обманула 89 человек
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/663550</link>
+  <description><![CDATA[
+                        Суд приговорил ее к четырем годам колонии ...
+                        ]]></description>
+  <pubDate>Mon, 03 Jun 2019 17:26:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1559572501#48</guid>
+ </item>
+  </channel>
+ </rss>

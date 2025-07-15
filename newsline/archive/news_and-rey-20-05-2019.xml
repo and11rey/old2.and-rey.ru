@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 20 May 2019 17:35:01 +0300</pubDate>
+         <lastBuildDate>Mon, 20 May 2019 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Google ограничивает использование Android компанией Huawei
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-48331135</link>
+  <description><![CDATA[
+                        Google ограничит производителя телефонов Huawei от некоторых обновлений операционной системы Android. Новые смартфоны, выпущенные компанией, также потеряют доступ к магазину приложений Google и популярным приложениям. ...
+                        ]]></description>
+  <pubDate>Mon, 20 May 2019 15:43:02 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1558362901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Счетная палата назвала маловероятным повышение реальных доходов россиян в 2019 году
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/05/20/schetnaya-palata-nazvala-maloveroyatnym-povyshenie-realnyh-dohodov-rossiyan-v-2019-godu</link>
+  <description><![CDATA[
+                        Реальные располагаемые доходы россиян в 2019 году, скорее всего, не вырастут. Об этом говорится в аналитической записке Счетной палаты о ходе исполнения бюджета в январе-марте 2019 года. ...
+                        ]]></description>
+  <pubDate>Mon, 20 May 2019 17:02:42 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1558362901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Французский банкир Филипп Дельпаль, находящийся в тюрьме в Москве в течение трех месяцев, может быть освобожден
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/20May2019/lemonde/baring.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Вмешательство политиков, вступление в борьбу фигур делового мира, встречи и звонки сверху... Множится число инициатив, направленных на то, чтобы добиться выхода из тюрьмы французского банкира Филиппа Дельпаля, вовлеченного в дело Baring Vostok.  ...
+                        ]]></description>
+  <pubDate>Mon, 20 May 2019 17:35:04 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1558362901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Минюст проверит правозащитную организацию в Ингушетии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29952801.html</link>
+  <description><![CDATA[
+                        Представитель организации утверждает, проверка связана с волной репрессий в республике ...
+                        ]]></description>
+  <pubDate>Mon, 20 May 2019 16:23:03 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1558362901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Три человека погибли при взрыве на АЗС в Серпухове - РБК
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rbc.ru/society/20/05/2019/5ce2afab9a79472e5e619a0f</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 20 May 2019 17:03:04 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1558362901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Французы требуют суда над бывшим главой Всероссийской федерации легкой атлетики
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/20may2019/afp.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Финансовая прокуратура Франции потребовала начать судебный процесс против бывшего главы ВФЛА Валентина Балахничева, а также бывшего старшего тренера сборной России по легкой атлетике Алексея Мельникова, сообщает AFP. ...
+                        ]]></description>
+  <pubDate>Mon, 20 May 2019 17:28:09 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1558362901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Перевод] Что нейронная сеть увидела на первой фотографии черной дыры
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/452646/?utm_campaign=452646</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 20 May 2019 16:03:12 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1558362901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с получателями мегагрантов и молодыми учёными
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/60545</link>
+  <description><![CDATA[
+                        Президент провёл в Сочи встречу с получателями
+мегагрантов и молодыми учёными.      ...
+                        ]]></description>
+  <pubDate>Mon, 20 May 2019 15:00:35 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1558362901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Госдума не хочет увеличивать количество оружия у россиян
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/29/social/law/217498-gosduma-ne-hocet-uvelicivat-kolicestvo-oruzia-u-rossian</link>
+  <description><![CDATA[
+                        Законопроект о продаже спортивных и охотничьих ружей вернули на доработку. Его внесут заново в ближайшее время с учетом замечаний кабмина. ...
+                        ]]></description>
+  <pubDate>Mon, 20 May 2019 17:15:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1558362901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  20.05.2019 17:30 : Три человека погибли и четверо пострадали в результате взрыва на автозаправке в подмосковном Серпухове
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2429635-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Как сообщили в пресс-службе областного управления МЧС, это произошло во время сварочных работ, — пишет агентство ТАСС.
+ ...
+                        ]]></description>
+  <pubDate>Mon, 20 May 2019 17:30:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1558362901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Поезд метро наехал на пассажира между "Текстильщиками" и "Волгоградским проспектом"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/moscow/661806</link>
+  <description><![CDATA[
+                        Инцидент с пассажиром заблокировал движение поездов на одном из участков Таганско-Краснопресненской линии столичного метро вечером в понедельник, сообщил "Интерфаксу" источник, знакомый с ситуацией. ...
+                        ]]></description>
+  <pubDate>Mon, 20 May 2019 17:26:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1558362901#48</guid>
+ </item>
+  </channel>
+ </rss>

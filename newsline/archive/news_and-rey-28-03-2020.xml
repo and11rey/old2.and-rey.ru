@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 28 Mar 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sat, 28 Mar 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Коронавирус в России: за сутки 228 заболевших, в Петербурге умер пациент
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-52075169</link>
+  <description><![CDATA[
+                        За последние сутки в России подтверждено 228 новых случаев заболевания коронавирусом, сообщает оперативный штаб по предупреждению распространения Covid-19. Губернатор Санкт-Петербурга сообщил, что больнице им. Боткина умер пациент, у которого был установлен Covid-19 ...
+                        ]]></description>
+  <pubDate>Sat, 28 Mar 2020 16:24:16 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1585406101#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Россия полностью закроет границу с 30 марта
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2020/03/28/rossiya-polnostyu-zakroet-granitsu-s-30-marta</link>
+  <description><![CDATA[
+                        С полуночи 30 марта в России будет временно закрыто движение через автомобильные, железнодорожные, пешеходные, речные и смешанные пункты пропуска. Соответствующее постановление размещено на сайте правительства. ...
+                        ]]></description>
+  <pubDate>Sat, 28 Mar 2020 17:10:09 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1585406101#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Итальянская мафия увеличит доходы на фоне коронавирусной пандемии, утверждают эксперты
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/27Mar2020/telegraph/mafia.html?utm_source=rss</link>
+  <description><![CDATA[
+                        В ситуации коронавирусной пандемии итальянская мафия продает медицинские маски в даркнете, переодевается в разносчиков пиццы, чтобы распространять наркотики , и готовится к кокаиновому буму после карантина. ...
+                        ]]></description>
+  <pubDate>Fri, 27 Mar 2020 21:19:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1585406101#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Премьер-министр России поручил закрыть границы с 30 марта  
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30514810.html</link>
+  <description><![CDATA[
+                        Опубликовано распорядение Михаила Мишустина ...
+                        ]]></description>
+  <pubDate>Sat, 28 Mar 2020 17:11:48 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1585406101#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Россия закроет границу из-за коронавируса - РИА НОВОСТИ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiJ2h0dHBzOi8vcmlhLnJ1LzIwMjAwMzI4LzE1NjkyOTAzNDcuaHRtbNIBK2h0dHBzOi8vcmlhLnJ1L2FtcC8yMDIwMDMyOC8xNTY5MjkwMzQ3Lmh0bWw?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 28 Mar 2020 17:26:37 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1585406101#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Россия с 30 марта закрывает все пункты пропуска через границу
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/28mar2020/propusk_close.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Временно ограничивается движение через автомобильные, ж/д, пешеходные, речные и смешанные пункты пропуска, а также через сухопутный участок российско-белорусской границы. Исключение сделано для россиян, которым нужно уехать на похороны близкого родственника, для жителей Калининградской области и обладателей российских паспортов из ДНР И ЛНР. ...
+                        ]]></description>
+  <pubDate>Sat, 28 Mar 2020 17:31:53 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1585406101#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Открыта аккредитация журналистов на освещение мероприятий, посвящённых 75-й годовщине Победы в Великой Отечественной войне 1941–1945 годов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/62929</link>
+  <description><![CDATA[
+                        Оргкомитет начинает приём заявок
+на участие в освещении мероприятий, посвящённых 75-й годовщине Победы
+в Великой Отечественной войне 1941–1945 годов.    ...
+                        ]]></description>
+  <pubDate>Sat, 28 Mar 2020 09:59:49 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1585406101#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  2 недели карантина не помогут: в Петербурге умер мужчина с нетипичным коронавирусом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/285/233035-2-nedeli-karantina-ne-pomogut-v-peterburge-umer-muzcina-s-netipicnym-koronavirusom</link>
+  <description><![CDATA[
+                        В России за сутки зафиксировано две смерти от коронавируса – в Петербурге и Оренбургской области. Петербургский случай показателен тем, что он наглядно показал, что двухнедельный рекомендуемый карантин не показывает реальной картины. ...
+                        ]]></description>
+  <pubDate>Sat, 28 Mar 2020 17:30:21 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1585406101#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  28.03.2020 17:30 : Правительство России  распорядилось  с 30 марта временно ограничить движение через пункты пропуска через госграницу
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2614763-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Правительство России  распорядилось  с 30 марта временно ограничить движение через пункты пропуска через госграницу,  включая сухопутный участок российск-белорусской границы. Соответствующее распоряжение опубликовано на сайте кабмина.
+ ...
+                        ]]></description>
+  <pubDate>Sat, 28 Mar 2020 17:30:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1585406101#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  У пятой скончавшейся в Москве пациентки с COVID-19 были проблемы с сердцем
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/moscow/701384</link>
+  <description><![CDATA[
+                        В Москве скончалась 69-летняя женщина, у которой был диагностирован COVID-19. ...
+                        ]]></description>
+  <pubDate>Sat, 28 Mar 2020 17:15:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1585406101#48</guid>
+ </item>
+  </channel>
+ </rss>

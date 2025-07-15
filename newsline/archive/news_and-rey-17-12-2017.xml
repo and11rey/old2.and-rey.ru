@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 17 Dec 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sun, 17 Dec 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Борис Джонсон: Россия - Спарта, а охлаждение отношений с ней - трагедия
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-42384564</link>
+  <description><![CDATA[
+                        Министр иностранных дел Великобритании Борис Джонсон сравнил США и Запад с древними Афинами, а Россию - со Спартой, а также назвал трагедией охлаждение отношений с Москвой. На следующей неделе он отправится в российскую столицу с официальным визитом. ...
+                        ]]></description>
+  <pubDate>Sun, 17 Dec 2017 16:31:15 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1513521301#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Италию вернули тело короля Виктора Эммануила III. Его критиковали за сотрудничество с Муссолини
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2017/12/17/v-italiyu-vernuli-telo-korolya-viktora-emmanuila-iii-ego-kritikovali-za-sotrudnichestvo-s-mussolini</link>
+  <description><![CDATA[
+                        В Италию доставили тело короля Виктора Эммануила III — предпоследнего итальянского монарха, который умер в изгнании. Тело было доставлено из египетской Александрии в итальянскую коммуну Викофорте, где короля захоронят в семейном склепе. ...
+                        ]]></description>
+  <pubDate>Sun, 17 Dec 2017 17:25:31 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1513521301#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Тайная история российского консульства в Сан-Франциско
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/15Dec2017/foreignpolicy/consulate.html?utm_source=rss</link>
+  <description><![CDATA[
+                        По словам экс-сотрудников американской разведки, российское генконсульство в Сан-Франциско становилось источником "странной активности". "Очень вероятно", что оно выполняло для России функции секретного центра связи на всем Западе Соединенных Штатов. ...
+                        ]]></description>
+  <pubDate>Fri, 15 Dec 2017 21:10:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1513521301#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Дагестане убиты трое вооруженных лиц, сообщают власти
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28923100.html</link>
+  <description><![CDATA[
+                        По официальным данным, на счету главаря убийства восьми человек, а также нападение на автоколонну подразделения МВД России ...
+                        ]]></description>
+  <pubDate>Sun, 17 Dec 2017 16:57:45 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1513521301#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 17 Dec 2017 17:35:03 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1513521301#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Эрдоган намерен открыть посольство Турции в Восточном Иерусалиме
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/17dec2017/erdogansays.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Произошло это спустя несколько дней после того, как Организация Исламского сотрудничества объявила его столицей Палестины. Президент Турции также назвал Израиль "террористическим государством-оккупантом". ...
+                        ]]></description>
+  <pubDate>Sun, 17 Dec 2017 17:31:04 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1513521301#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Из песочницы] Как я учил английский, и что из этого вышло
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/296503/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=296503</link>
+  <description><![CDATA[
+                        Как я учил английский, и что из этого вышло. 
+
+TL/DR: стало лучше, но есть куда расти. Остальные заметки сплошное капитанство, да еще и с ошибками. Простого пути с одной волшебной таблеткой нет. 
+ Читать дальше в†’ ...
+                        ]]></description>
+  <pubDate>Sun, 17 Dec 2017 12:39:40 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1513521301#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  18 декабря Президент вручит госпремии за достижения в области правозащитной и благотворительной деятельности
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/press/announcements/56397</link>
+  <description><![CDATA[
+                        18 декабря Владимир Путин вручит в Кремле государственные премии за выдающиеся
+достижения в области правозащитной и благотворительной деятельности лауреатам
+2017 года.    ...
+                        ]]></description>
+  <pubDate>Sun, 17 Dec 2017 14:13:32 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1513521301#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Пентагон тайно изучал НЛО
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/130/science/universe/189879-pentagon-tajno-izucal-nlo</link>
+  <description><![CDATA[
+                        Минобороны США проводило секретную программу по изучению НЛО. ...
+                        ]]></description>
+  <pubDate>Sun, 17 Dec 2017 17:06:53 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1513521301#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  17.12.2017 17:03 : Севастопольское отделение КПРФ с концертом и нанятым актером отметило день рождения Сталина
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2112452-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Артист в образе вождя народов вышел на сцену и произнес речь о «неблагодарных потомках». Фразу эту Сталину приписывал писатель Феликс Чуев. Якобы именно так говорил советский лидер министру иностранных дел Вячеславу Молотову. Руководитель горкома КПРФ Василий Пархоменко в своем выступлении дал понять, что при Сталине не было никакой коррупции.
+ ...
+                        ]]></description>
+  <pubDate>Sun, 17 Dec 2017 17:03:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1513521301#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  СБ ООН рассмотрит проект резолюции против решения США по Иерусалиму
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/592192</link>
+  <description><![CDATA[
+                        Вопрос об одностороннем изменении США статуса Иерусалима будет рассмотрен на заседании Совета безопасности ООН, сообщает в воскресенье Анатолийское агентство новостей. ...
+                        ]]></description>
+  <pubDate>Sun, 17 Dec 2017 17:24:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1513521301#48</guid>
+ </item>
+  </channel>
+ </rss>

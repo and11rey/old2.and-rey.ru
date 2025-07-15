@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости политики ТОП 10</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 10 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2008, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 19 Mar 2008 17:00:29 +0300</pubDate>
+         <lastBuildDate>Wed, 19 Mar 2008 17:00:29 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости политики ТОП 10</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+ <item>
+  <title>Москва: выемка документов в офисе ТНК-BP</title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.bbc.co.uk/go/rss/-/hi/russian/russia/newsid_7305000/7305018.stm</link>
+  <description>Сотрудники правоохранительных органов проводят следственные мероприятия в центральном московском офисе нефтяной компании ТНК -BP. ...</description>
+  <pubDate>Wed, 19 Mar 2008 13:57:02 GMT</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1205935229#1</guid>
+ </item>
+ <item>
+  <title>Подозреваемый в растрате чиновник ПФР не работает там с 2005 года</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rian.ru/society/20080319/101716970.html</link>
+  <description>"Следственный комитет при МВД РФ в настоящее время проводит проверку по факту расходования средств на жилищное строительство для сотрудников фонда в 2004 году. В указанный период исполнительным директором ПФР являлся Крецу Николай Степанович, который был уволен с занимаемой должности 06.12.04 года", - говорится в сообщении фонда, размещенном на сайте ПФР. ...</description>
+  <pubDate>Wed, 19 Mar 2008 16:55:00 +0300</pubDate>
+  <source url="http://www.rian.ru">РИА Новости</source>
+  <guid isPermaLink="false">1205935229#2</guid>
+ </item>
+ <item>
+  <title>Азербайджан хочет распустить Минскую группу ОБСЕ по Нагорному Карабаху</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2008/03/19/n_1194695.shtml</link>
+  <description>Азербайджан выразил недовлольство работой Минской группы ОБСЕ по урегулирования Нагоно-Карбахского конфликта. Об этом отвечая на вопросы депутатов парламента Армении заявил министр иностранных дел Армении Вардан Осканян. 
+МИД Армении ... ...</description>
+  <pubDate>Wed, 19 Mar 2008 16:59:58 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1205935229#3</guid>
+ </item>
+ <item>
+  <title>Премьер-министр Молдавии Василий Тарлев подал в отставку</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/News/2008/03/19.html?id=439888</link>
+  <description> Премьер-министр Молдавии Василий Тарлев подал в отставку.  По его словам, стране необходимы новые люди  и новые решения. Президент Владимир Воронин действие Тарлева поддержал. Согласно действующему в Молдавии законодательству, одновременно с премьер ... ...</description>
+  <pubDate>Wed, 19 Mar 2008 16:04:33 +0300</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1205935229#4</guid>
+ </item>
+ <item>
+  <title>Призрак, витающий над смертью Литвиненко</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inopressa.ru/nysun/2008/03/19/16:04:31/litvinenko</link>
+  <description>Журналист американского издания ознакомился с материалами дела Литвиненко, переданными британской стороной в российскую прокуратуру, и пришел к собственным выводам. Великобритании следует открыть доступ к секретным доказательствам или передать эти щекотливые материалы международной следственной комиссии, полагает он. ...</description>
+  <pubDate>Wed, 19 Mar 2008 16:04:31 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1205935229#5</guid>
+ </item>
+ <item>
+  <title>Россия со второй попытки выдала Латвии нацбола Абеля</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/19mar2008/abel.html</link>
+  <description>Один из лидеров запрещенной в России НБП Владимир Линдерман в среду депортирован в Латвию, где он обвиняется в подготовке покушения на бывшего президента страны Вайру Вике-Фрейбергу. Ранее, в 2006 году, Абель уже подвергался этой процедуре, однако ему удалось скрыться из поезда по пути в Ригу. ...</description>
+  <pubDate>Wed, 19 Mar 2008 16:46:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1205935229#6</guid>
+ </item>
+ <item>
+  <title>Астрономы нашли воду и органику в протопланетных дисках</title>
+  <link>http://www.and-rey.ru/inc/go3.php/lenta.ru/news/2008/03/19/organic/</link>
+  <description>Одна группа ученых нашла с помощью инфракрасного орбитального телескопа "Спитцер" водяной пар в двух протопланетных дисках молодых звезд, другая (также с помощью "Спитцера") – органические молекулы и водяной пар в протопланетном диске, третья (с помощью телескопа "Хаббл") – молекулы метана в атмосфере экзопланеты.  ...</description>
+  <pubDate>Wed, 19 Mar 2008 16:47:30 +0300</pubDate>
+  <source url="http://img.lenta.ru">Ежедневная интернет-газета Lenta.ru</source>
+  <guid isPermaLink="false">1205935229#7</guid>
+ </item>
+ <item>
+  <title>Под завалами цеха в Коми найдено тело погибшего работника</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.vz.ru/news/2008/3/19/153339.html</link>
+  <description>На месте обрушения производственного здания в Республике Коми найдено тело погибшего работника цеха. Причиной завала могли стать сварочные работы. ...</description>
+  <pubDate>Wed, 19 Mar 2008 16:47:31 +0300</pubDate>
+  <source url="http://www.vz.ru">Деловая газета "Взгляд"</source>
+  <guid isPermaLink="false">1205935229#8</guid>
+ </item>
+ <item>
+  <title>Александр Михайлов – русский актер! Александр Шахматов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/39625/</link>
+  <description>Александр Михайлов – русский актер! Александр Шахматов ...</description>
+  <pubDate>Wed, 19 Mar 2008 16:35:00 +0300</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1205935229#9</guid>
+ </item>
+ <item>
+  <title>JIиссер :: Два влюбленных в стриптиз-баре</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.udaff.com/news/84310.html</link>
+  <description>..наша гираиня за годы прожывания в пендостане трижды прошла курсы по пездообороне и пару рас записывалась к тибецким йагам. Пасему с криками &#171;Оставь меня желтожёппое уёбище!&#187;, она задрала левую ногу и присцыкивая кепятком на плешь Чямка, лофка натянула свайу песду ему на глас, проткнув его клитором навылет. ...</description>
+  <pubDate>Wed, 19 Mar 2008 15:59:09 +0300</pubDate>
+  <source url="http://www.udaff.com">Ресурс Удава. Новости (18+)</source>
+  <guid isPermaLink="false">1205935229#10</guid>
+ </item>
+   <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+  </channel>
+ </rss>

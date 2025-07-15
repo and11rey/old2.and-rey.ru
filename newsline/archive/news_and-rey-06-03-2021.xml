@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 06 Mar 2021 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sat, 06 Mar 2021 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  "Голос в защиту гонимых". Папа римский поблагодарил аятоллу аль-Систани за защиту христиан Ирака
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-56304732</link>
+  <description><![CDATA[
+                        Папа римский Франциск во второй день своего визита в Ирак встретился с самым влиятельным духовным лицом иракских шиитов - великим аятоллой Али аль-Систани. ...
+                        ]]></description>
+  <pubDate>Sat, 06 Mar 2021 16:28:10 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1615041301#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ТНТ вырезал из Comedy Club шутку Павла Воли о дворце. Имена Путина или Навального комик не упоминал
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2021/03/06/tnt-vyrezal-iz-comedy-club-shutku-pavla-voli-o-dvortse</link>
+  <description><![CDATA[
+                        Телеканал ТНТ вырезал из записи программы Comedy Club от 26 февраля шутку комика Павла Воли о дворце, который Фонд борьбы с коррупцией (ФБК) Алексея Навального называет «дворцом Путина». ...
+                        ]]></description>
+  <pubDate>Sat, 06 Mar 2021 17:20:14 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1615041301#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Если бы мы воспитывали мальчиков как девочек, это обошлось бы государству дешевле
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/05Mar2021/lefigaro/boys.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Во Франции женщины составляют 4% заключенных, а мужчины являются виновниками подавляющего большинства преступлений и правонарушений. Как оценить цену мужественности в системе, основанной на этой самой мужественности?  ...
+                        ]]></description>
+  <pubDate>Fri, 05 Mar 2021 21:08:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1615041301#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Росстат сообщил о смерти больше 200 тысяч россиян с ковидом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/31137229.html</link>
+  <description><![CDATA[
+                        Это третье место в мире после США и Бразилии ...
+                        ]]></description>
+  <pubDate>Sat, 06 Mar 2021 16:35:10 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1615041301#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Какой же монстр Рондон! Забил первый гол за ЦСКА, выдал ассист на Влашича и раздавил «Ахмат» - Спорт Mail.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiOGh0dHBzOi8vc3BvcnRtYWlsLnJ1L25ld3MvZm9vdGJhbGwtcnVzLXByZW1pZXIvNDU0NjQ3OTkv0gE8aHR0cHM6Ly9zcG9ydG1haWwucnUvYW1wL25ld3MvZm9vdGJhbGwtcnVzLXByZW1pZXIvNDU0NjQ3OTkv?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 06 Mar 2021 16:52:34 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1615041301#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Умная камера» на базе Raspberry Pi с управлением через Telegram-бота
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/545814/?utm_campaign=545814&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        Привет, меня зовут Иван. Сразу отвечу на главный вопрос: почему стал собирать сам, а не взял готовое решение? Во-первых, стоимость готовых решений - Raspberry Pi со всеми датчиками и камерой вышла не больше $30, большая часть еще по курсу 60 рублей за доллар. Во-вторых, почти все части уже были - Raspberry Pi отдал брат, камера осталась еще с лохматых времен, диод тоже был - покупал для Arduino, а датчик движения на Aliexpress стоил не больше 100 рублей. Читать далее ...
+                        ]]></description>
+  <pubDate>Sat, 06 Mar 2021 14:00:12 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1615041301#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Австрия начала подготовку к выпуску вакцины «Спутник V»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/285/252548-avstria-nacala-podgotovku-k-vypusku-vakciny-sputnik-v</link>
+  <description><![CDATA[
+                        Еще одна европейская страна сделала принципиальное решение начать применять на своей территории российскую вакцину «Спутник V». Сегодня о соответствующих шагах в этом направлении заявил канцлер Австрии Себастьян Курц. ...
+                        ]]></description>
+  <pubDate>Sat, 06 Mar 2021 17:32:10 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1615041301#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  06.03.2021 17:12 : Десятки тысяч компаний оказались уязвимы для кибератак из-за взлома программного обеспечения Microsoft
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2801066-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Десятки тысяч компаний оказались уязвимы для кибератак из-за взлома программного обеспечения Microsoft, выяснило агентство Reuters. Эта атака оказалась даже масштабнее той, что раскрыли в декабре:  тогда подозрения пали на хакеров, вероятно связанных с российскими властями.  
+
+Хакеры получили возможность удаленного доступа к компьютерам, пользователи которых используют web-версию почтовой программы Outlook и хранят данные на устройстве, а не в облаке. Благодаря лазейке уязвимы оказались систе ...
+                        ]]></description>
+  <pubDate>Sat, 06 Mar 2021 17:12:10 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1615041301#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Грузия модернизировала штурмовик Су-25
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/754859</link>
+  <description><![CDATA[
+                        Первый модернизированный в Грузии штурмовик Су-25, также известный как "Грач", в субботу успешно выполнил испытательный полет. ...
+                        ]]></description>
+  <pubDate>Sat, 06 Mar 2021 16:59:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1615041301#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 30 Oct 2012 17:00:03 +0400</pubDate>
+         <lastBuildDate>Tue, 30 Oct 2012 17:00:03 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  "Сэнди": Нью-Йорк объявлен зоной стихийного бедствия
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2012/10/121030_us_hurricane_sandy.shtml</link>
+  <description><![CDATA[
+                        Президент США Барак Обама объявил штат Нью-Йорк зоной стихийного бедствия и ввел там режим  чрезвычайного положения после того, как ураган "Сэнди" в ночь на вторник обрушился на восточное побережье США.  ...
+                        ]]></description>
+  <pubDate>Tue, 30 Oct 2012 16:38:22 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1351602003#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Польские СМИ: На обломках самолета Качиньского найдены следы взрывчатки
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/Disaster/m.208094.html</link>
+  <description><![CDATA[
+                        На обломках разбившегося под Смоленском самолета Ту-154 президента Польши обнаружены следы взрывчатки. Об этом сообщила польская газета Rzeczpospolita. Генпрокурор Польши Анджей Серемет подтвердил, что прокуратура знает о результатах экспертиз. По утверждению экспертов, на обломках кресел и обшивке обнаружены следы тротила и нитроглицерина. ...
+                        ]]></description>
+  <pubDate>Tue, 30 Oct 2012 15:34:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1351602003#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Сомали исламисты убили известного комедийного актера и музканта
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20121030/17/17.html?id=24755421</link>
+  <description><![CDATA[
+                        В Сомали исламисты убили известного комедийного актера и музканта, который высмеивал боевиков группировки "Шебаб", связанной с "Аль-Каидой".
+ 
+  Варсаме Шире Авале работал на "Радио Кульмие" продюсером комедии и драмы.
+
+   Национальный союз журналистов Сомали заявил, что ему неоднократно угрожали.
+
+   На днях в Могадишо был убит радиорепортер, в августе убили еще одного артиста комедии, который также работал на "Радио ... ...
+                        ]]></description>
+  <pubDate>Tue, 30 Oct 2012 16:35:18 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1351602003#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Москве начался ледяной дождь - Полит.ру
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNEBHseM3PlgiHO3cgysNKX_u_D-wQ&amp;url=http://www.polit.ru/news/2012/10/30/ice_rain/</link>
+  <description><![CDATA[
+                        В Москве начался ледяной дождь. Вначале осадки стали выпадать над южными соседями московской области и югом Подмосковья. Об этом заявил пресс-секретарь комплекса городского хозяйства Игорь Пергаменщик, сообщает «Коммерсантъ». По его словам, атмосферный фронт, ... ...
+                        ]]></description>
+  <pubDate>Tue, 30 Oct 2012 16:46:37 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1351602003#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Акселератор или бизнес-инкубатор?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/post/156725/</link>
+  <description><![CDATA[
+                        На последнем RIW была организована конференция UPSTART CONF, где, в частности, состоялся круглый стол на тему развития акселераторов и бизнес-инкубаторов. Причем вопрос различий между этими двумя форматами поддержки стартапов стал одним из наиболее обсуждаемых. По горячим следам мы решили представить вашему вниманию краткий обзор различий между акселератором и бизнес-инкубатором. Поскольку обе модели зародились на Западе и только начинают активно развиваться в России, в качестве примеров будут п ...
+                        ]]></description>
+  <pubDate>Tue, 30 Oct 2012 16:58:41 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1351602003#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с представителями транспортного сообщества
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.kremlin.ru/news/16735</link>
+  <description><![CDATA[
+                        Владимир Путин проводит встречу с представителями Союза транспортников России и ОАО «Российские железные дороги». В ходе встречи обсуждаются вопросы развития транспортной системы страны. ...
+                        ]]></description>
+  <pubDate>Tue, 30 Oct 2012 16:30:00 +0400</pubDate>
+  <source url="http://www.kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1351602003#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Енисей» стал первым четвертьфиналистом Кубка России
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/sport/football/2012/10/30/__YEnisyey___stal_py.phtml</link>
+  <description><![CDATA[
+                        Красноярский «Енисей» стал первым четвертьфиналистом Кубка России. В домашнем матче сибиряки победили хабаровскую «СКА-Энергию» со счетом 1:0 (1:0). Единственный гол забил Алексей Базанов на 21-й минуте. ...
+                        ]]></description>
+  <pubDate>Tue, 30 Oct 2012 16:44:23 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1351602003#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  30.10.2012 16:35 : Журналист Дмитрий Губерниев обжалует решение суда по иску футболиста Вячеслава Малафеева
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/946032-echo.html</link>
+  <description><![CDATA[
+                        
+
+ В интервью «Интерфаксу» телекомментатор назвал решение незаконным. Суд в Подмосковье накануне частично удовлетворил иск спортсмена о защите чести и достоинства и постановил взыскать 75 тысяч рублей, хотя Малафеев требовал компенсацию на общую сумму в 1,5 миллиона рублей. 
+<br>
+Поводом для иска послужили нелицеприятные высказывания Губерниева о Малафееве во время Интернет-трансляции. 
+<br>
+
+ ...
+                        ]]></description>
+  <pubDate>Tue, 30 Oct 2012 16:35:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1351602003#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Готичненько так
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/364279/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2012/10/30/36058-164824-16c73042a1b229a3ecd61e691f00a307.jpg><br /><br />В рамках раскрутки фильма "Хоббит" в аэропорту Веллингтона, Новая Зеландия, соорудили 13-метровую статую Голлума, тянущегося за рыбкой. ...
+                        ]]></description>
+  <pubDate>Tue, 30 Oct 2012 16:48:24 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1351602003#34</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 21 May 2009 17:00:08 +0400</pubDate>
+         <lastBuildDate>Thu, 21 May 2009 17:00:08 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Чечня, Грозный, туберкулез</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/interactivity/2009/05/090521_pictures_chechnyatb.shtml</link>
+  <description><![CDATA[
+                        Этот фоторепортаж Миша Фридман сделал в туберкулезном диспансере в Грозном, Чечня.  ...
+                        ]]></description>
+  <pubDate>Thu, 21 May 2009 16:28:15 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1242910808#1</guid>
+ </item>
+ <item>
+  <title>Неизвестный угрожает взорвать 
+резиденцию президента Сербии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/m.151375.html</link>
+  <description><![CDATA[
+                        Неизвестный с двумя гранатами, проникший  на территорию резиденции президента Сербии в центре Белграда, угрожает взорвать один из боеприпасов в случае невыполнения его требований. По свидетельствам очевидцев, злоумышленник выдернул чеку у одной из гранат. ...
+                        ]]></description>
+  <pubDate>Thu, 21 May 2009 16:10:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1242910808#2</guid>
+ </item>
+ <item>
+  <title>Турцию пообещали принять в ЕС ("EUobserver.com", Бельгия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/249271.html</link>
+  <description><![CDATA[
+                        Во вторник Европейская комиссия совместно с текущим и будущим председателями Европейского Союза заверила Турцию, что ее вступление в ЕС продолжает оставаться на повестке дня, невзирая на постоянные возражения Германии и Франции. ...
+                        ]]></description>
+  <pubDate>Thu, 21 May 2009 16:17:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1242910808#3</guid>
+ </item>
+ <item>
+  <title>Зинаида Гречаная зарегистрирована кандидатом на пост президента Молдавии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1736591.html</link>
+  <description><![CDATA[
+                        В Молдавии действующий премьер-министр Зинаида Гречаная зарегистрирована кандидатом от Партии коммунистов для участия в повторных выборах президента страны.Как сообщил "Интерфаксу" председатель парламентской комиссии по проведению выборов В ... ...
+                        ]]></description>
+  <pubDate>Thu, 21 May 2009 16:53:59 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1242910808#4</guid>
+ </item>
+ <item>
+  <title>Скандал в Британии привел к исторической отставке</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/21May2009/wsj/parliament .html</link>
+  <description><![CDATA[
+                        Отставка Майкла Мартина стала первым случаем за 300 с лишним лет, когда спикер Палаты общин вынужден уйти в связи с официальными претензиями. Он стал символом попыток британских политиков не допустить разглашения сведений о затратах законодателей. ...
+                        ]]></description>
+  <pubDate>Thu, 21 May 2009 15:54:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1242910808#5</guid>
+ </item>
+ <item>
+  <title>Горбачев усомнился в полезности комиссии по борьбе с фальсификацией истории: "Не наоборот ли получится?"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/21may2009/gorby.html</link>
+  <description><![CDATA[
+                        Экс-президент СССР без оптимизма смотрит на будущую деятельность созданной комиссии при президенте РФ по противодействию попыткам фальсификации истории в ущерб интересам России. ...
+                        ]]></description>
+  <pubDate>Thu, 21 May 2009 16:57:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1242910808#6</guid>
+ </item>
+ <item>
+  <title>США выделили Грузии $53 млн</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/05/21/n_1364247.shtml</link>
+  <description><![CDATA[
+                        США выделяют Грузии $53,3 млн для развития демократических институтов, а также для реформирования избирательной системы и медицины, заявил посол США в Грузии Джон Тефт.
+По словам посла, из этой суммы $20 млн будут потрачены на медицину и ... ...
+                        ]]></description>
+  <pubDate>Thu, 21 May 2009 16:55:28 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1242910808#7</guid>
+ </item>
+ <item>
+  <title>FSF отзывает иск против Cisco в деле о нарушении (L)GPL</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/379977.php</link>
+  <description><![CDATA[
+                        Еще в 2003 году организация Free Software Foundation &#40;FSF&#41; обратила внимание корпорации Cisco Systems, Inc. на то, что их дочерняя компания Linksys, производящая сетевое оборудование для дома и малого бизнеса, нарушает лицензии ряда программ, права на которые принадлежат FSF.	 ...
+                        ]]></description>
+  <pubDate>Thu, 21 May 2009 15:44:39 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1242910808#8</guid>
+ </item>
+ <item>
+  <title>Шарапову разгромили на теннисном турнире в Варшаве</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/sport/2009/05/21/165049.html</link>
+  <description><![CDATA[
+                         Мария Шарапова не сумела пробиться в полуфинал теннисного турнира в Варшаве. Сегодня бывшая первая ракетка мира была разгромлена в матче третьего круга украинкой Аленой Бондаренко 2:6, 2:6. Игра заняла чуть больше часа. Бондаренко занимает 39-ю позицию в рейтинге WTA – она стала самой серьезной... ...
+                        ]]></description>
+  <pubDate>Thu, 21 May 2009 16:50:49 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1242910808#9</guid>
+ </item>
+ <item>
+  <title>Сергей Миронов критикует правительство. Поливать деньгами проблемы бессмысленно</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/56023/</link>
+  <description><![CDATA[
+                        Сергей Миронов критикует правительство. Поливать деньгами проблемы бессмысленно ...
+                        ]]></description>
+  <pubDate>Thu, 21 May 2009 16:27:00 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1242910808#10</guid>
+ </item>
+ <item>
+  <title>Пост № 253608</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/253608/#new</link>
+  <description><![CDATA[
+                        Венесуэла таки начала продавать свой собственный телефон стоимостью в $15. Чавес сказал, Чавес сделал. И назвали его красивым именем Vergatario*, что можно дословно перевести как "членофон". <br />
+<br />
+__________<br />
+* Verga  -  венесуэльское жаргонное слово, обозначающие мужские гениталии. Разработчики телефона, однако, уверяют, что его название означает: "Превосходный, лучший", и семантика слова никак не связана с половыми органами. ...
+                        ]]></description>
+  <pubDate>Thu, 21 May 2009 16:49:54 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1242910808#11</guid>
+ </item>
+  </channel>
+ </rss>

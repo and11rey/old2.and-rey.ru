@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 16 Nov 2016 17:35:01 +0300</pubDate>
+         <lastBuildDate>Wed, 16 Nov 2016 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Путин снял Улюкаева с должности "в связи с утратой доверия"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/graniru.org/Politics/Russia/President/m.256651.html</link>
+  <description><![CDATA[
+                        Владимир Путин снял Алексея Улюкаева с поста главы Минэкономразвития "в связи с утратой доверия". Накануне Улюкаев был задержан ФСБ по делу о взяточничестве. Суд отправил чиновника под домашний арест. Улюкаеву грозит 15 лет. Ранее сообщалось, что Путин с самого начала оперативной разработки министра получал всю информацию, однако не увольнял его, так как не имел "достаточных оснований". ...
+                        ]]></description>
+  <pubDate>Tue, 15 Nov 2016 20:44:00 +0300</pubDate>
+  <source url="http://d2i3c4yj91a1b5.cloudfront.net">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1479306901#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Из зала суда - на выборы?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28120695.html</link>
+  <description><![CDATA[
+                        Отменен приговор по делу "Кировлеса": спор о предвыборных шансах Алексея Навального ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2016 17:06:04 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1479306901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Правительство одобрило введение штрафа за опасное вождение - РИА Новости
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNG_2i2qFcFXh0MympZznb4OCCGeXw&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779891357240&amp;ei=wW4sWKj7GLDjygP3kZX4DQ&amp;url=https://ria.ru/society/20161116/1481506569.html</link>
+  <description><![CDATA[
+                        МОСКВА, 16 ноя – РИА Новости. Правительство одобрило введение штрафа за опасное вождение, премьер-министр Дмитрий Медведев подписал постановления об изменениях в Правилах дорожного движения, сообщили РИА Новости в пресс-службе "Открытого правительства". ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2016 16:59:59 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1479306901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Из Ирака экстрадируют россиянина, организовавшего сбыт наркотиков на Кубани
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/crime/16nov2016/extradrugiraqrus.html?rss</link>
+  <description><![CDATA[
+                        35-летний уроженец Краснодарского края Адель Аль-Саффар с лета 2006 года занимался наркоторговлей. Когда оперативники вышли на след банды, в которой состоял Аль-Саффар, мужчина сбежал за границу. Год назад Аделя задержали на территории Ирака. ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2016 17:31:00 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1479306901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Практические кейсы применения блокчейна в резервном копировании, процессинге и идентификации
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/281118/</link>
+  <description><![CDATA[
+                        Кейсы интеграции блокчейна известны как в масштабах целых государств (например, в Эстонии), так и в частном секторе (например, блокчейн-инициативы IBM: часть 1; часть 2). Постепенно технологию распределенного реестра берут на вооружение и компании с российскими корнями, используя ее как во внутренних процессах, так и в решениях для своих клиентов. В этом материале мы — команда платежного блокчейн-сервиса Wirex — расскажем подробнее об инициативах и кейсах внедрения блокчейна Acronis, QIWI и WebM ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2016 17:03:43 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes</source>
+  <guid isPermaLink="false">1479306901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Совещание с руководством Министерства обороны
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/53262</link>
+  <description><![CDATA[
+                        Владимир Путин продолжил серию совещаний с руководящим составом Министерства обороны. Обсуждались основные направления развития
+Вооружённых Сил, ближайшие и долгосрочные задачи военного
+строительства.      ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2016 15:04:19 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1479306901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Суд признал законным исключение из реестра более ста туроператоров
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/tourism/russia/2016/11/16/Sud_priznal_zakonnyy.phtml</link>
+  <description><![CDATA[
+                        Девятый Арбитражный апелляционный суд Москвы подтвердил законность исключения из Единого федерального реестра 119 туроператоров, заключивших договоры страхования ответственности с компанией «Универс-Гарант», впоследствии лишенной лицензии. ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2016 16:20:10 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1479306901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  16.11.2016 17:31 : Суд в Петербурге арестовал на 2 месяца предполагаемого администратора так называемой «группы смерти» во ВКонтакте
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1875338-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Филиппа Будейкина подозревают в подстрекательстве подростков к самоубийству. Слушания проходили в закрытом режиме, поскольку оглашалась информация о несовершеннолетних. При журналистах 21-летний Будейкин никаких заявлений не сделал. По словам следователей, в социальных сетях он больше известен под псевдонимом Филипп Лис.  
+
+Ранее по этому делу прошли обыски в нескольких российских регионах.
+ ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2016 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1479306901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Forbes назвал самых высокооплачиваемых знаменитостей младше 30 лет
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/537298</link>
+  <description><![CDATA[
+                        Самой высокооплачиваемой знаменитостью младше 30 лет в 2016 году оказалась 26-летняя американская певица Тейлор Свифт, заработавшая $170 млн, сообщается в составленном журналом Forbes рейтинге. ...
+                        ]]></description>
+  <pubDate>Wed, 16 Nov 2016 17:13:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1479306901#48</guid>
+ </item>
+  </channel>
+ </rss>

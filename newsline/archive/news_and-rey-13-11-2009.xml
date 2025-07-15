@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 13 Nov 2009 17:00:08 +0300</pubDate>
+         <lastBuildDate>Fri, 13 Nov 2009 17:00:08 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Windows 7 "позаимствовал" внешний вид у Mac? </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/science/2009/11/091113_windows_mac_look.shtml</link>
+  <description><![CDATA[
+                        Представитель руководства Microsoft сказал, что компания пыталась воспроизвести интерфейс конкурента. Microsoft  называет это заявление "ошибочным". ...
+                        ]]></description>
+  <pubDate>Fri, 13 Nov 2009 16:46:52 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1258120808#1</guid>
+ </item>
+ <item>
+  <title>Метро отказалось от рекламы "Русского Newsweek"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/m.162071.html</link>
+  <description><![CDATA[
+                        Метрополитены Москвы и Петербурга отказались разместить рекламу журнала "Русский Newsweek". На рекламных конструкциях предполагалось разместить изображения рук, сложенных в определенном жесте, с короткой подписью под ними. Под землей эти плакаты сочли непристойными и оскорбительными. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Nov 2009 16:03:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1258120808#2</guid>
+ </item>
+ <item>
+  <title>Америка лишается будущего в Азии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/fareast/20091113/156538482.html</link>
+  <description><![CDATA[
+                        Если в 1997 году, Вашингтон раздавал уроки о том, как преодолеть кризис, который поставил на колени «азиатских тигров», то сегодня у США самый большой государственный долг в мире, а основные внешние кредиторы - Китай и Япония. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Nov 2009 16:55:02 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1258120808#3</guid>
+ </item>
+ <item>
+  <title>Белоруссия: оппозиционеры - за санкции</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/1877508.html</link>
+  <description><![CDATA[
+                        Евросоюз планирует продлить частичную приостановку санкций в отношении белорусских чиновников до октября 2010 года. Проект документа такого содержания должны принять министры иностранных дел стран Евросоюза 16-17 ноября в Брюсселе. Белорусская оппозиция просит Евросоюз не торопиться. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Nov 2009 16:50:12 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1258120808#4</guid>
+ </item>
+ <item>
+  <title> В следующем году появится новаторская технология выращивания новой груди</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/13Nov2009/times/medecine.html</link>
+  <description><![CDATA[
+                        Весной 2010 года британским пациенткам, перенесшим ампутацию молочных желез, будет предложена новая методика выращивания груди из обогащенной стволовыми клетками жировой ткани. Технология может быть также использована для увеличения груди. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Nov 2009 16:50:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1258120808#5</guid>
+ </item>
+ <item>
+  <title>Между Китаем и Ирландией</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/columnists/13nov2009/volkov.html</link>
+  <description><![CDATA[
+                        Сегодня - особенно после очередного президентского послания - едва ли надо кого-то убеждать в том, что отсталая экономика России нуждается в скорейшей модернизации. Однако вопрос о том, какая модернизационная модель лучше подходит стране, и каковы должна быть роль и участие государства в этом процессе, остается открытой. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Nov 2009 16:56:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1258120808#6</guid>
+ </item>
+ <item>
+  <title>Под Пермью учителя судят за изнасилование 7 школьников</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/11/13/n_1424369.shtml</link>
+  <description><![CDATA[
+                        Прокуратура Пермского края утвердила и направила в краевой суд для рассмотрения уголовное дело в отношении учителя общеобразовательной школы города Соликамска, обвиняемого в насилии над семью подростками, сообщила краевая ... ...
+                        ]]></description>
+  <pubDate>Fri, 13 Nov 2009 16:56:24 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1258120808#7</guid>
+ </item>
+ <item>
+  <title>Хакеры взломали аккаунты Бритни Спирс на сервисах Twitter и MySpace</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/71c8303/l/0L0Ssecuritylab0Bru0Cnews0C3876630Bphp/story01.htm</link>
+  <description><![CDATA[
+                        О взломе стало известно в четверг, 12 ноября, когда в "Твиттере" появилась запись от имени Бритни: "Я поклоняюсь дьяволу" и несколько других, нехарактерных для нее сообщений. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Nov 2009 15:29:08 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1258120808#8</guid>
+ </item>
+ <item>
+  <title>В Ульяновске горят военные склады, слышны разрывы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/accident/incident/2009/11/13/V_Ulyanovskye_gryemy.phtml</link>
+  <description><![CDATA[
+                        В Ульяновске гремят взрывы. Очевидцы сообщают о раскатах, слышимых в Заволжском районе города. По предварительной информации, горят военные склады.  ...
+                        ]]></description>
+  <pubDate>Fri, 13 Nov 2009 16:37:44 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1258120808#9</guid>
+ </item>
+ <item>
+  <title>Близ станицы Рождественская в Изобильненском районе Ставропольского края взорвалась не газораспределительная станция, а труба газопровода</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/634114-echo.html</link>
+  <description><![CDATA[
+                        
+                         Об этом "Эху Москвы" сообщили в Южном региональном центре МинЧС...
+                          ...
+                        ]]></description>
+  <pubDate>Fri, 13 Nov 2009 16:31:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1258120808#10</guid>
+ </item>
+ <item>
+  <title>Пост № 262164</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/262164/#new</link>
+  <description><![CDATA[
+                        Еще одной тайной мироздания стало меньше.<br />
+"Спустя три года после начала исследовательской работы австрийскому химику Георгу Штайнхайзеру удалось"<br />
+<br />
+Тут об этом уже сообщал один юзер. Но давно, да и на инглише. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Nov 2009 16:20:44 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1258120808#11</guid>
+ </item>
+  </channel>
+ </rss>

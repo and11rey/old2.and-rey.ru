@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 07 Jun 2009 17:00:10 +0400</pubDate>
+         <lastBuildDate>Sun, 07 Jun 2009 17:00:10 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Авиакомпания Air France будет менять датчики скорости на самолетах Airbus</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/06/090607_airfrance_speed_meters.shtml</link>
+  <description><![CDATA[
+                        В Air France заявили о намерении ускорить процесс замены датчиков скорости на самолетах Airbus, принадлежащих авиакомпании.
+
+
+ ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2009 14:57:11 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1244379610#1</guid>
+ </item>
+ <item>
+  <title>"Молодая гвардия": Ян Дробачевский находится в Израиле</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/Kids/m.152116.html</link>
+  <description><![CDATA[
+                        Сын активистки "Молодой гвардии"  Юлии Оськиной Ян Дробачевский действительно находится в Израиле, заявили в движении.   Оськина планирует встретиться с израильским консулом. Отец Яна Борис Дробачевский  забрал ребенка на несколько дней, после чего вывез из России. ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2009 16:34:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1244379610#2</guid>
+ </item>
+ <item>
+  <title>Наследник Вудро Вильсона ("The Washington Post", США)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/249685.html</link>
+  <description><![CDATA[
+                        Президент Обама хочет, чтобы его считали прагматиком, но его внешняя политика демонстрирует его сходство с таким идеалистом как Вудро Вильсон. ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2009 10:08:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1244379610#3</guid>
+ </item>
+ <item>
+  <title>В Багдаде полиция задержала пятерых граждан США</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1748723.html</link>
+  <description><![CDATA[
+                        В Ираке правоохранительными органами задержаны пять американских охранников - в связи со смертью в Багдаде в прошлом месяце их соотечественника. Тело Джима Киттермана, владельца строительной компании, было найдено в иракской столице в прошлом месяце ... ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2009 16:35:58 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1244379610#4</guid>
+ </item>
+ <item>
+  <title>Раскол с Германией - следующий пункт дипломатической программы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/05Jun2009/nytimes/raskol.html</link>
+  <description><![CDATA[
+                        Раскол между Германией и США стал медленно обозначаться на фоне официальных заявлений о согласии между двумя странами и недовольства, выказываемого в частном порядке. Это еще не кризис отношений, но существуют некоторые трения и разногласия. ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jun 2009 16:13:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1244379610#5</guid>
+ </item>
+ <item>
+  <title>Вопрос о создании международного суда для пиратов можно ставить на уровне глав государств, заявил Чайка</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/07jun2009/so.html</link>
+  <description><![CDATA[
+                        Президент РФ Дмитрий Медведев 4 мая попросил генпрокурора проработать с иностранными коллегами механизм привлечения к ответственности виновных в пиратстве, предложив рассмотреть возможность создания соответствующего международного суда. ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2009 16:59:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1244379610#6</guid>
+ </item>
+ <item>
+  <title>США может вернуть КНДР в список спонсоров терроризма</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/06/07/n_1369922.shtml</link>
+  <description><![CDATA[
+                        США  изучают возможность возвращения Северной Кореи в список стран - спонсоров терроризма в ответ на ядерное испытание в прошлом месяце. Об этом сообщила в воскресенье госсекретарь США Хиллари Клинтон в интервью каналу ABC. КНДР была ... ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2009 16:42:29 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1244379610#7</guid>
+ </item>
+ <item>
+  <title>Федеральная торговая комиссия США закрыла провайдера ботнета</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/380951.php</link>
+  <description><![CDATA[
+                        Федеральная торговая комиссия США добилась временного запрета на деятельность интернет-провайдера Triple Fiber Network &#40;3FN.net&#41;. 3FN зарегистрирован на калифорнийскую компанию Pricewert LLC и известен под несколькими именами, в том числе APS Telecom и APX Telecom.	 ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2009 08:00:23 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1244379610#8</guid>
+ </item>
+ <item>
+  <title>Полиция Ирака задержала 5 американцев по подозрению в убийстве соотечественника</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/incident/2009/06/07/164550.html</link>
+  <description><![CDATA[
+                        Иракская полиция задержала 5 граждан США по подозрению в убийстве соотечественника, американского подрядчика.  Министр иностранных дел Ирака Хусейн Али Камал заявил, что задержанные американцы работали вместе с убитым, сообщает Associated Press.  Подозреваемые в убийстве предстанут перед... ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2009 16:45:50 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1244379610#9</guid>
+ </item>
+ <item>
+  <title>О т.н. авторском праве</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/56607/</link>
+  <description><![CDATA[
+                        О т.н. авторском праве ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2009 17:00:17 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1244379610#10</guid>
+ </item>
+ <item>
+  <title>The Lounge Bar</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/254478/#new</link>
+  <description><![CDATA[
+                        <img src=http://img.youtube.com/vi/bCyvmY1ERXQ/2.jpg><br /><br />  ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jun 2009 14:38:05 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1244379610#11</guid>
+ </item>
+  </channel>
+ </rss>

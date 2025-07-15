@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 29 Apr 2018 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sun, 29 Apr 2018 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Что известно о ядерном полигоне, который Ким Чен Ын предложил закрыть
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-43941594</link>
+  <description><![CDATA[
+                        Северная Корея с 2006 года провела шесть ядерных испытаний. Все они проходили на ядерном полигоне Пунгери. Аналитики полагают, что условия на полигоне больше не позволяют продолжать эту деятельность. ...
+                        ]]></description>
+  <pubDate>Sun, 29 Apr 2018 16:48:06 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1525012501#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Помните, Эммануэль Макрон и Дональд Трамп посадили дуб, и это тут же стало мемом? Так вот, дуб исчез
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/shapito/2018/04/29/pomnite-emmanuel-makron-i-donald-tramp-posadili-dub-i-eto-tut-zhe-stalo-memom-tak-vot-dub-ischez</link>
+  <description><![CDATA[
+                        23 апреля в США с официальным визитом побывал президент Франции Эммануэль Макрон. В подарок президенту США Дональду Трампу он привез саженец дуба из Белло Вуд — французского леса, который американские войска отбили у немецкой армии в Первой мировой войне. ...
+                        ]]></description>
+  <pubDate>Sun, 29 Apr 2018 16:55:34 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1525012501#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Армения на краю беспрецедентной революции
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/27Apr2018/letemps/armenie.html?utm_source=rss</link>
+  <description><![CDATA[
+                        "Это революция нашего поколения, того, которое родилось после независимости и не знало СССР, землетрясения, войны... Это и наш реванш над поколением родителей и над тем большим страхом, который их подавлял десятилетиями", - говорят молодые армяне. ...
+                        ]]></description>
+  <pubDate>Fri, 27 Apr 2018 20:24:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1525012501#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Суд в Ираке дал пожизненные сроки 19 россиянкам
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29198974.html</link>
+  <description><![CDATA[
+                        Их признали виновными в поддержке радикальных исламистов ...
+                        ]]></description>
+  <pubDate>Sun, 29 Apr 2018 16:45:39 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1525012501#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Ярославле прошел митинг против ввоза мусора из Москвы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/29apr2018/yaromeeting.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Власти региона признали факт ввоза мусора из столицы. На митинг собрались около 500 человек. Им раздавали листовки о ситуации в Волоколамске, где ввоз мусора обернулся массовыми отравлениями и отставкой главы города. ...
+                        ]]></description>
+  <pubDate>Sun, 29 Apr 2018 16:47:27 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1525012501#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Лунная миссия НАСА под угрозой
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.com/post/300461/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=300461</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 29 Apr 2018 15:54:17 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1525012501#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Телефонный разговор с Президентом Республики Корея Мун Чжэ Ином
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/57386</link>
+  <description><![CDATA[
+                        По инициативе
+южнокорейской стороны состоялся телефонный разговор Владимира Путина с Президентом Республики Корея Мун Чжэ Ином.    ...
+                        ]]></description>
+  <pubDate>Sun, 29 Apr 2018 12:26:42 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1525012501#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Гонщик Льюис Хэмилтон выиграл Гран-при Азербайджана
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/130/lifestyle/sport/201456-gonsik-luis-hemilton-vyigral-gran-pri-azerbajdzana</link>
+  <description><![CDATA[
+                        Британский пилот «Мерседеса» Льюис Хэмилтон выиграл гонку четвертого этапа Формулы-1 - Гран-при Азербайджана. 
+ ...
+                        ]]></description>
+  <pubDate>Sun, 29 Apr 2018 17:23:46 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1525012501#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  29.04.2018 17:05 : 20-километровая пробка образовалась под Петербургом
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2193322-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Причиной стали проблемы с одним из швов на Ладожском мосту.  <br>
+«Свобода, ура, мы это сделали» – такие комментарии пишут в Яндекс навигаторе водители, которым приходится преодолевать в выходной день по 4 часа 20 километровую пробку на выезде из Петербурга в Ленобласть. «Шашлык стынет», может у кого мячик есть? Катнем?» переписываются водители между собой. Причиной гигантской пробки, которая вот уже несколько часов держит автомобилистов на трассе «Кола» в Ленобласти, стал дефект на Ладожском ...
+                        ]]></description>
+  <pubDate>Sun, 29 Apr 2018 17:05:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1525012501#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Хэмилтон выиграл Гран-при Азербайджан
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/sport/610822</link>
+  <description><![CDATA[
+                        Британский пилот "Мерседес" Льюис Хэмилтон выиграл в воскресенье "Гран-при Азербайджана" в Баку. ...
+                        ]]></description>
+  <pubDate>Sun, 29 Apr 2018 17:03:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1525012501#48</guid>
+ </item>
+  </channel>
+ </rss>

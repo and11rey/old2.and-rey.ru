@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 12 Apr 2010 17:00:05 +0400</pubDate>
+         <lastBuildDate>Mon, 12 Apr 2010 17:00:05 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>В Италии сошел с рельсов поезд, есть погибшие</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2010/04/100412_italy_train.shtml</link>
+  <description><![CDATA[
+                        В Италии по меньшей мере 11 человек погибли и около 25 ранены при аварии на железной дороге неподалеку от города Мерано на севере страны. ...
+                        ]]></description>
+  <pubDate>Mon, 12 Apr 2010 16:50:28 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1271077205#1</guid>
+ </item>
+ <item>
+  <title>Ходорковский намерен допросить сам себя</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/yukos/m.176984.html</link>
+  <description><![CDATA[
+                        Михаил Ходорковский, обвиняемый в хищении 350 миллионов тонн нефти,  планирует допросить сам себя. Он подготовил список вопросов, которые хотел бы задать сам себе и дать на них ответы. По словам экс-главы "ЮКОСа", таким образом он хочет вновь показать абсурдность предъявленных ему обвинений. ...
+                        ]]></description>
+  <pubDate>Mon, 12 Apr 2010 16:37:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1271077205#2</guid>
+ </item>
+ <item>
+  <title>Сделан огромный шаг к миру, свободному от ядерной угрозы
+					( "Clarin", Аргентина )
+			</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/latamerica/20100412/159236758.html</link>
+  <description><![CDATA[
+                        США и Россия подписали 8 апреля в Праге новый Договор о сокращении стратегических вооружений с целью уменьшения количества имеющихся в нашем распоряжении стратегических ядерных зарядов до невиданно низкого уровня, сопоставимого с тем, который был в первое десятилетие ядерной эры. ...
+                        ]]></description>
+  <pubDate>Mon, 12 Apr 2010 16:46:52 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1271077205#3</guid>
+ </item>
+ <item>
+  <title>И прокатиться, и подраться</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/2009893.html</link>
+  <description><![CDATA[
+                        Цикл репортажей Радио Свобода об общественном транспорте британской столицы продолжается рассказом о лондонских автобусах. ...
+                        ]]></description>
+  <pubDate>Mon, 12 Apr 2010 15:48:50 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1271077205#4</guid>
+ </item>
+ <item>
+  <title>МВФ: Греции поможет только дефляция</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/12apr2010/grec.html</link>
+  <description><![CDATA[
+                        Глава Международного валютного фонда Доминик Стросс-Кан считает, что дефляция - единственный способ, который поможет Греции эффективно бороться с ее долговыми проблемами. ...
+                        ]]></description>
+  <pubDate>Mon, 12 Apr 2010 16:15:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1271077205#5</guid>
+ </item>
+ <item>
+  <title>Генпрокурор Польши: на пилота разбившегося Ту-154 давление не оказывалось</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2010/04/12/n_1482237.shtml</link>
+  <description><![CDATA[
+                        Генеральный прокурор Польши заявил о том, что на данный момент нет фактов, подтверждающих информацию о том, что пилоту самолета Леха Качиньского приказали совершить посадку, несмотря на сложные метеорологические условия.
+
+Ранее в СМИ ... ...
+                        ]]></description>
+  <pubDate>Mon, 12 Apr 2010 16:58:40 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1271077205#6</guid>
+ </item>
+ <item>
+  <title>Microsoft выпустила в России Visual Studio 2010 и .NET Framework 4</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/9ee97d9/l/0L0Ssecuritylab0Bru0Cnews0C39280A10Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Microsoft объявила о выходе новой версии платформы разработки Visual Studio 2010 и среды выполнения .NET Framework 4. ...
+                        ]]></description>
+  <pubDate>Mon, 12 Apr 2010 14:06:49 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1271077205#7</guid>
+ </item>
+ <item>
+  <title>Бакиев намерен перенести столицу на юг</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/foreign/2010/04/12/Bakiyev_namyeryen_py.phtml</link>
+  <description><![CDATA[
+                        Президент Киргизии Курманбек Бакиев, покинувший Бишкек во время беспорядков, заявил, что может основать новую столицу на юге страны. Временное правительство готово простить ему расстрел демонстрантов в обмен на его добровольный отъезд из страны. ...
+                        ]]></description>
+  <pubDate>Mon, 12 Apr 2010 16:39:45 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1271077205#8</guid>
+ </item>
+ <item>
+  <title>Российскому Минобрнауки до сих пор не удалось связаться с американской приемной матерью 7-летнего Артема Савельева</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/671328-echo.html</link>
+  <description><![CDATA[
+                        
+                          В ведомстве сообщили, что они по-прежнему не могут дозвониться до женщины, и сама она не выходит на связь...
+                          ...
+                        ]]></description>
+  <pubDate>Mon, 12 Apr 2010 16:39:00 +0400</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1271077205#9</guid>
+ </item>
+ <item>
+  <title>Пост № 272139</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/272139/#new</link>
+  <description><![CDATA[
+                        Наконец-то! Дождались! Ипотека в РФ на 50 лет под 5% годовых! Но не для всех, только для избранных... ...
+                        ]]></description>
+  <pubDate>Mon, 12 Apr 2010 16:20:47 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25 (лет..?)</source>
+  <guid isPermaLink="false">1271077205#10</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 20 May 2009 17:00:07 +0400</pubDate>
+         <lastBuildDate>Wed, 20 May 2009 17:00:07 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Air France-KLM сократит 3000 рабочих мест</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/business/2009/05/090520_airfrance_jobs.shtml</link>
+  <description><![CDATA[
+                        Франко-голландская авиакомпания Air France-KLM объявила о намерении сократить 3 тысячи сотрудников в текущем финансовом году.
+
+ ...
+                        ]]></description>
+  <pubDate>Wed, 20 May 2009 16:39:46 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1242824407#1</guid>
+ </item>
+ <item>
+  <title>Правозащитник, обвиняемый в разбое, написал письмо Медведеву</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/Politzeki/m.151324.html</link>
+  <description><![CDATA[
+                        Правозащитник Алексей Соколов, находящийся в изоляторе временного содержания по обвинению в разбое, обратился с письмом к президенту России Дмитрию Медведеву. В нем он рассказал о пытках, применяемых в ИВС. В международной организации Amnesty International утверждают, что пытки применяются к самому Соколову. ...
+                        ]]></description>
+  <pubDate>Wed, 20 May 2009 16:34:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1242824407#2</guid>
+ </item>
+ <item>
+  <title>Траян Бэсеску и "Новые правые" ("Независимая Молдова", Россия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/249234.html</link>
+  <description><![CDATA[
+                        "Братские объятия" Траяна Бэсеску с его молдавской марионеткой Дорином Киртоакэ наталкивает на одно не совсем удачное сравнение. Но поведение румынского лидера очень уж напоминает действия покойного американского президента Рональда Рейгана. Сравнение не в пользу Бэсеску: сегодня и времена другие, да и сам румынский президентне дотягивает до политического уровня Рейгана... ...
+                        ]]></description>
+  <pubDate>Wed, 20 May 2009 16:03:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1242824407#3</guid>
+ </item>
+ <item>
+  <title>В Белоруссии голодающий оппозиционер доставлен в госпиталь.</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1735773.html</link>
+  <description><![CDATA[
+                        Один из лидеров предпринимательского движения Белоруссии Николай Автухович, задержанный в начале года по подозрению в причинении вреда имуществу должностного лица, в связи с резким ухудшением здоровья переведен в республиканскую больницу МВД. Предпри ... ...
+                        ]]></description>
+  <pubDate>Wed, 20 May 2009 16:31:24 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1242824407#4</guid>
+ </item>
+ <item>
+  <title>Вы слышали гул в ушах? Пульсирующий звук, который не прекращается</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/20May2009/dailymail/zvuk.html</link>
+  <description><![CDATA[
+                        Загадочный пульсирующий непрекращающийся звук, который звучит на грани восприятия, известен тысячам людей по всему миру. Гул в ушах слышен не всем и не имеет очевидного объяснения. Выдвинуты десятки предположений, объясняющих причины этого явления. ...
+                        ]]></description>
+  <pubDate>Wed, 20 May 2009 16:17:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1242824407#5</guid>
+ </item>
+ <item>
+  <title>Экс-глава Росавиации Бачурин возглавил авиакомпанию "Атлант Союз"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/20may2009/rosavia.html</link>
+  <description><![CDATA[
+                        Экс-глава Росавиации распоряжением правительства освобожденный от должности "не по собственному желанию", нашел новое место работы. Долг его нынешней авиакомпании оценивается в 5,5 млрд рублей. ...
+                        ]]></description>
+  <pubDate>Wed, 20 May 2009 16:48:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1242824407#6</guid>
+ </item>
+ <item>
+  <title>Звонарева стала представителем ЮНЕСКО по равноправию</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/05/20/n_1363827.shtml</link>
+  <description><![CDATA[
+                        Знаменитая российская теннисистка Вера Звонарева стала представителем ЮНЕСКО по равноправию мужчин и женщин. Официальная церемония в связи с этим событием прошла сегодня в парижской штаб-квартире международной организации.
+Генеральный ... ...
+                        ]]></description>
+  <pubDate>Wed, 20 May 2009 16:53:19 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1242824407#7</guid>
+ </item>
+ <item>
+  <title>Подробности уязвимости в Microsoft IIS</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/379855.php</link>
+  <description><![CDATA[
+                        Уязвимость в Microsoft IIS может позволить злоумышленнику получить доступ к некоторым данным на сервере. 	 ...
+                        ]]></description>
+  <pubDate>Wed, 20 May 2009 13:24:10 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1242824407#8</guid>
+ </item>
+ <item>
+  <title>Суд отклонил иск "Феррари" против "Формулы-1"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/sport/2009/05/20/164543.html</link>
+  <description><![CDATA[
+                        20 мая французский суд отклонил иск руководства команды "Феррари" против правления "Формулы-1".  В начале мая ФИА постановила, что со следующего сезона гоночные команды будут ограничены бюджетом в 60 млн долларов.  В случае, если команды будут превышать установленный лимит, они должны будут... ...
+                        ]]></description>
+  <pubDate>Wed, 20 May 2009 16:45:43 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1242824407#9</guid>
+ </item>
+ <item>
+  <title>Медаль 200 лет Н.В. Гоголю</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/55993/</link>
+  <description><![CDATA[
+                        Медаль 200 лет Н.В. Гоголю ...
+                        ]]></description>
+  <pubDate>Wed, 20 May 2009 17:00:26 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1242824407#10</guid>
+ </item>
+ <item>
+  <title>Пост № 253558</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/253558/#new</link>
+  <description><![CDATA[
+                        Момент истины для Джо Байдена. На вопрос репортера: допустимо ли доверять им, Обаме и Байдену, дело оздоровления американской экономики, если правительство не желает повторно, после появления новых улик, копаться в 9/11 и искать правду,  -  Байден, держа в руках отчет об этих новых уликах, явно принужденно ответил: "Да". Видимо, он что-то хотел добавить, но ему не дали. В ту же секунду агент спецслужбы выкрикнула кодовую фразу "Всем спасибо!!!". Байден среагировал и немедленно начал в спешке ухо ...
+                        ]]></description>
+  <pubDate>Wed, 20 May 2009 16:36:10 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1242824407#11</guid>
+ </item>
+  </channel>
+ </rss>

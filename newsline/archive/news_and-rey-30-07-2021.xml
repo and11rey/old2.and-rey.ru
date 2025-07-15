@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 30 Jul 2021 17:35:02 +0300</pubDate>
+         <lastBuildDate>Fri, 30 Jul 2021 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Коронавирус в мире: новая вспышка в Китае; Бразилия отменяет контракт на "Спутник"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-58029443</link>
+  <description><![CDATA[
+                        В Китае - новый очаг заражений, причем вирус, возможно, прилетел из России; Бразилия отменяет контракт на поставку "Спутника V"; Австралия откроет границы не раньше следующего года. ...
+                        ]]></description>
+  <pubDate>Fri, 30 Jul 2021 16:56:52 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1627655702#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Лукашенко отправил на доработку предложенные ему поправки к Конституции Беларуси
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2021/07/30/lukashenko-otpravil-na-dorabotku-predlozhennye-emu-popravki-k-konstitutsii-belarusi</link>
+  <description><![CDATA[
+                        ДАННОЕ СООБЩЕНИЕ (МАТЕРИАЛ) СОЗДАНО И (ИЛИ) РАСПРОСТРАНЕНО ИНОСТРАННЫМ СРЕДСТВОМ МАССОВОЙ ИНФОРМАЦИИ, ВЫПОЛНЯЮЩИМ ФУНКЦИИ ИНОСТРАННОГО АГЕНТА, И (ИЛИ) РОССИЙСКИМ ЮРИДИЧЕСКИМ ЛИЦОМ, ВЫПОЛНЯЮЩИМ ФУНКЦИИ ИНОСТРАННОГО АГЕНТА.Спасите «Медузу»!https://support.meduza.ioАлександр Лукашенко заявил, что Конституционная комиссия представила ему проект поправок к Конституции Беларуси, но его нельзя назвать проработанным. Его слова цитирует белорусское государственное агентство «Белта». ...
+                        ]]></description>
+  <pubDate>Fri, 30 Jul 2021 17:10:40 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1627655702#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  На границе Литвы и Белоруссии мигранты оказались в западне Лукашенко
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/30Jul2021/liberation/migrants.html?utm_source=rss</link>
+  <description><![CDATA[
+                        За два месяца белорусский лидер с помощью национального турагентства организовал миграционный маршрут из Ирака в Европу. Перехваченных литовскими пограничниками кандидаты на высылку собирают в центрах размещения. ...
+                        ]]></description>
+  <pubDate>Fri, 30 Jul 2021 15:47:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1627655702#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Бразилия отменит контракт на поставку российской вакцины против COVID-19
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/braziliya-otmenit-kontrakt-na-postavku-rossiyskoy-vaktsiny-protiv-covid-19/31385920.html</link>
+  <description><![CDATA[
+                        Местный регулятор так и не выдал лицензию на использование "Спутника V" ...
+                        ]]></description>
+  <pubDate>Fri, 30 Jul 2021 16:55:17 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1627655702#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Олимпиада-2020. У России серебро в фехтовании. И будет золото в теннисе! LIVE - Чемпионат
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMirQFodHRwczovL3d3dy5jaGFtcGlvbmF0LmNvbS9vbHltcGljL2FydGljbGUtNDQxNjEwMS1vbGltcGlhZGEtMjAyMC1vbmxham4tdHJhbnNseWFjaXlhLWdkZS1zbW90cmV0LW9ubGFqbi1vbGltcGlqc2tpZS1pZ3J5LXJvc3NpeWEtbmEtbGV0bmloLWlncmFoLXYtdG9raW8tMzAtaXl1bHlhLTIwMjEuaHRtbNIBrQFodHRwczovL2FtcC5jaGFtcGlvbmF0LmNvbS9vbHltcGljL2FydGljbGUtNDQxNjEwMS1vbGltcGlhZGEtMjAyMC1vbmxham4tdHJhbnNseWFjaXlhLWdkZS1zbW90cmV0LW9ubGFqbi1vbGltcGlqc2tpZS1pZ3J5LXJvc3NpeWEtbmEtbGV0bmloLWlncmFoLXYtdG9raW8tMzAtaXl1bHlhLTIwMjEuaHRtbA?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 30 Jul 2021 17:05:33 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1627655702#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Спасибо всем, кто был с нами в течение 21 года
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/31may2021/newsrucomoutoforder2.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Мы каждый день старались предельно честно выполнять профессиональные обязанности - рассказывать, что важного происходит, составлять объективную информационную картину дня. Но наша картина дня стала сильно отличаться от государственной. Ситуация, сложившаяся в экономике и в правовом поле, делает работу NEWSru.com более невозможной. ...
+                        ]]></description>
+  <pubDate>Mon, 31 May 2021 09:00:20 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1627655702#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Природа музыкальных ощущений. Родство звуков
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/570520/?utm_campaign=570520&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        Этими статьями по теории музыки я ставлю задачу объяснить природу музыкальных ощущений человека. Как и в любом фундаментальном исследовании я начну с самого низкого уровня - физики звука и последовательно приду к известным музыкальным понятиям. В последней статье будет рассмотрено веб-приложение для гармонического анализа музыки разработанное на основе этого исследования. Читать далее ...
+                        ]]></description>
+  <pubDate>Fri, 30 Jul 2021 17:26:01 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1627655702#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с генеральным директором АНО «Россия – страна возможностей» Алексеем Комиссаровым
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/66295</link>
+  <description><![CDATA[
+                        Владимир Путин провёл рабочую встречу
+с генеральным директором АНО «Россия – страна возможностей» Алексеем
+Комиссаровым.       ...
+                        ]]></description>
+  <pubDate>Fri, 30 Jul 2021 14:18:11 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1627655702#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  7 лайфхаков, как быстро успокоить маленького ребёнка
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/usefull/296/260443-7-lajfhakov-kak-bystro-uspokoit-malenkogo-rebenka-ili-cto-delat-roditelam-ctoby-ih-rebenok-mense-kapriznical</link>
+  <description><![CDATA[
+                        Всем известно, что маленькие дети много плачут. ...
+                        ]]></description>
+  <pubDate>Fri, 30 Jul 2021 17:32:56 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1627655702#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  30.07.2021 17:33 : «Левада-центр» фиксирует рост числа россиян, считающих, что страна движется по неверному пути
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2879660-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+«Левада-центр» фиксирует рост числа россиян, считающих, что страна движется по неверному пути. Согласно опросу организации, признанной в России иностранным агентом, такого мнения придерживаются 44% респондентов, 47% довольны положением дел. В мае эти же значения составляли 40% и 51% соответственно. Одновременно снижается и рейтинг доверия президенту Владимиру Путину как политику. Он снизился с 33% до 31%.
+ ...
+                        ]]></description>
+  <pubDate>Fri, 30 Jul 2021 17:33:14 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1627655702#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  При нападении на танкер Mercer Street погибли британец и гражданин Румынии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/781750</link>
+  <description><![CDATA[
+                        Японский танкер Mercer Street, следовавший без груза на борту из Дар-эс-Салама в Эль-Фуджайру, подвергся нападению на севере Индийского океана. ...
+                        ]]></description>
+  <pubDate>Fri, 30 Jul 2021 17:24:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1627655702#48</guid>
+ </item>
+  </channel>
+ </rss>

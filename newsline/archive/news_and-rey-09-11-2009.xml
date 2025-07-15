@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 09 Nov 2009 17:00:05 +0300</pubDate>
+         <lastBuildDate>Mon, 09 Nov 2009 17:00:05 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Берлинская стена - 20 лет со дня падения</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/indepth/berlin_wall_20th_anniversary.shtml</link>
+  <description><![CDATA[
+                        Один из самых знаменитых символов холодной войны - Берлинская стена - 20 лет назад прекратил свое существование. ...
+                        ]]></description>
+  <pubDate>Mon, 09 Nov 2009 15:56:45 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1257775205#1</guid>
+ </item>
+ <item>
+  <title>Ректорат ОмГУ составил список студентов-экстремистов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/activism/m.161830.html</link>
+  <description><![CDATA[
+                        В Омском государственном университете составили список студентов-"экстремистов", которые были замечены милицией во время акций оппозиции. Список составлен по информации из УВД.  С "экстремистами" не рекомендуется общаться и их не рекомендуется учить. ...
+                        ]]></description>
+  <pubDate>Mon, 09 Nov 2009 15:44:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1257775205#2</guid>
+ </item>
+ <item>
+  <title>Празднование 20-летия падения Берлинской стены </title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/multimedia/20091109/156508417.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 09 Nov 2009 16:36:15 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1257775205#3</guid>
+ </item>
+ <item>
+  <title>В Астане растет число жертв крупного пожара </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091109/17/17.html?id=1873172</link>
+  <description><![CDATA[
+                        В Астане (Казахстан) растет число жертв в результате крупного пожара на складе по хранению пенопласта.  По последним данным, погибли 14 человек, еще один пострадал. Как сообщали в МЧС республики, под завалами могут находиться люди, их поиск продолжается.   Площадь пожара превысила восемь тысяч квадратных метров. Причины случившегося выясняются.   ...
+                        ]]></description>
+  <pubDate>Mon, 09 Nov 2009 16:19:01 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1257775205#4</guid>
+ </item>
+ <item>
+  <title>Скромная сверхдержава</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/09Nov2009/newsweek/superpower.html</link>
+  <description><![CDATA[
+                        Пророчества об упадке Европы не оправдываются. Экономический кризис заставил присмиреть Америку и Россию, Китай и Индия обеспокоены своими внутренними проблемами, а Европа процветает. Кризис сделал европейскую модель капитализма предпочтительной. ...
+                        ]]></description>
+  <pubDate>Mon, 09 Nov 2009 16:44:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1257775205#5</guid>
+ </item>
+ <item>
+  <title>Киргизский политик "разглядел" в центре Бишкека "символ сатаны" - сразу за Домом правительства</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/09nov2009/pentagramma.html</link>
+  <description><![CDATA[
+                        Лидер партии "ЭрК" Шаирбек Жусуев "совершенно случайно" выяснил, что любимый горожанами Парк имени Панфилова разбит в форме пятиконечной звезды в круге. Он просит изменить планировку парка, чтобы избавиться от "зловещего знака". При этом политик считает абсурдным факт, что парк символизировал звезду СССР. ...
+                        ]]></description>
+  <pubDate>Mon, 09 Nov 2009 16:58:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1257775205#6</guid>
+ </item>
+ <item>
+  <title>Голикова: дефицит марлевых повязок будет скоро ликвидирован</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/11/09/n_1422804.shtml</link>
+  <description><![CDATA[
+                        Медицинские маски в аптеках скоро перестанут быть дефицитом, заявила министр здравоохранения и социального развития России Татьяна Голикова. "Тот ажиотажный спрос, который мы имели на прошлой неделе, был связан с тем, что люди скупают ... ...
+                        ]]></description>
+  <pubDate>Mon, 09 Nov 2009 16:53:17 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1257775205#7</guid>
+ </item>
+ <item>
+  <title>Датская антипиратская организация отказалась от преследования файлообменщиков</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/701e922/l/0L0Ssecuritylab0Bru0Cnews0C3874730Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Датская организация по борьбе с пиратством Antipiratgruppen объявила о прекращении преследования пользователей файлообменников. ...
+                        ]]></description>
+  <pubDate>Mon, 09 Nov 2009 14:50:43 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1257775205#8</guid>
+ </item>
+ <item>
+  <title>Kraft Foods поглотит Cadbury за $16,4 млрд</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/business/company/2009/11/09/Kraft_Foods_poglotit.phtml</link>
+  <description><![CDATA[
+                        Kraft Foods сделала формальную заявку на покупку Cadbury за 9,8 млрд фунтов. Еще в сентябре она предлагала за кондитерскую компанию 10,2 млрд фунтов, однако последняя предложение отклонила. ...
+                        ]]></description>
+  <pubDate>Mon, 09 Nov 2009 16:57:09 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1257775205#9</guid>
+ </item>
+ <item>
+  <title>Международная космическая станция в эти выходные едва не столкнулась с куском космического мусора</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/633089-echo.html</link>
+  <description><![CDATA[
+                        
+                         К счастью, тревога оказалась ложной, - сообщил российский космонавт Максим Сураев...
+                          ...
+                        ]]></description>
+  <pubDate>Mon, 09 Nov 2009 16:33:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1257775205#10</guid>
+ </item>
+ <item>
+  <title>Окаменевшие молнии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/261904/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/11/09/26501-162034-a9be4229b105b7f4d3f84347bd20f21b.jpg><br /><br />Мало кто знает, что молнии после удара в землю не исчезают бесследно, а превращаются в камень.<br />
+А появляются они вследствие удара молнии в скальную породу, песок или насыщенный кварцем грунт, в результате чего образуются полые ветвистые трубочки разных размеров с гладкой или покрытой пузырьками внутренней поверхностью,  из которых потом делают украшения.<br />
+Ближайший родственнки  ...
+                        ]]></description>
+  <pubDate>Mon, 09 Nov 2009 16:20:34 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1257775205#11</guid>
+ </item>
+  </channel>
+ </rss>

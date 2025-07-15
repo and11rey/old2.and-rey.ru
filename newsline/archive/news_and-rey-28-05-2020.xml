@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 28 May 2020 17:35:02 +0300</pubDate>
+         <lastBuildDate>Thu, 28 May 2020 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Коронавирус в России: Собянин отказался отменять ограничения до получения вакцины
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-52818607</link>
+  <description><![CDATA[
+                        Треть россиян заявила о скептическом отношении к пандемии коронавируса, при этом четверть назвала ее выдумкой. Минздрав утвердил новые рекомендации по учету заболевших и умерших от Covid-19. Эти и другие новости о ситуации с коронавирусом в России - в обзоре Би-би-си. ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2020 17:04:10 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1590676502#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Режим самосохранения будет длиться долго». Собянин — об ограничительных мерах в Москве после самоизоляции
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2020/05/28/rezhim-samosohraneniya-budet-dlitsya-dolgo-sobyanin-ob-ogranichitelnyh-merah-v-moskve-posle-samoizolyatsii</link>
+  <description><![CDATA[
+                        Режим санитарных ограничений в Москве продлится еще долгое время. Об этом в эфире «России 24» заявил мэр города Сергей Собянин. ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2020 17:27:45 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1590676502#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Нэнси Пелоси: демократ, которая сделала разноцветные маски инструментом политического самовыражения
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/28May2020/lefigaro/pelosi.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Президент Трамп отказывается надевать маску, боясь "выглядеть нелепо" перед прессой. Нэнси Пелоси, председатель Палаты представителей и главная противница Трампа, создает "тотал луки", тщательно подбирая прямоугольник ткани к своему гардеробу.  ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2020 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1590676502#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  "Трансперенси" попросила проверить Пескова из-за ипотеки в Нью-Йорке
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30639800.html</link>
+  <description><![CDATA[
+                        "Трансперенси Интернешнл — Россия" попросила президиум совета при президенте России по противодействию коррупции проверить соблюдение Татьяной Навкой антикоррупционного законодательства. "Полная тезка супруги  пресс-секретаря президента Дмитрия Пескова выплатила ипотеку за квартиру в США. Это является нарушением федерального закона, запрещающего чиновникам и членам их семей использовать иностранные финансовые инструменты, в том числе пользоваться кредитами и займами в иностранных банках", — гово ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2020 16:15:42 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1590676502#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Анонсирован сервис с картой и расписанием прогулок в Москве - Lenta.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiKmh0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIwLzA1LzI4L3Byb2d5bGthL9IBMGh0dHBzOi8vbS5sZW50YS5ydS9uZXdzLzIwMjAvMDUvMjgvcHJvZ3lsa2EvYW1wLw?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2020 17:02:50 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1590676502#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Собянин заявил, что санитарные ограничения в Москве сохранятся до получения вакцины от коронавируса
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/28may2020/sobyanin.html?utm_source=rss</link>
+  <description><![CDATA[
+                        &#34;Но это не означает, что мы должны взаперти все время жить, - обнадежил москвичей мэр Сергей Собянин. - Мы должны нормально жить, нормальной жизнью, ходить в магазины, общаться друг с другом, гулять&#34;. ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2020 17:30:50 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1590676502#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Борис Титов направил Президенту ежегодный доклад Уполномоченного по защите прав предпринимателей
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/63422</link>
+  <description><![CDATA[
+                        Уполномоченный по защите прав предпринимателей Борис
+Титов представил доклад о результатах своей деятельности
+в 2019 году главе государства в соответствии со статьёй 3
+Федерального закона от 7 мая 2013 № 78-ФЗ
+«Об уполномоченных по защите прав предпринимателей в Российской
+Федерации».    ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2020 14:32:18 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1590676502#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Сотни волгоградцев с коронавирусом отказываются от госпитализации
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/283/236480-sotni-volgogradcev-s-koronavirusom-otkazyvautsa-ot-gospitalizacii</link>
+  <description><![CDATA[
+                        Около 300 инфицированных коронавирусом жителей Волгоградской области отказались от госпитализации и лечатся дома. ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2020 17:29:52 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1590676502#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  28.05.2020 17:34 : Ограничительные меры, введенные из-за коронавируса, сохранятся в Москве на долго — до получения вакцины
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2650707-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Об этом заявил мэр Сергей Собянин. При этом он добавил, что москвичи не должны «взаперти все время жить». Надо «жить нормальной жизнью: ходить в магазины, общаться друг с другом, гулять, но при этом соблюдать элементарные требования, которые во многих странах являются аксиомой», — сказал градоначальник. В то же время он отметил, что пик заражения в Москве уже пройден. При этом, как отметил глава департамента торговли и услуг Алексей Немерюк, власти Москвы пока не готовы принять решение об отм ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2020 17:34:47 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1590676502#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Россия попросила Испанию выдать экс-депутата Госдумы Мургу по делу о мошенничестве
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/710749</link>
+  <description><![CDATA[
+                        Генпрокуратура РФ обратилась в Минюст Испании с просьбой о выдаче бывшего депутата Госдумы РФ и зампреда правительства Ставрополья Андрея Мурги, фигурирующего в деле о мошенничестве и скрывшегося от следствия в Аликанте. ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2020 17:25:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1590676502#48</guid>
+ </item>
+  </channel>
+ </rss>

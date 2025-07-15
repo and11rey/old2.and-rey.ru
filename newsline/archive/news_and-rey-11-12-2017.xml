@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 11 Dec 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Mon, 11 Dec 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  В центре Нью-Йорка произошел взрыв
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-42311177</link>
+  <description><![CDATA[
+                        Полиция Нью-Йорка проверяет информацию о взрыве на автобусном терминале на Манхэттене возле знаменитой Таймс-сквер. Информации о природе взрыва и пострадавших пока нет. ...
+                        ]]></description>
+  <pubDate>Mon, 11 Dec 2017 16:40:56 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1513002901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Объявлены номинанты на «Золотой глобус»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2017/12/11/ob-yavleny-nominanty-na-zolotoy-globus</link>
+  <description><![CDATA[
+                        В Лос-Анджелесе объявили номинантов на награду голливудской Ассоциации иностранной прессы — «Золотой глобус». ...
+                        ]]></description>
+  <pubDate>Mon, 11 Dec 2017 17:23:31 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1513002901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Гарри Каспаров: Поехать в Россию? Для меня это был бы "билет в один конец"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/11Dec2017/times/kasparov.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Гарри Каспаров говорит о себе, что он "изгнанник - тот, кто не может вернуться. Точнее говоря, я мог бы вернуться в Россию, но это билет в один конец". По словам оппозиционера, Путин опаснее, чем коммунистическая пропаганда 50 лет назад. ...
+                        ]]></description>
+  <pubDate>Mon, 11 Dec 2017 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1513002901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Москве открыли мемориальную доску Александру Солженицыну
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28909849.html</link>
+  <description><![CDATA[
+                        Памятный знак установили на стене дома, в котором писатель жил на момент ареста в 1974 году после выхода книги "Архипелаг ГУЛАГ" ...
+                        ]]></description>
+  <pubDate>Mon, 11 Dec 2017 16:35:42 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1513002901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 11 Dec 2017 17:35:04 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1513002901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Нью-Йорке после взрыва задержан предполагаемый преступник. В результате нападения пострадали четыре человека
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/11dec2017/nycexplosion.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Нападавшим является 27-летний житель Бруклин (район Нью-Йорка). При этом он также получил ранения, но его жизнь находится вне опасности. Бывший глава полиции Нью-Йорка Билл Брэттон сообщил журналистам о том, что произошедшее в городе является "нападением под воздействием "Исламского государства"*. ...
+                        ]]></description>
+  <pubDate>Mon, 11 Dec 2017 17:33:54 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1513002901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Перевод] Измерения физического пространства
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/296335/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=296335</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 11 Dec 2017 16:00:01 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1513002901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  12 декабря состоится встреча Владимира Путина с судьями Конституционного Суда
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/press/announcements/56356</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Mon, 11 Dec 2017 16:28:23 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1513002901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Путин назвал содержательными переговоры с ас-Сиси
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/194/social/rupolitics/189476-putin-nazval-soderzatelnymi-peregovory-s-as-sisi</link>
+  <description><![CDATA[
+                        Президент России Владимир Путин заявил, его переговоры с лидером Египта Абделем Фаттахом ас-Сиси стали конструктивными и содержательными. ...
+                        ]]></description>
+  <pubDate>Mon, 11 Dec 2017 17:08:17 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1513002901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  11.12.2017 17:05 : Президент Владимир Путин объявил о выводе российских войск из Сирии
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2108726-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Во-первых, это позволит вести военные действия в других местах, во-вторых, это важный элемент электоральной кампании на следующий год. Такое мнение в эфире «Эха»  высказал профессор МГИМО, политолог Валерий Соловей. <br>
+Валерий Соловей добавил, что эти военные действия не выльются в полномасштабную войну, поскольку у России на это нет сейчас ресурсов.
+ ...
+                        ]]></description>
+  <pubDate>Mon, 11 Dec 2017 17:05:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1513002901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В экстренных службах Нью-Йорка рассказали о пострадавших в результате взрыва
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/591370</link>
+  <description><![CDATA[
+                        В результате взрыва в районе станции метро "Таймс-сквер" пострадали четыре человека, их ранения не представляют угрозу жизни, сообщила пожарная служба Нью-Йорка. ...
+                        ]]></description>
+  <pubDate>Mon, 11 Dec 2017 17:21:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1513002901#48</guid>
+ </item>
+  </channel>
+ </rss>

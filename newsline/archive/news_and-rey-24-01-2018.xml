@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 24 Jan 2018 17:35:01 +0300</pubDate>
+         <lastBuildDate>Wed, 24 Jan 2018 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Почему деятелям культуры не понравился фильм "Смерть Сталина"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-42794990</link>
+  <description><![CDATA[
+                        Минкульт России решил не допускать показ комедии "Смерть Сталина" в кинотеатрах после письма деятелей культуры министру Владимиру Мединскому. Как выяснила Би-би-си, далеко не все, кто подписал письмо, смотрели комедию. ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jan 2018 17:17:19 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1516804501#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Верховный суд отменил решение о депортации журналиста Али Феруза
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/01/24/verhovnyy-sud-otmenil-deportatsiyu-zhurnalista-ali-feruza</link>
+  <description><![CDATA[
+                        Верховный суд России отменил решение о депортации журналиста «Новой газеты» Али Феруза (Худоберди Нурматова). Дело направлено на пересмотр в Мосгорсуд. ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jan 2018 17:25:58 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1516804501#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Цифровая слежка наступает
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/24Jan2018/handelsblatt/digitale.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Слежка с помощью цифровых технологий получает все большее распространение. Новые данные немецкого правительства показывают: органы государственной безопасности страны все чаще используют цифровые средства наблюдения и контроля. ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jan 2018 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1516804501#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Верховный суд отменил решение о выдворении Али Феруза из России
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28994042.html</link>
+  <description><![CDATA[
+                        По словам журналиста, в Узбекистане его ждут пытки и казнь по обвинению в сотрудничестве с террористическими организациями ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jan 2018 17:12:54 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1516804501#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jan 2018 17:33:33 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1516804501#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Алтайском крае солдат-срочник погиб, не успев выбраться из загоревшейся палатки
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/24jan2018/soldier.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Трагедия произошла в ночь с 21 на 22 января в войсковой части N56681 около села Косиха. Предположительно, срочник залез  на второй ярус кровати, укутался в спальник, и когда начался пожар, в панике не смог быстро расстегнуть мешок и выбежать с остальными на улицу, в результате горящая палатка упала прямо на военного. ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jan 2018 17:24:38 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1516804501#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Обзор DJI Goggles Racing Edition
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/297505/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=297505</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jan 2018 16:54:51 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1516804501#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Посещение центра-музея «Дом Высоцкого на Таганке»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56694</link>
+  <description><![CDATA[
+                        В преддверии 80-летия со дня рождения поэта, актёра,
+автора-исполнителя песен Владимира Высоцкого Президент посетил культурный
+центр-музей «Дом Высоцкого на Таганке».      ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jan 2018 15:44:02 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1516804501#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Дмитрий Азаров. Биография
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/usefull/250/192658-dmitrij-azarov-biografia</link>
+  <description><![CDATA[
+                        Имя: Азаров Дмитрий Игоревич.
+
+Дата рождения: 9 августа 1970 года.
+
+Место рождения: Куйбышев, СССР.
+
+Должность: врио губернатора Самарской области ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jan 2018 17:29:13 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1516804501#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  24.01.2018 17:32 : Сергей Лавров фактически осудил вводимый в ряде стран ЕС запрет на религиозную атрибутику
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2135226-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Выступая на Рождественских чтениях, министр иностранных дел России сказал, что это ведет к формированию нетерпимости и ксенофобии в обществе. По его словам, важно энергично противостоять, как он выразился, псевдолиберальным подходам, поощряющим деструктивную модель поведения.
+ ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jan 2018 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1516804501#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Глава Федерации фристайла России выступил против бойкота ОИ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/sport/596907</link>
+  <description><![CDATA[
+                        Бойкотировать зимнюю Олимпиаду 2018 года нельзя ни в коем случае, заявил журналистам президент Федерации фристайла России Алексей Курашов. ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jan 2018 17:10:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1516804501#48</guid>
+ </item>
+  </channel>
+ </rss>

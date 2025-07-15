@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 12 Sep 2009 17:00:15 +0400</pubDate>
+         <lastBuildDate>Sat, 12 Sep 2009 17:00:15 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>В Лос-Анджелесе украдена коллеция работ Уорхола</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/entertainment/2009/09/090912_warhol_stolen.shtml</link>
+  <description><![CDATA[
+                        Полиция Лос-Анджелеса заявила, что из одного из частных домов города похищена коллекция произведений художника Энди Уорхола. ...
+                        ]]></description>
+  <pubDate>Sat, 12 Sep 2009 14:44:05 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1252760415#1</guid>
+ </item>
+ <item>
+  <title>Израильский министр подтвердил факт визита Нетаниягу в Москву</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/World/Mideast/m.157127.html</link>
+  <description><![CDATA[
+                        Премьер-министр Израиля Биньямин Нетаниягу действительно был в России с тайным визитом, рассказал израильский министр по делам разведки Дан Меридор. Он отказался назвать цель поездки, пояснив, что "публично об этом никто не заявит", так как "некоторые вещи лучше обсужать за закрытыми дверями". ...
+                        ]]></description>
+  <pubDate>Sat, 12 Sep 2009 16:44:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1252760415#2</guid>
+ </item>
+ <item>
+  <title>Две крайности ("Monitor Mercantil", Бразилия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/252530.html</link>
+  <description><![CDATA[
+                        Это не первый и не последний раз, когда члены южноамериканской семьи огрызаются и рычат друг на друга, а иногда даже пытаются укусить. Двумя протагонистами потенциального конфликта в Южной Америке на данный момент являются Венесуэла и Колумбия. ...
+                        ]]></description>
+  <pubDate>Sat, 12 Sep 2009 15:16:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1252760415#3</guid>
+ </item>
+ <item>
+  <title>Иран слегка смягчил свой подход к возобновлению многосторонних переговоров </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090912/17/17.html?id=1821130</link>
+  <description><![CDATA[
+                        Иран не исключает возможности переговоров по своей ядерной программе, но считает ядерные разработки своим "неотъемлемым правом".  Об этом заявил сегодня иранский министр иностранных дел Манучер Моттаки. Ранее Тегеран заявлял, что готов обсуждать с ведущими мировыми державами только региональные и глобальные политические проблемы.  Госдепартамент США заявил, что Вашингтон хотел бы выяснить на переговорах, насколько серьезно Тегеран намерен обсуждать вопрос о ядерной программе - после ... ...
+                        ]]></description>
+  <pubDate>Sat, 12 Sep 2009 16:46:00 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1252760415#4</guid>
+ </item>
+ <item>
+  <title>Берлускони признал, что предполагаемый сутенер привозил женщин в его дом</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/11Sep2009/guardian/berlusconi.html</link>
+  <description><![CDATA[
+                        Премьер-министр Италии впервые признал, что женщин в его дом привозил предприниматель, против которого ведется расследование по делу о содействии и соучастии в проституции. Однако при этом Берлускони повторил, что он не платил им за интимные услуги. ...
+                        ]]></description>
+  <pubDate>Fri, 11 Sep 2009 15:52:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1252760415#5</guid>
+ </item>
+ <item>
+  <title>Глава Минэнерго обещает чиновникам "РусГидро" оргвыводы после расследования на Саяно-Шушенской ГЭС</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/12sep2009/shm.html</link>
+  <description><![CDATA[
+                        "Я провел заседание совета директоров "РусГидро" и объявил на нем, что будет внимательно изучена деятельность конкретных членов руководства компании по исполнению их обязанностей, будут сделаны выводы", - сказал министр. ...
+                        ]]></description>
+  <pubDate>Sat, 12 Sep 2009 16:41:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1252760415#6</guid>
+ </item>
+ <item>
+  <title>В Москве прошел митинг с требованием открыть Черкизовский рынок</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/09/12/n_1402796.shtml</link>
+  <description><![CDATA[
+                        В Москве на Чистопрудном бульваре прошел митинг в защиту прав предпринимателей Черкизовского рынка, прав жителей Люблино и других московских районов. Как сообщает пресс-служба Левого Фронта, участники митинга предложили создать ... ...
+                        ]]></description>
+  <pubDate>Sat, 12 Sep 2009 16:47:42 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1252760415#7</guid>
+ </item>
+ <item>
+  <title>День программиста - официальный праздник</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/385206.php</link>
+  <description><![CDATA[
+                        Президент России Дмитрий Медведев подписал 11 сентября указ, подготовленный Министерством связи и массовых коммуникаций Российской Федерации, который устанавливает в России новый официальный праздник – День программиста. 	 ...
+                        ]]></description>
+  <pubDate>Sat, 12 Sep 2009 11:57:58 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1252760415#8</guid>
+ </item>
+ <item>
+  <title>На Кубе объявлен траур в связи со смертью соратника Кастро</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/foreign/2009/09/12/Na_Kubye_obyavlyen_t.phtml</link>
+  <description><![CDATA[
+                        В Гаване от сердечного приступа скончался Хуан Альмейда Боске – командующий кубинской революции и ближайший соратник Фиделя Кастро. В связи с этим в воскресенье, 13 сентября, на Кубе объявлен национальный траур. ...
+                        ]]></description>
+  <pubDate>Sat, 12 Sep 2009 16:56:03 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1252760415#9</guid>
+ </item>
+ <item>
+  <title>25 путинских миллиардов не спасли «АвтоВАЗ»</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/59643/</link>
+  <description><![CDATA[
+                        25 путинских миллиардов не спасли «АвтоВАЗ» ...
+                        ]]></description>
+  <pubDate>Sat, 12 Sep 2009 15:36:00 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1252760415#10</guid>
+ </item>
+ <item>
+  <title>Спешите учить немецкий и испанский</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/258960/#new</link>
+  <description><![CDATA[
+                        <img src=http://img.rutube.ru/thumbs/e4/7d/e47d189a435de70624d9ab726ee12f7e-2.jpg><br /><br />Учительница французского ...
+                        ]]></description>
+  <pubDate>Sat, 12 Sep 2009 15:39:12 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1252760415#11</guid>
+ </item>
+  </channel>
+ </rss>

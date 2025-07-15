@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 13 Jan 2012 17:00:06 +0400</pubDate>
+         <lastBuildDate>Fri, 13 Jan 2012 17:00:06 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Обработанное мясо повышает риск рака поджелудочной
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/science/2012/01/120112_processed_meat_cancer.shtml</link>
+  <description><![CDATA[
+                        Шведские ученые заявили о связи между употреблением подвергнутого обработке мяса, например, бекона или сосисок, и развитием рака поджелудочной железы. Всемирный фонд исследований рака рекомендует полностью отказаться от обработанного мяса. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Jan 2012 16:23:01 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1326459606#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Сергей Иванов: Второй тур возможен
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/Election/m.194823.html</link>
+  <description><![CDATA[
+                        Глава администрации президента Сергей Иванов не исключает, что Владимиру Путину не удастся победить в первом туре президентских выборов. "Возможно все на нашей земле. Конечно, теоретически я допускаю эту возможность. В то же время мое мнение, что вполне возможно и не будет, и я даже сказал бы, более возможно, чем первая названная альтернатива", – сказал Иванов. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Jan 2012 16:16:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1326459606#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Права человека: Европа как всегда отстает
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/europe/20120113/182904328.html</link>
+  <description><![CDATA[
+                        Есть два различия между двумя побережьями Атлантики: различная скорость рефлексов и различное осознание того, что внутренняя политика обусловлена международной динамикой. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Jan 2012 16:32:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1326459606#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Петербурге отлетевшее на ходу колесо трактора искалечило два автомобиля
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/feedproxy.google.com/~r/rosbalt/~3/ZfSH-TUXO60/story01.htm</link>
+  <description><![CDATA[
+                        Нелепая авария произошла в пятницу, 13 января, на Лодейнопольской улице в Петербурге. От трактора, двигающегося на скорости, отлетело колесо, после чего врезалось сразу в два автомобиля.
+
+ ...
+                        ]]></description>
+  <pubDate>Fri, 13 Jan 2012 16:45:00 +0400</pubDate>
+  <source url="http://feeds2.feedburner.com">Информационное агентство Росбалт</source>
+  <guid isPermaLink="false">1326459606#38</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Акунин продолжает раскрывать свои псевдонимы. Выходит новая книга "Анатолия Брусникина"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/cinema/13jan2012/brusnikin.html</link>
+  <description><![CDATA[
+                        Писатель признается, что изначально проект "Анатолий Брусникин" был задуман как бизнес-эксперимент, который также позволил автору попробовать себя в жанре славянофильских, "почвенных" романов и взглянуть на историю России с непривычной для себя, "западника и даже космополита", стороны. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Jan 2012 16:49:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1326459606#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Искусственный интеллект / [Из песочницы] Распознавание непрерывного рукописного текста в режиме off-line
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/blogs/artificial_intelligence/136165/</link>
+  <description><![CDATA[
+                        Предисловие
+Как известно, задача распознавания непрерывного рукописного текста в режиме off-line пока считается нерешённой.
+
+Мне удалось решить эту задачу теоретически и практически. Практическая часть сейчас имеет вид демонстрационной версии программы. Решение общее, оно не ограничивается какой-либо областью применения, языком или размером словаря.
+
+О программе
+Программа полностью обучаемая. Процесс обучения выглядит просто:  Читать дальше &rarr;  ...
+                        ]]></description>
+  <pubDate>Fri, 13 Jan 2012 15:37:51 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1326459606#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Журналисты не устраивали демарш против путинской премии - BFM.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNElNYFq_9ECk2wPxkn2CM49X1bKGQ&amp;url=http://www.bfm.ru/news/2012/01/13/zhurnalisty-ne-ustraivali-demarsh-protiv-putinskoj-premii.html</link>
+  <description><![CDATA[
+                        Оппозиционные журналисты и деятели культуры отвергают предположение о том, что они демонстративно отказались получить журналистскую премию правительства России из рук Владимира Путина, сообщает русская служба BBC. Не появившиеся на церемонии вручения главный редактор «Новой газеты» Дмитрий ... ...
+                        ]]></description>
+  <pubDate>Fri, 13 Jan 2012 16:50:47 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1326459606#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Президент волнуется за олимпийские объекты, а правительство - нет
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/sport/olympiad/2012/01/13/Pryezidyent_volnuyet.phtml</link>
+  <description><![CDATA[
+                        Российский президент Дмитрий Медведев подписал перечень поручений по подготовке Сочи к Зимней Олимпиаде, в частности, он поручил ужесточить ответственность организаций, который не выполняют обязательства по госконтрактам в рамках строительства олимпийских объектов в срок. ...
+                        ]]></description>
+  <pubDate>Fri, 13 Jan 2012 16:32:52 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1326459606#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  13.01.2012 16:32 : Отправлен в отставку губернатор Архангельской области Илья Михальчук
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/848398-echo.html</link>
+  <description><![CDATA[
+                        
+Дмитрий Медведев подписал указ о досрочном прекращении его полномочий по собственному желанию. Временно исполняющим обязанности главы региона назначен Игорь Орлов.
+<br>
+
+<br>
+55-летний Илья Михальчук возглавлял Архангельскую область с 2008 года. До этого он был мэром Якутска. 
+ ...
+                        ]]></description>
+  <pubDate>Fri, 13 Jan 2012 16:32:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1326459606#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Геннадий Гудков о выборах
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/333471/#new</link>
+  <description><![CDATA[
+                        <img src=http://img.youtube.com/vi/fFjeQ6KKPHI/2.jpg><br /><br />  ...
+                        ]]></description>
+  <pubDate>Fri, 13 Jan 2012 15:59:29 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1326459606#34</guid>
+ </item>
+  </channel>
+ </rss>

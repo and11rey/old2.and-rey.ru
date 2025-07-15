@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 07 Nov 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sat, 07 Nov 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  В США снова выборы. Они определят, кому достанется сенат и как быстро изменится Америка
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-54853059</link>
+  <description><![CDATA[
+                        У демократов появился шанс на джекпот - отбить у республиканцев не только Белый дом, но и сенат. Как так получилось и почему у избирательной кампании нет конца? ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2020 17:22:53 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1604759701#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ВОЗ: короновирус у норок обнаружен на фермах в шести странах
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2020/11/07/voz-koronovirus-u-norok-obnaruzhen-na-fermah-v-shesti-stranah</link>
+  <description><![CDATA[
+                        Помимо Дании, зараженные новым коронавирусом норки обнаружены еще в пяти странах: Испании, Италии, США, Нидерландах и Швеции, сообщает на сайте Всемирной организации здравоохранения (ВОЗ). ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2020 16:28:53 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1604759701#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Телеработа и прогулка по лесу: счастлив как финн во времена Covid
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/06Nov2020/lemonde/finns.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Возможно, это стереотип, но финны -  приверженцы соцдистанцирования: органы здравоохранения рекомендуют расстояние в 2 метра, и финны отчаялись, что не могут вернуться к своим обычным 4. ...
+                        ]]></description>
+  <pubDate>Fri, 06 Nov 2020 20:26:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1604759701#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Минске задержаны десятки участников акций протеста
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30935265.html</link>
+  <description><![CDATA[
+                        Акции против Александра Лукашенко продолжаются с августа ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2020 15:14:37 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1604759701#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Кубок Карьяла. Швеция — Россия. Прямая трансляция - Sport24.ru - новости спорта онлайн в России и мире
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vc3BvcnQyNC5ydS9uZXdzL2hvY2tleS8yMDIwLTExLTA3LWt1Ym9rLWthcnlhbGEtcm9zc2l5YS0tc2h2ZXRzaXlhLXZpZGVvdHJhbnNseWF0c2l5YS1zbW90cmV0LW9ubGF5bi1wcnlhbW95LWVmaXLSAX1odHRwczovL2FtcC5zcG9ydDI0LnJ1L25ld3MvaG9ja2V5LzIwMjAtMTEtMDcta3Vib2sta2FyeWFsYS1yb3NzaXlhLS1zaHZldHNpeWEtdmlkZW90cmFuc2x5YXRzaXlhLXNtb3RyZXQtb25sYXluLXByeWFtb3ktZWZpcg?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2020 17:07:49 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1604759701#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В крупных городах Грузии с 9 ноября вводится запрет на передвижение по ночам
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/07nov2020/georgia_night.html?utm_source=rss</link>
+  <description><![CDATA[
+                        В Тбилиси, Кутаиси, Батуми, Рустави, Зугдиди, Гори и Поти с 22:00 до 5:00 нельзя будет передвигаться как пешком, так и на общественном и личном транспорте. Детские сады временно закроют, в метро и автобусах запретят стоячие места. За нарушение предусмотрен штраф. ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2020 17:15:03 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1604759701#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Перевод] Создаем собственный GPS-Трекер на технологии LoRa
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/526780/?utm_campaign=526780&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        
+
+В этой статье вы узнаете, как создать собственный GPS-трекер с помощью микроконтроллеров Pycom LoPy, а также научитесь настраивать одноканальный LoRa Nano-Gateway.
+Здесь я изложу ключевые этапы со всеми необходимыми ссылками. Читать дальше в†’ ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2020 16:15:07 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1604759701#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Телефонный разговор с Президентом Франции Эммануэлем Макроном
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/64346</link>
+  <description><![CDATA[
+                        По инициативе французской стороны состоялся телефонный разговор Владимира Путина с Президентом Французской
+Республики Эммануэлем Макроном.    ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2020 16:08:54 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1604759701#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Лукашенко анонсировал превращение Белоруссии в ядерную державу
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/usefull/297/245902-lukasenko-anonsiroval-prevrasenie-belorussii-v-adernuu-derzavu</link>
+  <description><![CDATA[
+                        Белорусский лидер Александр Лукашенко объявил, что как только страна полностью запустит Белорусскую атомную электростанцию, ее статус в мире изменится. ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2020 17:34:55 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1604759701#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  07.11.2020 17:34 : Случаи инфицирования норок новым коронавирусом зафиксированы еще в 5 странах
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2738330-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Как говорится в бюллетене ВОЗ, заражение животных выявлено также в США, Нидерландах, Италии, Испании и Швеции. Предположительно, норки подхватывают вирус от людей, при этом происходит его генетическая модификация. Ранее в Дании решили утилизировать   от 15 до 17  млн.  норок, которых  разводят местные фермеры.
+ ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2020 17:34:41 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1604759701#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Причиной нападения на священника в Лионе стала ревность
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/736040</link>
+  <description><![CDATA[
+                        Le Parisien сообщает, что подозреваемый - грузин, который переживал из-за романа своей русской подруги ...
+                        ]]></description>
+  <pubDate>Sat, 07 Nov 2020 17:18:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1604759701#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 05 Feb 2019 17:35:02 +0300</pubDate>
+         <lastBuildDate>Tue, 05 Feb 2019 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Африканский Голливуд: как "Терминатора" и "Чужого" переснимают в Гане
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/media-47134008</link>
+  <description><![CDATA[
+                        В Западной Африке ежегодно снимают сотни фильмов. Особенно в этом преуспела Гана, где кинопроизводство называют "Кумавуд" - в честь Голливуда и местного города Кумаси одновременно. ...
+                        ]]></description>
+  <pubDate>Tue, 05 Feb 2019 17:22:38 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1549377302#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  СК: Бастрыкин отдыхал в отеле Арашуковых в Карачаево-Черкесии, но не знаком с ними лично
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/02/05/sk-bastrykin-otdyhal-v-otele-arashukovyh-v-kchr-no-ne-znakom-s-nimi-lichno</link>
+  <description><![CDATA[
+                        Следственный комитет опубликовал сообщение о том, что глава ведомства Александр Бастрыкин не знаком с арестованным по обвинению в организации убийств сенатором Рауфом Арашуковым или его семьей. «Единственная встреча Председателя СК России с сенатором Арашуковым состоялась в Совете Федерации при его задержании», — сказала представитель ведомства Светлана Петренко. ...
+                        ]]></description>
+  <pubDate>Tue, 05 Feb 2019 17:18:11 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1549377302#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Можно ли взять рак измором?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/05Feb2019/spiegel/cancer.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Можно ли с помощью правильного питания победить опухоль? Если верить отдельным исследованиям, существует, по крайней мере, одна диета, которая действительно дает надежду. ...
+                        ]]></description>
+  <pubDate>Tue, 05 Feb 2019 17:35:04 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1549377302#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Частично самоуничтожившуюся работу Бэнкси выставили в Германии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29752746.html</link>
+  <description><![CDATA[
+                        Работа "Девочка с шаром" представлена в музее Баден-Бадена. В марте её перевезут в Штудгарт ...
+                        ]]></description>
+  <pubDate>Tue, 05 Feb 2019 17:11:23 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1549377302#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Шойгу обозначил срок создания наземного «Калибра» - Lenta.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/lenta.ru/news/2019/02/05/shoygu/</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 05 Feb 2019 16:25:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1549377302#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Суд назначил новую экспертизу деятельности "Седьмой студии"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/05feb2019/exprtreport7stud.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Первоначальная экспертиза, легшая в основу обвинения, вызвала много вопросов у стороны защиты. &#34;По факту судья признал, что все, что сделало следствие, не может являться доказательствами по делу&#34;, - подчеркнула адвокат Ксения Карпинская, комментируя последнее решение суда. ...
+                        ]]></description>
+  <pubDate>Tue, 05 Feb 2019 17:25:47 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1549377302#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Amazon и Google планируют выйти на энергетический рынок
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/439032/?utm_campaign=439032</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 05 Feb 2019 17:32:06 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1549377302#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с губернатором Московской области Андреем Воробьёвым
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/59769</link>
+  <description><![CDATA[
+                        Владимир Путин провёл рабочую встречу
+с губернатором Московской области Андреем Воробьёвым. Глава Подмосковья
+доложил Президенту о социально-экономической ситуации в регионе.
+Особое внимание было уделено вопросам исполнения нацпроектов и создания
+образовательных кластеров в области.       ...
+                        ]]></description>
+  <pubDate>Tue, 05 Feb 2019 16:10:03 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1549377302#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Еще рано списывать Илью»: зачем Ковальчуку НХЛ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/29/lifestyle/sport/212665-ese-rano-spisyvat-ilu-zacem-kovalcuku-nhl</link>
+  <description><![CDATA[
+                        35-летний Илья Ковальчук сейчас играет в НХЛ за «Лос-Анджелес Кингз», однако хоккеиста все чаще СМИ направляют домой. Каковы шансы россиянина остаться в самой престижной хоккейной лиге? ...
+                        ]]></description>
+  <pubDate>Tue, 05 Feb 2019 17:26:18 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1549377302#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  05.02.2019 17:31 : Число зданий в Москве и области, которые проверяют из-за сообщений об угрозе взрыва, приблизилось к двум сотням
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2365433-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Об этом со ссылкой на экстренные службы сообщает агентство ТАСС . Из школ, торговых и деловых центров, офисных зданий эвакуировали больше 55-ти тысяч человек. Угрозы поступают по электронной почте. Они составлены примерно одинаково, — говорят в экстренных службах.  
+
+Сообщения о якобы заложенных взрывных устройствах вновь получают в городах Приволжского округа, полиция проверяет ряд административных зданий Самары, кроме того, заканчиваются проверки школ Волгограда. А в Екатеринбурге в 30-град ...
+                        ]]></description>
+  <pubDate>Tue, 05 Feb 2019 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1549377302#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Возможным источником неприятного запаха в Петербурге назвали емкость на свалке
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/649304</link>
+  <description><![CDATA[
+                        Вероятным источником распространения неприятного запаха в Петербурге могла стать выброшенная на свалку емкость. ...
+                        ]]></description>
+  <pubDate>Tue, 05 Feb 2019 17:19:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1549377302#48</guid>
+ </item>
+  </channel>
+ </rss>

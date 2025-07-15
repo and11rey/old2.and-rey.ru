@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 18 Mar 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Wed, 18 Mar 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Российский тополь занял третье место на конкурсе лучших деревьев Европы. Фото
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-51945578</link>
+  <description><![CDATA[
+                        Тополь из Калмыкии занял третье место на ежегодном конкурсе "Европейское дерево года". На первом месте - 350-летняя чешская сосна. ...
+                        ]]></description>
+  <pubDate>Wed, 18 Mar 2020 17:23:02 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1584542101#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Apple представила новый iPad Pro. Он теперь совсем как ноутбук — с трекпадом и нормальной клавиатурой. А еще — обновленный MacBook Air!
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/feature/2020/03/18/apple-predstavila-novyy-ipad-pro-on-teper-sovsem-kak-noutbuk-s-trekpadom-i-normalnoy-klaviaturoy</link>
+  <description><![CDATA[
+                        Компания Apple представила новый iPad Pro с диагональю экрана 11 и 12,9 дюйма, а также новую клавиатуру-обложку Magic Keyboard для него. Клавиатура раскладывается и держит айпад навесу, благодаря чему тот находится в более удобном положении для просмотра. ...
+                        ]]></description>
+  <pubDate>Wed, 18 Mar 2020 17:12:41 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1584542101#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Россия цементирует связи с Крымом, замораживая конфликт с Западом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/18Mar2020/wsj/crimea.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Спустя 6 лет после того, как Россия захватила Крым, черноморский полуостров, где когда-то были дачи и санатории и для советской элиты, и пролетариата, все теснее связывается с Москвой, которая в настоящее время покрывает почти 70% бюджета территории. ...
+                        ]]></description>
+  <pubDate>Wed, 18 Mar 2020 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1584542101#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Мурманской области депутат угрожал убийством блогеру. Запись разговора
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30495299.html</link>
+  <description><![CDATA[
+                        В качестве серьёзности своих намерений, Максим Россошанский дал "слово пацана" ...
+                        ]]></description>
+  <pubDate>Wed, 18 Mar 2020 17:09:22 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1584542101#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Том Хэнкс на карантине умудрился проиграться в карты - РАДИО «КОМСОМОЛЬСКАЯ ПРАВДА»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vcmFkaW9rcC5ydS96bmFtZW5pdG9zdGkvdG9tLWtoZW5rcy1uYS1rYXJhbnRpbmUtdW11ZHJpbHN5YS1wcm9pZ3JhdHN5YS12LWthcnR5X25pZDE0ODA4X2F1NzRhddIBamh0dHBzOi8vcmFkaW9rcC5ydS96bmFtZW5pdG9zdGkvdG9tLWtoZW5rcy1uYS1rYXJhbnRpbmUtdW11ZHJpbHN5YS1wcm9pZ3JhdHN5YS12LWthcnR5X25pZDE0ODA4X2F1NzRhdT9hbXA?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 18 Mar 2020 17:08:19 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1584542101#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Роскомнадзор пригрозил СМИ блокировкой и отзывом лицензии за фейки о коронавирусе
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/18mar2020/ban_fake.html?utm_source=rss</link>
+  <description><![CDATA[
+                        В ведомстве заявили, что ведут круглосуточный мониторинг всех СМИ, соцсетей и интернет-ресурсов на предмет &#34;недостоверной информации, сеющей панику и провоцирующей общественное беспокойство&#34;. ...
+                        ]]></description>
+  <pubDate>Wed, 18 Mar 2020 17:03:57 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1584542101#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Подписан закон об уполномоченных по правам человека в субъектах Российской Федерации
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/acts/news/63008</link>
+  <description><![CDATA[
+                        Владимир Путин подписал Федеральный закон «Об уполномоченных по правам человека в субъектах Российской Федерации».     ...
+                        ]]></description>
+  <pubDate>Wed, 18 Mar 2020 16:28:45 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1584542101#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Лимонов был проводником свободы» — Мартынов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/283/232478-limonov-byl-provodnikom-svobody-martynov</link>
+  <description><![CDATA[
+                        «Лимонов целиком состоял из свободы и самодовольства. Самодовольство могло быть показным, чтобы не было так страшно. Но когда практикуешь его полвека, это уже не важно», — пишет политолог Кирилл Мартынов в связи с кончиной Эдуарда Лимонова. ...
+                        ]]></description>
+  <pubDate>Wed, 18 Mar 2020 17:34:57 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1584542101#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  18.03.2020 17:31 : Зампредседателя Мосгоризибркома Юрий Ермолаев официально рекомендован на должность главы комиссии
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2608218-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Заместитель председателя Мосгоризибркома Юрий Ермолаев официально рекомендован на должность главы комиссии. Его кандидатуру поддержали в ЦИКе. Уже завтра его утвердят на заседании комиссии, передает агентство «Интерфакс». Предыдущий глава столичного избиркома Валентин Горбунов покинул пост накануне. Сообщалось, что это произошло по состоянию здоровья. На этом посту он проработал четверть века.
+ ...
+                        ]]></description>
+  <pubDate>Wed, 18 Mar 2020 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1584542101#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  США закроют границу с Канадой
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/699817</link>
+  <description><![CDATA[
+                        США и Канада договорились временно закрыть границу между двумя государствами, сообщил в среду американский президент Дональд Трамп. ...
+                        ]]></description>
+  <pubDate>Wed, 18 Mar 2020 17:24:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1584542101#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 12 May 2009 17:00:09 +0400</pubDate>
+         <lastBuildDate>Tue, 12 May 2009 17:00:09 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Свиным гриппом может заболеть треть населения Земли</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/05/090512_swine_flu_prognoses.shtml</link>
+  <description><![CDATA[
+                        К такому выводу пришли британские ученые. Они призывают ВОЗ и специалистов в разных странах активизировать действия по созданию вакцины. ...
+                        ]]></description>
+  <pubDate>Tue, 12 May 2009 15:51:21 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1242133209#1</guid>
+ </item>
+ <item>
+  <title>ГУВД опровергло связь между Евсюковым и его заместителем</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/Law/m.151002.html</link>
+  <description><![CDATA[
+                        ГУВД Москвы опровергло информацию о якобы имевшейся связи между майором Денисом Евсюковым и бывшим заместителем начальника ОВД "Царицыно" Алексеем Сафоновым, задержанным за торговлю оружием. По словам милиционеров, Сафонов был уволен из органов еще два года назад. ...
+                        ]]></description>
+  <pubDate>Tue, 12 May 2009 16:11:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1242133209#2</guid>
+ </item>
+ <item>
+  <title>Обзор СМИ стран СНГ (12.05) ("ИноСМИ", Россия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/249018.html</link>
+  <description><![CDATA[
+                        Оппозиционная газета 'Учур' публикует интервью депутата киргизского парламента от оппозиционной социал-демократической партии, экс-главы МИДа Киргизии Р.Отунбаевой, высказавшей мнение, что действующий президент К.Бакиев пытается удержаться у власти с помощью российской финансовой помощи. ...
+                        ]]></description>
+  <pubDate>Tue, 12 May 2009 15:49:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1242133209#3</guid>
+ </item>
+ <item>
+  <title>Число жертв нападений в афганском Хосте пока не удаётся установить</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1706990.html</link>
+  <description><![CDATA[
+                        Министр внутренних дел Афганистана заявил, что пока не удаётся установить точное число жертв нескольких нападений смертников на правительственные здания в городе Хост на востоке страны. Подробности нападений пока не сообщаются. Государственное т ... ...
+                        ]]></description>
+  <pubDate>Tue, 12 May 2009 16:34:34 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1242133209#4</guid>
+ </item>
+ <item>
+  <title>Майкл Джексон репетирует у аэропорта Бербанка</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/12May2009/latimes/jackson.html</link>
+  <description><![CDATA[
+                        Джексон готовится к амбициозному туру из 50 шоу, который может стать как печальной, заключительной главой его карьеры, так и величайшей историей возвращения в мир поп-музыки. Бюджет турне, включающий оборудование 22 сцен, превышает 20 млн долларов. ...
+                        ]]></description>
+  <pubDate>Tue, 12 May 2009 16:08:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1242133209#5</guid>
+ </item>
+ <item>
+  <title>Медведев и Путин зазывают гостей в Петербург на экономический форум</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/12may2009/vsevpiter.html</link>
+  <description><![CDATA[
+                        В форуме, который пройдет в северной столице с 4 по 6 июня, примут участие более двух тысяч человек, представляющих российский и зарубежный бизнес. Медведев поедет на родину сам. Путин приглашает японцев. ...
+                        ]]></description>
+  <pubDate>Tue, 12 May 2009 16:49:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1242133209#6</guid>
+ </item>
+ <item>
+  <title>Каррерас опровергает уход с оперной сцены</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/05/12/n_1361045.shtml</link>
+  <description><![CDATA[
+                        Испанский тенор Хосе Каррерас заявляет, что не уходит с оперной сцены.
+"Я не буду концентрироваться только на опере, однако если появится возможность принять участие в оперной постановке, которая меня заинтересует, и если все ... ...
+                        ]]></description>
+  <pubDate>Tue, 12 May 2009 16:51:45 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1242133209#7</guid>
+ </item>
+ <item>
+  <title>Запущен публичный Git-репозиторий проекта Qt</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/379377.php</link>
+  <description><![CDATA[
+                        Репозиторий Qt доступен по адресу qt.gitorious.org и функционирует на базе распределенной Open Source-системы контроля версий Git, на которую разработчики Qt перешли почти год назад	 ...
+                        ]]></description>
+  <pubDate>Tue, 12 May 2009 15:34:33 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1242133209#8</guid>
+ </item>
+ <item>
+  <title>Ющенко вновь дает показания в Генпрокуратуре по делу об отравлении</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/world/2009/05/12/165557.html</link>
+  <description><![CDATA[
+                        Президент Украины Виктор Ющенко во вторник прибыл в Генеральную прокуратуру страны для дачи очередных показаний по делу о попытке его отравления в 2004 году, сообщает РИА Новости со ссылкой на пресс-службу главы государства. В 2004 году Ющенко был кандидатом в президенты. Тогда, в разгар... ...
+                        ]]></description>
+  <pubDate>Tue, 12 May 2009 16:55:57 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1242133209#9</guid>
+ </item>
+ <item>
+  <title>Никола Тесла и после</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/55720/</link>
+  <description><![CDATA[
+                        Полгода назад на сайте ДЗВОН появилась историко-научная публикация, посвященная жизни и творчеству великого сербского ученого Николы Тесла. Написанная сотрудником Курчатовского института и нашим постоянным автором Владимиром Петровичем Воробьевым, она вызвала немалый интерес у аудитории и  читательский резонанс. Именно последний побудил автора продолжить работу над текстом, который, разрастаясь, постепенно превращается в серьезное исследование. Публикуем ниже его дополненный и расширенный вариан ...
+                        ]]></description>
+  <pubDate>Tue, 12 May 2009 17:00:45 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1242133209#10</guid>
+ </item>
+ <item>
+  <title>ПОЗДРАВЛЕНИЕ-СБОРНАЯ-ХОККЕЙ-ЧЕМПИОНАТ-ПОБЕДА</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.kremlin.ru/text/themes2009/05/216173.shtml</link>
+  <description><![CDATA[
+                        Дмитрий Медведев принял в Кремле сборную России по хоккею, которая вновь стала чемпионом мира. ...
+                        ]]></description>
+  <pubDate>Tue, 12 May 2009 14:54:34 +0400</pubDate>
+  <source url="http://www.kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1242133209#11</guid>
+ </item>
+  </channel>
+ </rss>

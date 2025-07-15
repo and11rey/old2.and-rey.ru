@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 09 Nov 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Thu, 09 Nov 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Россия лишилась еще двух медалей Олимпиады в Сочи
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/news-41929717</link>
+  <description><![CDATA[
+                        Международный олимпийский комитет (МОК) признал виновными в нарушении антидопинговых правил российских лыжников Алексея Петухова, Максима Вылегжанина, Евгению Шаповалову и Юлию Иванову. Это означает, что Россия потеряет еще две медали Олимпиады в Сочи. ...
+                        ]]></description>
+  <pubDate>Thu, 09 Nov 2017 16:59:06 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1510238101#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Разбираетесь ли вы в русской живописи? Сложный тест «Медузы» и «Ингосстраха»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/games/razbiraetes-li-vy-v-russkoy-zhivopisi</link>
+  <description><![CDATA[
+                        Разбираться в русской живописи — это хороший тон, но у многих знания ограничиваются Шишкиным и Серовым. Классики, конечно, но как насчет авангарда и соцреализма? Проверить, что вы знаете о знаковых русских полотнах и художниках можно в этом тесте, который «Медуза» сделала вместе с компанией «Ингосстрах». ...
+                        ]]></description>
+  <pubDate>Thu, 09 Nov 2017 17:23:11 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1510238101#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Опасный альянс между США, Израилем и Саудовской Аравией
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/09Nov2017/lemonde/alliance.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Едва произошел разгром ИГИЛ*, как дремлющие конфликты на Ближнем Востоке стали разгораться вновь при подстрекательстве США. Вырисовывается ось между Саудовской Аравией, Израилем и США, объединившимися по принципу общей ненависти к иранскому режиму. ...
+                        ]]></description>
+  <pubDate>Thu, 09 Nov 2017 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1510238101#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ПАРНАС подала новую заявку на митинг "Против большевицкого реванша"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28844721.html</link>
+  <description><![CDATA[
+                        Ранее московская мэрия не согласовала акцию на площади Никитских ворот, намеченную на 12 ноября ...
+                        ]]></description>
+  <pubDate>Thu, 09 Nov 2017 16:55:51 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1510238101#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 09 Nov 2017 17:34:47 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1510238101#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Путин накануне встречи с Трампом обвинил США в попытках создать проблемы на выборах президента РФ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/09nov2017/putin.html?utm_source=rss</link>
+  <description><![CDATA[
+                        "В ответ на наше мнимое вмешательство в их выборы США хотят создать проблемы при выборах президента России", - сказал Путин, общаясь с рабочими Челябинского компрессорного завода. ...
+                        ]]></description>
+  <pubDate>Thu, 09 Nov 2017 17:25:21 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1510238101#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Интересные фишки BMW 7 серии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/295195/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=best</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 09 Nov 2017 17:00:04 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1510238101#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Форум межрегионального сотрудничества России и Казахстана
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56031</link>
+  <description><![CDATA[
+                        Владимир Путин принимает участие в XIV Форуме межрегионального сотрудничества России и Казахстана.    ...
+                        ]]></description>
+  <pubDate>Thu, 09 Nov 2017 16:31:46 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1510238101#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Dolce и Gabbana выпустит капсульную коллекцию макаронных изделий
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/254/lifestyle/shopping/187088-dolce-gabbana-vypustit-kapsulnuu-kollekciu-pasty</link>
+  <description><![CDATA[
+                        Модный итальянский дом представит праздничную новогоднюю коллекцию. Внимание - она съедобна! ...
+                        ]]></description>
+  <pubDate>Thu, 09 Nov 2017 17:24:25 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1510238101#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  09.11.2017 17:32 : В Ватикане решили со следующего года запретить продажу сигарет
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2089448-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Решение принял Папа Римский Франциск, — сообщает газета «Репубблика». Папа решил, что Святой престол не может быть связан с деятельностью, которая очевидно вредит здоровью, — сообщила его пресс-служба.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 09 Nov 2017 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1510238101#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Ватикане с 2018 года запретят продажу сигарет
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/586768</link>
+  <description><![CDATA[
+                        Папа римский Франциск принял решение с 2018 года запретить продажу сигарет в Ватикане, сообщает в четверг газета La Repubblica. ...
+                        ]]></description>
+  <pubDate>Thu, 09 Nov 2017 17:19:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1510238101#48</guid>
+ </item>
+  </channel>
+ </rss>

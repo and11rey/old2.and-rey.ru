@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 02 Dec 2009 17:00:06 +0300</pubDate>
+         <lastBuildDate>Wed, 02 Dec 2009 17:00:06 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Проблемы с Windows, вероятно, не вызваны обновлениями</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/science/2009/12/091202_microsoft_update.shtml</link>
+  <description><![CDATA[
+                        Эксперты считают, что в "черном экране смерти" повинны вирусы, а не системное обновление корпорации Microsoft. ...
+                        ]]></description>
+  <pubDate>Wed, 02 Dec 2009 16:36:06 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1259762406#1</guid>
+ </item>
+ <item>
+  <title>В "Жуковском" сели два самолета с отказавшими двигателями</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/m.163001.html</link>
+  <description><![CDATA[
+                        В среду на подмосковном аэродроме "Жуковский" совершил аварийную посадку самолет Ил-76, у которого отказал двигатель. В тот же день на том же аэродроме совершил аварийную посадку стратегический бомбардировщик Ту-160. У него также отказал двигатель. ...
+                        ]]></description>
+  <pubDate>Wed, 02 Dec 2009 16:50:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1259762406#2</guid>
+ </item>
+ <item>
+  <title>Бывший коммунист националист правит  Белоруссией с 1994 года</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/belorussia/20091202/156801631.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 02 Dec 2009 16:52:12 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1259762406#3</guid>
+ </item>
+ <item>
+  <title>Инфляция в России в ноябре составила 0,3%, а с начала года - 8,4%</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091202/17/17.html?id=1893255</link>
+  <description><![CDATA[
+                        Инфляция в России за период с 24 по 30 ноября была нулевой, а в целом за этот месяц она составила 0,3%, сообщила Федеральная служба статистики. Таким образом, с начала текущего года потребительские цены в стране выросли на 8,4%. Для сравнения, в 2008 году в ноябре инфляция составила 0,8%, а за 11 месяцев года – 12,5%.   ...
+                        ]]></description>
+  <pubDate>Wed, 02 Dec 2009 16:15:46 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1259762406#4</guid>
+ </item>
+ <item>
+  <title>Чем больше барьеров, тем выше коррупция</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/02Dec2009/faz/vuz.html</link>
+  <description><![CDATA[
+                        Срок обучения в российских вузах сокращается с 5 до 3 лет, выпускники получают звание бакалавра, которое ничего не стоит. Вместо аспирантуры предлагается магистратура, причем не бесплатно. Страдает не только качество образования - ширится коррупция. ...
+                        ]]></description>
+  <pubDate>Wed, 02 Dec 2009 16:58:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1259762406#5</guid>
+ </item>
+ <item>
+  <title>На Сицилии откроется новый "Музей мафии" с живыми мафиози в роли экспонатов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/cinema/02dec2009/mafia.html</link>
+  <description><![CDATA[
+                        Идея открыть музей коза ностры пришла известному искусствоведу Витторио Сгарби, по совместительству мэру итальянского городка Салеми. Самым ценным экспонатом станет старейший в мире мафиози. Старику уже 97 лет, и он впал в маразм, однако, полагает Сгарби, в музее он будет смотреться внушительно. ...
+                        ]]></description>
+  <pubDate>Wed, 02 Dec 2009 16:45:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1259762406#6</guid>
+ </item>
+ <item>
+  <title>В Москве начали выдавать вещи, изъятые с места подрыва "Невского экспресса"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/12/02/n_1431057.shtml</link>
+  <description><![CDATA[
+                        В Москве вещи, изъятые с места подрыва "Невского экспресса", вернут их владельцам. Об этом сообщили в Следственном комитете при прокуратуре. 
+"Порядок выдачи и список граждан, чьи вещи находятся в Московском межрегиональном ... ...
+                        ]]></description>
+  <pubDate>Wed, 02 Dec 2009 16:53:57 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1259762406#7</guid>
+ </item>
+ <item>
+  <title>Psystar заплатит Apple $2,7 млн</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/78421ad/l/0L0Ssecuritylab0Bru0Cnews0C3883580Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Компания Psystar согласилась в рамках мирового урегулирования выплатить Apple $2,68 млн. ...
+                        ]]></description>
+  <pubDate>Wed, 02 Dec 2009 14:46:21 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1259762406#8</guid>
+ </item>
+ <item>
+  <title>Славянское хождение за землей и волей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/afisha/show/2009/12/02/land_art.phtml</link>
+  <description><![CDATA[
+                        В Государственном центре современного искусства открылась экспозиция чехословацких и советских неофициальных художников, занимавшихся перформансом и лэнд-артом на лоне природы в 1960-80 годы. В условиях соцдействительности выглядело это как авангардистская партизанщина. ...
+                        ]]></description>
+  <pubDate>Wed, 02 Dec 2009 17:00:14 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1259762406#9</guid>
+ </item>
+ <item>
+  <title>Версия о "кавказском следе" и другие слухи в деле о подрыве "Невского экспресса" вредят расследованию</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/638527-echo.html</link>
+  <description><![CDATA[
+                        
+                         Об этом сообщают со ссылкой на представителя оперативного штаба по расследованию теракта...
+                          ...
+                        ]]></description>
+  <pubDate>Wed, 02 Dec 2009 16:32:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1259762406#10</guid>
+ </item>
+ <item>
+  <title>Пост № 263382</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/263382/#new</link>
+  <description><![CDATA[
+                        Борис Немцов и редакция газета «КоммертсантЪ» проиграли в Замоскворецком суде Москвы процесс  о защите достоинства и деловой репутации человеку, который никогда не проигрывает в судах  -  Юрию Лужкову.<br />
+<br />
+Суд обязал опровергнуть утверждение Немцова "Для многих москвичей давно не секрет, что коррупцией пронизаны все уровни московской власти. Нам очевидно, что тлетворный для московских чиновников пример  -  Ю. Лужков и его жена"<br />
+<br />
+Пока Немцов сформулировал только первую часть  ...
+                        ]]></description>
+  <pubDate>Wed, 02 Dec 2009 15:58:14 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1259762406#11</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 06 Aug 2018 17:35:02 +0300</pubDate>
+         <lastBuildDate>Mon, 06 Aug 2018 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Взрыв бензовоза возле аэропорта Болоньи: один погибший, десятки пострадавших
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-45087664</link>
+  <description><![CDATA[
+                        По меньшей мере один человек погиб и 56 получили ранения в результате взрыва бензовоза на трассе на окраине итальянского города Болонья, сообщают итальянские СМИ. ...
+                        ]]></description>
+  <pubDate>Mon, 06 Aug 2018 17:32:44 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1533566102#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Журналисты Forbes отказались сдавать материалы из-за задержки зарплаты
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/08/06/zhurnalisty-forbes-otkazalis-sdavat-materialy-iz-za-zaderzhki-zarplaty</link>
+  <description><![CDATA[
+                        Сотрудники Forbes отказались сдавать материалы в сентябрьский номер журнала из-за задержки зарплаты. Об этом пишут «Открытые медиа» со ссылкой на два источника в журнале. ...
+                        ]]></description>
+  <pubDate>Mon, 06 Aug 2018 17:16:54 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1533566102#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Слишком дорого для Кремля? Серийного производства супертанка "Армата" Т-14 не будет
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/06Aug2018/stern/panzer.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Изначально планировалось производить тысячи танков Т-14, однако теперь серийное производство оказалось под вопросом. Кремль делает ставку на выгодную модернизацию старых моделей - не только для собственных нужд, но и на экспорт. ...
+                        ]]></description>
+  <pubDate>Mon, 06 Aug 2018 17:35:04 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1533566102#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Мосгорсуд оставил Серебренникова и Апфельбаум под арестом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29415478.html</link>
+  <description><![CDATA[
+                        Режиссер остается под домашним арестом до 22 августа, экс-глава департамента Минкульта - до 19 сентября ...
+                        ]]></description>
+  <pubDate>Mon, 06 Aug 2018 17:00:45 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1533566102#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российских сенаторов пригласили в Вашингтон
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.kommersant.ru/doc/3706886</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 06 Aug 2018 16:51:57 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1533566102#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Швейцарии умер знаменитый своим картофельным пюре французский "шеф-повар века"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/06aug2018/robuchon.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Самый титулованный французский шеф-повар Жоэль Робюшон умер в возрасте 73 лет от онкологического заболевания. Рестораны мастера удостоены в общей сложности 32 мишленовских звезд, что является абсолютным рекордом. ...
+                        ]]></description>
+  <pubDate>Mon, 06 Aug 2018 17:09:59 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1533566102#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Как снять и «склеить» сферическую панораму на DJI Mavic Air
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/post/418775/?utm_campaign=418775</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 06 Aug 2018 14:59:30 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1533566102#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Внесены изменения в статьи 14 и 15 закона о рекламе
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/acts/news/58244</link>
+  <description><![CDATA[
+                        Президент подписал Федеральный закон «О внесении изменений в статьи 14
+и 15 Федерального закона «О рекламе».    ...
+                        ]]></description>
+  <pubDate>Mon, 06 Aug 2018 14:23:17 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1533566102#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  За секс-шпионку Бутину похлопотал сам Слуцкий
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/29/world/politics/207467-za-seks-spionku-butinu-pohlopotal-sam-sluckij</link>
+  <description><![CDATA[
+                        За арестованную в США россиянку Марию Бутину начал хлопотать глава комитета Госдумы по международным делам Леонид Слуцкий. ...
+                        ]]></description>
+  <pubDate>Mon, 06 Aug 2018 17:16:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1533566102#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  06.08.2018 17:31 : Сотрудники журнала «Форбс» отказались сдавать материалы в сентябрьский номер из-за задержки зарплаты
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2254074-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Об этом пишет сайт «Медуза» со ссылкой на интернет-ресурс «Открытые медиа». Его источники в журнале рассказали, что зарплата должна была прийти еще неделю назад. Отказываясь сдавать тексты, сотрудники пытаются повлиять на издателя. Один из источников отметил, что владелец русской версии «Форбс» Александр Федотов пытается использовать задержку зарплаты, чтобы зачистить журнал от недовольных. По его мнению, Федотов делает это для нового главного редактора Андрея Золотова, не имеющего опыта рабо ...
+                        ]]></description>
+  <pubDate>Mon, 06 Aug 2018 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1533566102#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Семин прокомментировал возможность перехода Смолова в "Локомотив"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/sport/624109</link>
+  <description><![CDATA[
+                        Главный тренер московского футбольного клуба "Локомотив" Юрий Семин заявил, что приобретение нападающего сборной России и ФК "Краснодар" Федор Смолов не является трансферной целью команды. ...
+                        ]]></description>
+  <pubDate>Mon, 06 Aug 2018 17:28:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1533566102#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 15 Sep 2009 17:00:14 +0400</pubDate>
+         <lastBuildDate>Tue, 15 Sep 2009 17:00:14 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Убийства российских журналистов "нужно расследовать повторно"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2009/09/090915_journalists_cpj_report.shtml</link>
+  <description><![CDATA[
+                        Международный "Комитет защиты журналистов" опубликовал доклад о нераскрытых убийствах сотрудников СМИ в России, где с 2000 года были устранены, убиты в зонах конфликта или погибли при загадочных обстоятельствах 20 журналистов. ...
+                        ]]></description>
+  <pubDate>Tue, 15 Sep 2009 16:45:10 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1253019614#1</guid>
+ </item>
+ <item>
+  <title>Artic Sea и "Ладный" получили разрешение на заход в Ла-Крус</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/FSB/m.157248.html</link>
+  <description><![CDATA[
+                        Сухогруз Arctic Sea, движущийся на буксире, и сторожевой корабль "Ладный" получили разрешение на заход в порт Ла-Крус острова Гран-Канария. В порту их ждут к вечеру. На судне продолжаются следственные действия. Ранее испанцы утверждали, что на Arctic Sea снова отключали автоматическую идентификацию. ...
+                        ]]></description>
+  <pubDate>Tue, 15 Sep 2009 16:21:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1253019614#2</guid>
+ </item>
+ <item>
+  <title>ИноВидео: Человек, оскорбивший Буша, возвращается ("Russia Today", Россия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/252628.html</link>
+  <description><![CDATA[
+                        Президент Буш, уклоняющийся от летящих в него ботинок, - один из культовых моментов его президентства. Малоизвестный тележурналист, виновник инцидента, получил славу по всему миру - и статус героя в арабских странах, где Буш чрезвычайно непопулярен. Герой возвращается домой, где его ждет щедрый подарок палестинского шейха. ...
+                        ]]></description>
+  <pubDate>Tue, 15 Sep 2009 16:35:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1253019614#3</guid>
+ </item>
+ <item>
+  <title>Россиянке Римме Салонен в Финляндии предъявили обвинения в похищении сына</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090915/17/17.html?id=1823129</link>
+  <description><![CDATA[
+                        Россиянке Римме Салонен, задержанной в Финляндии в рамках расследования дела о похищении ее сына Антона, предъявлены обвинения.  Финская прокуратура обвиняет Римму Салонен в ограничении свободы и похищении ребенка, сообщает финское информационное агентство STT. Рассмотрение ее дела начнется в октябре.  Финские власти обвиняют россиянку в том, что в 2008 году она уехала в Россию, забрав с собой 5-летнего сына Антона - без согласия отца, гражданина Финляндии.   В свою очередь, в России ведется ... ...
+                        ]]></description>
+  <pubDate>Tue, 15 Sep 2009 16:18:34 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1253019614#4</guid>
+ </item>
+ <item>
+  <title>Иракского метателя ботинок пытали в тюрьме, утверждает его брат</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/15Sep2009/times/muntaser.html</link>
+  <description><![CDATA[
+                        Тюремные врачи неоднократно делали журналисту, швырявшему ботинки в президента США Джорджа Буша, инъекции неизвестных веществ, говорят члены семьи иракца. Его брат утверждает, что пытки стали результатом отказа принести письменные извинения Бушу. ...
+                        ]]></description>
+  <pubDate>Tue, 15 Sep 2009 16:30:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1253019614#5</guid>
+ </item>
+ <item>
+  <title>Литва может вернуть уголовную ответственность за "активный" гомосексуализм</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/15sep2009/gays.html</link>
+  <description><![CDATA[
+                        Когда-то отмена уголовного преследования геев позволила Вильнюсу попасть в Евросоюз, но сейчас ситуация изменилась. Спустя всего два месяца после принятия закона, запрещающего "пропаганду гомосексуализма", литовский парламент обсуждает поправки в уголовный кодекс. Если они будут приняты, над геями нависнет угроза штрафов или даже тюремного заключения. ...
+                        ]]></description>
+  <pubDate>Tue, 15 Sep 2009 16:55:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1253019614#6</guid>
+ </item>
+ <item>
+  <title>Медведев: США блокирует вступление России в ВТО</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/09/15/n_1403815.shtml</link>
+  <description><![CDATA[
+                        Президент России Дмитрий Медведев заявил, что между ним и главой правительства Владимиром Путиным нет никаких противоречий по вопросу о вступлении России в ВТО, и обвинил США в попытках блокировать присоединение России к этой ... ...
+                        ]]></description>
+  <pubDate>Tue, 15 Sep 2009 16:52:47 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1253019614#7</guid>
+ </item>
+ <item>
+  <title>Британские власти поддержали стратегию ЕС по борьбе с киберпреступностью</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/385361.php</link>
+  <description><![CDATA[
+                         План, составленный Советом ЕС, дает широкое описание того, как нужно улучшать борьбу с киберпреступностью, в том числе, призывает страны разрешить удаленный досмотр, если он уже осуществляется в рамках национального законодательства. 	 ...
+                        ]]></description>
+  <pubDate>Tue, 15 Sep 2009 15:14:25 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1253019614#8</guid>
+ </item>
+ <item>
+  <title>Самогонщикам могут объявить войну </title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/law/2009/09/15/samogon.phtml</link>
+  <description><![CDATA[
+                        В Госдуму внесен законопроект, предусматривающий наказание за производство и распространение самогона. Любителей нажиться на продаже напитков покрепче предложено задерживать на 15 суток, а самогонные аппараты изымать. ...
+                        ]]></description>
+  <pubDate>Tue, 15 Sep 2009 16:48:16 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1253019614#9</guid>
+ </item>
+ <item>
+  <title>Иммигрантами в Орле убит русский парень. Милиция опять свалит вину на русских?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/59699/</link>
+  <description><![CDATA[
+                        Иммигрантами в Орле убит русский парень. Милиция опять свалит вину на русских? ...
+                        ]]></description>
+  <pubDate>Tue, 15 Sep 2009 16:27:00 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1253019614#10</guid>
+ </item>
+ <item>
+  <title>Возбуждает!</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/259088/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/09/15/26938-154803-f56eff3a110a17dd74dae7d462a66ae8.jpg><br /><br />На фотографии один из первых стационарных вибраторов доктора Келси Стиннера (конец XIX века). 100% излечение от женской истерии гарантировано! ...
+                        ]]></description>
+  <pubDate>Tue, 15 Sep 2009 15:48:03 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1253019614#11</guid>
+ </item>
+  </channel>
+ </rss>

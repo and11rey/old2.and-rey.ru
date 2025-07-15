@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 01 May 2018 17:35:01 +0300</pubDate>
+         <lastBuildDate>Tue, 01 May 2018 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Пять безумных мифов о границе между Кореями, которые оказались правдой
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-43961199</link>
+  <description><![CDATA[
+                        Когда в 1948 году были образованы КНДР и Республика Корея, географическая линия раздела между ними де-факто превратилась в государственную границу. И это, возможно, самая необычная граница в мире. ...
+                        ]]></description>
+  <pubDate>Tue, 01 May 2018 16:02:47 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1525185301#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Из полиции отпустили активистов, задержанных с плакатами о психических расстройствах на демонстрации в Москве
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/05/01/iz-politsii-otpustili-aktivistov-zaderzhannyh-s-plakatami-o-psihicheskih-rasstroystvah-na-demonstratsii-v-moskve</link>
+  <description><![CDATA[
+                        Большинство участников колонны «психоактивистов», задержанных на первомайской демонстрации в Москве, отпущены из полиции. ...
+                        ]]></description>
+  <pubDate>Tue, 01 May 2018 17:15:55 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1525185301#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Министр юстиции Израиля: "Мы не будем наблюдать за тем, как Иран захватывает Сирию"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/01May2018/faz/israel.html?utm_source=rss</link>
+  <description><![CDATA[
+                        "Иран делает из Сирии новый фронт против Израиля, чтобы угрожать ему. Иран протянул шиитскую линию из Тегерана через Ирак и Сирию до Ливана. Израиль не будет, бездействуя, стоять в стороне". Интервью с министром юстиции Израиля Аелет Шакед. ...
+                        ]]></description>
+  <pubDate>Tue, 01 May 2018 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1525185301#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Петербурге прошел "Марш за свободный интернет"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29202263.html</link>
+  <description><![CDATA[
+                        Полиция задержала 14 человек ...
+                        ]]></description>
+  <pubDate>Tue, 01 May 2018 16:28:52 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1525185301#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Мужскую сборную России по биатлону может возглавить Уле-Эйнар Бьорндален
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/01may2018/bjorn.html?utm_source=rss</link>
+  <description><![CDATA[
+                        По данным норвежской прессы, 44-летний Уле-Эйнар Бьорндален является одним из главных кандидатов на этот пост после того, как Союз биатлонистов России по итогам сезона не стал предлагать новый контракт немцу Рико Гроссу. ...
+                        ]]></description>
+  <pubDate>Tue, 01 May 2018 17:28:10 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1525185301#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Руссификация озвучки Xiaomi Robot Vacuum
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.com/post/300531/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=300531</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 01 May 2018 14:19:07 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1525185301#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Телефонный разговор с Президентом Республики Корея Мун Чжэ Ином
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/57386</link>
+  <description><![CDATA[
+                        По инициативе
+южнокорейской стороны состоялся телефонный разговор Владимира Путина с Президентом Республики Корея Мун Чжэ Ином.    ...
+                        ]]></description>
+  <pubDate>Tue, 01 May 2018 10:45:44 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1525185301#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Бьорндален может возглавить мужскую сборную России по биатлону
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/251/lifestyle/sport/201514-borndalen-mozet-vozglavit-muzskuu-sbornuu-rossii-po-biatlonu</link>
+  <description><![CDATA[
+                        Новым старшим тренером мужской сборной России по биатлону может стать легендарный норвежский спортсмен Уле-Эйнар Бьорндален. ...
+                        ]]></description>
+  <pubDate>Tue, 01 May 2018 17:27:54 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1525185301#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  01.05.2018 17:31 : В Риге прошло шествие против перевода русских школ на латышский язык
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2194446-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+По словам организаторов, в мероприятии участвовали от 7-ми до 10-ти тысяч человек. Демонстранты также поддержали небольшие учебные заведения, которые собираются закрыть в ходе оптимизации. Предыдущая акция против реформы образования в Латвии прошла 4-го апреля.  <br>
+В республике государственным языком является латышский. Русский имеет статус иностранного. При этом 40% населения являются русскоязычными.
+ ...
+                        ]]></description>
+  <pubDate>Tue, 01 May 2018 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1525185301#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Viber восстановился в России после сбоев из-за блокировки "другого мессенджера"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/610940</link>
+  <description><![CDATA[
+                        Мессенджер Viber устранил неполадки в работе, возникшие после массовой блокировки IP-адресов. ...
+                        ]]></description>
+  <pubDate>Tue, 01 May 2018 17:13:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1525185301#48</guid>
+ </item>
+  </channel>
+ </rss>

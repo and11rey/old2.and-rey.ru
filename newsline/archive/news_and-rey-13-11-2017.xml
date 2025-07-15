@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 13 Nov 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Mon, 13 Nov 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Трамп заявил, что очень доволен своими отношениями с Дутерте
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/news-41967239</link>
+  <description><![CDATA[
+                        В ходе встречи в Маниле президент США Дональд Трамп заявил, что у него "замечательные отношения" с филиппинским лидером Родриго Дутерте, которого обвиняют в многочисленных нарушениях прав человека в стране. ...
+                        ]]></description>
+  <pubDate>Mon, 13 Nov 2017 17:07:22 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1510583701#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Екатеринбурге прекратила голодовку женщина, у которой отняли детей после удаления груди
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2017/11/13/v-ekaterinburge-prekratila-golodovku-zhenschina-u-kotoroy-otnyali-detey-posle-udaleniya-grudi</link>
+  <description><![CDATA[
+                        Жительница Екатеринбурга Юлия Савиновских, у которой органы опеки забрали двух приемных детей, прекратила объявленную ранее голодовку. ...
+                        ]]></description>
+  <pubDate>Mon, 13 Nov 2017 17:19:52 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1510583701#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Transparency International - Russia: "Мы - не общество по защите прав человека"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/13Nov2017/faz/corruption.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Предпосылкой для обвинения против Серебренникова могло стать расследование Transparency International - Russia. Проблема гражданского общества в России состоит в том, что защита прав человека рассматривается как преграда для антикоррупционной борьбы. ...
+                        ]]></description>
+  <pubDate>Mon, 13 Nov 2017 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1510583701#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  23 страны Евросоюза расширили сотрудничество в оборонной сфере
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28851366.html</link>
+  <description><![CDATA[
+                        Решение принято по итогам встречи глав МИД и министерств обороны Евросоюза в Брюсселе ...
+                        ]]></description>
+  <pubDate>Mon, 13 Nov 2017 16:56:39 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1510583701#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 13 Nov 2017 17:35:03 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1510583701#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В аварийной новостройке в Саранске завершен разбор завалов: трое погибших, один - в больнице
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/13nov2017/smu.html?utm_source=rss</link>
+  <description><![CDATA[
+                        В Саранске завершен разбор завалов в новостройке, где произошло обрушение лестницы. По итогам поисково-спасательный операции три человека признаны погибшими. Еще один человек госпитализирован. Здание оцеплено. Внутри работают сотрудники Следственного комитета. ...
+                        ]]></description>
+  <pubDate>Mon, 13 Nov 2017 17:22:17 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1510583701#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Поиск генераторов истинных случайных чисел
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/295353/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=best</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 13 Nov 2017 17:23:12 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1510583701#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  14 ноября Владимир Путин посетит компанию «Россети»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/press/announcements/56063</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Mon, 13 Nov 2017 16:31:09 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1510583701#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Гибель бейсджампера Розова: версий случившегося нет
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/194/lifestyle/sport/187283-gibel-bejsdzampera-rozova-versij-slucivsegosa-net</link>
+  <description><![CDATA[
+                        Версий гибели альпиниста и бейсджампера Валерия Розова нет, сообщил его сын Андрей, эту же информацию подтвердили в федерации парашютного спорта. ...
+                        ]]></description>
+  <pubDate>Mon, 13 Nov 2017 17:34:48 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1510583701#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  13.11.2017 17:30 : В результате обрушения лестничного марша строящегося дома в Саранске погибли три человека, один госпитализирован
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2091766-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Эти уточненные данные ТАСС сообщили в управлении МинЧС по Мордовии. Поисково-спасательные работы завершены. Ведется разбор завалов и вывоз строительного мусора.
+ ...
+                        ]]></description>
+  <pubDate>Mon, 13 Nov 2017 17:30:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1510583701#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  СКР предложил ВАДА вместе исследовать базу данных Московского антидопингового центра
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/sport/587171</link>
+  <description><![CDATA[
+                        Следственный комитет России (СКР) предложил Всемирному антидопинговому агентству (ВАДА) совместно изучить данные Московского антидопингового центра о тестированиях российских спортсменов в 2012-2015 гг., сообщила официальный представитель ведомства Светлана Петренко. ...
+                        ]]></description>
+  <pubDate>Mon, 13 Nov 2017 17:19:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1510583701#48</guid>
+ </item>
+  </channel>
+ </rss>

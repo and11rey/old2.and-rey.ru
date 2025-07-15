@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 23 Nov 2016 17:35:02 +0300</pubDate>
+         <lastBuildDate>Wed, 23 Nov 2016 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Путин принял решение упразднить "Спецстрой"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/graniru.org/Politics/Russia/President/m.256896.html</link>
+  <description><![CDATA[
+                        Владимир Путин принял решение упразднить Федеральное агентство по специальному строительству ("Спецстрой"). Причиной стали многочисленные претензии заказчиков и органов власти к срокам исполнения работ и к финансовой дисциплине. Строительством объектов, обеспечивающих обороноспособность страны, займется само военное ведомство. Все активы "Спецстроя" передадут Министерству обороны. ...
+                        ]]></description>
+  <pubDate>Wed, 23 Nov 2016 09:45:00 +0300</pubDate>
+  <source url="http://d2i3c4yj91a1b5.cloudfront.net">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1479911702#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Организатор пикета в поддержку Трампа утверждает, что его похитили
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28134985.html</link>
+  <description><![CDATA[
+                        Майнас утверждает, что обратился в Следственный комитет по факту его похищения и побоев ...
+                        ]]></description>
+  <pubDate>Wed, 23 Nov 2016 17:05:58 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1479911702#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Муса Мусалаев: убитый в Германии кикбоксер сменил имя после проблем - Московский Комсомолец
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNE_hg8bYfzBaE9KBVWJGP-EhZGL_A&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779898285791&amp;ei=2Kg1WNiFOtCkyAPiqb_ABg&amp;url=http://www.mk.ru/sport/2016/11/23/musa-musalaev-ubityy-v-germanii-kikbokser-smenil-imya-posle-problem.html</link>
+  <description><![CDATA[
+                        На прошлой неделе в Германии был застрелен некий Муса Мусалаев — чемпион мира по кикбоксингу. Немецкая полиция привлекла к расследованию дела 25 человек. Но звонки заслуженным тренерам по этому виду спорта насторожили — никто такого не знает. Что «чемпионов мираВ ... ...
+                        ]]></description>
+  <pubDate>Wed, 23 Nov 2016 17:15:46 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1479911702#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  РФС не увидел в игре "Урала" и "Терека" признаков договорного матча
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/23nov2016/fair_play.html?rss</link>
+  <description><![CDATA[
+                        Специально созданная Российским футбольным союзом комиссия экспертов по разбору матча между екатеринбургским "Уралом" и грозненским "Тереком" не обнаружила в данной встрече характерных признаков договорной игры. ...
+                        ]]></description>
+  <pubDate>Wed, 23 Nov 2016 17:33:00 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1479911702#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Опыт разработки VR-игр для игровых центров по всему миру
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/282948/</link>
+  <description><![CDATA[
+                        Меня зовут Антон Зайцев, я product owner в компании AVATARICO. В прошлом году я писал про нашу первую, а в октябре этого года мы выпустили вторую кооперативную VR игру для игровых VR-центров. Сейчас мы делаем третью.
+
+Я захотел рассказать о нашем опыте разработки под ВР и попросил Олю, нашего копирайтера, взять у меня интервью. Вот, что получилось. Если после прочтения у вас появились какие-то вопросы — с удовольствием отвечу в комментариях. 
+
+
+ Читать дальше в†’ ...
+                        ]]></description>
+  <pubDate>Wed, 23 Nov 2016 16:50:10 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes</source>
+  <guid isPermaLink="false">1479911702#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Ответы на вопросы журналистов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/53317</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Wed, 23 Nov 2016 16:31:14 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1479911702#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Более 10 млн квадратных метров офисов введено в Москве за 10 лет
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/realty/city/2016/11/23/Bolyeye_10_mln_kvadr.phtml</link>
+  <description><![CDATA[
+                        Более 10 млн квадратных метров офисной недвижимости классов А и В было введено в эксплуатацию в Московском регионе с 2007 года. Этот объем сопоставим с рынками офисной недвижимости Милана (10,3 млн квадратных метров), Вены (10,83 млн квадратных метров) и превосходит объем рынка Цюриха (9,4 млн квадратных метров). ...
+                        ]]></description>
+  <pubDate>Wed, 23 Nov 2016 16:16:26 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1479911702#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  23.11.2016 17:30 : Самодельное взрывное устройство, по некоторым данным, было обнаружено в автобусе в столице
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1879452-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Как сообщил источник агентства «Москва», бомбу нашли в междугороднем автобусе Новомосковск-Москва на Ореховом бульваре. На месте происшествия уже находится сапер. Устройство извлекли из машины. Пострадавших нет. Других подробностей пока агентство не сообщает.
+ ...
+                        ]]></description>
+  <pubDate>Wed, 23 Nov 2016 17:30:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1479911702#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Президент РАН подсчитал избравшихся в академики чиновников
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/538266</link>
+  <description><![CDATA[
+                        Президент РАН Владимир Фортов заявил, что в Российскую академию наук были избраны несколько госслужащих, их дальнейшая работа на государственных постах зависит от решения президента РФ. ...
+                        ]]></description>
+  <pubDate>Wed, 23 Nov 2016 17:31:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1479911702#48</guid>
+ </item>
+  </channel>
+ </rss>

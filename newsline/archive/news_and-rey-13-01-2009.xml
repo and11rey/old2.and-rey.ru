@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2008, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 13 Jan 2009 17:00:05 +0300</pubDate>
+         <lastBuildDate>Tue, 13 Jan 2009 17:00:05 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+ <item>
+  <title>Взрыв в Назрани: под завалами остаются люди</title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.bbc.co.uk/go/rss/-/hi/russian/russia/newsid_7825000/7825664.stm</link>
+  <description><![CDATA[
+                        Под завалами пострадавшего от взрыва здания судебных приставов в Назрани могут находиться еще три человека, сообщает МЧС Ингушетии. ...
+                        ]]></description>
+  <pubDate>Tue, 13 Jan 2009 13:25:10 GMT</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1231855205#1</guid>
+ </item>
+ <item>
+  <title>Кадыров: УДО Буданова - оправдание всех преступников</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/Crime/m.146299.html</link>
+  <description><![CDATA[
+                        Президент Чечни Рамзан Кадыров подверг критике решение суда об условно-досрочном освобождении бывшего полковника Юрия Буданова, осужденного за убийство чеченской девушки Эльзы Кунгаевой. "Я не верю в раскаяние человека, совершившего подобное преступление", - заявил Кадыров. ...
+                        ]]></description>
+  <pubDate>Tue, 13 Jan 2009 15:50:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1231855205#2</guid>
+ </item>
+ <item>
+  <title>Пустые слова - не на пользу дипломатии ("The International Herald Tribune", США)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/246615.html</link>
+  <description><![CDATA[
+                        Что происходит в мрачноватой обстановке 2009 г., когда в связи с военными конфликтами и политическими кризисами мы постоянно слышим слова вроде 'неприемлемый', 'недопустимый' и 'непростительный'? ...
+                        ]]></description>
+  <pubDate>Tue, 13 Jan 2009 12:59:00 GMT</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1231855205#3</guid>
+ </item>
+ <item>
+  <title>Еврокомиссия: российский газ в Европу не поступает</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/News/2009/01/13.html?id=480586</link>
+  <description><![CDATA[
+                           Европейская комиссия сообщила, что российский газ, идущий через Украину, по-прежнему практически не поступает к потребителям в странах Европы.    В "Газпроме" заявляют, что Украина не пропускает российский газ для Европы.Краны на входе в украинску ... ...
+                        ]]></description>
+  <pubDate>Tue, 13 Jan 2009 15:11:55 +0300</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1231855205#4</guid>
+ </item>
+ <item>
+  <title>Победители российско-украинского конфликта: исследование рынка</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/13Jan2009/forbes/forbes.html</link>
+  <description><![CDATA[
+                        Турция получит надежду на членство в ЕС, так как Европа будет искать альтернативу транзитному маршруту газа через Украину. Алжир уже заявил о планах по увеличению поставок газа в Европу, а Норвегия сообщила о новых суточных объемах экспорта. ...
+                        ]]></description>
+  <pubDate>Tue, 13 Jan 2009 15:40:43 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1231855205#5</guid>
+ </item>
+ <item>
+  <title>Более трети россиян считают, что СМИ не откровенно освещают экономический кризис</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/13jan2009/oprosmi.html</link>
+  <description><![CDATA[
+                        В то же время почти трети граждан информация СМИ на тему кризиса кажется достаточной, чтобы разобраться в происходящем, а 20% считают, что СМИ зачастую преувеличивают последствия кризиса и разжигают страсти на пустом месте. Такие данные опубликовал в День печати ВЦИОМ. ...
+                        ]]></description>
+  <pubDate>Tue, 13 Jan 2009 16:44:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1231855205#6</guid>
+ </item>
+ <item>
+  <title>Заключенные "Крестов" начали общаться с родными по e-mail </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/01/13/n_1316878.shtml</link>
+  <description><![CDATA[
+                        Заключенные крупнейшего российского следственного изолятора "Кресты", расположенного в Санкт-Петербурге, получили возможность общаться со своими близкими с помощью электронной почты, сообщил официальный представитель Федеральной ... ...
+                        ]]></description>
+  <pubDate>Tue, 13 Jan 2009 16:54:24 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1231855205#7</guid>
+ </item>
+ <item>
+  <title>Ученые исследовали влияние ИТ-индустрии на экологию</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/366208.php</link>
+  <description><![CDATA[
+                        В среднем один гуглопоиск приводит к выбросу в атмосферу 7 граммов углекислого газа, что соответствует половине эмиссии CO2 от кипячения воды в чайнике.	 ...
+                        ]]></description>
+  <pubDate>Tue, 13 Jan 2009 13:15:56 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1231855205#8</guid>
+ </item>
+ <item>
+  <title>Словакия отложила запуск энергоблока АЭС "Богунице"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/world/2009/01/13/165928.html</link>
+  <description><![CDATA[
+                        Власти Словакии на время откладывают запуск одного из энергоблоков АЭС "Богунице", закрытой 31 декабря прошлого года по требованию ЕС,заявил премьер-министр страны Роберта Фицо. По словам словацкого премьера, власти страны предприняли ряд мер, направленных на то, чтобы в ближайшее время... ...
+                        ]]></description>
+  <pubDate>Tue, 13 Jan 2009 16:59:28 +0300</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1231855205#9</guid>
+ </item>
+ <item>
+  <title>Грабеж во время дефолта: холодная весна 2009?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/51270/</link>
+  <description><![CDATA[
+                        Уже весной либеральные реформаторы могут принять решение о  переводе плавной девальвации в катастрофическую обвальную. Казенные деньги почти разворованы, пора прикрыть  растрату поджогом ...
+                        ]]></description>
+  <pubDate>Tue, 13 Jan 2009 18:01:00 +0300</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1231855205#10</guid>
+ </item>
+ <item>
+  <title>Цитата #402111</title>
+  <link>http://www.and-rey.ru/inc/go3.php/bash.org.ru/quote/402111</link>
+  <description><![CDATA[
+                        ОН: А знаешь, если тебя будут спрашивать где я работаю, ты отвечай: мой парень политрук в Первом Гвардейском полку Космической Индустриальной пехоты. А если спросят почему не у космических кадетов, тогда говори, мол он у меня честный зато и не пидорашка.<br>ОН: Хорошо?<br>ОНА: Хорошо. Но тогда можно я буду добавлять, что у санитаров ты на хорошем счету и поэтому тебе разрешают съедать таблетки соседей? ...
+                        ]]></description>
+  <pubDate>Tue, 13 Jan 2009 16:45:01 +0400</pubDate>
+  <source url="http://bash.org.ru">bash.org.ru — Цитатник Рунета</source>
+  <guid isPermaLink="false">1231855205#11</guid>
+ </item>
+   <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+  </channel>
+ </rss>

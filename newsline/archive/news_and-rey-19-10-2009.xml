@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 19 Oct 2009 17:00:02 +0400</pubDate>
+         <lastBuildDate>Mon, 19 Oct 2009 17:00:02 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Нужно ли ограничить рекламу для детей? </title>
+  <link>http://www.and-rey.ru/inc/go3.php/newsforums.bbc.co.uk/ws/ru/thread.jspa?forumID=10100</link>
+  <description><![CDATA[
+                        Как вы считаете, нужны ли ограничения рекламы, направленной на детей? Насколько подвержены дети влиянию рекламы? ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2009 16:17:24 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1255957202#1</guid>
+ </item>
+ <item>
+  <title>Инкассатору Шурману предъявлено обвинение в разбое</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/Crime/m.160878.html</link>
+  <description><![CDATA[
+                        Пермскому инкассатору Александру Шурману, который похитил 250 миллионов рублей у Сбербанка, предъявлено обвинение в разбое, совершенном организованной группой в особо крупном размере. Суд над ним может начаться уже в первой половине ноября. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2009 16:41:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1255957202#2</guid>
+ </item>
+ <item>
+  <title>Тайная договоренность о санкциях против Ирана? ("Global Post", США)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/253722.html</link>
+  <description><![CDATA[
+                        Тех, кто надеялся, что международное сообщество, наконец, подойдет серьезно к вопросу о вводе санкций против Ирана, упорно отказывающегося повиноваться резолюциям Совета безопасности ООН, заголовки газет этой недели должны были определенно разочаровать. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2009 16:32:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1255957202#3</guid>
+ </item>
+ <item>
+  <title>Глава МИД Турции высказался в поддержку позиции Азербайджана</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091019/17/17.html?id=1855448</link>
+  <description><![CDATA[
+                         Министр иностранных дел Турции Ахмед Давутоглу заявил сегодня, что Анкара поддерживает позицию Азербайджана в конфликте вокруг Нагорного Карабаха - несмотря на предпринимаемые в последнее время усилия по примирению между Турцией и Арменией.   Давутоглу сказал, что позиция его страны будет оставаться неизменной до полного урегулирования конфликта.    Турция закрыла свои границы с Арменией в 1993 году - в знак солидарности с Азербайджаном, когда армянские сепаратисты закрепились в ... ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2009 16:28:33 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1255957202#4</guid>
+ </item>
+ <item>
+  <title>Чтобы вычислить инопланетян, проследите загрязнения окружающей среды</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/19Oct2009/newscientist/ecology.html</link>
+  <description><![CDATA[
+                        Химические вещества, известные как хлорфторуглероды, не формируются естественным способом, так что их обнаружение на планетах, вращающихся вокруг других звезд, будет убедительным свидетельством наличия инопланетных технологий. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2009 16:43:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1255957202#5</guid>
+ </item>
+ <item>
+  <title>Отклики на статью Медведева "Россия, вперед!" навели его на печальные выводы: страна не движется</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/19oct2009/otkliki.html</link>
+  <description><![CDATA[
+                        По словам президента, около трети откликов были посвящены вопросам экономики, науки и технологической модернизации. Между тем сам Медведев не видит изменений сырьевого характера экономики РФ. Глава государства рассказал, что есть масса вопросов, на которые нет ответов, и что российские власти должны вынести уроки из кризиса. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2009 16:27:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1255957202#6</guid>
+ </item>
+ <item>
+  <title>По факту дедовщины в гарнизоне ЛенВО возбуждено третье уголовное дело</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/10/19/n_1415610.shtml</link>
+  <description><![CDATA[
+                        В деле об избиении военнослужащих в Каменке появился третий подозреваемый, сообщает "Фонтанка.Ru". Еще одно уголовное дело по факту превышения должностных полномочий возбуждено в отношении младшего сержанта Качалова. Как сообщили ... ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2009 16:53:04 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1255957202#7</guid>
+ </item>
+ <item>
+  <title>Ошибка в ПО аппарата Gamma Knife привела к облучению пациента</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/6ad1d66/l/0L0Ssecuritylab0Bru0Cnews0C38670A20Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Ошибка в программном обеспечении аппарата Gamma Knife, служащего для уничтожения опухолей головного мозга с помощью радиации, чуть не привела к печальным последствиям. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2009 14:17:07 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1255957202#8</guid>
+ </item>
+ <item>
+  <title>Простой серверов обходится человечеству ежегодно в $25 млрд</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/hi-tech/computer/2009/10/19/Prostoy_syervyerov_s.phtml</link>
+  <description><![CDATA[
+                        Праздно работающие серверы влетают человечеству в копеечку – по статистике на поддержку работы неиспользуемых систем ежегодно уходит около $25 млрд. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2009 16:50:06 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1255957202#9</guid>
+ </item>
+ <item>
+  <title>Сегодня сборная России по футболу узнает своего соперника по стыковым матчам Чемпионата мира 2010 года</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/628127-echo.html</link>
+  <description><![CDATA[
+                        
+                         Жеребьевка начнется в Цюрихе в 16:00...
+                          ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2009 16:32:00 +0400</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1255957202#10</guid>
+ </item>
+ <item>
+  <title>искусство в искусстве</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/260895/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/10/19/22164-154212-37fe9f58972598cf0bdb2ef275976809.jpg><br /><br />Wolf Silveri  -  немецкий фотограф, специализируется на съемках театрализованных Представлений А вот его сайт<br />
+Потрясающие снимки. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2009 15:42:12 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1255957202#11</guid>
+ </item>
+  </channel>
+ </rss>

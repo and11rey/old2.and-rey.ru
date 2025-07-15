@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 26 Apr 2018 17:35:01 +0300</pubDate>
+         <lastBuildDate>Thu, 26 Apr 2018 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Дипломатия в меню: как еда может повлиять на политику
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-43905956</link>
+  <description><![CDATA[
+                        Еда играет не самую заметную, но очень значительную роль в дипломатических переговорах. История знает тому множество примеров - от подачи икры, способной испортить репутацию президента, до банкета, где одного лидера стошнило на другого. ...
+                        ]]></description>
+  <pubDate>Thu, 26 Apr 2018 17:25:42 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1524753301#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  МИД обвинил спецслужбы США в захвате резиденции российского генконсула в Сиэтле
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/04/26/mid-obvinil-spetssluzhby-ssha-v-zahvate-rossiyskogo-genkonsulstva-v-sietle</link>
+  <description><![CDATA[
+                        Американские спецслужбы проникли в резиденцию генконсула России и Сиэтле, которую недавно покинули российские дипломаты. Об этом заявила официальный представитель МИД РФ Мария Захарова. ...
+                        ]]></description>
+  <pubDate>Thu, 26 Apr 2018 17:23:55 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1524753301#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  "У России конспирологический взгляд на мир"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/26Apr2018/letemps/conspirationniste.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Лорд Роберт Скидельски, член британской Палаты лордов, профессор политической экономии Университета Уорик, объясняет, почему Лондон не мог ждать появления окончательных доказательств в деле Скрипаля для принятия репрессивных мер против Москвы. ...
+                        ]]></description>
+  <pubDate>Thu, 26 Apr 2018 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1524753301#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  "Мисс Россия" поддержала блокировку Telegram и хочет поехать в Сирию
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29194093.html</link>
+  <description><![CDATA[
+                        Telegram "скорее всего, стоит закрыть, если там производят какие-то террористические операции" - сказала 18-летняя Юлия Полячихина ...
+                        ]]></description>
+  <pubDate>Thu, 26 Apr 2018 16:23:15 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1524753301#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Прототип новой системы  быстрых платежей в России должен появиться в середине 2018 года
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/26apr2018/ruinstantpay.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Новая система позволит гражданам в перспективе совершать мгновенные платежи в режиме 24/7, в том числе с использованием QR-кода или мобильного телефона - независимо от того, в каких банках открыты счета отправителя и получателя. Прототип почти готов. ...
+                        ]]></description>
+  <pubDate>Thu, 26 Apr 2018 17:28:06 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1524753301#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Благодаря чему промышленная 3D-печать становится дешевле
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.com/post/300367/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=300367</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 26 Apr 2018 17:18:23 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1524753301#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Пленарное заседание съезда Российского союза ректоров
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/57367</link>
+  <description><![CDATA[
+                        Владимир Путин посетил Санкт-Петербургский политехнический университет Петра
+Великого, где принял участие в пленарном заседании XI съезда Российского союза
+ректоров.      ...
+                        ]]></description>
+  <pubDate>Thu, 26 Apr 2018 16:29:04 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1524753301#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Саратовский журналист получит компенсацию за незаконное обвинение в клевете
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/283/social/society/201162-saratovskij-zurnalist-polucit-kompensaciu-za-nezakonnoe-obvinenie-v-klevete</link>
+  <description><![CDATA[
+                        Октябрьский райсуд Саратова частично удовлетворил иск местного журналиста Сергея Вилкова.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 26 Apr 2018 17:25:09 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1524753301#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  26.04.2018 17:32 : В Турции приговорили к различным тюремным срокам 14 сотрудников влиятельной оппозиционной газеты Cumhuriyet
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2191706-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Их обвинили в содействии террористам, — сообщает агентство Reuters. Три журналиста были оправданы судом, остальные получили сроки от 2,5 до 7,5 лет. Однако самый большой срок, 10 лет, получил подсудимый, не являющийся сотрудником издания. Он был осужден за публикацию в Твиттере. Все журналисты пока остаются на свободе до рассмотрения апелляции на приговор.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 26 Apr 2018 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1524753301#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Google, Microsoft и Amazon не встречались с Роскомнадзором по блокировке Telegram
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/610371</link>
+  <description><![CDATA[
+                        Представители компаний Google и Microsoft, чьи сети в большей степени страдают от блокировки мессенджера Telegram в России, не приехали на встречу с представителями Роскомнадзора и IT-индустрией, посвященной восстановлению работы инфраструктуры. ...
+                        ]]></description>
+  <pubDate>Thu, 26 Apr 2018 17:23:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1524753301#48</guid>
+ </item>
+  </channel>
+ </rss>

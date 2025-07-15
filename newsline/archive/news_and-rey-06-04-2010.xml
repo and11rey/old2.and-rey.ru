@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 06 Apr 2010 17:00:05 +0400</pubDate>
+         <lastBuildDate>Tue, 06 Apr 2010 17:00:05 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Лавров: ПРО может вызвать разрыв ядерной сделки с США</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2010/04/100406_lavrov_start_comments.shtml</link>
+  <description><![CDATA[
+                        Сергей Лавров, комментируя положения будущего договора о СНВ, заявил, что Россия оставляет за собой право покинуть его, если ПРО США станет слишком сильной. ...
+                        ]]></description>
+  <pubDate>Tue, 06 Apr 2010 15:56:56 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1270558805#1</guid>
+ </item>
+ <item>
+  <title>Создание военной полиции в России приостановлено</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/War/m.176768.html</link>
+  <description><![CDATA[
+                        Минобороны  временно приостановило организацию в армии института военной полиции, однако окончательное решение по этому вопросу пока не принято. Об этом сообщил замминистра обороны Николай Панков. О необходимости создания военной полиции для борьбы с дедовщиной говорил еще в 2006 году Владимир Путин. ...
+                        ]]></description>
+  <pubDate>Tue, 06 Apr 2010 16:22:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1270558805#2</guid>
+ </item>
+ <item>
+  <title>Новая политическая ситуация: риски и угрозы для Украины
+			    ( "УНИАН", Украина )
+			</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/ukraine/20100406/159060696.html</link>
+  <description><![CDATA[
+                        Главной угрозой для государства стала концентрация власти в руках политической силы, склонной к авторитарным методам управления и связанной с криминальными кругами... ...
+                        ]]></description>
+  <pubDate>Tue, 06 Apr 2010 16:28:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1270558805#3</guid>
+ </item>
+ <item>
+  <title>Жертвы кибер-буллинга</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/2003947.html</link>
+  <description><![CDATA[
+                        Неужели тот, кто не дает сдачи, обречен в этом мире?
+ ...
+                        ]]></description>
+  <pubDate>Tue, 06 Apr 2010 15:54:14 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1270558805#4</guid>
+ </item>
+ <item>
+  <title>Пора менять мышление холодной войны </title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/06Apr2010/guardian/nato.html</link>
+  <description><![CDATA[
+                        Сейчас подходящий момент для сокращения запасов ядерного оружия в Европе, и НАТО должно иметь это в виду. Желание Соединенных Штатов вывести свои вооружения из Европы могло бы подтолкнуть Россию к осуществлению аналогичных действий. ...
+                        ]]></description>
+  <pubDate>Tue, 06 Apr 2010 16:54:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1270558805#5</guid>
+ </item>
+ <item>
+  <title>Кудрин: бездефицитный бюджет возможен не раньше чем через четыре года</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/06apr2010/kudrinbud.html</link>
+  <description><![CDATA[
+                        Министр финансов считает, что при сохранении благоприятного прогноза цен на нефть удастся уйти от дефицита бюджета. На следующий год этот показатель составит 4%, но за несколько лет может быть сведен к нулю. ...
+                        ]]></description>
+  <pubDate>Tue, 06 Apr 2010 16:41:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1270558805#6</guid>
+ </item>
+ <item>
+  <title>Проливные дожди затопили Рио-де-Жанейро; восемь погибших</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2010/04/06/n_1479626.shtml</link>
+  <description><![CDATA[
+                        Проливные дожди, длившиеся 14 часов, затопили Рио-де-Жанейро. Как минимум восемь человек погибли в городе, еще трое в провинции, пять человек пропали без вести в результате оползня. 
+Уровень воды поднялся до 7 см. Движение в городе ... ...
+                        ]]></description>
+  <pubDate>Tue, 06 Apr 2010 16:46:56 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1270558805#7</guid>
+ </item>
+ <item>
+  <title>Microsoft назвала цену ПО для школ</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/9d3dab0/l/0L0Ssecuritylab0Bru0Cnews0C3926410Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Ориентировочная стоимость $8 в год за базовый пакет программного обеспечения Microsoft на каждом рабочем месте действует для школ только в том случае, если регион подписывает с американской корпорацией соглашение о покупке ПО для всех своих учебных заведений. ...
+                        ]]></description>
+  <pubDate>Tue, 06 Apr 2010 14:16:40 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1270558805#8</guid>
+ </item>
+ <item>
+  <title>Начальник Санкт-Петербургской таможни уволен</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/law/2010/04/06/Nachalnik_Sankt_Pyet.phtml</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 06 Apr 2010 16:36:38 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1270558805#9</guid>
+ </item>
+ <item>
+  <title>Министр финансов предложил назначить руководителем Федеральной налоговой службы Михаила Мишустина</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/669791-echo.html</link>
+  <description><![CDATA[
+                        
+                         Ранее он возглавлял  федеральные агентства Кадастра объектов недвижимости и по Управлению особыми экономическими зонами...
+                          ...
+                        ]]></description>
+  <pubDate>Tue, 06 Apr 2010 16:33:00 +0400</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1270558805#10</guid>
+ </item>
+ <item>
+  <title>Почувствуй себя Онищенко</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/271634/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2010/04/06/27331-155446-6d5ec2b12f7507375b67a26df74c237f.gif><br /><br />Героическая борьба главы Роспотребнадзора Геннадия Онищенко против вредных свиней и молочных продуктов теперь увековечена и в играх. ...
+                        ]]></description>
+  <pubDate>Tue, 06 Apr 2010 15:54:46 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25 (лет..?)</source>
+  <guid isPermaLink="false">1270558805#11</guid>
+ </item>
+  </channel>
+ </rss>

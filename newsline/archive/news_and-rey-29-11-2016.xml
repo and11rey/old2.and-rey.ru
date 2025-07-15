@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 29 Nov 2016 17:35:02 +0300</pubDate>
+         <lastBuildDate>Tue, 29 Nov 2016 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Франсуа Фийон стал кандидатом в президенты Франции
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/graniru.org/Politics/World/Europe/m.257003.html</link>
+  <description><![CDATA[
+                        Бывший премьер-министр Франции Франсуа Фийон с большим отрывом побеждает Алена Жюппе во втором туре правоцентристских праймериз и становится кандидатом в президенты. С высокой долей вероятности весной Фийон выйдет во второй тур президентских выборов вместе с лидером Нацфронта Марин Ле Пен. Обоих политиков связывают особые отношения с Владимиром Путиным.  ...
+                        ]]></description>
+  <pubDate>Sun, 27 Nov 2016 22:56:00 +0300</pubDate>
+  <source url="http://d2i3c4yj91a1b5.cloudfront.net">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1480430102#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Вне системы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28145889.html</link>
+  <description><![CDATA[
+                        Наталья Геворкян – о фильме про Немцова ...
+                        ]]></description>
+  <pubDate>Tue, 29 Nov 2016 17:05:51 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1480430102#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Петербургская биржа сообщила об интересе иностранцев к фьючерсам на Urals - Lenta.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNG3ynF-MgtOLcIyBCp0cnMvwh2kTw&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779902590657&amp;ei=hpE9WJj3Kc61yQP9z7Jw&amp;url=https://lenta.ru/news/2016/11/29/futureurals/</link>
+  <description><![CDATA[
+                        Иностранные игроки проявляют интерес к экспортным фьючерсам на российскую нефть Urals, торговля которыми была запущена во вторник, 29 ноября, на Санкт-Петербургской международной товарно-сырьевой бирже (СПбМТСБ). Об этом в интервью «Ленте.ру» сообщилВ ... ...
+                        ]]></description>
+  <pubDate>Tue, 29 Nov 2016 17:14:18 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1480430102#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  На Аляске мужчина убил в отеле жену, мать и младенца, а потом застрелился
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/crime/29nov2016/shtwifebabyalaska.html?rss</link>
+  <description><![CDATA[
+                        От пуль убийцы погибла 22-летняя Эмили Макдональд, ее 54-летняя свекровь Линда Хаттон, а также двухмесячна я внучка Линды. По версии следователей, родственников убил 22-летний муж Эмили. Его также нашли в отеле мертвым. ...
+                        ]]></description>
+  <pubDate>Tue, 29 Nov 2016 17:24:00 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1480430102#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Нейросеть обучили предсказывать 1 секунду будущего по фотографии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/283156/</link>
+  <description><![CDATA[
+                        
+Генеративная состязательная нейросеть, оптимизированная для видеообработки, способна показать, что случится в следующую секунду
+
+Умение предсказать ближайшее будущее — важный навык для любого человека. Скорости человеческой реакции недостаточно, чтобы в реальном времени реагировать на окружающие события, поэтому мы предсказываем их в постоянном режиме с вероятностью, близкой к 100%. Спортсмены знают, куда полетит мяч. Бизнесмены знают, когда собеседник протянет руку для рукопожатия. Мы предсказ ...
+                        ]]></description>
+  <pubDate>Tue, 29 Nov 2016 15:13:17 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes</source>
+  <guid isPermaLink="false">1480430102#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Соболезнования Президенту Бразилии Мишелу Темеру
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/53354</link>
+  <description><![CDATA[
+                        Владимир Путин выразил соболезнования Президенту Федеративной Республики
+Бразилии Мишелу Темеру в связи с трагическими последствиями крушения в Колумбии
+бразильского пассажирского самолёта.    ...
+                        ]]></description>
+  <pubDate>Tue, 29 Nov 2016 16:16:57 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1480430102#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Челябинская область сохраняет лидирующие позиции в животноводстве
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/business/company/2016/11/29/CHyelyabinskaya_obla.phtml</link>
+  <description><![CDATA[
+                        Южный Урал стал не только кузницей, но и житницей страны. Челябинская область занимает лидирующие позиции в производстве мяса птицы и свинины. ...
+                        ]]></description>
+  <pubDate>Tue, 29 Nov 2016 16:25:22 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1480430102#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  29.11.2016 17:32 : В Чернобыльской АЭС над объектом «Укрытие» установлена новая арка
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1883091-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Установка началась 14 ноября. Для этого было задействовано 224 гидравлических домкрата. Эта арка является самой большой конструкцией в мире, которая когда-либо перемещалась таким способом. Новое укрытие над аварийной АЭС будет введено в эксплуатацию через год.
+ ...
+                        ]]></description>
+  <pubDate>Tue, 29 Nov 2016 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1480430102#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ФАС собралась завести новое дело на поставщиков компьютеров по аукционам МВД и ФСБ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/539108</link>
+  <description><![CDATA[
+                        Федеральная антимонопольная служба в ближайшее время может завести новое дело на поставщиков компьютерной техники, участвовавших в аукционах МВД, ФСБ и НИЦ "Курчатовский институт", заявил "Интерфаксу" замглавы ФАС Андрей Цариковский. ...
+                        ]]></description>
+  <pubDate>Tue, 29 Nov 2016 17:33:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1480430102#48</guid>
+ </item>
+  </channel>
+ </rss>

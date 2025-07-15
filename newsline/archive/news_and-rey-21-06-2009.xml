@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 21 Jun 2009 17:00:09 +0400</pubDate>
+         <lastBuildDate>Sun, 21 Jun 2009 17:00:09 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Опознаны тела погибших в Ираке британских заложников</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/06/090621_iraq_bodies_identified.shtml</link>
+  <description><![CDATA[
+                        Опознаны останки двух британских заложников, похищенных в Ираке в 2007 году.  ...
+                        ]]></description>
+  <pubDate>Sun, 21 Jun 2009 16:46:03 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1245589209#1</guid>
+ </item>
+ <item>
+  <title>Умер поэт Евгений Сабуров</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Culture/Literature/m.152649.html</link>
+  <description><![CDATA[
+                        В субботу в Москве умер современный русский поэт и драматург Евгений Сабуров. До 1990 года он печатался за рубежом. В России опубликованы четыре книги его стихов. С 90-х годов Сабуров занимался научной работой, опубликовал многочисленные статьи и книгу о современной российской экономике. ...
+                        ]]></description>
+  <pubDate>Sun, 21 Jun 2009 15:53:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1245589209#2</guid>
+ </item>
+ <item>
+  <title>New York Times и Иран: журналистика как государственная провокация ("World Socialist Web Site", США)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/250001.html</link>
+  <description><![CDATA[
+                        Используя метод лжи и провокации, газета New York Times служит империалистическим интересам США. ...
+                        ]]></description>
+  <pubDate>Sun, 21 Jun 2009 12:27:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1245589209#3</guid>
+ </item>
+ <item>
+  <title>Тела двух британских заложников, убитых в Ираке, опознаны</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090621/17/17.html?id=1759146</link>
+  <description><![CDATA[
+                        Тела двух британских заложников, убитых в Ираке, опознаны, сообщили агентства со ссылкой на источники в правительстве Великобритании. Имена убитых пока не названы.  Останки заложников были переданы накануне британским силам в Ираке. Внешнеполитическое ведомство Великобритании выразило крайнюю обеспокоенность судьбой еще трех заложников, которые, как полагают, остаются в руках похитителей. Пять британцев были захвачены группой вооруженных людей в Багдаде в мае 2007 года. ...
+                        ]]></description>
+  <pubDate>Sun, 21 Jun 2009 15:49:56 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1245589209#4</guid>
+ </item>
+ <item>
+  <title>Хиллари Клинтон предстоит операция на локте</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/19Jun2009/nytimes/clinton.html</link>
+  <description><![CDATA[
+                        Госсекретарю США Хиллари Родэм Клинтон предстоит операция на правом локте в связи с переломом, полученным на пути в Белый дом. Сейчас Клинтон находится дома, читает прессу и делает телефонные звонки. ...
+                        ]]></description>
+  <pubDate>Fri, 19 Jun 2009 16:04:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1245589209#5</guid>
+ </item>
+ <item>
+  <title>Движение "Мы" провело у посольства Ирана пикет в поддержку оппозиции</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/21jun2009/we.html</link>
+  <description><![CDATA[
+                        "Цель нашей акции - поддержать демократические силы Ирана, которые выступают сейчас против фальсификации выборов президента в этой стране", - сообщил организатор акции, лидер движения "Мы" Роман Доброхотов. ...
+                        ]]></description>
+  <pubDate>Sun, 21 Jun 2009 16:48:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1245589209#6</guid>
+ </item>
+ <item>
+  <title>Аятолла-диссидент в Иране призвал к трехдневному трауру</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/06/21/n_1374432.shtml</link>
+  <description><![CDATA[
+                        В Иране оппозиционный великий аятолла Хуссейн Али Монтазери заявил, что противодействие электоральным требованиям граждан запрещено религией.
+Монтазери также призвал к трехдневному трауру по погибшим во вчерашних столкновениях с полицией ... ...
+                        ]]></description>
+  <pubDate>Sun, 21 Jun 2009 16:33:00 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1245589209#7</guid>
+ </item>
+ <item>
+  <title>Баллмер: поиск - главная ошибка Microsoft</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/381659.php</link>
+  <description><![CDATA[
+                        Баллмер подчеркнул, что Microsoft не была уверена в перспективах поисковых систем и не имела никакой бизнес-модели, связанной с поиском. 	 ...
+                        ]]></description>
+  <pubDate>Fri, 19 Jun 2009 13:59:26 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1245589209#8</guid>
+ </item>
+ <item>
+  <title>Пхеньян опасается американского вторжения</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/foreign/2009/06/21/Phyenyan_opasayetsya.phtml</link>
+  <description><![CDATA[
+                        Северная Корея перекладывает отвественность за обострение ситуации на корейском полуострове на Белый дом. США, по мнению властей КНДР, прикрываясь декларациями о защите и поддержке южнокорейского правительства, на самом деле замышляют нанести сокрушительный ядерный удар по Пхеньяну. ...
+                        ]]></description>
+  <pubDate>Sun, 21 Jun 2009 16:29:26 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1245589209#9</guid>
+ </item>
+ <item>
+  <title>Жизнь, душа, поэзия.денис коротаев (1967-2003).</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/57042/</link>
+  <description><![CDATA[
+                        "Я не скажу вам, какой начинается век. Я не умею гадать по крапленой колоде. 
+Я - человек. Это слово сегодня не в моде. Но я твержу все равно - человек, человек... 
+                                                                  Д.Коротаев
+Студия патриотического искусства "СОЮЗ"
+приглашает во вторник 23 июня 2009 года на вечер, посвящённый поэту Денису Коротаеву.Начало - в 18-00. 
+Адрес: Москва, Большой Харитоньевский пер., 10. ...
+                        ]]></description>
+  <pubDate>Sun, 21 Jun 2009 15:40:00 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1245589209#10</guid>
+ </item>
+ <item>
+  <title>Пост № 255204</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/255204/#new</link>
+  <description><![CDATA[
+                        10-летняя Colby Curtin, страдающая четвёртой стадией рака, очень хотела посмотреть мультик UP!, но идти в кино у неё сил не было, а дожить до выхода на ди-ви-ди врядли бы получилось.<br />
+Друг семьи связался с PIXAR, разъяснил проблему. Через некоторое время к Колби приехал специальный чувак с диском, они посмотрели мульт и чувак уехал. Девочка умерла через 7 часов ...
+                        ]]></description>
+  <pubDate>Sun, 21 Jun 2009 13:01:42 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1245589209#11</guid>
+ </item>
+  </channel>
+ </rss>

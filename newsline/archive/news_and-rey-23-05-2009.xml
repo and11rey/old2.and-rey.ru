@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 23 May 2009 17:00:07 +0400</pubDate>
+         <lastBuildDate>Sat, 23 May 2009 17:00:07 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Ахмадинежад сравнил врагов Ирана с собаками</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/05/090523_ahmadinejad_rally_dogs.shtml</link>
+  <description><![CDATA[
+                        Президент Ирана Махмуд Ахмадинежад начал кампанию перед предстоящими в июне президентскими выборами с агрессивной речи, в которой сравнил врагов Ирана с собаками. ...
+                        ]]></description>
+  <pubDate>Sat, 23 May 2009 14:43:19 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1243083607#1</guid>
+ </item>
+ <item>
+  <title>В Германии начались выборы президента</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/World/Europe/m.151458.html</link>
+  <description><![CDATA[
+                        Выборы нового президента ФРГ начались в Германии. в Рейхстаге, где заседает немецкий парламент, открылось заседание Федерального собрания, которое и изберет главу государства на следующие пять лет. На пост президента ФРГ претендуют четыре кандидата. ...
+                        ]]></description>
+  <pubDate>Sat, 23 May 2009 16:52:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1243083607#2</guid>
+ </item>
+ <item>
+  <title>Siemens хочет заработать на российской атомной авантюре ("Spiegel", Германия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/249317.html</link>
+  <description><![CDATA[
+                        Атомная энергетика вернулась в России в моду, и до 2030 года планируется построить 26 новых ядерных реакторов. Немецкий индустриальный гигант Siemens ухватил кусок этого пирога, но вопросы безопасности и финансирования грозят омрачить атомные амбиции страны. ...
+                        ]]></description>
+  <pubDate>Sat, 23 May 2009 12:37:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1243083607#3</guid>
+ </item>
+ <item>
+  <title>Хорст Келер переизбран президентом Германии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1738048.html</link>
+  <description><![CDATA[
+                        Президентом Германии на второй пятилетний срок переизбран Хорст Кёлер.Уже в первом туре выборов он набрал на один голос больше требуемого для избрания числа. За Келера проголосовали 613 участников специального собрания, избирающего в Германии президе ... ...
+                        ]]></description>
+  <pubDate>Sat, 23 May 2009 16:53:50 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1243083607#4</guid>
+ </item>
+ <item>
+  <title>Россия и Украина вступили в противоборство из-за своей общей истории</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/22May2009/time/history.html</link>
+  <description><![CDATA[
+                        Не успел затихнуть январский газовый конфликт между Украиной и Россией, как эти страны снова вступили в противоборство друг с другом. Последние события знаменуют собой обострение словесной войны между странами по поводу их тесно связанной истории. ...
+                        ]]></description>
+  <pubDate>Fri, 22 May 2009 16:40:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1243083607#5</guid>
+ </item>
+ <item>
+  <title>Экс-президент Южной Кореи перед самоубийством попросил никого не винить</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/23may2009/uk.html</link>
+  <description><![CDATA[
+                        Полиция Южной Кореи обнародовала содержание предсмертной записки, оставленной бывшим президентом страны Но Му Хеном. Покончивший с собой политик признался, что он "в долгу перед слишком многими людьми". "Причиненная мною им боль слишком велика, и в эти дни ее не измерить", - говорится в записке. ...
+                        ]]></description>
+  <pubDate>Sat, 23 May 2009 16:22:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1243083607#6</guid>
+ </item>
+ <item>
+  <title>Глава Центробанка: Латвия может перейти на талонную систему</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/05/23/n_1364875.shtml</link>
+  <description><![CDATA[
+                        Президент Банка Латвии Илмар Римшевич считает, что страна сейчас стоит перед выбором - либо сокращать бюджетные расходы и получать международный заем для обеспечения функций государства, либо выбрать другой путь, который может привести к ... ...
+                        ]]></description>
+  <pubDate>Sat, 23 May 2009 16:51:30 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1243083607#7</guid>
+ </item>
+ <item>
+  <title>Эксперты перепрошили &quot;хакерские&quot; телефоны Nokia 1100</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/380097.php</link>
+  <description><![CDATA[
+                        Cпециалисты из Ultrascan приобрели копию уязвимой модели Nokia 1100 и сообщают, что смогли с её помощью успешно перехватить чужой mTAN. 	 ...
+                        ]]></description>
+  <pubDate>Fri, 22 May 2009 19:46:47 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1243083607#8</guid>
+ </item>
+ <item>
+  <title>Члены Федерального собрания Германии переизбрали на пост президента Хорста Келера</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/world/2009/05/23/165053.html</link>
+  <description><![CDATA[
+                        Члены Федерального собрания Германии 23 мая переизбрали на второй срок действующего президента страны Хорста Келера.  Из 1223 проголосовавших участников заседания свои голоса в поддержку его кандидатуры отдали 613 человек. Это необходимый минимум для победы на выборах, передает РИА Новости. ...
+                        ]]></description>
+  <pubDate>Sat, 23 May 2009 16:50:53 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1243083607#9</guid>
+ </item>
+ <item>
+  <title>Смотрите прямую трансляцию встречи Патриарха с молодежью</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/56085/</link>
+  <description><![CDATA[
+                        Смотрите прямую трансляцию встречи Патриарха с молодежью ...
+                        ]]></description>
+  <pubDate>Sat, 23 May 2009 17:00:13 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1243083607#10</guid>
+ </item>
+ <item>
+  <title>Как правильно играть на коте?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/253695/#new</link>
+  <description><![CDATA[
+                        <img src=http://img.youtube.com/vi/cxLG2wtE7TM/2.jpg><br /><br />Практические приёмы игры на коте: чмокание над ухом, имитация принюхивающейся собаки, тряска и подбрасывание.. ...
+                        ]]></description>
+  <pubDate>Sat, 23 May 2009 15:53:12 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1243083607#11</guid>
+ </item>
+  </channel>
+ </rss>

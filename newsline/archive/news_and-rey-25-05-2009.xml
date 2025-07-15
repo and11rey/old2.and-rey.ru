@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 25 May 2009 17:00:06 +0400</pubDate>
+         <lastBuildDate>Mon, 25 May 2009 17:00:06 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Пакистан говорит об успехах в боях с талибами</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/05/090525_mingora_troops.shtml</link>
+  <description><![CDATA[
+                        Представители армии Пакистана заявили о прогрессе, достигнутом в боях с боевиками Талибана в самом крупном городе контролируемой экстремистами долины Сват - Мингоре.
+
+ ...
+                        ]]></description>
+  <pubDate>Mon, 25 May 2009 16:16:54 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1243256406#1</guid>
+ </item>
+ <item>
+  <title>Заочное дело адвоката Бориса Кузнецова  прекращено</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/Law/m.151531.html</link>
+  <description><![CDATA[
+                        Замоскворецкий суд Москвы прекратил производство по ходатайству следствия о заочном аресте российского адвоката Бориса Кузнецова, обвиняемого в разглашении гостайны. В постановлении об отмене ходатайства о заочном аресте указано на его преждевременность и незаконность. ...
+                        ]]></description>
+  <pubDate>Mon, 25 May 2009 16:38:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1243256406#2</guid>
+ </item>
+ <item>
+  <title>Кто он, Игорь Юргенс? ("Postimees", Эстония)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/249349.html</link>
+  <description><![CDATA[
+                        На экономическом симпозиуме в Сан-Галене в Швейцарии Россию представлял вице-президент РСПП Игорь Юргенс, который неожиданно очаровал слушателей открытой и произнесенной на свободном английском языке речью. ...
+                        ]]></description>
+  <pubDate>Mon, 25 May 2009 16:32:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1243256406#3</guid>
+ </item>
+ <item>
+  <title>Суд прекратил дело о заочном аресте адвоката Бориса Кузнецова</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1739148.html</link>
+  <description><![CDATA[
+                        Суд в Москве прекратил рассмотрение дела о заочном аресте адвоката Бориса Кузнецова, обвиняемого в разглашении государственной тайны.По сообщению агентств, следственный комитет при прокуратуре России отозвал из суда ходатайство об аресте как преждевр ... ...
+                        ]]></description>
+  <pubDate>Mon, 25 May 2009 16:50:29 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1243256406#4</guid>
+ </item>
+ <item>
+  <title>Женщина, запугавшая Британскую империю </title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/25May2009/independent/punjab.html</link>
+  <description><![CDATA[
+                        Наследный принц Пенджаба еще мальчиком был отлучен от матери, возглавившей сопротивление сикхов против британской колонизации в 1849 году. "Черный принц" забыл о своем происхождении. Однако встреча с матерью разожгла в нем желание отвоевать царство. ...
+                        ]]></description>
+  <pubDate>Mon, 25 May 2009 16:37:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1243256406#5</guid>
+ </item>
+ <item>
+  <title>Эксперты прокомментировали Бюджетное послание: больше денег не получат ни банки, ни "АвтоВАЗ"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/25may2009/experts_comments.html</link>
+  <description><![CDATA[
+                        Новых антикризисных мер и субсидий не будет, на смену им должен прийти антикризисный менеджмент, сходятся во мнении отечественные эксперты, комментируя Бюджетное послание президента Медведева. При этом эксперты не согласны с мнением, что безработица расти в России не будет. ...
+                        ]]></description>
+  <pubDate>Mon, 25 May 2009 16:51:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1243256406#6</guid>
+ </item>
+ <item>
+  <title>"Союз" установили на стартовой площадке Байконура</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/05/25/n_1365441.shtml</link>
+  <description><![CDATA[
+                        Ракету-носитель "Союз" с одноименным пилотируемым космическим кораблем сегодня около 16.00 (мск) установили на первой - Гагаринской - стартовой площадке Байконура, сообщил представитель Федерального космического агентства на ... ...
+                        ]]></description>
+  <pubDate>Mon, 25 May 2009 16:49:43 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1243256406#7</guid>
+ </item>
+ <item>
+  <title>Переход на Windows Vista усилит безопасность американской армии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/380171.php</link>
+  <description><![CDATA[
+                        Правительство Соединенных Штатов Америки приняло решение о переводе всех армейских персональных компьютеров на Windows Vista. Чиновники объясняют данное решение тем, что последняя версия операционной системы обеспечивает более высокий уровень безопасности данных.	 ...
+                        ]]></description>
+  <pubDate>Mon, 25 May 2009 13:04:25 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1243256406#8</guid>
+ </item>
+ <item>
+  <title>"Норильский никель" отчитался об убытках</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/business/2009/05/25/164857.html</link>
+  <description><![CDATA[
+                        Горно-Металлургическая Компания "Норильский никель" по итогам прошлого года получила чистый убыток по Международным Стандартам Финансовой Отчетности в 555 миллионов долларов. Годом ранее "Норильский Никель"  получил прибыль в размере 5,3 миллиарда долларов.    Как сообщает официальный сайт... ...
+                        ]]></description>
+  <pubDate>Mon, 25 May 2009 16:48:57 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1243256406#9</guid>
+ </item>
+ <item>
+  <title>Безликое зло: «Единая Россия» неинтересна своим жертвам</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/56146/</link>
+  <description><![CDATA[
+                        Глеб Павловский умывает руки:  "Единая Россия" теряет внимание публики, что признают уже внутри партии. По его мнению, партия не интересна  даже провластным СМИ. Но  презрение имеет свойство переходить в ненависть. Уже сегодня ЕР вызывает единодушное  неприятие снизу, постепенно переходящее в активную форму. Ну что ж, «Пусть ярость благородная вскипает, как волна!» ...
+                        ]]></description>
+  <pubDate>Mon, 25 May 2009 17:00:16 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1243256406#10</guid>
+ </item>
+ <item>
+  <title>Художественная реконструкция жлобизма</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/253787/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/05/25/2381-154548-ffd5776b7e23e857e745dab48a1dffa4.jpg><br /><br />Жлобизм и жлобство в работах художников проекта "Всемирного союза культурного сопротивления жлобству".  Картина в заголовке этого поста напомнила мне некоторые "горячие" обсуждения на нашем уютном бложике. А что лично вы понимаете про жлобство, %username%? ...
+                        ]]></description>
+  <pubDate>Mon, 25 May 2009 15:45:48 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1243256406#11</guid>
+ </item>
+  </channel>
+ </rss>

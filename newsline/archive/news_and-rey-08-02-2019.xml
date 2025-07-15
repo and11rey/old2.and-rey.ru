@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 08 Feb 2019 17:35:02 +0300</pubDate>
+         <lastBuildDate>Fri, 08 Feb 2019 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Российский Reebok запустил феминистскую кампанию. Она стала мемом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/features-47162693</link>
+  <description><![CDATA[
+                        Российское представительство Reebok запустило свою версию всемирной кампании #Bemorehuman - #нивкакиерамки и взорвало интернет. ...
+                        ]]></description>
+  <pubDate>Fri, 08 Feb 2019 17:20:42 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1549636502#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Гуф заключил мировое соглашение с человеком, избившим его в клубе «Бункер»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/02/08/guf-zaklyuchil-mirovoe-soglashenie-s-chelovekom-izbivshim-ego-v-klube-bunker</link>
+  <description><![CDATA[
+                        Рэпер Гуф (Алексей Долматов) заключил мировое соглашение с человеком, который избил его в клубе «Бункер-42» в октябре. Об этом заявил его адвокат Сергей Жорин. ...
+                        ]]></description>
+  <pubDate>Fri, 08 Feb 2019 16:28:57 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1549636502#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Дело Беналлы: во Франции начато расследование по "российскому контракту"  
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/08Feb2019/lepoint/benalla.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Национальная финансовая прокуратура Франции подтвердила факт открытия расследования в рамках дела Беналлы по контракту, заключенному со скандальным российским олигархом Искандером Махмудовым. ...
+                        ]]></description>
+  <pubDate>Fri, 08 Feb 2019 17:35:04 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1549636502#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Суд прекратил уголовное дело о покушении российского полярника на коллегу в Антарктиде
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29759373.html</link>
+  <description><![CDATA[
+                        Причиной кофликта мог стать спойлер книги ...
+                        ]]></description>
+  <pubDate>Fri, 08 Feb 2019 17:00:11 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1549636502#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Телефоны на Android можно было взломать при помощи PNG-картинки - Bash.News
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/bash.news/news/89697_telefony_na_android_mozhno_bylo_vzlomat_pri_pomoshhi_pngkartinki</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 08 Feb 2019 15:17:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1549636502#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Организатор протестов против мусорного полигона в Коломне стал вторым обвиняемым по "дадинской" статье
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/08feb2019/egorov.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Активисту Вячеславу Егорову, помещенному под домашний арест, предъявили обвинение по статье 212.1 УК РФ. При этом следствие уточнило, какая именно публикация Вячеслава Егорова в интернете явилась &#34;организацией митинга&#34;. Его адвокат назвала это &#34;нонсенсом&#34;. ...
+                        ]]></description>
+  <pubDate>Fri, 08 Feb 2019 17:11:04 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1549636502#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Адаптер для работы с блокчейн Ethereum для платформы данных InterSystems IRIS
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/439560/?utm_campaign=439560</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 08 Feb 2019 17:16:51 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1549636502#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Родным и близким Сергея Юрского
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/letters/59796</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Fri, 08 Feb 2019 13:23:16 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1549636502#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Экономист: почему ЦБ не повысил ключевую ставку
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/282/economy/finance/212843-ekonomist-cb-mozet-ne-povysat-stavku-v-tecenie-god</link>
+  <description><![CDATA[
+                        Центральный банк РФ сохранил ключевую ставку на уровне 7,75% годовых, сообщается на сайте регулятора. ...
+                        ]]></description>
+  <pubDate>Fri, 08 Feb 2019 17:31:44 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1549636502#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  08.02.2019 17:32 : В Великобритании скоропостижно скончался известный актер Альберт Финни
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2367467-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Ему было 82 года.  <br>
+Артист известен по таким фильмам как «Том Джонс», «Убийство в Восточном экспрессе» 1974-го года, «Ультиматум Борна». Финни является обладателем трех премий «Золотой глобус».
+ ...
+                        ]]></description>
+  <pubDate>Fri, 08 Feb 2019 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1549636502#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Экс-начальник курганской полиции назначен главой антиэкстремистского главка МВД
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/649818</link>
+  <description><![CDATA[
+                        Официальный представитель ведомства Ирина Волк и экс-начальник полиции Петербурга Сергей Умнов стали помощниками министра ...
+                        ]]></description>
+  <pubDate>Fri, 08 Feb 2019 17:18:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1549636502#48</guid>
+ </item>
+  </channel>
+ </rss>

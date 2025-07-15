@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 30 May 2009 17:00:10 +0400</pubDate>
+         <lastBuildDate>Sat, 30 May 2009 17:00:10 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>В Пакистане федеральные войска теснят талибов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/05/090530_mingora_regain.shtml</link>
+  <description><![CDATA[
+                        Представители пакистанской армии заявляют, что отвоевали у талибов самый крупный город в долине Сват. ...
+                        ]]></description>
+  <pubDate>Sat, 30 May 2009 16:25:14 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1243688410#1</guid>
+ </item>
+ <item>
+  <title>Российская журналистка попросила убежища в Финляндии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/m.151767.html</link>
+  <description><![CDATA[
+                        Журналистка и правозащитница Елена Маглеванная попросила политического убежища в Финляндии. Ранее суд признал Маглеванную виновной в распространении недостоверной информации. Поводом для иска стали статьи журналистки о пытках осужденного чеченца Зубайра Зубайраева. ...
+                        ]]></description>
+  <pubDate>Sat, 30 May 2009 13:45:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1243688410#2</guid>
+ </item>
+ <item>
+  <title>Партнерство 'против' России ("ISN", Швейцария)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/249508.html</link>
+  <description><![CDATA[
+                        Впрочем, несмотря на свою обычную паранойю по отношению к любым инициативам, хотя бы слегка затрагивающим традиционную сферу влияния Москвы, русские все же кое в чем правы по поводу 'Восточного партнерства'. ...
+                        ]]></description>
+  <pubDate>Sat, 30 May 2009 11:11:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1243688410#3</guid>
+ </item>
+ <item>
+  <title>"Правое дело" выдвигает Надеждина в главы Одинцовского района</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1743100.html</link>
+  <description><![CDATA[
+                        Партия "Правое дело" намерена выдвинуть кандидатом на должность главы Одинцовского района Московской области Бориса Надеждина - руководителя областного отделения партии, в прошлом одного из лидеров Союза правых сил.Решение об этом принял по ... ...
+                        ]]></description>
+  <pubDate>Sat, 30 May 2009 16:56:59 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1243688410#4</guid>
+ </item>
+ <item>
+  <title>Итоги праздника: 134 арестованных и ущерб на сумму 100 тыс. евро</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/29May2009/lavanguardia/barsa.html</link>
+  <description><![CDATA[
+                        В ходе празднования победы "Барселоны" в финале Лиги Чемпионов в Барселоне было задержано 119 человек и еще 15 - в других районах Каталонии. Ущерб, нанесенный городскому недвижимому имуществу, оценивается приблизительно в 100 тыс. евро. ...
+                        ]]></description>
+  <pubDate>Fri, 29 May 2009 17:07:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1243688410#5</guid>
+ </item>
+ <item>
+  <title>В Севастополе со скалы сорвались двое туристов - один погиб</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/30may2009/ture.html</link>
+  <description><![CDATA[
+                        По данным МЧС Украины, инцидент произошел в Гагаринском районе Севастополя, на мысе Фиолент. Во время спуска к морю с 15-метрового склона сорвались двое мужчин, один из которых в результате падения получил смертельные травмы. ...
+                        ]]></description>
+  <pubDate>Sat, 30 May 2009 16:52:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1243688410#6</guid>
+ </item>
+ <item>
+  <title>В Багдаде задержан экс-министр торговли Ирака</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/05/30/n_1367238.shtml</link>
+  <description><![CDATA[
+                        В аэропорту Багдада задержан бывший иракский министр торговли Фалах ас-Судани, обвиняемый  в коррупции. Он был задержан при попытке уехать из страны.
+Ордер на арест экс-министра пока не выдан. Ас-Судани ушел в отставку в начале мая после ... ...
+                        ]]></description>
+  <pubDate>Sat, 30 May 2009 16:51:45 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1243688410#7</guid>
+ </item>
+ <item>
+  <title>Американские военные сервера взломаны турецкими хакерами</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/380521.php</link>
+  <description><![CDATA[
+                        Турецкие хакеры из группировки m0sted взломали два американских военных сервера.	 ...
+                        ]]></description>
+  <pubDate>Fri, 29 May 2009 14:05:10 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1243688410#8</guid>
+ </item>
+ <item>
+  <title>Экспертизу по выявлению причин смерти Евгения Лукинова проведет РСО-Алания в Северной Осетии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/incident/2009/05/30/163241.html</link>
+  <description><![CDATA[
+                        Генпрокуратура Южной Осетии выступила с заявлением, что судебную экспертизу для установления причин смерти журналиста Первого канала Евгения Лукинова проведет министерство здравоохранения РСО-Алания, сообщает ИТАР-ТАСС. В сообщении генпрокуратуры говорится, что "Лукинов Евгений Николаевич 1978... ...
+                        ]]></description>
+  <pubDate>Sat, 30 May 2009 16:32:41 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1243688410#9</guid>
+ </item>
+ <item>
+  <title>«Украина. Повторение пройденного»</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/56341/</link>
+  <description><![CDATA[
+                        Продюсерский центр «Студия Третий Рим» при содействии Фонда «Историческая память» завершил работу над вторым фильмом «Украина. Повторение пройденного». Премьера фильма состоится 1 июня 2009 года в 22.05 на канале «ТВ Центр»... Фильм посвящен одному из самых больных вопросов в современной Украине - возрождению национализма, фальсификациям истории... ...
+                        ]]></description>
+  <pubDate>Sat, 30 May 2009 17:00:17 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1243688410#10</guid>
+ </item>
+ <item>
+  <title>Не нужны им эти заботы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.ej.ru/?a=news&amp;id=9071</link>
+  <description><![CDATA[
+                        Не нужны им эти заботы ...
+                        ]]></description>
+  <pubDate>Fri, 29 May 2009 13:55:00 +0400</pubDate>
+  <source url="http://ej.ru">www.ej.ru - Ежедневный Журнал</source>
+  <guid isPermaLink="false">1243688410#11</guid>
+ </item>
+  </channel>
+ </rss>

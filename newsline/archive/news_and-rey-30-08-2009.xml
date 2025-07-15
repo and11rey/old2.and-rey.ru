@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 30 Aug 2009 17:00:09 +0400</pubDate>
+         <lastBuildDate>Sun, 30 Aug 2009 17:00:09 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Ирак: скрипка против автомата </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/multimedia/2009/08/090825_v_iraq_music.shtml</link>
+  <description><![CDATA[
+                        В Багдаде есть школа, где оркестр учеников и преподавателей играет Бетховена. В школе также учат этикету и хорошим манерам.   ...
+                        ]]></description>
+  <pubDate>Sun, 30 Aug 2009 15:47:48 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1251637209#1</guid>
+ </item>
+ <item>
+  <title>Белорусский самолет Су-27 разбился на авиашоу в Польше</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/World/Europe/Belarus/m.156377.html</link>
+  <description><![CDATA[
+                        Белорусский самолет Су-27 в воскресенье разбился на авиашоу в польском городе Радом. По предварительной информации, самолет упал далеко от зоны, в которой находились зрители. Судьба пилота неизвестна. ...
+                        ]]></description>
+  <pubDate>Sun, 30 Aug 2009 16:22:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1251637209#2</guid>
+ </item>
+ <item>
+  <title>Рон Асмус отвечает Хейлбруну ("National Interest", США)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/252066.html</link>
+  <description><![CDATA[
+                        Рон Асмус пишет, что Джейкоб Хейлбрун неверно понял письмо лидеров стран Центральной и Восточной Европы администрации Обамы. ...
+                        ]]></description>
+  <pubDate>Sun, 30 Aug 2009 13:44:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1251637209#3</guid>
+ </item>
+ <item>
+  <title>Опросы: в Японии на выборах побеждает оппозиция</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090830/17/17.html?id=1810706</link>
+  <description><![CDATA[
+                        В Японии на парламентских выборах, по поступающиям сообщениям, уверенно побеждает оппозиция.  По опросам проголосовавших избирателей, оппозиционная Демократическая партия может получить более 300 мест в парламенте из 480.   Победа оппозиции положит конец полувековому почти беспрерывному правлению в Японии консервативной Либерально-демократической партии.  Избиратели возлагают на нынешнее правительство ответственность за экономические трудности и рекордную безработицу. Демократическая партия ... ...
+                        ]]></description>
+  <pubDate>Sun, 30 Aug 2009 16:54:35 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1251637209#4</guid>
+ </item>
+ <item>
+  <title>День, когда Горбачев сказал: "Не рассчитывайте на наши танки!" </title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/28Aug2009/nouvelobs/gorbi.html</link>
+  <description><![CDATA[
+                        За время пребывания у власти Горбачев ни разу не рассматривал возможность применения силы для "сдерживания" Восточной Европы. Он предупредил лидеров советского блока: "Не рассчитывайте, что наши танки будут поддерживать вас и ваши режимы у власти". ...
+                        ]]></description>
+  <pubDate>Fri, 28 Aug 2009 17:01:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1251637209#5</guid>
+ </item>
+ <item>
+  <title>Белорусский самолет Су-27 разбился на авиашоу в польском Радоме - пилоты погибли</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/30aug2009/pols.html</link>
+  <description><![CDATA[
+                        Су-27 рухнул на землю во время выполнения фигур высшего пилотажа в самом конце своей программы. После падения самолет взорвался, однако это произошло далеко от зрительских трибун, поэтому на земле никто не пострадал. ...
+                        ]]></description>
+  <pubDate>Sun, 30 Aug 2009 16:47:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1251637209#6</guid>
+ </item>
+ <item>
+  <title>Sunday Times: Британия выпустила террориста из-за интересов ВР в Ливии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/08/30/n_1398475.shtml</link>
+  <description><![CDATA[
+                        Решение о выдаче Ливии бывшего сотрудника спец-служб этой страны, Абдельбасета Али Мохмеда аль-Меграхи, осужденного за взрыв в 1988 году пассажирского самолета над шотландским городом Локерби, было принято не в Шотландии, а в Лондоне и не ... ...
+                        ]]></description>
+  <pubDate>Sun, 30 Aug 2009 16:44:38 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1251637209#7</guid>
+ </item>
+ <item>
+  <title>Краткая рекомендация по реагированию на DDoS шантаж.</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/384361.php</link>
+  <description><![CDATA[
+                        Группа информационной безопасности - Group-IB предупреждает: участились случаи шантажа и угроз, связанные с угрозой проведения DDoS атак на online ресурсы.	 ...
+                        ]]></description>
+  <pubDate>Sun, 30 Aug 2009 15:25:34 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1251637209#8</guid>
+ </item>
+ <item>
+  <title>В Польше на авиашоу разбился белорусский Су-27</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/accident/incident/2009/08/30/V_Polshye_razbilsya_.phtml</link>
+  <description><![CDATA[
+                        Белорусский Су-27 разбился на авиашоу в польском городе Радом. Судьба пилотов неизвестна.  ...
+                        ]]></description>
+  <pubDate>Sun, 30 Aug 2009 16:42:52 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1251637209#9</guid>
+ </item>
+ <item>
+  <title>Евреи очень благодарны Медведеву.</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/59214/</link>
+  <description><![CDATA[
+                        Евреи очень благодарны Медведеву. ...
+                        ]]></description>
+  <pubDate>Sun, 30 Aug 2009 16:35:00 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1251637209#10</guid>
+ </item>
+ <item>
+  <title>Причина хорошего настроения</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/258293/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/08/30/90-163829-e22b5eb48a8002516b9d9f8ed51fdd06.jpg><br /><br />Автор: Heinrich v. Schimmer ...
+                        ]]></description>
+  <pubDate>Sun, 30 Aug 2009 16:38:29 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1251637209#11</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 26 Feb 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Wed, 26 Feb 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Лучшие подводные фото: рыбы, люди, корабли
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/features-51644108</link>
+  <description><![CDATA[
+                        Работы победителей конкурса "Подводное фото - 2020" ...
+                        ]]></description>
+  <pubDate>Wed, 26 Feb 2020 17:20:52 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1582727701#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  У троих россиян с лайнера «Даймонд Принсесс» подтвердили коронавирус
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2020/02/26/u-troih-rossiyan-s-laynera-daymond-printsess-podtverdili-koronavirus</link>
+  <description><![CDATA[
+                        У троих россиян с лайнера «Даймонд Принсесс», эвакуированных в Казань, подтвердился коронавирус, сообщает ТАСС со ссылкой на главу Роспотребнадзора Анну Попову. ...
+                        ]]></description>
+  <pubDate>Wed, 26 Feb 2020 16:57:14 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1582727701#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Сидячее положение вредно для психического состояния подростков
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/26Feb2020/lemonde/sit.html?utm_source=rss</link>
+  <description><![CDATA[
+                        У подростков, которые слишком много времени проводят в сидячем положении, повышается риск развития депрессии, утверждают ученые. Эти выводы вызывают озабоченность у авторов исследования: они призывают школы проводить уроки стоя или в активной форме. ...
+                        ]]></description>
+  <pubDate>Wed, 26 Feb 2020 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1582727701#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Родители пропавшей из Пензы заявили на "Сеть" в прокуратуру
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30456118.html</link>
+  <description><![CDATA[
+                        Они просят возбудить уголовное дело об убийстве своей дочери ...
+                        ]]></description>
+  <pubDate>Wed, 26 Feb 2020 17:04:05 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1582727701#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  У трех эвакуированных в Казань россиян подтвержден коронавирус - Интерфакс
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiJWh0dHBzOi8vd3d3LmludGVyZmF4LnJ1L3J1c3NpYS82OTY3OTTSASJodHRwczovL3d3dy5pbnRlcmZheC5ydS9hbXAvNjk2Nzk0?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 26 Feb 2020 16:56:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1582727701#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Россия приостанавливает авиасообщение с Южной Кореей из-за коронавируса
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/26feb2020/aviakorea.html?utm_source=rss</link>
+  <description><![CDATA[
+                        С 1 марта летать в Южную Корею будут только самолеты компаний &#34;Аэрофлот&#34; и &#34;Аврора&#34;. Их задача - вывезти всех россиян. С конца февраля Россия также прекращает выдавать визы иранцам. Исключение будет сделано только для тех, кто въезжает в РФ с деловыми и гуманитарными целями. ...
+                        ]]></description>
+  <pubDate>Wed, 26 Feb 2020 17:27:18 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1582727701#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с рабочей группой по подготовке предложений о внесении поправок в Конституцию
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/62862</link>
+  <description><![CDATA[
+                        Владимир Путин проводит очередную встречу с рабочей
+группой по подготовке предложений о внесении поправок
+в Конституцию Российской Федерации.       ...
+                        ]]></description>
+  <pubDate>Wed, 26 Feb 2020 15:21:36 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1582727701#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Димаш Кудайбергенов: биография казахского певца и претендента на «Евровидение»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/usefull/29/231368-dimas-kudajbergenov-biografia-kazahskogo-pevca-i-pretendenta-na-evrovidenie</link>
+  <description><![CDATA[
+                        Димаш Кудайбергенов. Биография: «Славянский базар», успех в Китае, сотрудничество с Игорем Крутым, кандидат на «Евровидение». ...
+                        ]]></description>
+  <pubDate>Wed, 26 Feb 2020 17:17:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1582727701#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  26.02.2020 17:31 : Первый случай заражения коронавирусом зафиксирован в Латинской Америке
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2595246-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Заболевание подтвердилось у жителя Бразилии, который вернулся из Италии. Заболевший обратился к медикам пару дней назад. Сейчас, по словам представителей властей, пациент изолирован, его состояние стабильно. В Италии ранее произошла самая крупная вспышка коронавируса в Европе. Число заболевших приближается к четыремстам, 12 человек скончались.
+ ...
+                        ]]></description>
+  <pubDate>Wed, 26 Feb 2020 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1582727701#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Путин счел уместным "аккуратно отразить" в Конституции запрет на фальсификацию истории
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/696798</link>
+  <description><![CDATA[
+                        Президент РФ Владимир Путин считает возможным внесение в Конституцию специального положения о недопустимости фальсификации отечественной истории. ...
+                        ]]></description>
+  <pubDate>Wed, 26 Feb 2020 17:18:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1582727701#48</guid>
+ </item>
+  </channel>
+ </rss>

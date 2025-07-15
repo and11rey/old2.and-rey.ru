@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 17 Nov 2016 17:35:02 +0300</pubDate>
+         <lastBuildDate>Thu, 17 Nov 2016 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Сенатор Кардин подготовил законопроект об ответе на российские кибератаки
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/graniru.org/Politics/World/US/m.256718.html</link>
+  <description><![CDATA[
+                        Сенатор-демократ Бен Кардин, автор "закона Магнитского", подготовил "всеобъемлющий" законопроект об ответных мерах в связи с действиями Кремля в Европе и Сирии, а также с российскими кибератаками на избирательную систему США. "Россия не наш партнер, - заявил сенатор. - Она хулиган. Атакуют ли вас МиГом или мышью, это все равно атака. Она требует ответа". ...
+                        ]]></description>
+  <pubDate>Thu, 17 Nov 2016 09:27:00 +0300</pubDate>
+  <source url="http://d2i3c4yj91a1b5.cloudfront.net">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1479393302#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Сдерживать Кремль
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28124038.html</link>
+  <description><![CDATA[
+                        Понимает ли Европа опасность путинизма? Обсудят Владимир Рыжков, Михаил Тульский, Константин Боровой. Эфир в 19:05 ...
+                        ]]></description>
+  <pubDate>Thu, 17 Nov 2016 17:05:49 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1479393302#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Лукашенко между Кремлем и Госдепом: белорусский оппозиционер обозначил курс Батьки - Московский Комсомолец
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNEkYgwVwAOTJKo6BBY7JfPUXogIhw&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779892586259&amp;ei=IcAtWML_FKOryAOOh7XoCQ&amp;url=http://www.mk.ru/politics/2016/11/17/lukashenko-mezhdu-kremlem-i-gosdepom-belorusskiy-oppozicioner-oboznachil-kurs-batki.html</link>
+  <description><![CDATA[
+                        Президент Белоруссии Александр Лукашенко дал в Минске большую пресс-конференцию. Среди прочего он высказался о ввозе нелегального оружия с Украины, потоку которого белорусы препятствуют «грудью» на границе. Между тем на этой неделе в Москве белорусская иВ ... ...
+                        ]]></description>
+  <pubDate>Thu, 17 Nov 2016 17:15:43 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1479393302#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Президентом Федерации бокса России избрали Эдуарда Хусаинова
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/17nov2016/fbr.html?rss</link>
+  <description><![CDATA[
+                        Отчетно-выборная конференция Федерации бокса России (ФБР) в четверг на своем заседании в Москве избрала Эдуарда Хусаинова новым президентом организации. За Хусаинова отдали голоса 39 делегатов конференции из 44. ...
+                        ]]></description>
+  <pubDate>Thu, 17 Nov 2016 17:33:00 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1479393302#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ROS Workshop 2016: разбор задачи безопасного управления роботом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/282472/</link>
+  <description><![CDATA[
+                        Добрый день, уважаемые хабрачитатели! В прошлую пятницу в нашей лаборатории проходил практический мастеркласс по платформе ROS — ROS workshop. Воркшоп был организован для студентов факультета информационных технологий Технического университета Брно, желающих познакомиться с этой платформой. В отличие от предыдущих лет (воркшоп проводится уже 4 года), в этот раз ROS workshop был ориентирован на самостоятельную практическую работу. В статье я собираюсь рассказать о задаче, которая была поставлена  ...
+                        ]]></description>
+  <pubDate>Thu, 17 Nov 2016 15:09:24 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes</source>
+  <guid isPermaLink="false">1479393302#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  19–20 ноября Владимир Путин примет участие в саммите АТЭС в Перу
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/53264</link>
+  <description><![CDATA[
+                        19–20 ноября Президент России посетит Республику Перу для участия в 24-й встрече глав
+государств и правительств форума «Азиатско-Тихоокеанское экономическое
+сотрудничество» (АТЭС).     ...
+                        ]]></description>
+  <pubDate>Thu, 17 Nov 2016 15:25:24 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1479393302#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российские ученые разгадали тайну скелетной революции 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/science/past/2016/11/17/Rossiyskiye_uchyenyy.phtml</link>
+  <description><![CDATA[
+                        Палеонтологическая экспедиция, работавшая в Хабаровском крае, сумела разгадать тайну скелетной революции, произошедшей на Земле около 545 млн лет назад. Оказалось, что в это время изменился химический состав океана, что позволило самым разным животным одновременно обзавестись твердым скелетом.   ...
+                        ]]></description>
+  <pubDate>Thu, 17 Nov 2016 15:32:59 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1479393302#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  17.11.2016 17:31 : Возможность перехода к прогрессивной шкале подоходного налога можно рассмотреть после 18-го года
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1875964-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Так считает министр финансов Антон Силуанов. На встрече с депутатами от КПРФ он пояснил, что в нынешних сложных условиях, когда снижаются реальные доходы населения, это будет стимулировать уход зарплат в тень.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 17 Nov 2016 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1479393302#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Бывший вице-губернатор Петербурга Оганесян обвинен в хищении при строительстве стадиона
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/537437</link>
+  <description><![CDATA[
+                        Задержанный в ходе допроса отказался от дачи показаний ...
+                        ]]></description>
+  <pubDate>Thu, 17 Nov 2016 17:32:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1479393302#48</guid>
+ </item>
+  </channel>
+ </rss>

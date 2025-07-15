@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 04 Aug 2018 17:35:13 +0300</pubDate>
+         <lastBuildDate>Sat, 04 Aug 2018 17:35:13 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  ООН: Северная Корея и не думает сворачивать ядерную программу
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-45068820</link>
+  <description><![CDATA[
+                        Группа независимых экспертов представила ООН доклад, в котором утверждает, что КНДР не соблюдает взятые на себя обязательства и даже пытается торговать оружием. ...
+                        ]]></description>
+  <pubDate>Sat, 04 Aug 2018 16:28:35 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1533393313#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Privyet Maria, kak di la? Как Мария Бутина переписывалась с советником штаба Трампа: The Washington Post
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/feature/2018/08/04/privyet-maria-kak-di-la-kak-mariya-butina-perepisyvalas-s-sovetnikom-shtaba-trampa-the-washington-post</link>
+  <description><![CDATA[
+                        Газета The Washington Post рассказала о переписке россиянки Марии Бутиной с бывшим советником штаба Дональда Трампа Джеем Ди Гордоном, который осенью 2016 года считался участником будущей переходной команды Трампа в случае его победы на выборах. ...
+                        ]]></description>
+  <pubDate>Sat, 04 Aug 2018 17:15:11 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1533393313#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Пакистан: новый шелковый путь
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/03Aug2018/lefigaro/pakistan_china.html?utm_source=rss</link>
+  <description><![CDATA[
+                        От порта Гвадар в Аравийском море до Гималайских гор, Китай возрождает древний маршрут Великого шелкового пути династии Хань через нынешний Пакистан. Астрономический проект протяженностью 2 тыс. км перетасовывает карты геополитики в Азии. ...
+                        ]]></description>
+  <pubDate>Fri, 03 Aug 2018 19:44:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1533393313#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Reuters: США "очень холодно" встретили предложения России по Сирии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29412458.html</link>
+  <description><![CDATA[
+                        Глава Генштаба России предлагал США сотрудничество в восстановлении Сирии ...
+                        ]]></description>
+  <pubDate>Sat, 04 Aug 2018 14:50:59 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1533393313#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  BMW X5 священника попал в смертельную аварию
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/auto.rambler.ru/roadaccidents/40488798-lyuksovaya-inomarka-svyaschennika-ubila-zhenschinu/</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 04 Aug 2018 15:34:11 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1533393313#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Трамп усомнился в умственных способностях главной звезды НБА
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/04aug2018/lebron.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Президент США Дональд Трамп на своей странице в Twitter написал, что главная звезда НБА Леброн Джеймс может казаться умным лишь на фоне &#34;самого тупого человека на телевидении&#34;. Таким образом, Трамп отреагировал на критику в свой адрес. ...
+                        ]]></description>
+  <pubDate>Sat, 04 Aug 2018 15:58:21 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1533393313#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Из песочницы] Как мы учили ИИ распознавать скопления галактик
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/post/419223/?utm_campaign=419223</link>
+  <description><![CDATA[
+                        
+
+Недавно, вместе с командой друзей-астрофизиков, я закончила проект, целью которого был поиск далеких, скрытых тканью космоса галактик и их скоплений. Сейчас я поделюсь с вами тем, что мы сделали в результате этой непростой работы.  Читать дальше в†’ ...
+                        ]]></description>
+  <pubDate>Sat, 04 Aug 2018 16:58:15 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1533393313#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Установлена новая памятная дата – День принятия Крыма, Тамани и Кубани в состав Российской империи в 1783 году
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/acts/news/58227</link>
+  <description><![CDATA[
+                        Президент подписал Федеральный
+закон «О внесении изменений в статью 11 Федерального закона «О днях воинской славы и памятных датах России».    ...
+                        ]]></description>
+  <pubDate>Sat, 04 Aug 2018 14:49:30 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1533393313#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Что сказал Петросян о разделе миллиардов со Степаненко
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/284/social/society/207430-cto-skazal-petrosan-o-razdele-milliardov-so-stepanenko</link>
+  <description><![CDATA[
+                        Юморист Евгений Петросян впервые прокомментировал раздел имущества на 1,5 миллиарда рублей, который он ведет с супругой Еленой Степаненко. ...
+                        ]]></description>
+  <pubDate>Sat, 04 Aug 2018 16:48:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1533393313#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  04.08.2018 17:33 :  В Дании впервые оштрафовали женщину за ношение мусульманского платка, который полностью закрывает лицо
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2252964-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Как передает Би-би-си, полицейские прибыли в торговый центр города Хорсхольм по вызову из-за драки между двумя женщинами, одна из которых пыталась сорвать никаб с другой. Полицейские попросили снять платок. Женщина отказалась и была оштрафована на 134 евро. Запрет на ношение в общественных местах головных уборов, которые закрывают лицо, вступил в Дании с 1 августа .
+ ...
+                        ]]></description>
+  <pubDate>Sat, 04 Aug 2018 17:33:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1533393313#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Юморист Петросян подал встречный иск к своей супруге Степаненко
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/culture/623906</link>
+  <description><![CDATA[
+                        Юморист Евгений Петросян подал встречный иск к своей супруге Елене Степаненко в рамках бракоразводного процесса, сообщил "Интерфаксу" в субботу адвокат артиста Сергей Жорин. ...
+                        ]]></description>
+  <pubDate>Sat, 04 Aug 2018 17:10:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1533393313#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 18 Sep 2009 17:00:07 +0400</pubDate>
+         <lastBuildDate>Fri, 18 Sep 2009 17:00:07 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Арктический лед стал таять медленнее</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/09/090918_ice_melting.shtml</link>
+  <description><![CDATA[
+                        Ученые заявляют, что этим летом арктический лед таял менее обильно, чем в предыдущие два года. ...
+                        ]]></description>
+  <pubDate>Fri, 18 Sep 2009 16:53:34 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1253278807#1</guid>
+ </item>
+ <item>
+  <title>По указанию Митволя демонтирована вывеска шашлычной "Антисоветская"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/m.157435.html</link>
+  <description><![CDATA[
+                        Шашлычная "Антисоветская" на Ленинградском проспекте в Москве лишится вывески по требованию районной управы. На название кафе пожаловалась одна из ветеранских организаций, и префект Северного округа Олег Митволь пообещал, что 65-летие Победы Москва "встретит без подобного рода заведений". ...
+                        ]]></description>
+  <pubDate>Fri, 18 Sep 2009 16:40:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1253278807#2</guid>
+ </item>
+ <item>
+  <title>Заявление Роберта Гейтса по системе ПРО в Европе ("Русская служба "Голоса Америки"", США)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/252768.html</link>
+  <description><![CDATA[
+                        Министр обороны США Роберт Гейтс выступил на брифинге в Пентагоне со следующим заявлением: 'На этой неделе президент Обама по рекомендации Совета национальной безопасности и военного руководства решил изменить архитектуру системы противоракетной обороны в Европе. Этот шаг, по моему убеждению, укрепит нашу способность отвечать как на непосредственные, так и на будущие угрозы континенту". ...
+                        ]]></description>
+  <pubDate>Fri, 18 Sep 2009 16:24:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1253278807#3</guid>
+ </item>
+ <item>
+  <title>Все в церковь!</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/1825685.html</link>
+  <description><![CDATA[
+                        Впервые за почти пятьсот лет своей истории британская англиканская церковь организовала рекламную кампанию на радио. 
+ ...
+                        ]]></description>
+  <pubDate>Fri, 18 Sep 2009 16:15:37 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1253278807#4</guid>
+ </item>
+ <item>
+  <title>Почему Обама отказался от европейского ракетного щита</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/18Sep2009/csmonitor/obama11.html</link>
+  <description><![CDATA[
+                        Решение президента Барака Обамы об отказе от создания системы противоракетной обороны в Восточной Европе является результатом анализа рентабельности, проведенного администрацией, которая с самого начала скептически относилась к программе. ...
+                        ]]></description>
+  <pubDate>Fri, 18 Sep 2009 15:48:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1253278807#5</guid>
+ </item>
+ <item>
+  <title>Между Рузвельтом и офшором</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/columnists/18sep2009/volkov.html</link>
+  <description><![CDATA[
+                        От того, как власти будут решать проблему трудоустройства и социальной реабилитации уволенных работников "АвтоВАЗа" зависит не только, удастся ли предотвратить социальный взрыв в крупном российском городе, но и появится ли реально действующая модель антикризисной санации проблемных активов, которую можно было бы применить по всей стране. ...
+                        ]]></description>
+  <pubDate>Fri, 18 Sep 2009 16:59:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1253278807#6</guid>
+ </item>
+ <item>
+  <title>В Польше 12 шахтеров погибли от взрыва метана</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/09/18/n_1405031.shtml</link>
+  <description><![CDATA[
+                        Как сообщают польские власти, 12 шахтеров погибли от взрыва метана на юго-западе Польши. Когда прогремел взрыв, рабочие находились в шахте на глубине более тысячи ... ...
+                        ]]></description>
+  <pubDate>Fri, 18 Sep 2009 16:46:10 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1253278807#7</guid>
+ </item>
+ <item>
+  <title>В Госдуме готовится законопроект об электронных деньгах</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/385542.php</link>
+  <description><![CDATA[
+                        Комитет по финансовым рынкам Госдумы готовит законопроект об электронных деньгах. Центробанк России может стать регулятором эмитентов электронных денег. 	 ...
+                        ]]></description>
+  <pubDate>Fri, 18 Sep 2009 12:11:47 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1253278807#8</guid>
+ </item>
+ <item>
+  <title>Три велогонщика попались на допинге</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/sport/summer/2009/09/18/Tri_vyelogonshcika_p.phtml</link>
+  <description><![CDATA[
+                        Еще три велогонщика попались на допинге. Два из них должны были принимать участие в чемпионате мира по дорожным гонкам, который пройдет в швейцарском Мендризио. ...
+                        ]]></description>
+  <pubDate>Fri, 18 Sep 2009 16:52:00 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1253278807#9</guid>
+ </item>
+ <item>
+  <title>Гей, Израиль!</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/59780/</link>
+  <description><![CDATA[
+                        …израильский министр социального обеспечения Ицхак Герцог заявил, что будет добиваться бюджетных ассигнований для финансирования гей-клубов… незримый, но актуальный лозунг дня в Израиле: эффективный сионист должен стать педерастом! ...
+                        ]]></description>
+  <pubDate>Fri, 18 Sep 2009 16:59:00 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1253278807#10</guid>
+ </item>
+ <item>
+  <title>Пост № 259309</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/259309/#new</link>
+  <description><![CDATA[
+                        Золотые лопаты. Барxатные черенки. Xромированые тачки. Гламурная стройка.<br />
+Нет, это не про Равшана с Джумшутом. Эти парни круче. И еще немного официального фото. ...
+                        ]]></description>
+  <pubDate>Fri, 18 Sep 2009 15:59:09 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1253278807#11</guid>
+ </item>
+  </channel>
+ </rss>

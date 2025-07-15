@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 08 Oct 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Thu, 08 Oct 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Пентагон заказал у SpaceX космический транспортник
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-54467836</link>
+  <description><![CDATA[
+                        Компания Илона Маска SpaceX работает над транспортным проектом в интересах министерства обороны США. ...
+                        ]]></description>
+  <pubDate>Thu, 08 Oct 2020 17:21:32 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1602167701#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Дебаты перед выборами в США перевели в онлайн-формат. Трамп заявил, что «не будет тратить на это время»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2020/10/08/debaty-pered-vyborami-v-ssha-pereveli-v-onlayn-format-tramp-zayavil-chto-ne-budet-tratit-na-eto-vremya</link>
+  <description><![CDATA[
+                        Комиссия по президентским дебатам в США решила перевести в онлайн-формат вторые дебаты между Дональдом Трампом и Джо Байденом. ...
+                        ]]></description>
+  <pubDate>Thu, 08 Oct 2020 17:29:52 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1602167701#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  "У меня везде были гематомы, я был в ужасе": рассказывают белорусские раненые, которые лечатся в Польше
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/08Oct2020/lefigaro/belorussia.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Польша принимает белорусов, пострадавших во время демонстраций в Минске против режима Лукашенко, в санатории в Душниках-Здруй: они рассказывают о своих ранениях и о событиях, с этим связанных. ...
+                        ]]></description>
+  <pubDate>Thu, 08 Oct 2020 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1602167701#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  МИД Армении лишил аккредитации журналиста "Новой газеты"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30882586.html</link>
+  <description><![CDATA[
+                        Министерство иностранных дел Армении аннулировало журналистскую аккредитацию корреспондента "Новой газеты" Ильи Азара, ранее выданную для работы в Нагорном Карабахе.
+
+
+"Официально за то, что я без аккредитации въехал в Карабах, хотя изначально МИД выдал мне, как и остальным журналистам, аккредитацию именно для работы в Карабахе. Якобы уже в процессе (когда я был в Карабахе, куда пограничники НКР пропускают без вопросов) процедура аккредитации была изменена, о чем сообщали по имейлу (!). Неофициа ...
+                        ]]></description>
+  <pubDate>Thu, 08 Oct 2020 16:22:06 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1602167701#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В воде на Камчатке нашли 11-кратное превышение загрязнителей - Lenta
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiLWh0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIwLzEwLzA4L3phZ3J5YXpuZW5vL9IBM2h0dHBzOi8vbS5sZW50YS5ydS9uZXdzLzIwMjAvMTAvMDgvemFncnlhem5lbm8vYW1wLw?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 08 Oct 2020 16:28:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1602167701#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Призер лондонской Олимпиады штангист Албегов и еще пятеро россиян дисквалифицированы за допинг
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/08oct2020/ruddoping.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Международная федерация тяжелой атлетики дисквалифицировала бронзового призера Олимпийских игр 2012 года Руслана Албегова, чемпионку мира Тиму Туриеву и еще четверых россиян за нарушение антидопинговых правил. Год назад спортсмены были временно отстранены от соревнований на основании данных из московской антидопинговой лаборатории. ...
+                        ]]></description>
+  <pubDate>Thu, 08 Oct 2020 17:19:15 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1602167701#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Восстановление утраченных текстов с помощью современных алгоритмов. Софт
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/521872/?utm_campaign=521872&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        
+
+В первой части мы с вами поговорили о научном оборудовании, которое используется для прочтения, казалось бы, утраченных навсегда текстов. А теперь мы поговорим о том, как обрабатывать эти данные. Мы рассмотрим интересные цветовые пространства, алгоритмы, фильтры и методы статистического анализа. Но перед этим еще раз вернемся к их извлечению. Нам, простым смертным, доступны два варианта — сканеры и фотоаппараты*.  Читать дальше в†’ ...
+                        ]]></description>
+  <pubDate>Thu, 08 Oct 2020 17:24:09 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1602167701#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Владимир Путин провёл совещание по вопросам МЧС
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/64179</link>
+  <description><![CDATA[
+                        Глава МЧС Евгений Зиничев доложил в ходе
+совещания о действиях по ликвидации чрезвычайной ситуации,
+произошедшей 7 октября в Рязанской области, где в результате
+возгорания сухой растительности произошёл пожар с последующими взрывами
+на территории складов с боеприпасами.      ...
+                        ]]></description>
+  <pubDate>Thu, 08 Oct 2020 13:49:38 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1602167701#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Как создавался первый иммерсивный спектакль-экскурсия Invisible Moscow
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/press/244114-kak-sozdavalsa-pervyj-immersivnyj-spektakl-ekskursia-invisible-moscow</link>
+  <description><![CDATA[
+                        Invisible Moscow — это спектакль, в котором вы в буквальном смысле слышите мысли главной героини, видите мир её глазами, идете её маршрутом и проживаете с ней её личную историю. ...
+                        ]]></description>
+  <pubDate>Thu, 08 Oct 2020 16:13:35 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1602167701#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  08.10.2020 17:34 : Суд Ленинградской области досрочно освободил националиста Вячеслава Дацика
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2722193-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Решение, если оно не будет обжаловано, вступит в законную силу 13 октября, сообщили «Коммерсанту» в пресс-службе суда. Дацика, известного под прозвищем Рыжий Тарзан, и его знакомого Дмитрия Вечкина задержали в декабре прошлого года по подозрению в попытке незаконно пересечь границу России и Эстонии по реке Нарва. В июне оба получили по одному году лишения свободы.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 08 Oct 2020 17:34:16 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1602167701#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Жителей Польши обяжут носить маски на улице
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/730623</link>
+  <description><![CDATA[
+                        Премьер-министр Польши Матеуш Моравецкий объявил об ужесточении с субботы масочного режима на территории страны, сообщают европейские СМИ. ...
+                        ]]></description>
+  <pubDate>Thu, 08 Oct 2020 17:24:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1602167701#48</guid>
+ </item>
+  </channel>
+ </rss>

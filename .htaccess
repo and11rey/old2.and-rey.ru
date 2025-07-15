@@ -1,0 +1,13 @@
+# --------------------------------
+# old2.and-rey.ru - document root
+# --------------------------------
+
+## forbidden
+<RequireAll>
+    Require all granted
+    Require not ip 45.142.122.73
+    Require not ip 83.147.52.0/22
+    Require not ip 185.130.44.88
+    Require not ip 185.224.128.43
+    Require not ip 20.171.207.0/22
+</RequireAll>

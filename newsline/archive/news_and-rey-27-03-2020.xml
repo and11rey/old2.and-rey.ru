@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 27 Mar 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Fri, 27 Mar 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Коронавирус унес рекордное число жизней за сутки в Испании
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-52062034</link>
+  <description><![CDATA[
+                        За последние сутки число умерших от Covid-19 в Испании выросло на 769. Всего в стране от коронавируса умерло 4858 человек. ...
+                        ]]></description>
+  <pubDate>Fri, 27 Mar 2020 17:15:07 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1585319701#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Это как паршивый затяжной грипп с высокой температурой». Борис Акунин рассказал о течении COVID-19
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2020/03/27/eto-kak-parshivyy-zatyazhnoy-gripp-s-vysokoy-temperaturoy-boris-akunin-rasskazal-o-techenii-covid-19</link>
+  <description><![CDATA[
+                        Писатель Борис Акунин, у которого был диагностирован коронавирус, рассказал о том, как происходит течение болезни. ...
+                        ]]></description>
+  <pubDate>Fri, 27 Mar 2020 17:22:33 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1585319701#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Китай блокирует границы, чтобы предотвратить вторую волну заражения 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/27Mar2020/lefigaro/china.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Во времена коронавируса руководимая Си Цзиньпином "мировая фабрика" забаррикадировалась, вновь обретя древние рефлексы императорских династий Цин и Мин, которые веками отворачивались от иностранных государств, а затем приходили в упадок. ...
+                        ]]></description>
+  <pubDate>Fri, 27 Mar 2020 17:35:07 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1585319701#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Карелии будет введён карантин и закрыт общественный транспорт
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30513177.html</link>
+  <description><![CDATA[
+                        Такое решение приняли власти региона
+
+ ...
+                        ]]></description>
+  <pubDate>Fri, 27 Mar 2020 16:52:07 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1585319701#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  СМИ сообщили об отказе от саудовской нефти США и Европы - Газета.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmdhemV0YS5ydS9idXNpbmVzcy9uZXdzLzIwMjAvMDMvMjcvbl8xNDIxNDMwMS5zaHRtbNIBQWh0dHBzOi8vbS5nYXpldGEucnUvYW1wL2J1c2luZXNzL25ld3MvMjAyMC8wMy8yNy9uXzE0MjE0MzAxLnNodG1s?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 27 Mar 2020 16:41:45 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1585319701#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российский Минздрав опубликовал  список возможных лекарств для лечения COVID-19 у взрослых
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/27mar2020/recommended.html?utm_source=rss</link>
+  <description><![CDATA[
+                        По опубликованным данным, эти лекарственные препараты сегодня также могут применяться при лечении пациентов с COVID-19. При этом, правда, отмечается, что имеющихся на сегодняшний день сведений недостаточно для того, чтобы сделать однозначные вывод об эффективности препаратов. ...
+                        ]]></description>
+  <pubDate>Fri, 27 Mar 2020 17:18:31 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1585319701#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с главой компании «Газпром» Алексеем Миллером
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/63075</link>
+  <description><![CDATA[
+                        Председатель правления ПАО «Газпром» информировал
+Президента об итогах работы компании в 2019 году и планах
+на 2020 год. Отдельно А.Миллер доложил о возможностях поставки
+газа для потребителей Восточной Сибири и Китая.      ...
+                        ]]></description>
+  <pubDate>Fri, 27 Mar 2020 14:24:48 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1585319701#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Тюменской области создали штаб поддержки предпринимательства
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/250/233009-v-tumenskoj-oblasti-sozdali-stab-podderzki-predprinimatelstva</link>
+  <description><![CDATA[
+                        Эдуард Омаров, депутат Тюменской областной Думы, вице-президент ТРО «ОПОРА России» встретился с предпринимательским сообществом региона. Темой обсуждения стала экономическая ситуация, связанная с введением карантина. ...
+                        ]]></description>
+  <pubDate>Fri, 27 Mar 2020 17:17:31 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1585319701#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  27.03.2020 17:34 : Заседание  суда  по  делу  обвиняемого  в  шпионаже  Пола  Уиллана 30   марта  не состоится
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2614233-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Как сообщает  Мосгорсуд,  из-за  коронавируса  суд  перенесен  на 13 апреля.
+ ...
+                        ]]></description>
+  <pubDate>Fri, 27 Mar 2020 17:34:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1585319701#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  "ФосАгро" потребовало ввести срочный карантин в городах присутствия компании
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/701249</link>
+  <description><![CDATA[
+                        Гендиректор "ФосАгро" Андрей Гурьев требует срочно ввести жесткий карантин, близкий к чрезвычайной ситуации, в городах присутствия компании - Кировске, Апатитах, Череповце, Балакове, Волхове, а также в портах Ленинградской и Мурманской областей, сообщила пресс-служба компании. ...
+                        ]]></description>
+  <pubDate>Fri, 27 Mar 2020 17:16:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1585319701#48</guid>
+ </item>
+  </channel>
+ </rss>

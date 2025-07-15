@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 21 Aug 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Fri, 21 Aug 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Дело против совета оппозиции. Как прошли допросы в Минске
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/media-53866437</link>
+  <description><![CDATA[
+                        Два представителя созданного на этой неделе Координационного совета оппозиции явились на допрос в Следственный комитет Беларуси. ...
+                        ]]></description>
+  <pubDate>Fri, 21 Aug 2020 17:07:31 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1598020501#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Кира Ярмыш: немецкие врачи одобрили эвакуацию Навального в Германию. Российские врачи по-прежнему возражают
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2020/08/21/kira-yarmysh-nemetskie-vrachi-odobrili-otpravku-navalnogo-v-germaniyu-rossiyskie-vrachi-po-prezhnemu-vozrazhayut</link>
+  <description><![CDATA[
+                        Врачи из Германии, осмотревшие политика Алексея Навального в реанимации омской больницы, считают, что он транспортабелен, а оборудование их самолета позволяет безопасно перевезти его в Берлин. Об этом в твиттере сообщила пресс-секретарь Навального Кира Ярмыш. Она не уточнила, откуда получила эту информацию. ...
+                        ]]></description>
+  <pubDate>Fri, 21 Aug 2020 17:00:02 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1598020501#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Невозможно делать одновременно две вещи хорошо, но можно сегментировать свое внимание, утверждает эксперт
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/21Aug2020/slatefr/multitask.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Мы не способны выполнять правильно и одновременно две задачи, требующие концентрации внимания, утверждает эксперт, ставя под сомнение возможность "многозадачности". ...
+                        ]]></description>
+  <pubDate>Fri, 21 Aug 2020 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1598020501#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Ашхабаде несколько десятков человек арестованы на 15 суток за настройку VPN на телефонах
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30795817.html</link>
+  <description><![CDATA[
+                        Власти Туркмении усиливают преследование за доступ к заблокированным сервисам ...
+                        ]]></description>
+  <pubDate>Fri, 21 Aug 2020 15:59:54 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1598020501#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Турция нашла свой газ на смену российскому - Lenta.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiKGh0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIwLzA4LzIxL3R1cmtleS_SAS5odHRwczovL20ubGVudGEucnUvbmV3cy8yMDIwLzA4LzIxL3R1cmtleS9hbXAv?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 21 Aug 2020 16:32:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1598020501#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Эрдоган объявил об открытии "крупного месторождения" газа в турецких водах Черного моря
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/21aug2020/erdogan.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Он уверен, что открытие&#34;крайне важно с точки зрения энергетической независимости страны&#34;. Месторождение обнаружило судно &#34;Фатих&#34;, которое вышло на геологоразведочные работы  на участке &#34;Дунай-1&#34;, который находится во внутренних водах Турции вблизи румынской и болгарской границ. ...
+                        ]]></description>
+  <pubDate>Fri, 21 Aug 2020 17:12:16 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1598020501#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Цифровая камера с дискетой: обозреваем Sony Mavica MVC-FD73
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/516120/?utm_campaign=516120&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        
+ 
+Привет, Хабр! Мы вводим новую рубрику «Обзор раритета», которая будет выходить каждую пятницу. Здесь мы будем публиковать обзоры старых интересных устройств, которые не заслужили забвения. Более того, некоторые из них актуальны и по сей день.
+ 
+Сегодня расскажем о цифровой камере Sony Mavica MVC-FD73, которая выделяется среди себе подобных надежностью, качеством снимков и способом их хранения. В камере нет карт памяти, что естественно для 1999 года, но зато есть дисковод для флоппи-дисков, ко ...
+                        ]]></description>
+  <pubDate>Fri, 21 Aug 2020 17:22:27 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1598020501#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  О приёме документов на соискание премии Президента в области литературы и искусства за произведения для детей и юношества
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/councils/63925</link>
+  <description><![CDATA[
+                        Совет при Президенте Российской Федерации
+по культуре и искусству объявляет о приёме
+с 1 сентября 2020 года документов на соискание премии
+Президента Российской Федерации в области литературы и искусства
+за произведения для детей и юношества за 2020 год.    ...
+                        ]]></description>
+  <pubDate>Fri, 21 Aug 2020 15:02:19 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1598020501#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Россия и Китай заставили США обновить палубную авиацию
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/282/241379-rossia-i-kitaj-zastavili-ssa-obnovit-palubnuu-aviaciu</link>
+  <description><![CDATA[
+                        В США раньше срока задумались о создании нового палубного истребителя-бомбардировщика. ...
+                        ]]></description>
+  <pubDate>Fri, 21 Aug 2020 17:00:13 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1598020501#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Эстония и Латвия введут национальные санкции против Минска
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/722748</link>
+  <description><![CDATA[
+                        Министры иностранных дел Эстонии и Латвии Урмас Рейнсалу и Эдгар Ринкевич выступили в пятницу с совместным заявлением, в котором сообщили о введении национальных санкций в отношении официальных лиц Белоруссии. ...
+                        ]]></description>
+  <pubDate>Fri, 21 Aug 2020 17:02:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1598020501#48</guid>
+ </item>
+  </channel>
+ </rss>

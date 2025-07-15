@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 16 Dec 2009 17:00:07 +0300</pubDate>
+         <lastBuildDate>Wed, 16 Dec 2009 17:00:07 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Умер "русский Шварценеггер" Владимир Турчинский</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2009/12/091216_russia_turchinskiy_death.shtml</link>
+  <description><![CDATA[
+                        Богатырская стать не помогла атлету, признанному в 1998 году самым сильным человеком в России. Он ушел из жизни в 46 лет от внезапной остановки сердца. ...
+                        ]]></description>
+  <pubDate>Wed, 16 Dec 2009 16:33:44 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1260972007#1</guid>
+ </item>
+ <item>
+  <title>Вывод из заключения</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/World/US/m.172219.html</link>
+  <description><![CDATA[
+                        Президент США принял решение  перевести всех заключенных, остающихся на американской территории Гуантанамо на Кубе, в пустующую тюрьму в городе Томсон, штат Иллинойс. Иллинойс избран не случайно: это штат, где сделал свою карьеру Барак Обама.  ...
+                        ]]></description>
+  <pubDate>Wed, 16 Dec 2009 17:00:09 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1260972007#2</guid>
+ </item>
+ <item>
+  <title>Обзор СМИ стран СНГ и Балтии (16.12)
+			    ( "ИноСМИ", Россия )
+			</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/sngbaltia/20091216/157037456.html</link>
+  <description><![CDATA[
+                        Сегодня разглагольствовать о российско-белорусском союзном государстве — почти то же, что говорить о веревке в доме повешенного. ...
+                        ]]></description>
+  <pubDate>Wed, 16 Dec 2009 16:59:20 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1260972007#3</guid>
+ </item>
+ <item>
+  <title>Прощание с Егором Гайдаром состоится в субботу в Москве в ЦКБ</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091216/17/17.html?id=1905661</link>
+  <description><![CDATA[
+                        Прощание с Егором Гайдаром состоится в субботу в Москве в Центральной клинической больнице. О том, где он будет похоронен, пока не сообщается.  Егор Гайдар - известный российский экономист и политик - скончался в среду утром в возрасте 53 лет. Предварительная причина смерти - оторвавшийся тромб.   Гайдар - один из инициаторов российских экономических реформ 90-х годов, автор так называемой "шоковой терапии". В прошлом занимал должности министра экономики и финансов, исполнял ... ...
+                        ]]></description>
+  <pubDate>Wed, 16 Dec 2009 16:25:17 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1260972007#4</guid>
+ </item>
+ <item>
+  <title>Туристам посчастливилось позавтракать с Обамой</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/16Dec2009/times/zavtrak.html</link>
+  <description><![CDATA[
+                        Пожилые супруги из штата Джорджия, приехавшие в Вашингтон, чтобы совершить экскурсию по Белому дому, случайно попали на завтрак к президенту. Это произошло за две недели до того, как Тарек и Мишель Салахи намеренно проникли на прием в Белый дом. ...
+                        ]]></description>
+  <pubDate>Wed, 16 Dec 2009 16:24:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1260972007#5</guid>
+ </item>
+ <item>
+  <title>Захвативших в Польше поезд беженцев не будут судить: их признали безвредными</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/16dec2009/nesudi.html</link>
+  <description><![CDATA[
+                        Польская прокуратура отказалась от идеи начать уголовное дело. Свое решение ведомство аргументировало "незначительность общественного вреда", причиненного акцией беженцев. Большинство из них вернут в центры для перемещенных лиц, а троих нелегалов депортируют. ...
+                        ]]></description>
+  <pubDate>Wed, 16 Dec 2009 16:59:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1260972007#6</guid>
+ </item>
+ <item>
+  <title>Хакамада: Гайдар - человек исторического масштаба для России</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/12/16/n_1436283.shtml</link>
+  <description><![CDATA[
+                        Ирина Хакамада, соратник Егора Гайдара по партии "Союз правых сил" заявила, что потрясена "его такой скорой кончиной".
+"Ушел человек исторического масштаба для России. Остальным будет тяжело, когда уходят те, кто ... ...
+                        ]]></description>
+  <pubDate>Wed, 16 Dec 2009 16:55:30 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1260972007#7</guid>
+ </item>
+ <item>
+  <title>Microsoft призналась в плагиате</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/7df7a82/l/0L0Ssecuritylab0Bru0Cnews0C3888520Bphp/story01.htm</link>
+  <description><![CDATA[
+                        В корпорации Micrsoft накануне признали, что запущенный 1 декабря китайский сайт микроблоггинга Juku содержит элементы, несанкционированно заимствованные с более популярного в азиатском регионе сервиса блогов Plurk. ...
+                        ]]></description>
+  <pubDate>Wed, 16 Dec 2009 14:11:27 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1260972007#8</guid>
+ </item>
+ <item>
+  <title>Инфляция вышла из кризиса</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/business/finances/2009/12/15/fbk.phtml</link>
+  <description><![CDATA[
+                        Вторая волна кризиса «более чем вероятна», инфляция в 2010 году будет расти из-за импорта, несмотря на сокращение потребительских расходов, цены на нефть будут ниже заложенных в бюджет, а рубль ждет следующий этап девальвации. ФБК выпускает самый пессимистичный прогноз развития российской экономики на 2010 год.  ...
+                        ]]></description>
+  <pubDate>Wed, 16 Dec 2009 17:00:16 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1260972007#9</guid>
+ </item>
+ <item>
+  <title>Количество погибших в пермском клубе "Хромая лошадь" возросло до 149 человек</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/641769-echo.html</link>
+  <description><![CDATA[
+                        
+                         Об этом сообщили в МЧС по Пермскому краю...
+                          ...
+                        ]]></description>
+  <pubDate>Wed, 16 Dec 2009 16:33:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1260972007#10</guid>
+ </item>
+ <item>
+  <title>Удивительные часы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/264232/#new</link>
+  <description><![CDATA[
+                        <img src=http://img.youtube.com/vi/VW5PByaR2EQ/2.jpg><br /><br />Эти часы на самом деле состоят с экрана, который на протяжении 24 часов проигрывает видео с художником, кропотливо прорисовывающим каждую минуту. ...
+                        ]]></description>
+  <pubDate>Wed, 16 Dec 2009 15:50:22 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1260972007#11</guid>
+ </item>
+  </channel>
+ </rss>

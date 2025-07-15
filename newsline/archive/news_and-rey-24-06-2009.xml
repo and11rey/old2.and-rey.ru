@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 24 Jun 2009 17:00:08 +0400</pubDate>
+         <lastBuildDate>Wed, 24 Jun 2009 17:00:08 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Microsoft выпускает бесплатный антивирус</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/science/2009/06/090624_microsoft_free_anti-virus.shtml</link>
+  <description><![CDATA[
+                        В США, Китае, Бразилии и Израиле была запущена пробная версия новой бесплатной антивирусной программы производства компании Microsoft. ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jun 2009 16:42:58 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1245848408#1</guid>
+ </item>
+ <item>
+  <title>Митволь зарегистрирован кандидатом на пост главы Одинцовского района</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/Election/m.152808.html</link>
+  <description><![CDATA[
+                        Олег Митволь, лидер экологического движения "Зеленая альтернатива" зарегистрирован в качестве кандидата на пост главы Одинцовского района Московской области, где расположен элитный район Рублевка. ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jun 2009 16:21:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1245848408#2</guid>
+ </item>
+ <item>
+  <title>ИноВидео: Словно только что кончилась война ("France-Presse", Франция)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/250104.html</link>
+  <description><![CDATA[
+                        Корреспонденты AFP побывали в Цхинвали и убедились: очень медленно восстанавливается после конфликта Южная Осетия. ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jun 2009 16:20:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1245848408#3</guid>
+ </item>
+ <item>
+  <title>ОЭСР улучшила общий прогноз развития экономики входящих в нее стран </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090624/17/17.html?id=1761636</link>
+  <description><![CDATA[
+                        Организация экономического сотрудничества и развития (ОЭСР), объединяющая 30 наиболее индустриально развитых стран мира, улучшила общий прогноз развития их экономик в 2009 году. Согласно новой оценке, суммарный ВВП этих стран по итогам года снизится на 4,1%, а не на 4,3%, как прогнозировалось еще в марте. При этом прогноз спада экономики США улучшен с 4% до 2,8%. В то же время эксперты организации ухудшили оценку снижения в 2009 году объема ВВП для 16 стран евро-зоны (с 4,1% до 4,8%) и Японии .. ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jun 2009 16:05:24 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1245848408#4</guid>
+ </item>
+ <item>
+  <title>Стиль Марии Шараповой на теннисном корте</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/24Jun2009/times/sharapova.html</link>
+  <description><![CDATA[
+                        У Марии Шараповой есть команда стилистов, которая помогает ей с выбором костюмов для корта. "Я меняю по шесть модных нарядов в год". Известная теннисистка и лицо TAG Heuer отвечает на вопросы издания. ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jun 2009 16:55:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1245848408#5</guid>
+ </item>
+ <item>
+  <title>ПАСЕ вновь призывает Россию поддержать реформу Страсбургского суда</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/24jun2009/pase.html</link>
+  <description><![CDATA[
+                        Совет Европы также напоминает о необходимости отмены смертной казни. Это же условие накануне выдвинули перед Белоруссией, которая намерена вернуть себе статус спецприглашенного. Ассамблея отмечает, что в России осуществляется давление на судей и адвокатов. ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jun 2009 16:59:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1245848408#6</guid>
+ </item>
+ <item>
+  <title>Журналистам "Черновика" предъявят новое обвинение</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/06/24/n_1375508.shtml</link>
+  <description><![CDATA[
+                        Главному редактору дагестанского еженедельника "Черновик" Надире Исаевой и сотруднику издания Артуру Мамаеву будет предъявлено новое обвинение по уголовному делу, возбужденному по факту публикаций в еженедельнике экстремистских ... ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jun 2009 16:49:49 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1245848408#7</guid>
+ </item>
+ <item>
+  <title>Язык Ruby набирает популярность среди североамериканских программистов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/381796.php</link>
+  <description><![CDATA[
+                         Недавний опрос, проведенный компанией Evans Data, показал 40%-ный прирост количества разработчиков ПО, использующих язык Ruby, по сравнению с 2008 г. &ndash; это самый большой скачок популярности среди языков программирования.	 ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jun 2009 16:07:38 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1245848408#8</guid>
+ </item>
+ <item>
+  <title>Черкизовский рынок сократится на четверть</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/business/crime/2009/06/23/CHyerkizon_sokratits.phtml</link>
+  <description><![CDATA[
+                        Судебные приставы Москвы вернули Российскому государственному университету физической культуры, спорта и туризма земельные участки, которые занимали три из 12 торговых зон Черкизовского рынка.  ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jun 2009 16:53:05 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1245848408#9</guid>
+ </item>
+ <item>
+  <title>Что будет с Ираном дальше?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/57144/</link>
+  <description><![CDATA[
+                        Иран все больше скатывается к настоящей «цветной революции» – такой же, как в свое время происходили в Украине, Грузии, Сербии. Власти с трудом контролируют Тегеран, восставшие жгут машины и мечети. Никаких решений еще не принято, но стоит готовиться к возможным итогам массовых беспорядков. Фактически, сейчас Исламская Республика стоит на пороге коренных изменений. При любом исходе противостояния Иран не останется прежним. Варианта развития событий остается только два. ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jun 2009 16:31:00 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1245848408#10</guid>
+ </item>
+ <item>
+  <title>Сила</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/255343/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/06/24/11621-155621-b67b81c41159d696643e188b21d6fdbe.jpg><br /><br />Да прибудет с тобой m x a. ...
+                        ]]></description>
+  <pubDate>Wed, 24 Jun 2009 15:56:21 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1245848408#11</guid>
+ </item>
+  </channel>
+ </rss>

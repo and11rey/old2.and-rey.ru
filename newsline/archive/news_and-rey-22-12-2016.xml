@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 22 Dec 2016 17:35:01 +0300</pubDate>
+         <lastBuildDate>Thu, 22 Dec 2016 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Что бы вы сказали народу, если бы были Путиным?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28191359.html</link>
+  <description><![CDATA[
+                        Опрос прохожих на улицах столицы. ...
+                        ]]></description>
+  <pubDate>Thu, 22 Dec 2016 17:13:00 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1482417301#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  МИД попросил Порошенко объяснить «картинки» посла Украины о «Боярышнике» - РБК
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNH8_yaBpjGVFYjgnVPByGSzWowK1A&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779922114863&amp;ei=q-RbWNinBc6FyAOymbHQBw&amp;url=http://www.rbc.ru/rbcfreenews/585bd2219a79474d0ed09833</link>
+  <description><![CDATA[
+                        МИД России потребовал объяснений от ряда дипломатических служб Украины в связи с публикацией послом Украины в Финляндии Андреем Олефировым подборки карикатур на тему массового отравления в Иркутске спиртосодержащим концентратом для принятия ванн «Боярышник». ...
+                        ]]></description>
+  <pubDate>Thu, 22 Dec 2016 16:48:41 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1482417301#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Посла Андрея Карлова похоронили на Химкинском кладбище Москвы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/22dec2016/karlovmsk.html?rss</link>
+  <description><![CDATA[
+                        Проститься с послом пришли первые лица страны. Помимо главы государства Владимира Путина на траурной церемонии присутствовали премьер-министр страны Дмитрий Медведев, помощник президента РФ Юрий Ушаков, председатель Совета Федерации Валентина Матвиенко, лидеры думских фракций и коллеги погибшего дипломата. ...
+                        ]]></description>
+  <pubDate>Thu, 22 Dec 2016 17:06:00 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1482417301#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Нейросеть определяет тунеядцев по метаданным сотовой сети с вероятностью 70,4%
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/283938/</link>
+  <description><![CDATA[
+                        
+Индикаторы использования сотовой связи офисными сотрудниками, безработными, пенсионерами, учителями и студентами. Например, нейросеть определила для офисных сотрудников такой специфический индикатор, как большая длительность исходящих звонков
+
+Благодаря социальным сетям и метаданным сотовой связи специалисты получили удобный и достаточно точный инструмент для изучения общества. Некоторую информацию люди публикуют в соцсетях сознательно, а часть важных данных выдают непроизвольно. Скажем, анализ ...
+                        ]]></description>
+  <pubDate>Thu, 22 Dec 2016 15:31:25 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes</source>
+  <guid isPermaLink="false">1482417301#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Расширенное заседание коллегии Министерства обороны
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/53571</link>
+  <description><![CDATA[
+                        Президент принял участие в ежегодном
+расширенном заседании коллегии Министерства обороны Российской Федерации.      ...
+                        ]]></description>
+  <pubDate>Thu, 22 Dec 2016 16:16:21 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1482417301#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Росстат: Россия обошла Саудовскую Аравию по объемам добычи нефти
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/business/finances/2016/12/22/Rosstat__Rossiya_obo.phtml</link>
+  <description><![CDATA[
+                        В октябре текущего года Россия опередила Саудовскую Аравию по объемам добычи нефти. Такие данные представляет Росстат. ...
+                        ]]></description>
+  <pubDate>Thu, 22 Dec 2016 16:23:40 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1482417301#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  22.12.2016 17:31 : В Испании компартия выиграла в рождественскую лотерею 56 миллионов евро
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1896876-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Как сообщает газета «Мундо», выигрыш будет разделен поровну между всеми счастливчиками, число которых пока не уточняется.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 22 Dec 2016 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1482417301#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Около 80 тыс. человек заболели ОРВИ в Подмосковье
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/542639</link>
+  <description><![CDATA[
+                        По словам главы Минздрава области, сейчас эпидпорог в регионе превышен на 45%, большинство заболевших - дети, зарегистрированы также единичные случаи гриппа ...
+                        ]]></description>
+  <pubDate>Thu, 22 Dec 2016 17:32:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1482417301#48</guid>
+ </item>
+  </channel>
+ </rss>

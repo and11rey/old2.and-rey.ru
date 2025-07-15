@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 30 Apr 2018 17:35:01 +0300</pubDate>
+         <lastBuildDate>Mon, 30 Apr 2018 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Английский за минуту: как попросить взаймы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/learning-english-43950463</link>
+  <description><![CDATA[
+                        Что сказать по-английски, если надо попросить деньги в долг? И какие могут быть варианты ответа? ...
+                        ]]></description>
+  <pubDate>Mon, 30 Apr 2018 16:05:24 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1525098901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Президент Украины объявил о завершении АТО в Донбассе и начале операции Объединенных сил
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/04/30/prezident-ukrainy-ob-yavil-o-zavershenii-ato-v-donbasse-i-nachale-operatsii-ob-edinennyh-sil</link>
+  <description><![CDATA[
+                        Президент Украины Петр Порошенко объявил, что антитеррористическая операция (АТО) в Донецкой и Луганской областях завершена. Соответствующий указ, сообщил Порошенко, был подписан 30 апреля. ...
+                        ]]></description>
+  <pubDate>Mon, 30 Apr 2018 17:29:23 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1525098901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Юрист, якобы располагающая компроматом на Хиллари Клинтон, имела более тесные связи с Кремлем, чем сообщала сама
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/30Apr2018/nytimes/veselnitskaya.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Наталья Весельницкая долгое время уверяет, что она - адвокат, представляющий интересы частных лиц, а не кремлевский агент. Однако электронные письма демонстрируют, что она работала в тесном сотрудничестве с главным российским юридическим ведомством. ...
+                        ]]></description>
+  <pubDate>Mon, 30 Apr 2018 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1525098901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Кабуле погибли журналисты Афганской службы Радио Свобода
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29200654.html</link>
+  <description><![CDATA[
+                        В результате взрыва в Кабуле погибли двое журналистов Афганской службы Радио Свободная Европа/Радио Свобода ...
+                        ]]></description>
+  <pubDate>Mon, 30 Apr 2018 15:11:31 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1525098901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  МЧС предупредило о грозе и усилении ветра в Москве в ближайшие часы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/ria.ru/society/20180430/1519707344.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 30 Apr 2018 16:38:22 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1525098901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Трамп допустил встречу с Ким Чен Ыном на границе двух Корей
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/30apr2018/trumpsays.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Президент США дал понять, что не прочь провести встречу с лидером КНДР Ким Чен Ыном в пограничном пункте Пханмунджом в демилитаризованной зоне между КНДР и Южной Кореей. О сроках саммита новой информации нет. ...
+                        ]]></description>
+  <pubDate>Mon, 30 Apr 2018 16:42:02 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1525098901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Купил Dell? — «Молодец!»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.com/post/300507/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=300507</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 30 Apr 2018 17:15:12 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1525098901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Телефонный разговор с Президентом Франции Эммануэлем Макроном
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/57392</link>
+  <description><![CDATA[
+                        По инициативе французской
+стороны состоялся телефонный разговор Владимира Путина с Президентом Франции
+Эммануэлем Макроном.    ...
+                        ]]></description>
+  <pubDate>Mon, 30 Apr 2018 12:51:03 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1525098901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В ДНР прокомментировали смену формата силовой операции в Донбассе
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/130/world/politics/201484-v-dnr-prokommentirovali-smenu-formata-silovoj-operacii-v-donbasse</link>
+  <description><![CDATA[
+                         Смена формата операции украинских силовиков в Донбассе не изменит ситуацию на линии соприкосновения, считает руководитель представительства ДНР в СЦЦК режима прекращения огня Руслан Якубов. ...
+                        ]]></description>
+  <pubDate>Mon, 30 Apr 2018 17:03:46 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1525098901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  30.04.2018 17:31 : В Кабуле в результате двойного теракта погибли 30 человек, в том числе десять журналистов
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2193888-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Как передает   Associated Press,  сначала  террорист-смертник на мотоцикле  привел в действие взрывное устройство недалеко от штаб-квартиры афганской разведки. Через 15 минут, когда на место происшествия прибыли полицейские и журналисты, второй смертник взорвал бомбу в толпе.  Как уточняет ВВС, среди погибших   журналистов фотокор  France-Presse, трое сотрудников «Радио Свободная Европа», а также репортеры  афганских телеканалов.   Ответственность за взрывы взяла на себя террористическая груп ...
+                        ]]></description>
+  <pubDate>Mon, 30 Apr 2018 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1525098901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Оппозиционер Пашинян стал единственным кандидатом на пост премьера Армении
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/610883</link>
+  <description><![CDATA[
+                        В 18:00 (17:00 по Москве) понедельника завершился срок выдвижения кандидатов на пост премьер-министра Республики Армения. ...
+                        ]]></description>
+  <pubDate>Mon, 30 Apr 2018 17:17:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1525098901#48</guid>
+ </item>
+  </channel>
+ </rss>

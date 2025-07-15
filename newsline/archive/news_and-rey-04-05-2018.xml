@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 04 May 2018 17:35:03 +0300</pubDate>
+         <lastBuildDate>Fri, 04 May 2018 17:35:03 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Звезда соцсетей поборется с Эрдоганом на президентских выборах
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/news-44001589</link>
+  <description><![CDATA[
+                        Крупнейшая оппозиционная партия Турции, Республиканская народная партия (РНП) назвала своего кандидата на внеочередных президентских выборах. Соперником действующего президента Реджепа Тайипа Эрдогана станет его давний критик, депутат РНП Мухаррем Инже. ...
+                        ]]></description>
+  <pubDate>Fri, 04 May 2018 15:26:33 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1525444503#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ФСБ объявила о задержании в Ярославле пяти членов ИГ, которые «координировали подготовку терактов» через Telegram
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/05/04/fsb-ob-yavila-o-zaderzhanii-v-yaroslavle-pyati-chlenov-ig-kotorye-koordinirovali-podgotovku-teraktov-cherez-telegram</link>
+  <description><![CDATA[
+                        ФСБ сообщила о задержании в Ярославле пяти членов террористической организации «Исламское государство», которые планировали теракты в России. ...
+                        ]]></description>
+  <pubDate>Fri, 04 May 2018 17:10:41 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1525444503#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российская армия, закаленная в войнах
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/04May2018/lemonde/armee.html?utm_source=rss</link>
+  <description><![CDATA[
+                        "Армия стала более важным, если не самым эффективным, инструментом внутренней и внешней политики Москвы", - считает эксперт Александр Гольц. Использование ВС совместно с тайными операциями и пропагандой показало превосходство Москвы над Западом. ...
+                        ]]></description>
+  <pubDate>Fri, 04 May 2018 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1525444503#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Нидерланды подозревают семь фирм в нарушении антироссийских санкций
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29208702.html</link>
+  <description><![CDATA[
+                        Прокуратура Нидерландов подозревает компании в строительстве моста в аннексированный Крым ...
+                        ]]></description>
+  <pubDate>Fri, 04 May 2018 16:08:47 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1525444503#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Мост в Барнауле отремонтировали неведомые силы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/lenta.ru/news/2018/05/04/sekretiki/</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 04 May 2018 17:17:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1525444503#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В апреле экспорт алюминия "Русала" сократился на 70% по сравнению с мартом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/04may2018/alrusal.html?utm_source=rss</link>
+  <description><![CDATA[
+                        В апреле Минфин США ввел новые санкции против России. Среди попавших под них  компаний много  структур Олега Дерипаски.  Включение в список ведет за собой заморозку активов в США и запрет на любой бизнес с этими компаниями для американских граждан, в частности на операции с долговыми и долевыми инструментами. ...
+                        ]]></description>
+  <pubDate>Fri, 04 May 2018 17:24:39 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1525444503#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Немного о проектных нормах и о микросхемах своими руками
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.com/post/300611/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=300611</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 04 May 2018 16:32:46 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1525444503#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Телефонный разговор с Президентом Казахстана Нурсултаном Назарбаевым
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/57407</link>
+  <description><![CDATA[
+                        Состоялся телефонный разговор Владимира Путина с Президентом Республики Казахстан Нурсултаном Назарбаевым.    ...
+                        ]]></description>
+  <pubDate>Fri, 04 May 2018 14:31:57 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1525444503#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Врач из Пятигорска заплатила жизнью за попытку увеличить грудь
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/250/science/medicine/201672-vrac-iz-patigorska-zaplatila-ziznu-za-popytku-uvelicit-grud</link>
+  <description><![CDATA[
+                        Жительница Пятигорска Инна М. хотела увеличить объем груди, но умерла после операции. И это не первый трагический исход после кажущихся безобидными пластических операций. ...
+                        ]]></description>
+  <pubDate>Fri, 04 May 2018 17:29:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1525444503#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  04.05.2018 17:31 : Инаугурация Владимира Путина  7 мая, возможно, пройдет скромнее, чем прежде
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2196392-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Источники Дождя утверждают, что  Кремль отказался не только от проезда кортежа по Москве, но и от торжественного приема. Новшество церемонии  будет заключаться в общении Путина с волонтерами возле Большого Кремлевского дворца.
+ ...
+                        ]]></description>
+  <pubDate>Fri, 04 May 2018 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1525444503#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Активист из Краснодара арестован на пять суток за призыв выйти на акцию 5 мая
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/611363</link>
+  <description><![CDATA[
+                        Советский районный суд Краснодара в пятницу поместил под административный арест на пять суток общественного активиста Виктора Чирикова по обвинению в организации незаконного публичного мероприятия. ...
+                        ]]></description>
+  <pubDate>Fri, 04 May 2018 17:11:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1525444503#48</guid>
+ </item>
+  </channel>
+ </rss>

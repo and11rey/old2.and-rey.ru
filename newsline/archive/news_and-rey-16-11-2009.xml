@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 16 Nov 2009 17:00:07 +0300</pubDate>
+         <lastBuildDate>Mon, 16 Nov 2009 17:00:07 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Грузия против новых телефонных кодов Абхазии и Южной Осетии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2009/11/091116_georgia_russia_codes.shtml</link>
+  <description><![CDATA[
+                        МИД Грузии передал России через посольство Швейцарии в Тбилиси ноту протеста в связи с переходом Абхазии и Южной Осетии на российские коды фиксированной и мобильной телефонной связи. ...
+                        ]]></description>
+  <pubDate>Mon, 16 Nov 2009 16:17:18 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1258380007#1</guid>
+ </item>
+ <item>
+  <title>Россия подала заявку на домен .РФ</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Techno/m.162174.html</link>
+  <description><![CDATA[
+                        Координационный центр российского национального домена Интернета подал в ICANN  документы на регистрацию нового кириллического домена .РФ. Ускоренную процедуру ввода доменов верхнего уровня на языках, не содержащих латинских букв, некоммерческая организация ICANN утвердила в конце октября. ...
+                        ]]></description>
+  <pubDate>Mon, 16 Nov 2009 16:31:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1258380007#2</guid>
+ </item>
+ <item>
+  <title>Барабанный бой критики из Москвы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/russia/20091116/156548734.html</link>
+  <description><![CDATA[
+                        Российская православная церковь не согласна с назначением председателем Евангелической церкви Германии Марго Кесманн. У РПЦ предвзятое отношение к женщинам, занимающим важные посты. В резиденции ЕЦГ в Ганновере это заявление вызвало «удивление»  и «серьезное непонимание».  ...
+                        ]]></description>
+  <pubDate>Mon, 16 Nov 2009 16:56:27 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1258380007#3</guid>
+ </item>
+ <item>
+  <title>В Москве задержаны участники одиночных пикетов в поддержку Лимонова</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091116/17/17.html?id=1879436</link>
+  <description><![CDATA[
+                        В Москве задержаны участники одиночных пикетов в поддержку одного из лидеров оппозиционной коалиции "Другая Россия" Эдуарда Лимонова, арестованного на 10 суток.   Среди задержанных лидеры оппозиционного движения "Солидарность" Борис Немцов и Владимир Милов, представитель Объединенного гражданского фронта Александр Рыклин и другие оппозиционнеры, сообщает корреспондент Радио Свобода.  Они были задержаны при попытке провести одиночные пикеты у здания СИЗО, где содержится ... ...
+                        ]]></description>
+  <pubDate>Mon, 16 Nov 2009 15:50:01 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1258380007#4</guid>
+ </item>
+ <item>
+  <title>Милиция под ударами YouTube</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/16Nov2009/independent/youtube.html</link>
+  <description><![CDATA[
+                        Российская милиция сделалась мишенью для критики со стороны своих сотрудников, утверждающих в серии видеороликов, что она погрязла в коррупции и недобросовестности. В сотнях комментариев россиян на YouTube преобладает позитивная оценка этих роликов. ...
+                        ]]></description>
+  <pubDate>Mon, 16 Nov 2009 16:38:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1258380007#5</guid>
+ </item>
+ <item>
+  <title>Зампред ЦБ призвал отнестись к скорому преобразованию "Внешэкономбанка" в АО очень осторожно</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/16nov2009/ulukaev2.html</link>
+  <description><![CDATA[
+                        О своем требовании преобразовать госкорпорации в акционерные общества заявил в Послании Федеральному Собранию президент России Дмитрий Медведев. Его помощник Аркадий Дворкович тут же объявил, что акционирование ВЭБа, госкорпорации "Ростехнологии" и "Роснано" может случиться уже в 2010 году. ...
+                        ]]></description>
+  <pubDate>Mon, 16 Nov 2009 16:39:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1258380007#6</guid>
+ </item>
+ <item>
+  <title>Осужден житель Тверской области, натравивший собаку на трех женщин</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/11/16/n_1425219.shtml</link>
+  <description><![CDATA[
+                        Кувшиновский суд Тверской области приговорил к шести годам лишения свободы местного жителя Сергея Андреева, натравливавшего американского стаффордширского терьера на женщин, сообщает сайт Генпрокуратуры. Суд признал Андреева виновным в ... ...
+                        ]]></description>
+  <pubDate>Mon, 16 Nov 2009 16:46:22 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1258380007#7</guid>
+ </item>
+ <item>
+  <title>Microsoft признала, что утилита для Windows 7 нарушает лицензию GPL</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/72a6305/l/0L0Ssecuritylab0Bru0Cnews0C3877330Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Microsoft призналась, что утилита  Windows 7 USB/DVD Tool содержит  код распространяемый под лицензией GPL. ...
+                        ]]></description>
+  <pubDate>Mon, 16 Nov 2009 14:37:56 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1258380007#8</guid>
+ </item>
+ <item>
+  <title>Похищенный иранский генерал нашелся в израильской тюрьме</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/foreign/2009/11/16/Pohishcyennyyy_irans.phtml</link>
+  <description><![CDATA[
+                        Пропавший более трех лет назад иранский генерал, занимавший должность замминистра обороны, удерживается израильской разведкой, утверждают иранские журналисты. Похищение помогли организовать спецслужбы Германии и Великобритании. ...
+                        ]]></description>
+  <pubDate>Mon, 16 Nov 2009 16:49:02 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1258380007#9</guid>
+ </item>
+ <item>
+  <title>Банк России ожидает инфляцию в ноябре на уровне двух или трех десятых процента</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/634772-echo.html</link>
+  <description><![CDATA[
+                        
+                         Об этом журналистам сообщил первый зампред Центробанка Алексей Улюкаев...
+                          ...
+                        ]]></description>
+  <pubDate>Mon, 16 Nov 2009 16:35:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1258380007#10</guid>
+ </item>
+ <item>
+  <title>Пост № 262327</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/262327/#new</link>
+  <description><![CDATA[
+                        Жизнь  -  это не игра. Жители Венесуэлы уже убедились в этом на собственном опыте. Вы всё играете с жизнями людей синьор Чавес? Тогда я иду к вам! ...
+                        ]]></description>
+  <pubDate>Mon, 16 Nov 2009 00:10:04 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1258380007#11</guid>
+ </item>
+  </channel>
+ </rss>

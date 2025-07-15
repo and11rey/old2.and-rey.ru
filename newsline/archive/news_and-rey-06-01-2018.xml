@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 06 Jan 2018 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sat, 06 Jan 2018 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Недолго музыка играла: власти США ужесточают законы о марихуане
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-42590063</link>
+  <description><![CDATA[
+                        Министр юстиции США Джефф Сешнс объявил об отмене указов Барака Обамы, предписывавших минюсту не преследовать за продажу марихуаны в штатах, где она была легализована. Решение Сешнса обрушило котировки легальных производителей и продавцов каннабиса. ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jan 2018 13:58:20 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1515249301#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  11 саудовских принцев задержали за протест против введения платы за ЖКХ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/01/06/11-saudovskih-printsev-zaderzhali-za-protest-protiv-vvedeniya-platy-za-zhkh</link>
+  <description><![CDATA[
+                        11 членов королевской семьи Саудовской Аравии задержаны за участие в акции протеста против ликвидации льгот, сообщает Reuters. Имена задержанных принцев не уточняются.  ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jan 2018 17:02:13 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1515249301#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  "Фейковые новости": Макрон ставит соцсети перед лицом их ответственности
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/05Jan2018/lefigaro/macron.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Президент Франции желает, чтобы 2018 год прошел под знаком борьбы против "фейковых новостей", воспринимаемых как угроза демократии. Социальные сети стали носителями дезинформации, и государство намерено поставить их перед лицом их ответственности. ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jan 2018 19:31:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1515249301#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Соратницу Павленского во Франции выпустили из тюрьмы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28959344.html</link>
+  <description><![CDATA[
+                        О судьбе самого художника не сообщается ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jan 2018 16:27:32 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1515249301#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jan 2018 17:35:04 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1515249301#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Донатанас Банионис  был завербован  КГБ, обнародовали в Литве
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/cinema/06jan2018/brunos.html?utm_source=rss</link>
+  <description><![CDATA[
+                        По данным  Центра исследования геноцида и сопротивления жителей Литвы,  народный артист СССР    в 1970 году был завербован Комитетом госбезопасности   и   предоставлял советской разведке данные о литовцах, эмигрировавших в  США. ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jan 2018 17:23:59 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1515249301#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Перевод] Новый год, новые рекорды: найдено 50-е простое число Мерсенна
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/297045/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=297045</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jan 2018 12:17:23 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1515249301#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Подписан закон, уточняющий порядок обеспечения жильём прокуроров и сотрудников Следственного комитета
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/acts/news/56605</link>
+  <description><![CDATA[
+                        Президент
+подписал Федеральный закон «О внесении изменений в Федеральный закон «О прокуратуре Российской Федерации» и Федеральный закон «О Следственном комитете Российской Федерации».    ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jan 2018 11:22:57 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1515249301#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российская биатлонистка Кайшева выиграла спринт на Кубке IBU
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/130/lifestyle/sport/191170-rossijskaa-biatlonistka-kajseva-vyigrala-sprint-na-kubke-ibu</link>
+  <description><![CDATA[
+                        Российская биатлониства Ульяна Кайшева победила в спринте на 7,5 км на этапе Кубка IBU в Осрблье (Словакия). ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jan 2018 17:31:23 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1515249301#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  06.01.2018 17:32 : Российский конькобежец Павел Кулижников завоевал золотую медаль на дистанции в тысячу метров на чемпионате Европы
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2124234-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Вторым стал еще один россиянин Денис Юсков, на третьем месте немец Нико Иле. Соревнования проходят в подмосковной Коломне.
+ ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jan 2018 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1515249301#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Конькобежец Кулижников стал чемпионом Европы на дистанции 1000 м
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/sport/594531</link>
+  <description><![CDATA[
+                        Конькобежец сборной России Павел Кулижников занял первое место на дистанции 1000 м на чемпионате Европы, который проходит в подмосковной Коломне в субботу. ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jan 2018 16:44:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1515249301#48</guid>
+ </item>
+  </channel>
+ </rss>

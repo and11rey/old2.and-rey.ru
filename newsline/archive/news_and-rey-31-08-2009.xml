@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 31 Aug 2009 17:00:06 +0400</pubDate>
+         <lastBuildDate>Mon, 31 Aug 2009 17:00:06 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Стратегия США в Афганистане "не работает"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/08/090831_afghan_strategy_report.shtml</link>
+  <description><![CDATA[
+                        В докладе американского командования о ходе военной кампании в Афганистане говорится о том, что используемая в борьбе с талибами тактика неэффективна. ...
+                        ]]></description>
+  <pubDate>Mon, 31 Aug 2009 16:11:17 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1251723606#1</guid>
+ </item>
+ <item>
+  <title>Обвиняемые в покушении на Сулима Ямадаева не признают вины</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/World/m.156434.html</link>
+  <description><![CDATA[
+                        В Дубаи начался процесс по делу о покушении на бывшего командира батальона "Восток" Сулима Ямадаева. Двое обвиняемых — гражданин Таджикистана Махсуд Джан и иранец Махди Лорния вину по предъявленным обвинениям не признали. ...
+                        ]]></description>
+  <pubDate>Mon, 31 Aug 2009 16:25:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1251723606#2</guid>
+ </item>
+ <item>
+  <title>ИноВидео: Российский автопром страдает от резкого падения спроса ("Al Jazeera", Арабская пресса)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/252107.html</link>
+  <description><![CDATA[
+                        Как долго еще продержится российская автомобильная промышленность, прежде чем окончательно заглохнет? Нив Баркер докладывает из Ульяновска. ...
+                        ]]></description>
+  <pubDate>Mon, 31 Aug 2009 16:33:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1251723606#3</guid>
+ </item>
+ <item>
+  <title>Тверской суд отложил предварительные слушания по иску к Олегу Орлову</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090831/17/17.html?id=1811401</link>
+  <description><![CDATA[
+                        Тверской суд Москвы до 10 сентября отложил предварительные слушания по иску, поданному президентом Чечни Рамзаном Кадыровым к руководителю правозащитного центра "Мемориал" Олегу Орлову.  Решение о возбуждении уголовного дела может быть принято на этой неделе. Об этом ранее заявил в интервью Радио Свобода глава адвокатской палаты Москвы Генри Резник, который представляет интересы правозащитника.   Кадыров потребовал возбудить дело в связи с заявлениями Орлова о том, что президент Чечни ... ...
+                        ]]></description>
+  <pubDate>Mon, 31 Aug 2009 16:45:47 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1251723606#4</guid>
+ </item>
+ <item>
+  <title> МАГАТЭ обвиняет Иран</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/31Aug2009/lefigaro/iran.html</link>
+  <description><![CDATA[
+                        МАГАТЭ опубликовало конфиденциальный доклад по Ирану. В нем не содержится новых сведений о находках инспекторов ООН в ходе посещения ядерных объектов, но подчеркивается бесплодность усилий МАГАТЭ, сталкивающегося с отказом Тегерана от сотрудничества. ...
+                        ]]></description>
+  <pubDate>Mon, 31 Aug 2009 16:10:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1251723606#5</guid>
+ </item>
+ <item>
+  <title>Обвиняемый в коррупции бывший мэр Саратова заявил в суде, что его подставили подчиненные</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/31aug2009/aksenenko.html</link>
+  <description><![CDATA[
+                        "Доверяя своим подчиненным, он просто ставил подписи под документами, не читая их, потому что у него было много работы", - сообщила гособвинитель на суде по делу Юрия Аксененко, обвиняемого в совершении восьми умышленных преступлений в период своей деятельности на посту градоначальника. ...
+                        ]]></description>
+  <pubDate>Mon, 31 Aug 2009 16:57:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1251723606#6</guid>
+ </item>
+ <item>
+  <title>Полиция Латвии вытеснила с моста протестующих против закрытия больницы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/08/31/n_1398825.shtml</link>
+  <description><![CDATA[
+                        Спецподразделениям латвийской полиции удалось вытеснить протестующих в городе Бауска с одного из заблокированных мостов через реку Мемеле, движение по мосту восстановлено, сообщил  представить мэрии города.
+Специальные подразделения ... ...
+                        ]]></description>
+  <pubDate>Mon, 31 Aug 2009 16:55:28 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1251723606#7</guid>
+ </item>
+ <item>
+  <title>Российские IT-компании просят у президента налоговых льгот</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/384381.php</link>
+  <description><![CDATA[
+                        В адресованном президенту Медведеву письме производители предупреждают, что из-за замены Единого социального налога страховыми взносами IT-компании могут перенести производство в другие страны и перейти на "серые" зарплатные схемы. 	 ...
+                        ]]></description>
+  <pubDate>Mon, 31 Aug 2009 14:27:27 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1251723606#8</guid>
+ </item>
+ <item>
+  <title>Безработных в России стало меньше на 0,2%</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/business/career/2009/08/31/CHislo_byezrabotnyyh.phtml</link>
+  <description><![CDATA[
+                        Количество безработных россиян продолжает снижаться. По данным Минздравсоцразвития, за прошедшую неделю их стало меньше на 0,2%. Сейчас в России без работы остаются 2 млн 125 тыс 560 человек. ...
+                        ]]></description>
+  <pubDate>Mon, 31 Aug 2009 16:47:38 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1251723606#9</guid>
+ </item>
+ <item>
+  <title>В Москве откроют четыре новых станции метро</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/59250/</link>
+  <description><![CDATA[
+                        В Москве откроют четыре новых станции метро ...
+                        ]]></description>
+  <pubDate>Mon, 31 Aug 2009 17:00:27 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1251723606#10</guid>
+ </item>
+ <item>
+  <title>Пост № 258327</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/258327/#new</link>
+  <description><![CDATA[
+                        — Эй, Бивис.<br /> — Что?<br />  — Ты баклан.<br />  (Тупой смех.)<br /> Так дословно можно объяснить весь сюжет сериала «Бивис и Баттхед», для многих это самый что ни на есть туалетный юмор, а остальные все еще скорбят о том, что как казалось, мультсериал уже отжил свое. Но не тут то было, они возвращаются!<br />
+<br />
+Датированая 1995 годом картинка для привлечения внимания была тут явно лишней. ...
+                        ]]></description>
+  <pubDate>Mon, 31 Aug 2009 15:53:29 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1251723606#11</guid>
+ </item>
+  </channel>
+ </rss>

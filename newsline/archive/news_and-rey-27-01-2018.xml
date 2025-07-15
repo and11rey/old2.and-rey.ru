@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 27 Jan 2018 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sat, 27 Jan 2018 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Кандидат в президенты Чехии Иржи Драгош: "Не вижу оснований для отмены санкции против России"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/news-42846471</link>
+  <description><![CDATA[
+                        В Чехии закончился второй тур президентских выборов. Идет подсчет голосов. Кандидат в президенты Чехии Иржи Драгош сказал в Би-би-си, что, в отличие от своего соперника, президента Милоша Земана, не видит никаких причин отменять санкции против России. ...
+                        ]]></description>
+  <pubDate>Sat, 27 Jan 2018 17:02:48 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1517063701#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Петербурге задержали журналистов «Медиазоны». Они пытались попасть на суд к задержанному антифашисту
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/01/27/v-peterburge-zaderzhali-zhurnalistov-mediazony-oni-pytalis-popast-na-sud-k-zaderzhannomu-antifashistu</link>
+  <description><![CDATA[
+                        В Санкт-Петербурге задержаны журналисты «Медиазоны» Саша Богино и Давид Френкель, сообщается на сайте издания. ...
+                        ]]></description>
+  <pubDate>Sat, 27 Jan 2018 16:48:21 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1517063701#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Неизвестные шедевры или подделки? Выставка произведений русских авангардистов всколыхнула мир искусства
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/26Jan2018/lefigaro/exposition.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Частная коллекция, включающая произведения Кандинского и Малевича, выставленная в Генте, всколыхнула мир искусства. Эксперты сомневаются в подлинности картин: "Даже самый богатый человек в России или в мире не мог бы составить такую коллекцию". ...
+                        ]]></description>
+  <pubDate>Fri, 26 Jan 2018 20:26:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1517063701#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Полиция пришла к Стоцко и Войцеховскому, заключившим однополый брак
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29001863.html</link>
+  <description><![CDATA[
+                        Об этом сообщает российская ЛГБТ-Сеть ...
+                        ]]></description>
+  <pubDate>Sat, 27 Jan 2018 17:10:11 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1517063701#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 27 Jan 2018 17:35:04 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1517063701#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Петербурге журналистов не пустили на суд к антифашисту, который пропадал на два дня
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/27jan2018/mzonapiter.html?utm_source=rss</link>
+  <description><![CDATA[
+                        "Медиазона" сообщает, будто судья заявил, что в выходной день журналистов можно не пускать. Издание пишет, что из зала выставили и друга Шишкина, который предположил, что подозреваемый сильно избит: под глазами у него синяки, лицо замотано капюшоном пуховика, на рту - черная маска. ...
+                        ]]></description>
+  <pubDate>Sat, 27 Jan 2018 17:14:15 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1517063701#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Учёные предложили производить еду для астронавтов из отходов жизнедеятельности человека
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/297597/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=297597</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 27 Jan 2018 13:33:47 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1517063701#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с Лутфуллой Шафигуллиным
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56715</link>
+  <description><![CDATA[
+                        В ходе поездки в Татарстан
+Владимир Путин провёл краткую встречу с генеральным директором ПАО «Таттелеком»
+Лутфуллой Шафигуллиным.      ...
+                        ]]></description>
+  <pubDate>Sat, 27 Jan 2018 10:33:20 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1517063701#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Восьмой сезон «Игры престолов» покажут в апреле 2019 года
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/130/culture/cinema/192952-vosmoj-sezon-igry-prestolov-pokazut-v-aprele-2019-goda</link>
+  <description><![CDATA[
+                        Актриса сериала «Игра престолов» Мэйси Уильямс сообщила, что восьмой сезон фэнтези начнут транслировать в апреле 2019 года.
+ ...
+                        ]]></description>
+  <pubDate>Sat, 27 Jan 2018 17:30:24 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1517063701#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  27.01.2018 17:34 : Скончался Секретарь Союза журналистов России, бывший депутат Госдумы Борис Резник
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2137188-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Ему было  77 лет. Резник занимал пост заместителя председателя комитета Госдумы по информационной политике. Много лет он возглавлял благотворительный фонд помощи тяжелобольным детям.  Он был единственным «единороссом» проголосовавшим в Думе против принятия закона о запрете усыновления российских сирот американскими семьями. <br>
+О дате и месте похорон Бориса Резника еще не сообщалось.
+ ...
+                        ]]></description>
+  <pubDate>Sat, 27 Jan 2018 17:34:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1517063701#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Серпухове локализовали пожар на нефтебазе
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/597374</link>
+  <description><![CDATA[
+                        Пожар в Серпухове на резервуаре с нефтепродуктами локализован, сообщили "Интерфаксу" в центральном региональном центре ЦРЦ МЧС России. ...
+                        ]]></description>
+  <pubDate>Sat, 27 Jan 2018 17:10:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1517063701#48</guid>
+ </item>
+  </channel>
+ </rss>

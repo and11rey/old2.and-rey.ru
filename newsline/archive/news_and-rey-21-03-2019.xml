@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 21 Mar 2019 17:35:01 +0300</pubDate>
+         <lastBuildDate>Thu, 21 Mar 2019 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  На реке Тигр в Ираке затонул прогулочный паром: не менее 45 погибших
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-47657200</link>
+  <description><![CDATA[
+                        Не менее 45 человек погибли в результате крушения туристического парома на реке Тигр в Ираке. Как сообщают местные власти, большинство погибших - женщины и дети, которые не умели плавать. ...
+                        ]]></description>
+  <pubDate>Thu, 21 Mar 2019 17:28:51 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1553178901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Взрыв на химическом заводе спровоцировал землетрясение в Китае
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/video/2019/03/21/vzryv-na-himicheskom-zavode-sprovotsiroval-zemletryasenie-v-kitae</link>
+  <description><![CDATA[
+                        В китайском городе Яньчэн днем 21 марта произошел взрыв на химическом заводе. После случившегося сейсмологи зарегистрировали землетрясение магнитудой 2,2. В жилых домах, расположенных на расстоянии нескольких километров от места взрыва, выбило стекла. По последним данным, погибли шесть человек, еще около 30 получили ранения. ...
+                        ]]></description>
+  <pubDate>Thu, 21 Mar 2019 17:28:42 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1553178901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Загадка ДНК Джека-потрошителя
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/21Mar2019/spiegel/jack.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Джек-потрошитель убил по меньшей мере пять женщин. По сей день неизвестно, кто же скрывался за этим псевдонимом. Эксперты утверждают, что разгадали эту тайну - однако их исследование вызывает значительные сомнения. ...
+                        ]]></description>
+  <pubDate>Thu, 21 Mar 2019 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1553178901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Лидеры стран ЕС встречаются в Брюсселе для обсуждения Брекзита
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29834554.html</link>
+  <description><![CDATA[
+                        Представтели Евросоюза дожны принять решение о переносе даты выхода Великобритании из ЕС ...
+                        ]]></description>
+  <pubDate>Thu, 21 Mar 2019 17:13:54 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1553178901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Арутюнян: Белл не могла намеренно нанести травму Ынсу Лим - РИА Новости
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/rsport.ria.ru/20190321/1551992490.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 21 Mar 2019 17:09:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1553178901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Ущерб от коррупции в Минобороны вырос вчетверо, подсчитали прокуроры
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/21mar2019/defmincorrupt.html?utm_source=rss</link>
+  <description><![CDATA[
+                        За год обнаруженный прокурорами ущерб от махинаций с участием военного ведомства составил 7 миллиардов рублей. К дисциплинарной ответственности привлечено почти три тысячи чиновников. ...
+                        ]]></description>
+  <pubDate>Thu, 21 Mar 2019 16:45:53 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1553178901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Из песочницы] Любительская голография — начало пути
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/444718/?utm_campaign=444718</link>
+  <description><![CDATA[
+                        Хочу рассказать об одном из своих интересов – оптической голографии. Нет, это про не те голограммы, что в «Звёздных войнах», или в пирамидках на экранах мобильных телефонов, не про проекцию на плёнке, а то, о чём рассказывает Википедия в соответствующей статье. Не буду вдаваться в технические подробности и дебри уравнений (происходящие процессы очень сложны, и по теме написаны десятки объёмных монографий), а попробую очень кратко рассказать, что такое оптическая голография и чем она отличается о ...
+                        ]]></description>
+  <pubDate>Thu, 21 Mar 2019 17:25:45 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1553178901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Телефонный разговор с Нурсултаном Назарбаевым и Касым-Жомартом Токаевым
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/60125</link>
+  <description><![CDATA[
+                        Состоялся телефонный
+разговор Владимира Путина с первым Президентом
+Казахстана, председателем Совета Безопасности Республики Нурсултаном Назарбаевым и Президентом Казахстана Касым-Жомартом
+Токаевым.     ...
+                        ]]></description>
+  <pubDate>Thu, 21 Mar 2019 13:35:27 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1553178901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Пародонтит может привести к импотенции
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/usefull/287/214581-parodontit-mozet-privesti-k-impotencii</link>
+  <description><![CDATA[
+                        Три четверти пациентов с импотенцией имели проблемы с воспалением тканей зубного аппарата. ...
+                        ]]></description>
+  <pubDate>Thu, 21 Mar 2019 17:25:48 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1553178901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  21.03.2019 17:31 : ФБР присоединилось к расследованию деталей сертификации «Боинг 737 МАХ»
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2392993-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+По сведениям американской газеты «Сиэтл Таймс», Федеральная правоохранительная структура будет играть вспомогательную роль. Дело ведет департамент транспорта. Он пытается выяснить детали процесса утверждения модели самолета, который был вовлечен в две смертельные авиакатастрофы. Поясняется, что расследование началось еще первого крушения в октябре прошлого года в Индонезии. Еще одна авария произошла пятью месяцами позже в Эфиопии. Жертвами двух катастроф стали 346 человек.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 21 Mar 2019 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1553178901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Tesla обвинила четырех экс-сотрудников в передаче секретных технологий конкуренту
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/business/655197</link>
+  <description><![CDATA[
+                        Американский производитель электромобилей Tesla Inc подал в суд на четырех своих бывших сотрудников, обвинив их в передаче конфиденциальной информации стартапу Zoox Inc., который занимается разработкой самоуправляемых автомобилей. ...
+                        ]]></description>
+  <pubDate>Thu, 21 Mar 2019 17:24:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1553178901#48</guid>
+ </item>
+  </channel>
+ </rss>

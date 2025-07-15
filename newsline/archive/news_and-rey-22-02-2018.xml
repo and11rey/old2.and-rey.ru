@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 22 Feb 2018 17:35:02 +0300</pubDate>
+         <lastBuildDate>Thu, 22 Feb 2018 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  В мире Оруэлла: российские тролли на американских выборах 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-43151856</link>
+  <description><![CDATA[
+                        Прочитав груду документов спецпрокурора Мюллера по поводу вмешательства России в президентские выборы 2016 года, американские журналисты бросились на поиски россиян, знакомых с работой "фабрики троллей". ...
+                        ]]></description>
+  <pubDate>Thu, 22 Feb 2018 17:09:04 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1519310102#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Мой пес умеет спасать людей. Владельцы служебных собак — о тренировках, подвигах и работе по следу
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/feature/2018/02/22/moy-pes-umeet-spasat-lyudey</link>
+  <description><![CDATA[
+                        Службу несут не только люди, но и животные. Например, обученная собака может вытащить тонущего человека из воды, найти пропавшего или указать на бомбу. К 23 Февраля мы вместе с производителем собачьих кормов Purina Dog Chow® поговорили с тремя владельцами собак, специально подготовленных для службы, — о непростой работе питомцев, их героизме и обаянии. ...
+                        ]]></description>
+  <pubDate>Thu, 22 Feb 2018 17:19:44 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1519310102#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Дело Асада и вклад Эрдогана
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/22Feb2018/spiegel/assad.html?utm_source=rss</link>
+  <description><![CDATA[
+                        В Африне и Восточной Гуте сирийская война свирепствует с особой силой. В лице Асада, Эрдогана и Путина сейчас есть, по крайней мере, три человека, извлекающих выгоду из кровопролития в Сирии. Все говорит о тайном сговоре между Турцией и Россией. ...
+                        ]]></description>
+  <pubDate>Thu, 22 Feb 2018 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1519310102#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  СМИ: баски планируют расформировать свою организацию
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29056945.html</link>
+  <description><![CDATA[
+                        Голосование о будущем ETA состоится летом ...
+                        ]]></description>
+  <pubDate>Thu, 22 Feb 2018 17:17:05 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1519310102#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Биатлонистка Домрачева стала самой титулованной в истории Олимпиад
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.vesti.ru/doc.html?id=2990064</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 22 Feb 2018 17:28:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1519310102#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Альтернативные игры для ущемленных олимпийцев стартуют через два дня в пяти регионах РФ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/22feb2018/alter.html?utm_source=rss</link>
+  <description><![CDATA[
+                        В соревнованиях примут участие сильнейшие российские спортсмены, которые не получили приглашение на Олимпийские игры в Пхенчхане. По замыслу организаторов, конкуренцию им составят порядка 900 атлетов. Призовые будут олимпийские. ...
+                        ]]></description>
+  <pubDate>Thu, 22 Feb 2018 17:18:14 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1519310102#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Перевод] Физики намереваются классифицировать все фазы материи
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/298413/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=298413</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 22 Feb 2018 15:00:01 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1519310102#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Открыта аккредитация журналистов на освещение ежегодного Послания Президента Федеральному Собранию
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56908</link>
+  <description><![CDATA[
+                        Департамент
+аккредитации и брифингов Управления пресс-службы и информации начинает приём заявок на участие в освещении ежегодного Послания Президента Федеральному Собранию Российской Федерации, которое состоится 1 марта 2018 года.    ...
+                        ]]></description>
+  <pubDate>Thu, 22 Feb 2018 16:07:56 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1519310102#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  У генконсульства РФ в Стамбуле проходит митинг в связи с ситуацией в Восточной Гуте
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/251/world/incidents/195336-u-genkonsulstva-rf-v-stambule-prohodit-miting-v-svazi-s-situaciej-v-vostocnoj-gute</link>
+  <description><![CDATA[
+                        В Турции у здания генконсульства РФ в Стамбуле проходят протесты против эскалации насилия в Восточной Гуте. ...
+                        ]]></description>
+  <pubDate>Thu, 22 Feb 2018 17:31:26 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1519310102#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  22.02.2018 17:33 : Кинотеатр «Пионер» оштрафован в общей сложности на 280 тысяч рублей
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2153164-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Это штраф за три показа фильма «Смерть Сталина», — сообщает агентство ТАСС со ссылкой на решение мирового судебного участка Дорогомиловского района. Кинотеатр обвинили в демонстрации фильма без прокатного удостоверения. Представители «Пионера» намерены обжаловать решение суда.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 22 Feb 2018 17:33:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1519310102#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Человеческие останки найдены в сгоревшем два дня назад швейном цехе в Иваново
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/601153</link>
+  <description><![CDATA[
+                        На месте пожара в швейном цехе в Иваново, который произошел 20 февраля, обнаружены останки человека, сообщили "Интерфаксу" в пресс-службе следственного управления СКР по региону. ...
+                        ]]></description>
+  <pubDate>Thu, 22 Feb 2018 17:14:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1519310102#48</guid>
+ </item>
+  </channel>
+ </rss>

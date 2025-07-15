@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 29 Mar 2010 17:00:05 +0400</pubDate>
+         <lastBuildDate>Mon, 29 Mar 2010 17:00:05 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Трагедии России: последние 20 лет</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2010/03/100329_russia_blood_timeline.shtml</link>
+  <description><![CDATA[
+                        bbcrussian.com представляет хронологию наиболее значительных трагических событий в России за последние 20 лет, связанных с захватами заложников, нападениями на населенные пункты и взрывами. ...
+                        ]]></description>
+  <pubDate>Mon, 29 Mar 2010 16:40:50 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1269867605#1</guid>
+ </item>
+ <item>
+  <title>Мосгорсуд отказал в аресте следователя, обвиняемого в вымогательстве</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/Law/m.176459.html</link>
+  <description><![CDATA[
+                        Мосгорсуд отказал прокуратуре в аресте следователя Следственного комитета при прокуратуре Андрея Гривцова, обвиняемого в вымогательстве взятки в размере 15 миллионов долларов. По версии следствия, Гривцов вымогал у президента ЗАО "Росэнергомаш" Владимира Палихаты 15 миллионов долларов. ...
+                        ]]></description>
+  <pubDate>Mon, 29 Mar 2010 16:13:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1269867605#2</guid>
+ </item>
+ <item>
+  <title>Российские чиновники заводят блоги в Интернете</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rian.ru/trend/functionary_blog_26032010/</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 29 Mar 2010 16:59:44 +0400</pubDate>
+  <source url="http://www.rian.ru">РИА Новости</source>
+  <guid isPermaLink="false">1269867605#3</guid>
+ </item>
+ <item>
+  <title>В Калужской области на железной дороге обнаружена мина</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20100329/17/17.html?id=1996670</link>
+  <description><![CDATA[
+                        В Калужской области на железной дороге обнаружена мина, предположительно, времен Великой Отечественной войны.  Как сообщили в УВД на железнодорожном транспорте, мину у платформы станции "Палиха" нашли сотрудники транспортной милиции.   На место выехали оперативные службы.    Движение поездов приостановлено. ...
+                        ]]></description>
+  <pubDate>Mon, 29 Mar 2010 15:49:11 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1269867605#4</guid>
+ </item>
+ <item>
+  <title>Россия переживает вторую перестройку</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/29Mar2010/elpais/perestroika2.html</link>
+  <description><![CDATA[
+                        Россия демонстрирует признаки застоя. У властной элиты атрофировалась способность проводить реформы; общество, скептически оценивающее свою возможность влиять на политику, раскололось и ушло в оборону. Однако слово "модернизация" звучит все чаще. ...
+                        ]]></description>
+  <pubDate>Mon, 29 Mar 2010 16:43:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1269867605#5</guid>
+ </item>
+ <item>
+  <title>В Москве осуждены члены банды, убивавшей инкассаторов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/crime/29mar2010/robshotinkassntmsk.html</link>
+  <description><![CDATA[
+                        В группировку входили трое москвичей, а также отец и сын Гугушвили из Тульской области. В течение 2008 года преступники совершили несколько нападений на охранников, перевозивших крупные суммы денег. Добычей грабителей стали порядка шести миллионов рублей. 27 июня бандиты расстреляли двух инкассаторов банка "Русский стандарт". ...
+                        ]]></description>
+  <pubDate>Mon, 29 Mar 2010 16:57:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1269867605#6</guid>
+ </item>
+ <item>
+  <title>В Твери сержант милиции случайно застрелил своего коллегу</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2010/03/29/n_1476242.shtml</link>
+  <description><![CDATA[
+                        В Тверской области 22-летний сержант милиции подозревается в неосторожном причинении смерти своему коллеге, сообщает сайт СКП Российской Федерации.
+Согласно данным следствия, 26 марта 2010 года около 10 часов утра в отделе милиции N 2 УВД ... ...
+                        ]]></description>
+  <pubDate>Mon, 29 Mar 2010 16:53:09 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1269867605#7</guid>
+ </item>
+ <item>
+  <title>Каждый второй пользователь открывает спам-письма</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/9b6672c/l/0L0Ssecuritylab0Bru0Cnews0C3922650Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Исследования, проведенные организациями Ipsos Public Affairs и Messaging Anti-Abuse Working Group &#40;MAAWG&#41;, продемонстрировали, насколько беззаботно пользователи относятся к своей безопасности в интернете. ...
+                        ]]></description>
+  <pubDate>Mon, 29 Mar 2010 15:03:32 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1269867605#8</guid>
+ </item>
+ <item>
+  <title>Суд Нью-Йорка подтвердил арест имущества «Роснефти»</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/business/finances/2010/03/29/Sud_Nyu_Yorka_podtvy.phtml</link>
+  <description><![CDATA[
+                        Американский суд подтвердил наложение ареста на имущество и финансы «Роснефти» в пределах штата Нью-Йорк. В решении подчеркивается, что речь может идти об экспортных контрактах российской компании. ...
+                        ]]></description>
+  <pubDate>Mon, 29 Mar 2010 16:42:09 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1269867605#9</guid>
+ </item>
+ <item>
+  <title>До тридцати восьми человек возросло число погибших в результате двух взрывов в московском метро</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/667690-echo.html</link>
+  <description><![CDATA[
+                        
+                         Такие данные приводит МЧС...
+                          ...
+                        ]]></description>
+  <pubDate>Mon, 29 Mar 2010 16:51:00 +0400</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1269867605#10</guid>
+ </item>
+ <item>
+  <title>Пост № 270968</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/270968/#new</link>
+  <description><![CDATA[
+                        Отпустить через 3 часа? Как можно! ...
+                        ]]></description>
+  <pubDate>Mon, 29 Mar 2010 12:21:40 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25 (лет..?)</source>
+  <guid isPermaLink="false">1269867605#11</guid>
+ </item>
+  </channel>
+ </rss>

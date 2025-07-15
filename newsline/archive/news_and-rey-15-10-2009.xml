@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 15 Oct 2009 17:00:07 +0400</pubDate>
+         <lastBuildDate>Thu, 15 Oct 2009 17:00:07 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>МВД Молдавии: взрыв гранаты мог быть терактом</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/10/091015_moldova_grenade_blast.shtml</link>
+  <description><![CDATA[
+                        Власти Молдавии считают, что следствие, начатое по делу взрыва гранаты среди зрителей уличного концерта, не должно сбрасывать со счетов версию о террористическом акте.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 15 Oct 2009 15:59:55 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1255611607#1</guid>
+ </item>
+ <item>
+  <title>В Подмосковье задержаны более ста нелегалов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/Xenophobia/m.160723.html</link>
+  <description><![CDATA[
+                        В Подмосковье задержаны 116 нелегальных мигрантов. Cотрудники миграционной службы совместно с ГИБДД Московской области остановили автобус, направлявшийся из Москвы в Казахстан и Узбекистан. В автобусе, рассчитанном на 45 пассажирских мест, были демонтированы сидения. В салоне ехали 116 уроженцев стран Средней Азии. ...
+                        ]]></description>
+  <pubDate>Thu, 15 Oct 2009 16:38:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1255611607#2</guid>
+ </item>
+ <item>
+  <title>ИноВидео: Нелегкие времена для российскихъ пенсионеров ("Al Jazeera", Арабская пресса)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/253635.html</link>
+  <description><![CDATA[
+                        В Советском Союзе пенсионеры, ветераны войны, пользовались почтением. После распада СССР для многих из них настали сложные времена. Некоторые живут на менее чем 6 долларов в день. ...
+                        ]]></description>
+  <pubDate>Thu, 15 Oct 2009 16:53:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1255611607#3</guid>
+ </item>
+ <item>
+  <title>СКП возбудил 8 уголовных дел по выборам в Дербенте</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091015/17/17.html?id=1852569</link>
+  <description><![CDATA[
+                        Следственный комитет при прокуратуре России возбудил восемь уголовных дел по факту нарушений на выборах главы города Дербента в Дагестане.  Сообщается, что дела возбуждены по заявлениям жителей города в связи с нарушением их прав и фальсификацией избирательных документов.   Ранее Центризбирком сообщил, что выборы мэра Дербента признаны состоявшимися. На них победил действующий глава города Феликс Казиахмедов. Явка на выборах составила около 50 процентов избирателей. ...
+                        ]]></description>
+  <pubDate>Thu, 15 Oct 2009 16:28:35 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1255611607#4</guid>
+ </item>
+ <item>
+  <title>Чета Саркози опасается за свое здоровье в связи со вспышкой чесотки в Елисейском дворце </title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/15Oct2009/dailymail/sarkozy.html</link>
+  <description><![CDATA[
+                        Неприятный диагноз был поставлен в понедельник трем военным, поддерживающим безопасность в официальной резиденции главы французского государства. Елисейский дворец пришел в запущенное состояние, и прежде всего это касается помещений для персонала. ...
+                        ]]></description>
+  <pubDate>Thu, 15 Oct 2009 16:04:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1255611607#5</guid>
+ </item>
+ <item>
+  <title>Вооруженные силы США получили рекордное количество новобранцев</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/15oct2009/104draft.html</link>
+  <description><![CDATA[
+                        Пентагон перевыполнил план впервые с 1973 года. Однако причиной тому стал не патриотизм американских юношей, а увеличение расходов на рекламу и продолжающаяся рецессия. ...
+                        ]]></description>
+  <pubDate>Thu, 15 Oct 2009 16:58:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1255611607#6</guid>
+ </item>
+ <item>
+  <title>Ростехнадзор проводит проверку на "Байконуре"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/10/15/n_1414374.shtml</link>
+  <description><![CDATA[
+                        Московское управление Федеральной службы по экологическому, технологическому и атомному надзору (Ростехнадзор) проводит проверку опасных производственных объектов ракетно-космического комплекса "Байконур", говорится в сообщении ... ...
+                        ]]></description>
+  <pubDate>Thu, 15 Oct 2009 16:54:26 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1255611607#7</guid>
+ </item>
+ <item>
+  <title>Жители Финляндии получили право на быстрый Интернет</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/386611.php</link>
+  <description><![CDATA[
+                        Министерство транспорта и коммуникаций Финляндии объявило о том, что начиная с июля следующего года в стране вступит в силу новый закон, согласно которому каждый гражданин имеет право на подключение к Интернету со скоростью 1 мегабит в секунду.	 ...
+                        ]]></description>
+  <pubDate>Thu, 15 Oct 2009 15:19:43 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1255611607#8</guid>
+ </item>
+ <item>
+  <title>От закрытия канала «Спорт» пострадают даже домохозяйки</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/sport/olympiad/2009/10/14/Sovyet_YEvropyy_vstu.phtml</link>
+  <description><![CDATA[
+                        Скорое перепрофилирование спортивных каналов «Спорт» и 7ТВ в молодежно-развлекательные вызвало массу негативных откликов со стороны спортивной общественности и простых болельщиков. Одним из защитников спорта на ТВ стал директор Национального исследовательского центра телевидения и радио (НИЦТиР), эксперт Совета Европы Алексей Самохвалов. ...
+                        ]]></description>
+  <pubDate>Thu, 15 Oct 2009 16:51:42 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1255611607#9</guid>
+ </item>
+ <item>
+  <title>Президент ФИФА Йозеф Блаттер  высоко оценил шансы России на проведение чемпионата мира по  футболу в 2018 году</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/627253-echo.html</link>
+  <description><![CDATA[
+                        
+                         "Шансы у вас хорошие", - сказал Блаттер на встрече с  премьер-министром РФ Владимиром Путиным...
+                          ...
+                        ]]></description>
+  <pubDate>Thu, 15 Oct 2009 16:42:00 +0400</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1255611607#10</guid>
+ </item>
+ <item>
+  <title>Владимир Вольфович сокрушается об украденной победе</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/260729/#new</link>
+  <description><![CDATA[
+                        <img src=http://img.youtube.com/vi/AKD_QuutuXQ/2.jpg><br /><br />Мошенники, единоросы, негодяи, etc. ...
+                        ]]></description>
+  <pubDate>Thu, 15 Oct 2009 16:00:31 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1255611607#11</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 17 Oct 2019 17:35:01 +0300</pubDate>
+         <lastBuildDate>Thu, 17 Oct 2019 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Дуров готов вернуть инвесторам своей криптовалюты лишь 77% средств. Что происходит?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-50082106</link>
+  <description><![CDATA[
+                        Криптовалютный проект Telegram столкнулся со сложностями: американский регулятор добился судебного запрета на выпуск токенов Gram. В четверг СМИ сообщили, что мессенджер Павла Дурова поставила инвесторов перед выбором - ждать до конца апреля либо взять обратно деньги, но только 77% от вложенных средств. ...
+                        ]]></description>
+  <pubDate>Thu, 17 Oct 2019 16:54:01 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1571322901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Прокуратура Москвы проверит тренинги «Винтаж по-русски» в Сахаровском центре. Месяц назад о них рассказали на НТВ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/10/17/prokuratura-moskvy-proverit-treningi-vintazh-po-russki-v-saharovskom-tsentre-mesyats-nazad-o-nih-rasskazali-na-ntv</link>
+  <description><![CDATA[
+                        Таганская межрайонная прокуратура Москвы запросила у Сахаровского центра сведения об организаторах тренингов «Винтаж по-русски», где учат, как себя вести при задержании на массовых мероприятиях. Текст требования прокуратуры опубликован в телеграм-канале правозащитного движения «Вам можно», организующего тренинги. ...
+                        ]]></description>
+  <pubDate>Thu, 17 Oct 2019 17:25:42 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1571322901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Где живут самые щедрые люди
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/17Oct2019/welt/generous.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Масштабное исследование пришло к неожиданным выводам о готовности людей в разных странах пожертвовать средства или помочь другим.  Китай и Россия оказались в числе наименее щедрых. ...
+                        ]]></description>
+  <pubDate>Thu, 17 Oct 2019 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1571322901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  СМИ: Федотова уволят с поста главы СПЧ, вместо него назначат Фадеева 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30221719.html</link>
+  <description><![CDATA[
+                        Сам Михаил Федотов отказался комментировать информацию  ...
+                        ]]></description>
+  <pubDate>Thu, 17 Oct 2019 16:22:54 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1571322901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Росстат зафиксировал резкий рост реальных доходов россиян - РБК
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiQGh0dHBzOi8vd3d3LnJiYy5ydS9lY29ub21pY3MvMTcvMTAvMjAxOS81ZGE4NjdiZDlhNzk0NzI0OWNkY2ZlNmLSAUhodHRwczovL2FtcC5yYmMucnUvcmJjbmV3cy9lY29ub21pY3MvMTcvMTAvMjAxOS81ZGE4NjdiZDlhNzk0NzI0OWNkY2ZlNmI?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 17 Oct 2019 16:50:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1571322901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В России хотят принять закон о "защитных предписаниях" в интересах жертв домашнего насилия
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/17oct2019/domesticviolence.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Предписание может быть выдано уже после первого заявления или даже телефонного звонка по факту семейного скандала, сопровождавшегося рукоприкладством. Судебное предписание может обязать нарушителя покинуть место совместного проживания, даже если он является собственником жилья. ...
+                        ]]></description>
+  <pubDate>Thu, 17 Oct 2019 17:04:17 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1571322901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Как снизить риски неплатежей при отложенных расчетах: факторинг для бизнеса
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/471940/?utm_campaign=471940&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 17 Oct 2019 17:18:33 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1571322901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Владимир Путин посетил Всероссийский государственный институт кинематографии имени С.А.Герасимова
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/61846</link>
+  <description><![CDATA[
+                        Президент посетил
+старейший творческий вуз страны – Всероссийский государственный институт кинематографии
+им. С.А.Герасимова.       ...
+                        ]]></description>
+  <pubDate>Thu, 17 Oct 2019 16:04:33 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1571322901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Красовский: конец режима будет печальным
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/282/225987-krasovskij-konec-rezima-budet-pecalnym</link>
+  <description><![CDATA[
+                        Журналист и глава «СПИД.Центра» Антон Кросовский прокомментировал последствия «московского дела». ...
+                        ]]></description>
+  <pubDate>Thu, 17 Oct 2019 17:18:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1571322901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  17.10.2019 17:31 : Министр физкультуры и спорта Ставропольского края стал фигурантом уголовного дела
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2521149-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Романа Маркова обвиняют в злоупотреблении полномочиями и хищении 6-ти миллионов рублей, — сообщили в СК. До этого дома у чиновника и в его служебном кабинете прошли обыски.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 17 Oct 2019 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1571322901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Часть небольших отелей оказалась вне закона из-за запрета хостелов в жилых домах
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/680776</link>
+  <description><![CDATA[
+                        Малые гостиницы, расположенные в отдельно стоящих жилых домах, оказались вне закона и должны быть закрыты после вступления в силу 1 октября поправки в Жилищный кодекс об ограничении на размещение хостелов. ...
+                        ]]></description>
+  <pubDate>Thu, 17 Oct 2019 17:21:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1571322901#48</guid>
+ </item>
+  </channel>
+ </rss>

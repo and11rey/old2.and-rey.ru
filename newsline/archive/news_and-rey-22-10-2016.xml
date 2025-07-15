@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 22 Oct 2016 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sat, 22 Oct 2016 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Остаток замороженных пенсионных накоплений уйдет на оборонку
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/graniru.org/Politics/Russia/Cabinet/m.255789.html</link>
+  <description><![CDATA[
+                        167 миллиардов рублей, оставшихся от замороженных пенсионных накоплений граждан за нынешний год, будут до конца 2016-го потрачены на погашение кредитов оборонной промышленности, заявил глава Минфина Антон Силуанов. Всего же на расчеты по займам оборонки предполагается направить 800 миллиардов рублей. Общая сумма кредитов отрасли превышает 1 триллион. ...
+                        ]]></description>
+  <pubDate>Fri, 21 Oct 2016 22:40:00 +0300</pubDate>
+  <source url="http://d2i3c4yj91a1b5.cloudfront.net">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1477146901#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  США предъявили обвинения хакеру из России, арестованному в Праге
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28069210.html</link>
+  <description><![CDATA[
+                        Первоначально имя россиянина не называлось, хотя расследование Радио Свобода/Радио Свободная Европа точно определило его личность ...
+                        ]]></description>
+  <pubDate>Sat, 22 Oct 2016 17:24:43 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1477146901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Поклонская не одобряет приговор гонщикам на Gelandewagen - Комсомольская правда
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNFLAFbB3MbhWFpaS7CCD4jPMMte2A&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779872305762&amp;ei=P3kLWIjNHdHaygOoyb3YBA&amp;url=http://www.kp.ru/online/news/2547673/</link>
+  <description><![CDATA[
+                        «Я в корне не согласна с приговором суда, потому что в данном случае необходимо ставить какую-то точку и переходить к строгости. Здесь стоит вопрос вообще о законности приговора. Генпрокуратура заявила, я поддерживаю полностью своих коллег, что они будут обжаловать данныйВ ... ...
+                        ]]></description>
+  <pubDate>Sat, 22 Oct 2016 17:09:23 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1477146901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Командир разбившегося Ми-8 принял решение лететь, несмотря на сложную погоду
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/22oct2016/mi8kvs.html?rss</link>
+  <description><![CDATA[
+                        На маршруте полета наблюдались сложные метеоусловия, а на некоторых участках была нелетная погода. Решение о полете принял командир, и теперь следователям предстоит оценить, насколько тот адекватно оценил сложности. ...
+                        ]]></description>
+  <pubDate>Sat, 22 Oct 2016 17:35:00 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1477146901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Где хранится эталон длины или как мериться длинами
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/281718/</link>
+  <description><![CDATA[
+                        
+
+Идея разобраться в этом вопросе и в итоге написать данный текст родилась здесь же на сайте — под одной из публикаций увидел утверждение, что продаваемые в магазинах линейки калибруют по вторичным эталонам, те — по первичным, а первичные — по международным. Это лишь в малой части соответствует действительности, так что, если заинтересовались, давайте разбираться.
+
+Disclaimer: я не метролог, так что текст является не очень нудной (я надеюсь) попыткой научно-популярного рассказа, так что в нём во ...
+                        ]]></description>
+  <pubDate>Sat, 22 Oct 2016 15:45:57 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes</source>
+  <guid isPermaLink="false">1477146901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Андрей Ярин назначен начальником Управления Президента по внутренней политике
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/53139</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Sat, 22 Oct 2016 15:13:45 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1477146901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Дагестане по подозрению в нападении и убийстве задержаны трое мужчин
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/accident/crime/2016/10/22/V_Dagyestanye_po_pod.phtml</link>
+  <description><![CDATA[
+                        В Дагестане по подозрению в разбойном нападении на доставщика пенсии и убийстве двух человек задержаны трое мужчин. ...
+                        ]]></description>
+  <pubDate>Sat, 22 Oct 2016 16:11:03 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1477146901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  22.10.2016 17:34 : Проблемы банка РПЦ «Пересвет» связаны с активным кредитованием строительных объектов. 
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1860518-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Об этом «Интерфаксу» сообщили в пресс-службе ЦБ. Там напомнили, что в последние годы эта отрасль столкнулась с серьезным падением спроса. Временная администрация банка сейчас проводит анализ активов и обязательств «Пересвета». Ранее сообщалось, что в «Пересвете» находится основной счет московской патриархии.
+ ...
+                        ]]></description>
+  <pubDate>Sat, 22 Oct 2016 17:34:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1477146901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  "Газпром" поставил новый рекорд экспорта
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/business/533640</link>
+  <description><![CDATA[
+                        Экспорт российского газа в Европу продолжает бить рекорды, отправляя покупателям объемы, которые раньше фиксировались только в самые холодные зимние дни. ...
+                        ]]></description>
+  <pubDate>Sat, 22 Oct 2016 17:32:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1477146901#48</guid>
+ </item>
+  </channel>
+ </rss>

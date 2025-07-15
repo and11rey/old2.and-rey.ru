@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 04 Mar 2018 17:35:02 +0300</pubDate>
+         <lastBuildDate>Sun, 04 Mar 2018 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Скончался 31-летний защитник сборной Италии и "Фиорентины" Давиде Астори
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/news-43277990</link>
+  <description><![CDATA[
+                        Футболист сборной Италии и капитан "Фиорентины" Давиде Астори скончался в возрасте 31 года, сообщили в футбольном клубе. ...
+                        ]]></description>
+  <pubDate>Sun, 04 Mar 2018 16:31:51 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1520174102#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  На Ксению Собчак напал мужчина с криком «Это за Жириновского»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/03/04/na-kseniyu-sobchak-napal-muzhchina-s-krikom-eto-za-zhirinovskogo</link>
+  <description><![CDATA[
+                        На кандидата в президенты Ксению Собчак 4 марта напал мужчина; с криком «Это за Жириновского» он облил ее водой и толкнул на землю; она упала. Об этом в твиттере сообщила сама Собчак. ...
+                        ]]></description>
+  <pubDate>Sun, 04 Mar 2018 17:03:27 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1520174102#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Предвыборная кампания как демонстрация военной мощи
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/02Mar2018/faz/wahlkampf.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Слава российского оружия должна показать, что все жертвы последних лет конфронтации с Западом, санкций, военных операций за границей были не напрасны. Что Россия "поднялась с колен" и, будучи великой и даже сверхдержавой, теперь дает отпор Западу. ...
+                        ]]></description>
+  <pubDate>Fri, 02 Mar 2018 20:30:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1520174102#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Обвиняемый по делу Керимова освобожден под залог
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29077820.html</link>
+  <description><![CDATA[
+                        Это Александр Штудхальтер - бизнес-партнер члена российского Совета Федерации ...
+                        ]]></description>
+  <pubDate>Sun, 04 Mar 2018 15:56:01 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1520174102#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Четыре человека погибли при взрыве газа в жилом доме в Познани
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/602340</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 04 Mar 2018 17:06:26 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1520174102#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Ксению Собчак облили водой с криком "это за Жириновского"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/04mar2018/sobchakwater.html?utm_source=rss</link>
+  <description><![CDATA[
+                        ЧП произошло на дне рождения Михаила Горбачева. В нападавшем опознали личного помощника председателя Мосгордумы Алексея Шапошникова - депутата из московского отделения &#34;Единой России&#34;. ...
+                        ]]></description>
+  <pubDate>Sun, 04 Mar 2018 17:31:24 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1520174102#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Будущее за параллельным программированием
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/298733/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=298733</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 04 Mar 2018 15:46:35 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1520174102#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  5 марта Президент примет участие в заседании коллегии ФСБ и выступит на Съезде транспортников России
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/press/announcements/56974</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Sun, 04 Mar 2018 14:04:49 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1520174102#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Меркель приветствовала решение социал-демократов войти в правительство
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/130/world/politics/196007-merkel-privetstvovala-resenie-social-demokratov-vojti-v-novoe-pravitelstvo</link>
+  <description><![CDATA[
+                        Канцлер ФРГ Ангела Меркель приветствовала решение немецкой Социал-демократической партии Германии войти в новое правительство.
+
+ ...
+                        ]]></description>
+  <pubDate>Sun, 04 Mar 2018 17:29:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1520174102#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  04.03.2018 17:32 : В Аргентине вышло новое расследование про главного фигуранта так называемого кокаинового дела Андрея Ковальчука
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2159150-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Новостной сайт infobae сообщает, что расследование по делу о 12 чемоданах с кокаином длилось с 2016 года. За это время Ковальчук успел дважды побывать в Аргентине. В октябре прошлого года он пытался арендовать латвийский самолет, чтобы вывезти на нем партию наркотиков, но план провалился. Все это время за Ковальчуком следила аргентинская полиция, которая снимала его на камеру и прослушивала его разговоры.
+ ...
+                        ]]></description>
+  <pubDate>Sun, 04 Mar 2018 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1520174102#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Неизвестный мужчина облил водой Ксению Собчак в центре Москвы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/moscow/602341</link>
+  <description><![CDATA[
+                        Мужчина толкнул кандидата в президенты России Ксению Собчак в центре Москвы, его задержали, утверждают в пресс-службе кандидата. ...
+                        ]]></description>
+  <pubDate>Sun, 04 Mar 2018 17:10:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1520174102#48</guid>
+ </item>
+  </channel>
+ </rss>

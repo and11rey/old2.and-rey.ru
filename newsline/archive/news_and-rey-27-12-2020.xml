@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 27 Dec 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sun, 27 Dec 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  В Британию по VIP-пакету. Как 39 мигрантов оказались в смертельной ловушке
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/features-55437688</link>
+  <description><![CDATA[
+                        "В этом контейнере мы можем умереть, я больше не могу дышать", - так выглядело текстовое сообщение, написанное девушкой по имени Фам Тхи Нгок Оан, но так и не отправленное. Почему она и еще 38 граждан Вьетнама умерли в темном, душном грузовом контейнере? ...
+                        ]]></description>
+  <pubDate>Sun, 27 Dec 2020 17:27:32 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1609079701#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В московском метро при задержании умер мужчина
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2020/12/27/v-moskovskom-metro-pri-zaderzhanii-umer-muzhchina</link>
+  <description><![CDATA[
+                        Мужчина умер во время задержания на станции «Щукинская» московского метро 26 декабря, сообщает ТАСС со ссылкой на ГУ МВД по Москве. ...
+                        ]]></description>
+  <pubDate>Sun, 27 Dec 2020 15:00:07 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1609079701#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Россия еще оценит наследие последнего советского лидера, говорит переводчик Михаила Горбачева
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/25Dec2020/independent/palazhchenko.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Павел Палажченко, переводчик Михаила Горбачева, считает, что широкая внутренняя критика бывшего советского лидера проистекает, в основном, из незнания. Было много ошибок, но "абсурдно" обвинять его во всем том, что с тех пор пошло не так. ...
+                        ]]></description>
+  <pubDate>Fri, 25 Dec 2020 20:18:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1609079701#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Москве противники вырубки деревьев перекрыли проспект 
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/31021400.html</link>
+  <description><![CDATA[
+                        Участники акции задержаны полицией 
+ ...
+                        ]]></description>
+  <pubDate>Sun, 27 Dec 2020 16:53:00 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1609079701#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  30 и 31 декабря станут нерабочими для педагогических вузов - РБК
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiN2h0dHBzOi8vd3d3LnJiYy5ydS9yYmNmcmVlbmV3cy81ZmU4OGEzODlhNzk0NzBiYTlhODFmNTLSAT9odHRwczovL2FtcC5yYmMucnUvcmJjbmV3cy9yYmNmcmVlbmV3cy81ZmU4OGEzODlhNzk0NzBiYTlhODFmNTI?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 27 Dec 2020 16:44:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1609079701#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Министр обороны Турции  пригрозил сторонникам Хафтара ответным огнем в случае атаки
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/27dec2020/tkinlybia.html?utm_source=rss</link>
+  <description><![CDATA[
+                        По словам Хулуси Акара, в таком случае атакующие &#34;уже не смогут найти места для того, чтобы скрыться&#34;. Ранее командующий Ливийской национальной армии Хафтара потребовал от Турции покинуть ливийскую территорию, пообещав, что в противном случае ей и ее &#34;наемникам&#34; придется &#34;почувствовать силу оружия&#34;. ...
+                        ]]></description>
+  <pubDate>Sun, 27 Dec 2020 16:53:32 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1609079701#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Декодируем сигнал метеоспутника NOAA в 50 строчек кода
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/535206/?utm_campaign=535206&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        Привет, Хабр.
+
+Продолжим тему декодирования различных видов радиосигналов. Одним из интересных форматов, разработанных еще в прошлом веке, является APT (Automatic Picture Transmission). Он используется для передачи изображений Земли из космоса, и что для нас гораздо более интересно и актуально, прием сигналов APT прост и доступен радиолюбителям.
+
+
+Спутник NOAA В© en.wikipedia.org/wiki/NOAA-15
+
+Для тех, кому интересно, продолжение под катом. Читать дальше в†’ ...
+                        ]]></description>
+  <pubDate>Sun, 27 Dec 2020 16:43:04 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1609079701#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Поздравление сотрудникам и ветеранам МЧС России с Днём спасателя
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/64751</link>
+  <description><![CDATA[
+                        Владимир Путин в видеообращении поздравил сотрудников и ветеранов МЧС России с Днём спасателя.      ...
+                        ]]></description>
+  <pubDate>Sat, 26 Dec 2020 17:26:09 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1609079701#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Пока не долетел: в России не нашли британского штамма коронавируса
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/285/248804-poka-ne-doletel-v-rossii-ne-nasli-britanskogo-stamma-koronavirusa</link>
+  <description><![CDATA[
+                        В России пока не обнаружена мутация коронавируса из Великобритании, которая считается особо заразной. Между тем эпидемиологи считают, что способы борьбы с этим штаммом будут стандартными. ...
+                        ]]></description>
+  <pubDate>Sun, 27 Dec 2020 17:04:13 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1609079701#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  27.12.2020 17:08 : Турция ужесточила правила въезда в страну из-за пандемии
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2764834-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Турция ужесточила правила въезда в страну из-за пандемии. В частности, все пассажиры будут обязаны иметь отрицательный тест на коронавирус. Об этом «Эху» рассказал турецкий журналист Абдуррахман Камбуроглу.  <br>
+Меры будут длиться до 1 марта следующего года.
+ ...
+                        ]]></description>
+  <pubDate>Sun, 27 Dec 2020 17:08:36 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1609079701#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Миротворцы сопроводили восемь азербайджанских колонн в Карабахе
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/743192</link>
+  <description><![CDATA[
+                        Российские миротворцы в Нагорном Карабахе за сутки сопроводили восемь колонн азербайджанских военных, сообщили в воскресенье в Минобороны РФ. ...
+                        ]]></description>
+  <pubDate>Sun, 27 Dec 2020 17:08:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1609079701#48</guid>
+ </item>
+  </channel>
+ </rss>

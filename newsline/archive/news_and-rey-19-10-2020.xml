@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 19 Oct 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Mon, 19 Oct 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Северный Кипр: чего ждать от победы протурецкого кандидата?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/features-54599703</link>
+  <description><![CDATA[
+                        Второй тур президентских выборов в непризнанной международным сообществом Турецкой Республике Северного Кипра завершился победой протурецкого кандидата Эрсина Татара. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2020 16:19:28 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1603118101#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В России за полгода осудили 231 представителя власти за пытки и причинение тяжких последствий. Число оправданных снизилось на 65%
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2020/10/19/v-rossii-za-polgoda-osudili-231-predstavitelya-vlasti-za-pytki-i-prichinenie-tyazhkih-posledstviy-chislo-opravdannyh-snizilos-na-65</link>
+  <description><![CDATA[
+                        Российские суды за первые шесть месяцев 2020 года осудили 231 человека по статье о превышении должностных полномочий с применением насилия, оружия, специальных средств или с причинением тяжких последствий. Это следует из статистики Судебного департамента при Верховном суде РФ, которую проанализировали специалисты «Зоны права». ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2020 17:02:24 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1603118101#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Обезглавливание Самюэля Пати: досье семьи Анзоровых не убедило Французское агентство по защите беженцев и апатридов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/19Oct2020/lefigaro/paris2.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Семье Абдуллаха Анзорова, прибывшего во Францию из России в 2007 году, Французское агентство по защите беженцев и апатридов отказало в статусе беженцев. Отказ был отменен Национальным судом по вопросам убежища в 2011 году.  ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2020 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1603118101#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Минфин предложил объединить МВД, ФСИН и ФССП
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30901400.html</link>
+  <description><![CDATA[
+                        В конце прошлой недели министерство финансов предложило оптимизировать расходы на правоохранительный блок, после чего из Совета безопасности в несколько силовых ведомств был направлен запрос с просьбой сформулировать свое видение по этому вопросу. Об этом пишет "Коммерсантъ" со ссылкой на источники, которые подтвердили получение такого запроса.
+
+
+Минфин "предлагает провести масштабную реформу силового блока". Ведомство выступает за объединение МВД, ФСИН и службы судебных приставов. Речь также ид ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2020 17:14:22 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1603118101#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Власти Подмосковья назвали срок действия новых ограничений из-за COVID-19 - РБК
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiN2h0dHBzOi8vd3d3LnJiYy5ydS9yYmNmcmVlbmV3cy81ZjhkN2NlNTlhNzk0Nzk0YTEzMjhjNzLSAT9odHRwczovL2FtcC5yYmMucnUvcmJjbmV3cy9yYmNmcmVlbmV3cy81ZjhkN2NlNTlhNzk0Nzk0YTEzMjhjNzI?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2020 16:32:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1603118101#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Путин поблагодарил Стивена Сигала за помощь в восстановлении популяции байкальского омуля
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/19oct2020/baikal.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Голливудский актер Стивен Сигал посетил Байкал летом 2020 года. Тогда он высказал желание развивать свой бизнес-проект в рамках программы &#34;дальневосточного гектара&#34;, обучать детей боевым искусствам и защищать Байкал. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2020 16:58:22 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1603118101#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Квантовое машинное обучение: знакомимся с Tensorflow Quantum
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/523932/?utm_campaign=523932&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        На Хабре практически нет информации про квантовое машинное обучение (Quantum Machine Learning), и в этой статье я постараюсь подробнее раскрыть тему. Сразу скажу, что промышленных квантовых компьютеров сегодня не существует, все основные разработки в этой области носят теоретический характер, а задачу, которую мы будем разбирать в статье можно решить «по классике» за доли секунд. Но ведь еще 30 лет назад была так называемая «зима искусственного интеллекта», а сегодня нейронные сети буквально окр ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2020 17:24:02 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1603118101#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с руководителем Росрыболовства Ильёй Шестаковым
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/64244</link>
+  <description><![CDATA[
+                        Заместитель
+Министра сельского хозяйства – руководитель Федерального агентства по рыболовству Илья Шестаков информировал Президента о положении дел в рыбной
+отрасли. Отдельно глава ведомства доложил о реализации механизма инвестиционных
+квот.       ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2020 13:34:35 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1603118101#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Биография Марьяны Спивак: «Нелюбовь», «Эпидемия» и другие работы в кино
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/usefull/29/244708-biografia-marany-spivak-nelubov-epidemia-i-drugie-raboty-v-kino</link>
+  <description><![CDATA[
+                        Марьяна Спивак. Биография: «Нелюбовь», «Цой» и другие фильмы, «Эпидемия», «Шифр» и другие сериалы, брак с Кириллом Петровым. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2020 17:14:34 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1603118101#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  19.10.2020 17:34 : В Ненецком автономном округе после разлива нефтепродуктов на Харьягинском месторождении ввели режим ЧС
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2727856-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+В Ненецком автономном округе после разлива нефтепродуктов на Харьягинском месторождении ввели режим ЧС. По факту происшествия возбуждено уголовное дело, сообщил губернатор региона Юрий Бездудный. По его словам, принимаются экстренные меры по ликвидации последствий утечки. <br>
+17 октября Бездудный опубликовал информацию о том, что на реке Колве обнаружена радужная пленка. Позже он написал, что разлив произошел из-за разгерметизации недействующего трубопровода.
+ ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2020 17:34:01 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1603118101#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Два футболиста "Краснодара" пропустят матч ЛЧ с "Ренном" из-за COVID-19
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.sport-interfax.ru/732157</link>
+  <description><![CDATA[
+                        Не поедет на игру во Францию и главный тренер: у него ангина ...
+                        ]]></description>
+  <pubDate>Mon, 19 Oct 2020 17:17:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1603118101#48</guid>
+ </item>
+  </channel>
+ </rss>

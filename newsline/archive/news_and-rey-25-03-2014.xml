@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 25 Mar 2014 17:05:01 +0400</pubDate>
+         <lastBuildDate>Tue, 25 Mar 2014 17:05:01 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Депутаты намерены сократить долю зарубежных фильмов в российском прокате
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/Parliament/Duma/m.227097.html</link>
+  <description><![CDATA[
+                        В Госдуме готовится законопроект о сокращении доли зарубежных кинофильмов в российском прокате до половины репертуара. "У нас в основном показывают американские фильмы, которые пропагандируют стереотипы, национальные интересы и ценности США", - заявил один из авторов проекта Роберт Шлегель. ...
+                        ]]></description>
+  <pubDate>Tue, 25 Mar 2014 15:56:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1395752701#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  НАТО не нужно больше расширяться
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/world/20140325/218962492.html</link>
+  <description><![CDATA[
+                        Заинтересованным кругам на Западе не потребовалось много времени, чтобы схватиться за украинский кризис. Командующие силами НАТО и британские генералы заговорили об опасности, которая исходит от возрождающейся России. Какими бы ни были их мотивы, смысл их стратегической риторики вполне прозрачен: британский ядерный арсенал позволит сдерживать Россию, вступившую в новую холодную войну. ...
+                        ]]></description>
+  <pubDate>Tue, 25 Mar 2014 16:42:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1395752701#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Отделяться – так всем
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/content/article/25309043.html</link>
+  <description><![CDATA[
+                        За шуточными предложениями о переходе Петербурга к Лихтенштейну стоят вполне серьезные соображения ...
+                        ]]></description>
+  <pubDate>Tue, 25 Mar 2014 16:30:47 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1395752701#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Тимошенко подтвердила скандальную запись - Дни.Ру
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNEawNtEiTmrzukVxf1HNT6IjYH_cA&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=43982652962611&amp;ei=x34xU7CxFIWuygPx_gE&amp;url=http://www.dni.ru/redir/?source%3Ddni_popular_news%26id%3D268151%26dniurl%3Dpolit/2014/3/24/268151.html</link>
+  <description><![CDATA[
+                        Экс-премьер Украины Юлия Тимошенко признала, что телефонный разговор с бывшим заместителем секретаря Совета национальной безопасности и обороны (СНБО) Украины Нестором Шуфричем у нее действительно состоялся. Бывшая заключенная, получившая семь лет колонииВ ... ...
+                        ]]></description>
+  <pubDate>Tue, 25 Mar 2014 17:02:32 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1395752701#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Верховный суд не изменил приговор студентке Лотковой, "отстреливавшейся" в московском метро
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/crime/25mar2014/lotkova.html</link>
+  <description><![CDATA[
+                        Высшая судебная инстанция страны отказалась дать дальнейший ход надзорной жалобе бывшего омбудсмена Владимира Лукина и адвокатов девушки, осужденной на три года колонии за стрельбу из травматического пистолета и ранение двух человек в столичном метро в мае 2012 года. ...
+                        ]]></description>
+  <pubDate>Tue, 25 Mar 2014 17:02:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1395752701#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ОС Tizen изнутри: Meet-Up в офисе Samsung 27 марта
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/post/217045/</link>
+  <description><![CDATA[
+                        Привет, Хабр!
+
+Во время наших мастер-классов и хакатонов мы неоднократно демонстрировали и помогали другим разработчикам самостоятельно убедиться, насколько легко и быстро можно освоить разработку приложений для Tizen. Мы обязательно продолжим нашу просветительскую деятельность: 2014 год будет весьма и весьма продуктивным в этом плане. 
+
+Но как же быть с разработкой самой платформы Tizen?
+
+
+ Читать дальше в†’ ...
+                        ]]></description>
+  <pubDate>Tue, 25 Mar 2014 16:08:29 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1395752701#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Кремле вручены премии деятелям культуры и премии за произведения для детей
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.kremlin.ru/news/20638</link>
+  <description><![CDATA[
+                        Владимир Путин вручил премии Президента молодым деятелям культуры и премии Президента в области литературы и искусства за произведения для детей и юношества. Эта премия учреждена в декабре прошлого года и вручается впервые. ...
+                        ]]></description>
+  <pubDate>Tue, 25 Mar 2014 14:00:00 +0400</pubDate>
+  <source url="http://www.kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1395752701#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Россия предложила Чили локализацию производства военной техники
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/hi-tech/weapon/2014/03/25/Rossiya_pryedlozhila.phtml</link>
+  <description><![CDATA[
+                        Российская Федерация предложила правительству Чили спектр вооружений с возможностью локализации производства военной техники.  ...
+                        ]]></description>
+  <pubDate>Tue, 25 Mar 2014 16:48:01 +0400</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1395752701#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  25.03.2014 17:03 : Саммит Большой Восьмерки состоится в Брюсселе без участия России
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1286802-echo.html</link>
+  <description><![CDATA[
+                        
+
+Сотрудничество с Россией прекращается до тех пор, пока она не изменит свою политику в отношении Украины и Крыма. Таким образом, Россия выпадает из круга своих партнеров, - считает член правления института современного развития, замдиректора ИМЭМО РАН Евгений Гонтмахер.
+<br>
+
+<br>
+Тем не менее, Россия остается очень важным игроком в мировой политике,  - подчеркивает Гонтмахер. По его словам, страна, которая обладает ядерным потенциалом и имеет запасы нефти и газа, не может долго оставаться за п ...
+                        ]]></description>
+  <pubDate>Tue, 25 Mar 2014 17:03:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1395752701#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Анекдот
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/politics.d3.ru/comments/540567</link>
+  <description><![CDATA[
+                        
+		
+		
+	
+		Путин сидит перед телевизором и не переставая названивает начальнику разведки: <br> — Орден Тягнибоку за отмену русского языка! Как так — не наш агент?! Орден Ярошу за идею подрыва газопровода! Что значит — это не мы, это он сам?! А этот придурок — Ляшко? А эти кретины из Свободы — Мирошниченко и прочие? Там вообще наши агенты есть?!! Что значит — закупили вагон попкорна и цистерну пива и смотрят на происходящее как кино????!!!! <br>Раздраженно повесил трубку и щелкнул селектором: <br ...
+                        ]]></description>
+  <pubDate>Tue, 25 Mar 2014 17:05:05 +0400</pubDate>
+  <source url="http://d3.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1395752701#34</guid>
+ </item>
+  </channel>
+ </rss>

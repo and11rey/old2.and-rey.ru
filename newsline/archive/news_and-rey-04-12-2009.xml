@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 04 Dec 2009 17:00:06 +0300</pubDate>
+         <lastBuildDate>Fri, 04 Dec 2009 17:00:06 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Полиция закрыла обманные сайты</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/uk/2009/12/091204_fake_sites.shtml</link>
+  <description><![CDATA[
+                        Более 1200 сайтов, торговавших поддельными дизайнерскими товарами, закрыты лондонской полицией. ...
+                        ]]></description>
+  <pubDate>Fri, 04 Dec 2009 15:42:43 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1259935206#1</guid>
+ </item>
+ <item>
+  <title>Госдума проверит информацию о пьянстве футболистов сборной России</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/Parliament/Duma/m.163110.html</link>
+  <description><![CDATA[
+                        Госдума проверит информацию о том, что футболисты сборной России перед стыковыми матчами ЧМ-2010 со Словенией развлекались, серьезно нарушая спортивный режим. Сюжет на эту тему был показан в программе "Человек и закон" на Первом канале. Представители фракции "Справедливой России" сочли его порочащим российский футбол. ...
+                        ]]></description>
+  <pubDate>Fri, 04 Dec 2009 16:32:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1259935206#2</guid>
+ </item>
+ <item>
+  <title>Одноразовый президент</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/latamerica/20091201/156784373.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 01 Dec 2009 16:51:29 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1259935206#3</guid>
+ </item>
+ <item>
+  <title>Дело осужденной журналистки Махмутовой направлено на новое рассмотрение</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091204/17/17.html?id=1895127</link>
+  <description><![CDATA[
+                        Президиум Мосгорсуда направил на новое рассмотрение уголовное дело журналистки Айгуль Махмутовой.  В прошлом году Махмутова - шеф-редактор газеты «Судьба Кузьминок» - была приговорена к пяти с половиной годам лишения свободы по обвинению в мошенничестве и вымогательстве.   Адвокаты считают обвинения вымышленными, заявляя, что Махмутова стала жертвой мести чиновников, недовольных ее журналистскими расследованиями случаев коррупции и незаконного строительства в Москве, сообщает ... ...
+                        ]]></description>
+  <pubDate>Fri, 04 Dec 2009 16:21:23 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1259935206#4</guid>
+ </item>
+ <item>
+  <title>Дурное предзнаменование в Дубае</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/04Dec2009/wp/dubai.html</link>
+  <description><![CDATA[
+                        Аналитики полагают, что эмират потерпит дефолт на 30 млрд долларов. Кроме того, дубайский кризис свидетельствует о том, что и другие игроки рынка коммерческой недвижимости могут оказаться в беде. Между тем правительства устали играть роль пожарного. ...
+                        ]]></description>
+  <pubDate>Fri, 04 Dec 2009 16:58:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1259935206#5</guid>
+ </item>
+ <item>
+  <title>Банки и приставы будут вместе выбивать долги</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/04dec2009/pristav.html</link>
+  <description><![CDATA[
+                        ФССП России готова предоставлять банкам информацию о "кредитной истории и кредитных рисках со стороны получателя, который приходит в банк", но требует взаимности и частичного отказа от банковской тайны. ...
+                        ]]></description>
+  <pubDate>Fri, 04 Dec 2009 16:49:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1259935206#6</guid>
+ </item>
+ <item>
+  <title>Фигурант первого дела о "Невском экспрессе" оспорил приговор по взятке следователю</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/12/04/n_1431890.shtml</link>
+  <description><![CDATA[
+                        Житель Ингушетии Саламбек Дзахкиев, обвиняемый в причастности к подрыву "Невского экспресса" в 2007 году, обжаловал приговор по взятке следователю СКП, который был вынесен ему 24 ноября. Об этом сообщил представитель ... ...
+                        ]]></description>
+  <pubDate>Fri, 04 Dec 2009 16:59:02 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1259935206#7</guid>
+ </item>
+ <item>
+  <title>Microsoft подготовила к выходу очередную порцию патчей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/793c47f/l/0L0Ssecuritylab0Bru0Cnews0C3884750Bphp/story01.htm</link>
+  <description><![CDATA[
+                        В следующий вторник, 8 декабря Microsoft опубликует шесть бюллетеней безопасности с описанием 12 дыр в браузере Internet Explorer, операционных системах Windows различных версий и приложениях Microsoft Office. ...
+                        ]]></description>
+  <pubDate>Fri, 04 Dec 2009 14:25:47 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1259935206#8</guid>
+ </item>
+ <item>
+  <title>Новая военная доктрина России почти готова</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/defence/2009/12/04/Novaya_voyennaya_dok.phtml</link>
+  <description><![CDATA[
+                        В ближайшее время Совбез России рассмотрит военную доктрину, важнейшим стратегическим документом которой станет доктрина продовольственной безопасности. Секретарь совета Николай Патрушев сообщил, что документ о продовольственной безопасности будет готов к концу декабря и, что в ближайшее время Россия не сможет преодолеть зависимость от импорта продовольствия. ...
+                        ]]></description>
+  <pubDate>Fri, 04 Dec 2009 16:53:59 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1259935206#9</guid>
+ </item>
+ <item>
+  <title>Скончался актер Вячеслав Тихонов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/639042-echo.html</link>
+  <description><![CDATA[
+                        
+                         <br><img src='http://www.echo.msk.ru/att/element-639042-picture-1.jpg?1259934992'><br>Ему была 81 год......
+                          ...
+                        ]]></description>
+  <pubDate>Fri, 04 Dec 2009 16:54:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1259935206#10</guid>
+ </item>
+ <item>
+  <title>Нет идей, чем заняться на выходных?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/263511/#new</link>
+  <description><![CDATA[
+                        <img src=http://img.youtube.com/vi/qO1tydZke-o/2.jpg><br /><br />Попробуйте повторить.<br />
+<br />
+Ещё можете развлечься, пытаясь попасть баскетбольным мячом из разных положений, погонять бильярдные шары, или, на худой конец, поиграть в "Розенкранца и Гильденстерна" ...
+                        ]]></description>
+  <pubDate>Fri, 04 Dec 2009 15:16:55 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1259935206#11</guid>
+ </item>
+  </channel>
+ </rss>

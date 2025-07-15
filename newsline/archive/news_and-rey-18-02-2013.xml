@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 18 Feb 2013 17:00:04 +0400</pubDate>
+         <lastBuildDate>Mon, 18 Feb 2013 17:00:04 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  ВГТРК выходит из состава  "Академии российского телевидения" 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/Media/Television/m.211759.html</link>
+  <description><![CDATA[
+                        ВГТРК заявила о выходе из состава фонда "Академия российского телевидения". Это решение в холдинге объясняют рядом причин, "прежде всего тем, что сама Академия перестала быть институтом, объединяющим телесообщество, а превратилась в площадку телераздора". В 2008 году ВГТРК отказалась от участия в конкурсе ТЭФИ. ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2013 15:24:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1361192404#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Эквадор: Почему победил Корреа
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/world/20130218/206046458.html</link>
+  <description><![CDATA[
+                        16 февраля Рафаэль Корреа был переизбран президентом Эквадора. За него было подано более 55% голосов. Причины его успеха кроются в грубых политических просчетах традиционных политиков, дееспособном Конгрессе и сокращении бедности. ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2013 15:58:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1361192404#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Чавес вернулся в Каракас
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/content/article/24905434.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2013 15:59:05 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1361192404#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Генпрокуратура вскрыла схемы многомиллиардных хищений на предприятиях ЖКХ и ТЭК Мурманской области - Газета.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNE84oPtppNkov52-EywQ4if1K8IcQ&amp;url=http://www.gazeta.ru/social/news/2013/02/18/n_2760825.shtml</link>
+  <description><![CDATA[
+                        Генеральная прокуратура России выявила преступную схему миллиардных хищений на предприятиях ЖКХ и топливно-энергетического комплекса (ТЭК) в Мурманской области, в частности «Колэнергосбыта», главой которого являлся экс-советник губернатора Мурманской области. ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2013 16:39:16 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1361192404#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В России появилась партия, на которую возлагает надежду протоиерей Всеволод Чаплин
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/religy/18feb2013/neue_partrei.html</link>
+  <description><![CDATA[
+                        В минувшее воскресенье в Москве состоялся учредительный съезд Российской партии десяти заповедей. В нем приняли участие 134 делегата от 45 субъектов РФ, представляющих христиан разных конфессий, мусульман и иудеев. Возглавил руководящий орган партии - политический совет - доктор философских наук Сергей Мезенцев. ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2013 16:56:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1361192404#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Автоматическая блокировка экрана в GNU/Linux
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/post/169819/</link>
+  <description><![CDATA[
+                        Часто ли уходя за очередной чашечкой кофе или выйдя из кабинета/офиса совершить личный звонок, ты ловишь себя на мысли что забыл заблокировать экран своего компьютера? А на компьютере в это время осталась открытая переписка в Skype/почте или еще хуже — сессия root'а в консоли? В результате ты стараешься вернуться к своему компьютеру как можно быстрее, чтобы добрые коллеги не успели поставить фоном рабочего стола обои с Черным Властелином.
+В данной статье приведу пример решения этой проблемы с бл ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2013 16:22:48 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1361192404#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  19 февраля Владимир Путин проведёт заседание Совета по межнациональным отношениям
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.kremlin.ru/accreditation/17531</link>
+  <description><![CDATA[
+                        В ходе заседания будут обсуждаться планы реализации Стратегии государственной национальной политики на период до 2025 года. Помимо этого на повестке дня вопросы сохранения и приумножения духовного и культурного потенциала многонационального народа Российской Федерации, роль гуманитарных наук в изучении многовекового опыта взаимодействия народов России. ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2013 15:00:00 +0400</pubDate>
+  <source url="http://www.kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1361192404#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Половина регионов может не осилить программу по ликвидации аварийного жилья
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/realty/city/2013/02/18/Polovina_ryegionov_m.phtml</link>
+  <description><![CDATA[
+                        Около половины регионов страны могут не справиться с нагрузкой при изменении порядка софинансирования программы по ликвидации аварийного жилья, полагает председатель Счетной палаты РФ Сергей Степашин. ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2013 16:56:22 +0400</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1361192404#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  18.02.2013 16:32 : В России появилась "Партия десяти заповедей"
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1014506-echo.html</link>
+  <description><![CDATA[
+                        
+
+Учредительный съезд состоялся сегодня в Москве. Возглавил структуру философ Сергей Мезенцев. В нее вошли представители разных конфессий. На съезде выступил глава синодального отдела РПЦ по взаимоотношениям церкви и общества Всеволод Чаплин. Он выразил надежду, что десять заповедей теперь вернутся в повседневную политическую практику. Именно это и считают своей целью новоявленные партийцы. 
+ ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2013 16:32:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1361192404#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Супер кабинки от гопоты!
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/moscow.d3.ru/comments/417452</link>
+  <description><![CDATA[
+                        
+		
+
+
+
+
+		
+	
+		Ждите во всех парках москвы!<br><br>Все московские парки могут оснастить кабинками безопасности — специальными прозрачными боксами с ярким освещением внутри, в которых гуляющие поздним вечером граждане смогут укрыться от неприятностей.<br><br>P.S. так и представляю, прячешься в кабинку и оттуда еще можно неприличные жесты гопоте показывать.
+	
+
+ ...
+                        ]]></description>
+  <pubDate>Mon, 18 Feb 2013 17:00:14 +0400</pubDate>
+  <source url="http://d3.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1361192404#34</guid>
+ </item>
+  </channel>
+ </rss>

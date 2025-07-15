@@ -1,0 +1,6 @@
+# ---------------------
+# old2.and-rey.ru/go2/
+# ---------------------
+
+RewriteEngine on
+RewriteRule ^(.*)$ index.php?/$1 [L,QSA,E=GO2:ON]

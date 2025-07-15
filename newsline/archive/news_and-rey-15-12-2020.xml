@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 15 Dec 2020 17:35:02 +0300</pubDate>
+         <lastBuildDate>Tue, 15 Dec 2020 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Как работает Би-би-си
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/institutional-55301322</link>
+  <description><![CDATA[
+                        Задача Би-би-си - каждый день создавать контент мирового класса; контент, который информирует, просвещает и развлекает миллионы людей в Великобритании и по всему миру. ...
+                        ]]></description>
+  <pubDate>Tue, 15 Dec 2020 16:43:24 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1608042902#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Аэрофлот» выделит отдельные места для пассажиров, отказавшихся надеть маску в самолете
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2020/12/15/aeroflot-vydelit-otdelnye-mesta-dlya-passazhirov-otkazavshihsya-nadet-masku-v-samolete</link>
+  <description><![CDATA[
+                        Компания «Аэрофлот» предусмотрит в своих самолетах выделенные места для пассажиров, отказавшихся использовать защитную маску после закрытия дверей в салоне самолета. Об этом сообщила пресс-секретарь авиакомпании Юлия Спивакова. ...
+                        ]]></description>
+  <pubDate>Tue, 15 Dec 2020 16:33:38 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1608042902#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Как микробиота кишечника распоряжается нашим настроением
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/15Dec2020/lemonde/microbiota.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Модификация микробиоты у мышей может стать причиной депрессивного состояния, утверждают ученые. ...
+                        ]]></description>
+  <pubDate>Tue, 15 Dec 2020 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1608042902#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Венгрии фактически запретили усыновление однополыми парами
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/31002059.html</link>
+  <description><![CDATA[
+                        Одобрены поправки к конституции ...
+                        ]]></description>
+  <pubDate>Tue, 15 Dec 2020 16:54:37 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1608042902#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Потеря репутации, акцент на ПК-версии, много возвратов средств: CDPR побеседовала с инвесторами о Cyberpunk 2077 - 3DNews
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovLzNkbmV3cy5ydS8xMDI3ODg3L3BvdGVyeWEtcmVwdXRhdHNpaS1ha3RzZW50LW5hLXBrdmVyc2lpLW1ub2dvLXZvenZyYXRvdi1zcmVkc3R2LWNkcHItcG9iZXNlZG92YWxhLXMtaW52ZXN0b3JhbWktby1jeWJlcnB1bmstMjA3N9IBjQFodHRwczovLzNkbmV3cy5ydS8xMDI3ODg3L3BvdGVyeWEtcmVwdXRhdHNpaS1ha3RzZW50LW5hLXBrdmVyc2lpLW1ub2dvLXZvenZyYXRvdi1zcmVkc3R2LWNkcHItcG9iZXNlZG92YWxhLXMtaW52ZXN0b3JhbWktby1jeWJlcnB1bmstMjA3Ny9hbXA?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 15 Dec 2020 15:20:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1608042902#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Гособвинение запросило для обвиняемой в шпионаже Карины Цуркан 18 лет колонии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/15dec2020/tzurkan.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Прокурор Борис Локтионов заявил, что виновность бывшего топ-менеджера &#34;Интер РАО&#34; Карины Цуркан доказана, и назвал ее &#34;врагом государства&#34;. ...
+                        ]]></description>
+  <pubDate>Tue, 15 Dec 2020 16:51:49 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1608042902#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Перепланировка своими руками: предостережения, полезный софт и нескончаемый ремонт
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/532118/?utm_campaign=532118&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        Привет, Хабр! Меня зовут Антон, пару недель назад я отмечал новоселье и хвастался друзьям, что самостоятельно (ладно, почти) сделал перепланировку и ремонт в своей новой квартире. Приглашённые умы старался задействовать по минимуму — обходясь только софтом и собственной головой с техническим образованием. Под катом поделюсь опытом с теми, кто также подумывает о подобной авантюре или уже в неё ввязался и теперь не понимает, что делать дальше. Погрузиться в волшебный мир ремонта ...
+                        ]]></description>
+  <pubDate>Tue, 15 Dec 2020 15:40:16 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1608042902#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Борису Грызлову, Председателю Высшего совета партии «Единая Россия»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/letters/64664</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Tue, 15 Dec 2020 16:27:01 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1608042902#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Лепс раскритиковал артистов, которые не простились с Гафтом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/282/248135-leps-raskritikoval-artistov-kotorye-ne-prostilis-s-gaftom</link>
+  <description><![CDATA[
+                        В Москве прошла церемония прощания с народным артистом РСФСР Валентином Гафтом. ...
+                        ]]></description>
+  <pubDate>Tue, 15 Dec 2020 17:23:29 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1608042902#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  15.12.2020 17:34 : В подмосковном Волоколамске закрыли мусорный полигон «Ядрово»
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2758528-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Об этом объявил Росприроднадзор. В пресс-службе регионального правительства уточнили, что теперь предстоит работа по рекультивации свалки, которая проработала около 40 лет. Губернатор Андрей Воробьёв на церемонии закрытия полигона сказал, что в Московской области будут работать только современные комплексы, отвечающие экологическим стандартам. 
+
+Телеканал 360 отмечает, что мусор, который раньше свозили на полигон «Ядрово» теперь будет принимать комплекс переработки отходов в Можайском районе. ...
+                        ]]></description>
+  <pubDate>Tue, 15 Dec 2020 17:34:36 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1608042902#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Фиксированные цены на масло и сахар будут введены только до Урала
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/741410</link>
+  <description><![CDATA[
+                        В Сибири, на Дальнем Востоке и Крайнем Севере будут предусмотрены поправочные коэффициенты ...
+                        ]]></description>
+  <pubDate>Tue, 15 Dec 2020 17:20:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1608042902#48</guid>
+ </item>
+  </channel>
+ </rss>

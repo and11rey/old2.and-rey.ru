@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 10 Dec 2020 17:35:01 +0300</pubDate>
+         <lastBuildDate>Thu, 10 Dec 2020 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  От предупреждений до уголовных дел: как белорусские власти давят на независимые СМИ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/features-55260648</link>
+  <description><![CDATA[
+                        Трое журналистов находятся в СИЗО, еще почти 400 сотрудников СМИ стали жертвами преследования со стороны властей за последние несколько месяцев: белорусские власти ужесточают борьбу с независимыми СМИ. На какие риски приходится идти журналистам, чтобы продолжать работу и удалось ли режиму Лукашенко вытеснить независимые медиа с информационного поля? ...
+                        ]]></description>
+  <pubDate>Thu, 10 Dec 2020 16:36:27 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1607610901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Джонни Депп остается большой звездой. Но голливудские студии больше не хотят иметь с ним дела. The Hollywood Reporter рассказал, как живет актер, погрязший в скандалах и судебных тяжбах
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/feature/2020/12/10/dzhonni-depp-ostaetsya-bolshoy-zvezdoy-no-gollivudskie-studii-bolshe-ne-hotyat-imet-s-nim-dela</link>
+  <description><![CDATA[
+                        Джонни Депп в последние годы запомнился многим не столько ролями в кино, сколько громким разводом и судебными разбирательствами с бывшей женой, актрисой Эмбер Херд. Из-за череды скандалов крупные киностудии больше не хотят иметь дело с Деппом, который в прошлом был одним из самых кассовых актеров Голливуда. Однако он все еще остается большой звездой с армией фанатов. Американское издание The Hollywood Reporter (THR) выпустило большую статью о том, как карьера Деппа покатилась под откос, и как он ...
+                        ]]></description>
+  <pubDate>Thu, 10 Dec 2020 17:16:01 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1607610901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Год спустя расследование происхождения Covid все еще продвигается с трудом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/10Dec2020/lefigaro/covid2.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Прошел почти год, прежде чем состоялась первая встреча  международных экспертов, перед которыми ВОЗ поставила задачу исследовать происхождение Covid, и их китайскими коллегами. Пока ни одному из них не удалось ступить на рынок дикой природы в Ухане. ...
+                        ]]></description>
+  <pubDate>Thu, 10 Dec 2020 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1607610901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Баку прошёл военный парад в честь окончания войны в Карабахе
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30994098.html</link>
+  <description><![CDATA[
+                        На мероприятии присутствовали президент Азербайджана Ильхам Алиев и президент Турции Реджеп Эрдоган ...
+                        ]]></description>
+  <pubDate>Thu, 10 Dec 2020 17:22:00 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1607610901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Путин связал дело против Сафронова с его работой в «Роскосмосе» - РБК
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiPmh0dHBzOi8vd3d3LnJiYy5ydS9zb2NpZXR5LzEwLzEyLzIwMjAvNWZkMjIyMDI5YTc5NDdjODljYmEzMjUw0gFGaHR0cHM6Ly9hbXAucmJjLnJ1L3JiY25ld3Mvc29jaWV0eS8xMC8xMi8yMDIwLzVmZDIyMjAyOWE3OTQ3Yzg5Y2JhMzI1MA?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 10 Dec 2020 16:33:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1607610901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Следователь обратил внимание, что убитый Хангошвили был в списке подозреваемых в терроризме россиян, переданном  ФСБ немецким властям
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/10dec2020/degericht.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Некоторые из 19 человек в этом списке уже умерли &#34;не по естественным причинам&#34;. В Высшем земельном суде Берлина продолжается процесс по делу об убийстве Зелимхана Хангошвили. Федеральный прокурор  считает, что задание &#34;ликвидировать жертву&#34; киллер получил от властей Российской Федерации. Российские власти это отрицают. ...
+                        ]]></description>
+  <pubDate>Thu, 10 Dec 2020 17:27:22 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1607610901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Перевод] История группы 414 — подростков из Милуоки, которые стали пионерами взлома
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/532384/?utm_campaign=532384&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        В 1983 году группа молодых людей из Милуоки прославилась взломом нескольких высококлассных компьютерных систем, включая Национальную лабораторию Лос-Аламоса и Мемориальный онкологический центр им. Слоуна Кеттеринга. Сегодня, в день старта нового потока курса Этичный хакер делюсь с вами их историей.
+
+В 1983 году в технотриллере WarGames Дэвид Лайтман, которого играет тогда ещё молодой Мэтью Бродерик, сидит в своей спальне, погружаясь в компьютер квадратной формы с 8-битным процессором Intel. Когд ...
+                        ]]></description>
+  <pubDate>Thu, 10 Dec 2020 17:14:39 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1607610901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Заседание Совета по развитию гражданского общества и правам человека
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/64638</link>
+  <description><![CDATA[
+                        В День
+прав человека Владимир Путин в режиме видеоконференции провёл заседание
+Совета по развитию гражданского общества и правам человека.      ...
+                        ]]></description>
+  <pubDate>Thu, 10 Dec 2020 16:28:21 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1607610901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Все заявления о мире — пиар»: Байден продолжит политику Трампа
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/282/247862-vse-zaavlenia-o-mire-piar-bajden-prodolzit-politiku-trampa</link>
+  <description><![CDATA[
+                        Джо Байден предложил кандидатуру на пост представителя Соединенных Штатов на торговых переговорах. ...
+                        ]]></description>
+  <pubDate>Thu, 10 Dec 2020 17:01:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1607610901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  10.12.2020 17:32 : В Баку прошёл военный парад, посвящённый окончанию войны в Нагорном Карабахе
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2755904-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Для участия в Азербайджан прибыл президент Турции Реджеп Тайип Эрдоган. В числе прочего, во время парада была продемонстрирована техника, захваченная азербайджанской армией в Карабахе, отмечает РБК.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 10 Dec 2020 17:32:10 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1607610901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Готовивший нападение на школу житель Тулы арестован на два месяца
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/740783</link>
+  <description><![CDATA[
+                        Житель Тулы, подозреваемый в подготовке вооруженного нападения на учебное заведение, арестован на два месяца, сообщил "Интерфаксу" в четверг информированный источник. ...
+                        ]]></description>
+  <pubDate>Thu, 10 Dec 2020 17:21:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1607610901#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 17 Nov 2010 17:00:03 +0300</pubDate>
+         <lastBuildDate>Wed, 17 Nov 2010 17:00:03 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[Регионы просят сделать Россию короче на два часа]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2010/11/101117_vladivoctok_time_conversion.shtml</link>
+  <description><![CDATA[
+                        Депутаты Приморского края и Иркутской области приняли обращения к премьер-министру России с просьбой сократить разницу в часовых поясах на один час. Население этих регионов не так единодушно в этом вопросе. ...
+                        ]]></description>
+  <pubDate>Wed, 17 Nov 2010 16:28:57 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1290002403#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[Дело о ДТП на Ленинском проспекте закрыто окончательно]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/m.183623.html</link>
+  <description><![CDATA[
+                        Мосгорсуд признал законным решение о прекращении расследования по делу о ДТП на Ленинском проспекте с участием вице-президента "Лукойла" Анатолия Баркова. В результате в силу вступило решение Тверского суда о закрытии дела, которое пытались обжаловать адвокаты, представляющие родственников погибших в аварии. ...
+                        ]]></description>
+  <pubDate>Wed, 17 Nov 2010 15:57:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1290002403#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[Почти 40 человек стали в этом году жертвами ксенофобии в России]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/social/20101117/164304409.html</link>
+  <description><![CDATA[
+                        В общей сложности 39 человек погибли и еще 213 получили ранения в результате , сообщил во вторник  директор Московского бюро по правам человека Александр Брод. «За период с января по 15 ноября 2010 года мониторингом МБПЧ было зафиксировано 170 нападений на почве ксенофобии, итогом которых стали 39 погибших и 213 пострадавших», - уточнил он. ...
+                        ]]></description>
+  <pubDate>Wed, 17 Nov 2010 16:48:08 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1290002403#3</guid>
+ </item>
+ <item>
+  <title><![CDATA[Александр Ткачёв: убийство 12 человек в Кущёвской - раскрыто]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20101117/17/17.html?id=2222758</link>
+  <description><![CDATA[
+                        Убийство 12 человек на Кубани раскрыто, - заявил в среду губернатор Краснодарского края Александр Ткачёв. 	Ткачёв также сообщил об увольнении замглавы администрации Кущёвского района, где произошло убийство, а также руководства местного РОВД.  	Ранее стало известно, что прокуратура Краснодарского края обнаружила ряд нарушений в деятельности подразделений милиции, не обеспечивших раскрытие ряда тяжких преступлений в районе.  	5 ноября в частном доме в станице Кущёвская были найдены тела 12 ... ...
+                        ]]></description>
+  <pubDate>Wed, 17 Nov 2010 16:30:00 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1290002403#4</guid>
+ </item>
+ <item>
+  <title><![CDATA[Мэрия Нижнего Новгорода проводит международную конференцию по защите детей]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/feedproxy.google.com/~r/rosbalt/~3/s42bSOjFNlg/790829.html</link>
+  <description><![CDATA[
+                        Эксперты из России, Белоруссии и США проведут ряд мастер-классов и круглых столов и сделают доклады на профильную тему в рамках международной научно-практической конференции «Система защиты детей от насилия: достижения и задачи развития», организованной НП «Нижегородский ресурсный центр «Детство без насилия и жестокости» при поддержке администрации Нижнего Новгорода. Об этом сообщает пресс-служба нижегородской мэрии.
+
+
+
+ ...
+                        ]]></description>
+  <pubDate>Wed, 17 Nov 2010 16:55:00 +0300</pubDate>
+  <source url="http://feeds2.feedburner.com">Информационное агентство Росбалт</source>
+  <guid isPermaLink="false">1290002403#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[Телерейтинги: тандем Безрукова и Дюжева вновь самый популярный]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/cinema/17nov2010/bd.html</link>
+  <description><![CDATA[
+                        Обычно кино уступает сериала по популярности. Обзорные семь дней стали исключением. Кинофильм не только опередил сериалы, но оказался самым популярным зрелищем недели в целом. Речь идет о ленте "Каникулы строгого режима", показанной Первым каналом. ...
+                        ]]></description>
+  <pubDate>Wed, 17 Nov 2010 16:58:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1290002403#6</guid>
+ </item>
+ <item>
+  <title><![CDATA[Сенатор хочет легализовать короткоствол]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.memoid.ru/node/Senator_hochet_legalizovat_korotkostvol</link>
+  <description><![CDATA[
+                        Первый зампредседателя Совета Федерации, член Ассоциации юристов России Александр Торшин полагает, что в настоящее время в России криминальная обстановка такова, что граждане должны иметь право на личное огнестрельное оружие. В частности, Торшин указал на жуткое преступление в станице Кущевская на ... ...
+                        ]]></description>
+  <pubDate>Wed, 17 Nov 2010 16:36:23 +0300</pubDate>
+  <source url="http://www.memoid.ru">Memoid: смотрим глубже</source>
+  <guid isPermaLink="false">1290002403#7</guid>
+ </item>
+ <item>
+  <title><![CDATA[Европейские власти призвали бойкотировать операторов, блокирующих Skype ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/399627.php</link>
+  <description><![CDATA[
+                        Еврокомиссар по вопросам ИКТ Нейли Кроес осудила мобильных операторов, которые блокируют VoIP-трафик в своих сетях, и посоветовала потребителям не платить за услуги таких компаний. 	 ...
+                        ]]></description>
+  <pubDate>Wed, 17 Nov 2010 12:58:54 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1290002403#8</guid>
+ </item>
+ <item>
+  <title><![CDATA[На Мадагаскаре произошел военный переворот]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/foreign/2010/11/17/Voyennyyy_pyeryevoro.phtml</link>
+  <description><![CDATA[
+                        Высокопоставленные военные Мадагаскара объявили о захвате власти в разгар референдума по новой Конституции страны. ...
+                        ]]></description>
+  <pubDate>Wed, 17 Nov 2010 16:38:27 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1290002403#9</guid>
+ </item>
+ <item>
+  <title><![CDATA[Министерство спорта и туризма открыло "горячую линию" для клиентов туроператора "Капитал Тур"]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/727176-echo.html</link>
+  <description><![CDATA[
+                        
+                         Из-за того, что компания вовремя не смогла вернуть многомиллионный кредит одному из банков, ее счета были арестованы...
+                          ...
+                        ]]></description>
+  <pubDate>Wed, 17 Nov 2010 16:33:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1290002403#10</guid>
+ </item>
+ <item>
+  <title><![CDATA[Некроготика.]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/295274/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2010/11/17/27873-164817-a6d981d6814c128e92cd21a13e6f4da5.jpg><br /><br />На картинке выше, уважаемые %usernames%, никакая не Прага. И не Европа вообще. Эта фотография, сделанная в 1905 году, запечатлела Храм Непорочного Зачатия Пресвятой Девы Марии, что в Смоленске.<br />
+Построенный в 1896 году, храм поражал изумительной красоты витражами, содержал при себе мастерские, где можно было обучиться некоторым профессиям (этакий аналог современного колледжа или, ес ...
+                        ]]></description>
+  <pubDate>Wed, 17 Nov 2010 16:48:17 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1290002403#11</guid>
+ </item>
+  </channel>
+ </rss>

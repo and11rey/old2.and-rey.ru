@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 31 May 2020 17:35:02 +0300</pubDate>
+         <lastBuildDate>Sun, 31 May 2020 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Корабль SpаceX "Драгон" успешно пристыковался к МКС
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-52850841</link>
+  <description><![CDATA[
+                        Корабль SpаceX "Драгон" успешно пристыковался к МКС ...
+                        ]]></description>
+  <pubDate>Sun, 31 May 2020 17:26:47 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1590935702#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Crew Dragon пристыковался к МКС
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2020/05/31/crew-dragon-pristykovalsya-k-mks</link>
+  <description><![CDATA[
+                        Корабль Crew Dragon с астронавтами Дугласом Херли и Робертом Бенкеном на борту совершил успешную автоматическую стыковку с Международной космической станцией. ...
+                        ]]></description>
+  <pubDate>Sun, 31 May 2020 17:21:00 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1590935702#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Надежда на перекрестный иммунитет от коронавируса
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/29May2020/lefigaro/immunity.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Ученые изучают механизм перекрестного иммунитета - возможность иммунной реакции на Sars-CoV-2 при ее наличии на другие коронавирусы. Но не исключено, что этот механизм может оказать противоположный эффект, облегчая проникновение вируса в организм.  ...
+                        ]]></description>
+  <pubDate>Fri, 29 May 2020 20:51:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1590935702#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  "Крю Дрэгон" готовится к стыковке с МКС. Видеотрансляция
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30644625.html</link>
+  <description><![CDATA[
+                        Стыковка намечена на 17.29 мск ...
+                        ]]></description>
+  <pubDate>Sun, 31 May 2020 16:55:38 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1590935702#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В 25 американских городах 16 штатов ввели комендантский час из-за беспорядков - Газета.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiPWh0dHBzOi8vd3d3LmdhemV0YS5ydS9zb2NpYWwvbmV3cy8yMDIwLzA1LzMxL25fMTQ0ODk0ODUuc2h0bWzSAT9odHRwczovL20uZ2F6ZXRhLnJ1L2FtcC9zb2NpYWwvbmV3cy8yMDIwLzA1LzMxL25fMTQ0ODk0ODUuc2h0bWw?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 31 May 2020 17:26:06 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1590935702#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Иране пообещали продолжить в отношении США политику мести за убийство Сулеймани
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/31may2020/avengers.html?utm_source=rss</link>
+  <description><![CDATA[
+                        По словам нового председателя Меджлиса Ирана Мохаммада Багера Галибафа, меджлис &#34;считает переговоры и компромиссы с американской стороной бесполезными и вредными&#34;. Это дело должно завершиться полным изгнанием армии США из региона. ...
+                        ]]></description>
+  <pubDate>Sun, 31 May 2020 16:33:02 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1590935702#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Общероссийской общественной организации «Российский союз молодёжи»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/letters/63431</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Sun, 31 May 2020 10:24:19 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1590935702#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Трамп позовет Россию на G7 назло Меркель
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/285/236581-tramp-pozovet-rossiu-na-g7-nazlo-merkel</link>
+  <description><![CDATA[
+                        Россия может снова присоединиться к саммиту G7. Таким образом президент Дональд Трамп хочет отомстить канцлеру Ангеле Меркель, которая отказалась приехать летом на саммит в США. ...
+                        ]]></description>
+  <pubDate>Sun, 31 May 2020 16:51:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1590935702#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  31.05.2020 17:34 : Полицейские оформляют протоколы на участников одиночных пикетов у здания СК в Москве
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2652237-echo.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 31 May 2020 17:34:14 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1590935702#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  К МКС впервые пристыковался пилотируемый корабль, принадлежащий частной компании
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/711111</link>
+  <description><![CDATA[
+                        Новый американский пилотируемый космический корабль Crew Dragon пристыковался к Международной космической станции (МКС). ...
+                        ]]></description>
+  <pubDate>Sun, 31 May 2020 17:23:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1590935702#48</guid>
+ </item>
+  </channel>
+ </rss>

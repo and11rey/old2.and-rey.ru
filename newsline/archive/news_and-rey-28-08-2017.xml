@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 28 Aug 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Mon, 28 Aug 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Человек, пробивший "железный занавес": как Нуреев бежал из СССР
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/media-41075490</link>
+  <description><![CDATA[
+                        16 июня 1961 года артист балета Рудольф Нуреев попросил убежища во Франции. Никто не знал о его побеге до последнего момента. ...
+                        ]]></description>
+  <pubDate>Mon, 28 Aug 2017 17:15:44 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1503930901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Китайские интернет-компании обязали проверять комментарии пользователей. До публикации
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/feature/2017/08/28/kitayskie-internet-kompanii-obyazali-proveryat-kommentarii-polzovateley-do-publikatsii</link>
+  <description><![CDATA[
+                        25 августа администрация киберпространства Китая опубликовала документ, который еще больше ужесточил контроль над интернетом в стране. Интернет-компании обязали подтверждать личности пользователей и проверять их комментарии еще до публикации. Новые правила вступают в силу с 1 октября. «Медуза» кратко рассказывает о нововведениях по публикациям в изданиях The Diplomat и South China Morning Post.  ...
+                        ]]></description>
+  <pubDate>Mon, 28 Aug 2017 17:27:29 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1503930901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Амстердамский бордель испытывает на практике модель самоуправления
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/28Aug2017/elpais/amsterdam.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Первый амстердамский бордель, которым управляют сами проститутки, открылся три месяца назад. "Мы хотим, чтобы этот проект упрочил права тех, кто выбрал это занятие добровольно. Это не муниципальный бордель. Аренду мы платим из выручки проституток". ...
+                        ]]></description>
+  <pubDate>Mon, 28 Aug 2017 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1503930901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ООН призвала Россию активнее бороться с расизмом и ксенофобией
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28701349.html</link>
+  <description><![CDATA[
+                        По данным экспертов ООН, российская полиция проводит задержания по расовому признаку ...
+                        ]]></description>
+  <pubDate>Mon, 28 Aug 2017 16:21:50 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1503930901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Захарова рассказала о последствиях американских санкций для Венесуэлы - РИА Новости
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNGDf7PBb5S7RtG465nDg7W_xlPp6Q&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52780226129273&amp;ei=BiqkWfiwNqjqzAbitpSwCw&amp;url=https://ria.ru/world/20170828/1501245860.html</link>
+  <description><![CDATA[
+                        МОСКВА, 28 авг — РИА Новости. Секторальные санкции США против финансового и нефтяного секторов Венесуэлы нацелены на дальнейшую разбалансировку ситуации в стране, углубление экономических проблем, считает официальный представитель МИД РФ Мария Захарова. ...
+                        ]]></description>
+  <pubDate>Mon, 28 Aug 2017 17:00:59 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1503930901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Ученые нашли эмбрион детеныша в утробе ихтиозавра, жившего 200 млн лет назад
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/28aug2017/archeology.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Скелет самки рептилии имеет длину 3,5 метра. Эмбрион, сохранившийся, конечно, лишь фрагментарно, имеет длину менее семи сантиметров. Сохранились его позвонки, ребра и некоторые другие кости. По некоторым данным, плод еще продолжал развиваться в утробе матери после ее смерти. ...
+                        ]]></description>
+  <pubDate>Mon, 28 Aug 2017 17:31:17 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1503930901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Как измерить уровень жира: биоимпеданс vs на глазок vs DEXA (Денситометрия)
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/292413/</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 28 Aug 2017 16:18:53 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1503930901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с Премьер-министром Венгрии Виктором Орбаном
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/55444</link>
+  <description><![CDATA[
+                        Владимир Путин встретился с Премьер-министром Венгрии Виктором Орбаном.    ...
+                        ]]></description>
+  <pubDate>Mon, 28 Aug 2017 16:25:29 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1503930901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ФСБ не дала суду освободить фигуранта «дела реставраторов»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/194/social/society/182494-fsb-ne-dala-sudu-osvobodit-figuranta-dela-restavratorov</link>
+  <description><![CDATA[
+                        Сотрудники ФСБ задержали гендиректора «Балтстрой» Дмитрия Сергеева сразу после вынесения ему приговора в Куйбышевском суде Петербурга. ...
+                        ]]></description>
+  <pubDate>Mon, 28 Aug 2017 17:33:10 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1503930901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  28.08.2017 17:31 : В Москве задержали сотрудницу полиции из Саратовской области
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2045298-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Ее подозревают в  занятии проституцией. Как передает ТАСС,  32-летнюю женщину  доставили в УВД  «Замоскворечье». Там выяснилось, что она находится в отпуске по уходу за ребенком.  По месту прохождения службы   сотрудницы  полиции назначена проверка.
+ ...
+                        ]]></description>
+  <pubDate>Mon, 28 Aug 2017 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1503930901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Гидрометцентре опровергли сообщения о выпадении снега в Москве
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/moscow/576716</link>
+  <description><![CDATA[
+                        Директор Гидрометцентра России Роман Вильфанд заявил, что снега на территории Московского региона в понедельник не отмечалось. ...
+                        ]]></description>
+  <pubDate>Mon, 28 Aug 2017 17:30:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1503930901#48</guid>
+ </item>
+  </channel>
+ </rss>

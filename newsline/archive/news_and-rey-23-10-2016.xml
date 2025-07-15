@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 23 Oct 2016 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sun, 23 Oct 2016 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Минюст Украины направил запрос о выдаче крымского узника Чирния
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/graniru.org/Politics/World/Europe/Ukraine/m.255803.html</link>
+  <description><![CDATA[
+                        Минюст Украины направил в Россию запрос о выдаче крымского узника Алексея Чирния. Документ подготовлен после получения заявления самого политзека. Чирний отбывал семилетний срок в Магадане. Затем его с непонятной целью доставили в Москву, а оттуда - в Ростов. Запросы Минюста Украины о выдаче двух других крымских узников - Олега Сенцова и Александра Кольченко - Москва уже отклонила. ...
+                        ]]></description>
+  <pubDate>Sat, 22 Oct 2016 21:50:00 +0300</pubDate>
+  <source url="http://d2i3c4yj91a1b5.cloudfront.net">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1477233301#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Петербургские зоозащитники призвали Японию не убивать дельфинов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28070372.html</link>
+  <description><![CDATA[
+                        Активисты раздавали листовки с информацией об охоте на дельфинов ...
+                        ]]></description>
+  <pubDate>Sun, 23 Oct 2016 17:22:37 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1477233301#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ЧП в Рязани: жильцов заставили взорвать свой дом - Московский Комсомолец
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNFU6h3fFVzB2i3hTZru08rApp42VA&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779872763578&amp;ei=mcoMWLCKIeqFyAOzuoHoBg&amp;url=http://www.mk.ru/incident/2016/10/23/chp-v-ryazani-zhilcov-zastavili-vzorvat-svoy-dom.html</link>
+  <description><![CDATA[
+                        Мощный взрыв, которым буквально снесло два верхних этажа жилого дома, произошел в Рязани в ночь на воскресенье. Погибли три человека, еще полтора десятка ранены и все жильцы дома остались без крова. Несмотря на то, что взорвавшийся дом снабжается газом, в первые часыВ ... ...
+                        ]]></description>
+  <pubDate>Sun, 23 Oct 2016 17:06:27 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1477233301#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Афганистане выросла площадь опийных плантаций
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/23oct2016/afghan.html?rss</link>
+  <description><![CDATA[
+                        Рост территорий, занятых под плантации опийного мака, наблюдается в тех районах Афганистана, которые находятся под контролем движения "Талибан", сообщили в ООН. Там подсчитали, что их площадь в 2016 году выросла на 10% и превысила 200 тыс. га. ...
+                        ]]></description>
+  <pubDate>Sun, 23 Oct 2016 17:21:00 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1477233301#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Взлом 3D-печати деталей для саботажа работы будущего устройства
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/281766/</link>
+  <description><![CDATA[
+                        
+Пропеллер коптера с внесенными изменениями, приводящими к разрушению детали в ходе ее эксплуатации
+
+В 2016 году IoT-сфера продолжает активно развиваться. Сейчас буквально все можно подключить к Сети, от холодильников до 3D принтеров и кардиостимуляторов. Далеко не все подключенные системы оснащаются надежной защитой, поэтому взлом большинства устройств — это дело времени. Взломать можно буквально все. 
+
+Причем взлом постепенно становится не только угрозой для виртуальных систем, при помощи кибе ...
+                        ]]></description>
+  <pubDate>Sun, 23 Oct 2016 16:25:32 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes</source>
+  <guid isPermaLink="false">1477233301#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Андрей Ярин назначен начальником Управления Президента по внутренней политике
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/53139</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Sat, 22 Oct 2016 15:13:45 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1477233301#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Хакеры атаковали сайт МИД России
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/hi-tech/internet/2016/10/23/Hakyeryy_atakovali_s.phtml</link>
+  <description><![CDATA[
+                        Сайт министерства иностранных дел России функционирует без сбоев после того, как его взломали неизвестные хакеры. ...
+                        ]]></description>
+  <pubDate>Sun, 23 Oct 2016 16:12:55 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1477233301#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  23.10.2016 17:32 : Александр Калягин переизбран на пост председателя Союза театральных деятелей
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1860996-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+За него проголосовали все 169 делегатов, сообщает «Интерфакс». Калягин возглавляет СТД уже 20 лет.
+ ...
+                        ]]></description>
+  <pubDate>Sun, 23 Oct 2016 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1477233301#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Опрос показал опережение Клинтон Трампа на 12%
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/533708</link>
+  <description><![CDATA[
+                        Самыми "провальными" для репутации Трампа стали вопросы его отношения к женщинам и его заявление о возможном непризнании итогов выборов в случае победы Клинтон ...
+                        ]]></description>
+  <pubDate>Sun, 23 Oct 2016 17:18:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1477233301#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 13 Jul 2009 17:00:07 +0400</pubDate>
+         <lastBuildDate>Mon, 13 Jul 2009 17:00:07 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Власти Лос-Анджелеса: кто оплатит прощание с Джексоном?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/07/090713_jackson_bills_latoya.shtml</link>
+  <description><![CDATA[
+                        Городской совет Лос-Анджелеса собирается выяснить, кто именно должен заплатить 1,4 млн долларов за организацию концерта в память о Майкле Джексоне. ...
+                        ]]></description>
+  <pubDate>Mon, 13 Jul 2009 16:15:42 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1247490007#1</guid>
+ </item>
+ <item>
+  <title>Военные возместили ущерб попавшим под обстрел садоводам</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/Law/m.153828.html</link>
+  <description><![CDATA[
+                        Военные возместили материальный и моральный ущерб садовому товариществу "Зеленая роща" в Ленинградской области, попавшему 28 мая под град осколков снарядов. По предварительным данным, причиной инцидента стали стрельбы, которые проводил малый противолодочный корабль Балтийского флота, находившийся в акватории Финского залива. ...
+                        ]]></description>
+  <pubDate>Mon, 13 Jul 2009 16:51:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1247490007#2</guid>
+ </item>
+ <item>
+  <title>ИноВидео: Репрессии в отношении "свидетелей"? ("Russia Today", Россия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/250661.html</link>
+  <description><![CDATA[
+                        Вероятно, церковь "свидетелей Иеговы" будет объявлена в России вне закона. ...
+                        ]]></description>
+  <pubDate>Mon, 13 Jul 2009 16:07:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1247490007#3</guid>
+ </item>
+ <item>
+  <title>Карабах:бег на месте общеукрепляющий</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/1775694.html</link>
+  <description><![CDATA[
+                        17 июля в Москве состоится запланированная встреча президентов Азербайджана и Армении, на которой в очередной раз анонсируется глобальный прорыв.  Подготовка к встрече подарила заинтересованной публике несколько пикантных нюансов. 
+ ...
+                        ]]></description>
+  <pubDate>Mon, 13 Jul 2009 15:50:52 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1247490007#4</guid>
+ </item>
+ <item>
+  <title>ЦРУ вербует таланты с Уолл-Стрит</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/13Jul2009/times/cia.html</link>
+  <description><![CDATA[
+                        "Присоединяйтесь к управлению разведывательной информации ЦРУ и участвуйте в нашей глобальной миссии в качестве экономического или финансового аналитика. Добейтесь перемен в вашей карьере и в судьбе нации", - говорится в рекламе. ...
+                        ]]></description>
+  <pubDate>Mon, 13 Jul 2009 16:50:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1247490007#5</guid>
+ </item>
+ <item>
+  <title>Преступники в масках ограбили дом форварда "Манчестер Юнайтед"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/13jul2009/mu.html</link>
+  <description><![CDATA[
+                        В дом 17-летнего нападающего "Манчестер Юнайтед" Федерико Македы рано утром в воскресенье проникли грабители. Они вынесли оттуда наличные и драгоценности, при этом ударив друга футболиста по голове бутылкой. ...
+                        ]]></description>
+  <pubDate>Mon, 13 Jul 2009 16:48:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1247490007#6</guid>
+ </item>
+ <item>
+  <title>В Судане группу немусульманок выпороли за ношение брюк</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/07/13/n_1382090.shtml</link>
+  <description><![CDATA[
+                        В столице Судана Хартуме 12 женщин были арестованы в ресторане за ношение брюк, некоторые из них признали свою вину и получили на месте по 10 ударов плетью. Об этом сообщила суданская журналистка Лубна Ахмед аль-Хуссейн, арестованная ... ...
+                        ]]></description>
+  <pubDate>Mon, 13 Jul 2009 16:37:39 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1247490007#7</guid>
+ </item>
+ <item>
+  <title>Человеческий мозг - новая цель для хакерских атак </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/382426.php</link>
+  <description><![CDATA[
+                        Взломщики непрерывно атакуют персональные компьютеры, но что если их неуёмная энергия сосредоточится на нейроустройствах, например, на стимуляторах мозга, облегчающих течение болезни Паркинсона и депрессии, или электродных системах, контролирующих искусственные конечности? 	 ...
+                        ]]></description>
+  <pubDate>Mon, 13 Jul 2009 15:26:22 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1247490007#8</guid>
+ </item>
+ <item>
+  <title>Ученые: мат полезен для здоровья</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/science/human/2009/07/13/Uchyenyyye__mat_poly.phtml</link>
+  <description><![CDATA[
+                        Ученые доказали, что интеллигентность не всегда к месту, если речь идет о здоровье. Они выяснили, что крепкая ругань помогает уменьшить болевой шок. Если молоток случайно ударил по пальцу, выругаться не просто можно, но и нужно, заявили ученые. ...
+                        ]]></description>
+  <pubDate>Mon, 13 Jul 2009 16:51:38 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1247490007#9</guid>
+ </item>
+ <item>
+  <title>Бургас–Александруполис под угрозой?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/57820/</link>
+  <description><![CDATA[
+                        В Болгарии прошли очередные парламентские выборы. Предсказанную победу на них одержала партия «Граждане за европейское развитие Болгарии» (ГЕРБ), возглавляемая кметом (мэром) Софии Бойко Борисовым. Все аналитики единодушно предсказывают, что в политике Болгарии произойдут большие перемены. Причем в неблагоприятную для России сторону. И прогнозы начали сбываться буквально через день после выборов. ...
+                        ]]></description>
+  <pubDate>Mon, 13 Jul 2009 17:00:17 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1247490007#10</guid>
+ </item>
+ <item>
+  <title>Православный Мотопробег</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/256107/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/07/13/18324-161421-7f69794ae32d9cce27135d9aebc58889.jpg><br /><br />Соединение вместе благословения Церкви (Православие), воли Власти (Самодержавие) и гражданской самоорганизации (Народность) делает Россию непобедимой. Непобедимая Россия невыгодна очень и очень многим  -  поэтому истерика и нежелание Хирургу успеха вполне понятны. Но пусть обломятся  -  успех, еще раз повторяю, безусловный<br />
+<br />
+Фототчет о событии. ...
+                        ]]></description>
+  <pubDate>Mon, 13 Jul 2009 16:14:21 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1247490007#11</guid>
+ </item>
+  </channel>
+ </rss>

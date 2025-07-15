@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 10 May 2009 17:00:07 +0400</pubDate>
+         <lastBuildDate>Sun, 10 May 2009 17:00:07 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Суд Ирана рассмотрел апелляцию журналистки, осужденной за шпионаж</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/05/090510_saberi_appeal_ended.shtml</link>
+  <description><![CDATA[
+                        По словам адвоката Сабери Абдулсамада Хорамшахи, пока не ясно, когда будут оглашены результаты слушаний, но он настроен вполне оптимистично. ...
+                        ]]></description>
+  <pubDate>Sun, 10 May 2009 15:59:48 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1241960407#1</guid>
+ </item>
+ <item>
+  <title>Саакашвили пригласил лидеров оппозиции на встречу</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/World/Europe/Georgia/m.150952.html</link>
+  <description><![CDATA[
+                        Президент Грузии Михаил Саакашвили пригласил на встречу  представителей оппозиции, добивающейся его отставки. Ранее оппозиционеры предъявили Саакашвили ультиматум - в течение 24 часов он должен был  договориться с ними о месте и времени переговоров. Встреча назначена на понедельник. ...
+                        ]]></description>
+  <pubDate>Sun, 10 May 2009 15:43:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1241960407#2</guid>
+ </item>
+ <item>
+  <title>Я - следующий в чеченском списке смертников ("The Times", Великобритания)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/248990.html</link>
+  <description><![CDATA[
+                        После того, как за последний год были убиты двое его братьев, 34-летний Иса Ямадаев считает, что он - следующий в списке смертников, составленном влиятельными врагами его семьи. ...
+                        ]]></description>
+  <pubDate>Sun, 10 May 2009 09:52:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1241960407#3</guid>
+ </item>
+ <item>
+  <title>Психологами предложен эффективный метод диагностики депрессии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1624453.html</link>
+  <description><![CDATA[
+                        Депрессия не только влияет на здоровье человека, но и отражается на работе мозга. Психологи из Университета Тель-Авива (Tel Aviv University) провели эксперимент, в котором принимали участие 32 пациента, страдающие депрессией, и контрольная группа здо ... ...
+                        ]]></description>
+  <pubDate>Sun, 10 May 2009 16:36:50 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1241960407#4</guid>
+ </item>
+ <item>
+  <title>Ватиканская газета слегка пожурила продолжение "Кода да Винчи"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/08May2009/guardian/angel.html</link>
+  <description><![CDATA[
+                        Многие ожидали, что "Ангелы и демоны" вызовут недовольство Ватикана, окрестившего "Код да Винчи" намеренной попыткой дискредитации Римско-католической церкви. Но на этот раз Ватикан предпочел более мягкий подход, назвав фильм "невинным развлечением". ...
+                        ]]></description>
+  <pubDate>Fri, 08 May 2009 16:31:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1241960407#5</guid>
+ </item>
+ <item>
+  <title>У россиянина, госпитализированного с подозрением на новый грипп, диагноз не подтвердился</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/10may2009/hgl.html</link>
+  <description><![CDATA[
+                        "Гражданин, прибывший из США с признаками на грипп, с диагнозом ОРВИ был госпитализирован в первую клиническую больницу, обследован лабораторно, результат на высокопатогенный вирус гриппа А/H1N1 - отрицательный", - уточнили в Роспотребнадзоре. ...
+                        ]]></description>
+  <pubDate>Sun, 10 May 2009 16:50:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1241960407#6</guid>
+ </item>
+ <item>
+  <title>Создана комиссия для расследования авиакатастрофы с Есиповским</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/05/10/n_1360436.shtml</link>
+  <description><![CDATA[
+                        Межгосударственный авиационный комитет создал комиссию по расследованию авиакатастрофы, в которой погиб губернатор Иркутской области Игорь Есиповский.
+"Для расследования причин авиапроисшествия в Иркутской области в ... ...
+                        ]]></description>
+  <pubDate>Sun, 10 May 2009 16:47:20 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1241960407#7</guid>
+ </item>
+ <item>
+  <title>WiGig - новая гигабитная беспроводная технология</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/379231.php</link>
+  <description><![CDATA[
+                         Отраслевой консорциум Wireless Gigabit Alliance, поддерживаемый рядом влиятельных технологических компаний, включая Dell, Intel, LG, Samsung, Microsoft, Nokia и Broadcom, готов представить на суд общественности новый стандарт беспроводной связи под названием WiGig.	 ...
+                        ]]></description>
+  <pubDate>Fri, 08 May 2009 09:06:41 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1241960407#8</guid>
+ </item>
+ <item>
+  <title>Пираты убили индийского моряка</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/world/2009/05/10/165458.html</link>
+  <description><![CDATA[
+                        Сомалийские пираты убили индийского моряка, который оказался на борту пробывшего почти четыре месяца в пиратском плену судна, сообщает РИА Новости со ссылкой на  индийское телевидение со ссылкой на местный Директорат судоходства. Застреленный пиратами Судхир Суман находился на борту захваченного... ...
+                        ]]></description>
+  <pubDate>Sun, 10 May 2009 16:54:58 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1241960407#9</guid>
+ </item>
+ <item>
+  <title>Деморализующие цифры о Великой Отечественной войне</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/55652/</link>
+  <description><![CDATA[
+                        Деморализующие цифры о Великой Отечественной войне ...
+                        ]]></description>
+  <pubDate>Sun, 10 May 2009 15:07:00 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1241960407#10</guid>
+ </item>
+ <item>
+  <title>СОБОЛЕЗНОВАНИЯ-ИРКУТСК-ГУБЕРНАТОР-ГИБЕЛЬ</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.kremlin.ru/text/news/2009/05/216128.shtml</link>
+  <description><![CDATA[
+                        Дмитрий Медведев выразил соболезнования родным и близким губернатора Иркутской области Игоря Есиповского в связи с его трагической гибелью. ...
+                        ]]></description>
+  <pubDate>Sun, 10 May 2009 15:20:52 +0400</pubDate>
+  <source url="http://www.kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1241960407#11</guid>
+ </item>
+  </channel>
+ </rss>

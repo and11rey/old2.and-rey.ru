@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 28 Nov 2009 17:00:06 +0300</pubDate>
+         <lastBuildDate>Sat, 28 Nov 2009 17:00:06 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>СКП: на месте крушения поезда найдена взрывчатка</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2009/11/091128_nevsky_express_investigation.shtml</link>
+  <description><![CDATA[
+                        На месте крушения "Невского экспресса" обнаружены фрагменты взрывного устройства, сообщил официальный представитель Следственного комитета при прокуратуре РФ Владимир Маркин. ...
+                        ]]></description>
+  <pubDate>Sat, 28 Nov 2009 16:32:49 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1259416806#1</guid>
+ </item>
+ <item>
+  <title>Бортников: "Невский экспресс" взорвали семью килограммами тротила</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/Terror/m.162820.html</link>
+  <description><![CDATA[
+                        Мощность самодельного взрывного устройства, приведенного в действие на пути следования поезда "Невский экспресс", составила около семи килограммов в тротиловом эквиваленте. Об этом в докладе президенту Дмитрию Медведеву рассказал глава ФСБ Александр Бортников. ...
+                        ]]></description>
+  <pubDate>Sat, 28 Nov 2009 16:39:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1259416806#2</guid>
+ </item>
+ <item>
+  <title>Россия глазами зарубежных СМИ (23-27 октября)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/russia/20091128/156738533.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 28 Nov 2009 14:44:24 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1259416806#3</guid>
+ </item>
+ <item>
+  <title>Интересы Генлана и интересы москвичей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/1890098.html</link>
+  <description><![CDATA[
+                        В Мосгордуме фракция КПРФ провела "круглый стол" на тему "Учитывает ли Генлан интересы москвичей?". Это последние публичные слушания перед началом рассмотрения столичными депутатами главного градостроительного документа, определяющего развитие Москвы до 2025 года. 
+ ...
+                        ]]></description>
+  <pubDate>Sat, 28 Nov 2009 16:43:42 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1259416806#4</guid>
+ </item>
+ <item>
+  <title> Какой Карл Маркс?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/27Nov2009/newsweek/marx.html</link>
+  <description><![CDATA[
+                        Китай - коммунистическая страна, где трудно найти настоящего коммуниста. Через 30 лет после начала великого китайского эксперимента элита уверена, что экономике, контролируемой государством и курируемой компартией, не помешала прививка капитализма. ...
+                        ]]></description>
+  <pubDate>Fri, 27 Nov 2009 16:07:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1259416806#5</guid>
+ </item>
+ <item>
+  <title>Следующим соперником Поветкина станет бывший уголовник</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/28nov2009/povetkin.html</link>
+  <description><![CDATA[
+                        Наиболее вероятным соперником претендента на титул IBF в супертяжелом весе Александра Поветкина в боксерском поединке, намеченном на 5 декабря, является американец Лео Нолан, который на заре профессиональной карьеры угодил за решетку. ...
+                        ]]></description>
+  <pubDate>Sat, 28 Nov 2009 16:58:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1259416806#6</guid>
+ </item>
+ <item>
+  <title>Милиция ищет бомбу на Киевском вокзале </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/11/28/n_1429617.shtml</link>
+  <description><![CDATA[
+                        Представитель управления информации ГУВД Москвы сообщил, что милиционеры проверяют сообщение о взрывном устройстве, заложенном на Киевском вокзале Москвы.
+"В 14.40 мск на телефон службы 02 позвонил неизвестный и сообщил, что в ... ...
+                        ]]></description>
+  <pubDate>Sat, 28 Nov 2009 16:41:39 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1259416806#7</guid>
+ </item>
+ <item>
+  <title>Гэри Маккиннона выдадут американским властям</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/7685da0/l/0L0Ssecuritylab0Bru0Cnews0C3881910Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Власти Великобритании подтвердили принятое ранее решение выдать США хакера Гэри Маккиннона, обвиняемого американскими следственными органами во взломе компьютеров Пентагона и Национального аэрокосмического агентства &#40;NASA&#41;. ...
+                        ]]></description>
+  <pubDate>Fri, 27 Nov 2009 16:11:20 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1259416806#8</guid>
+ </item>
+ <item>
+  <title>Руководство «Росагролизинга» не прислушалось к прокурорам</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/business/crime/2009/11/28/Rukovodstvo___Rosagr.phtml</link>
+  <description><![CDATA[
+                        Совет директоров ОАО «Росагролизинг» признал недостаточно проработанными объяснения руководства компании по ряду нарушений, выявленных Генпрокуратурой России. Дополнительный анализ ситуации должен быть проведен в течение двух недель. ...
+                        ]]></description>
+  <pubDate>Sat, 28 Nov 2009 16:40:15 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1259416806#9</guid>
+ </item>
+ <item>
+  <title>Матчи 30-го тура Чемпионата России по футболу начнутся с минуты молчания в память о погибших при крушении поезда Невский экспресс</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/637632-echo.html</link>
+  <description><![CDATA[
+                        
+                         <br><img src='http://www.echo.msk.ru/att/element-637632-picture-000.jpg?1259416476'><br> Об этом сообщает официальный сайт российской футбольной премьер-лиги...
+                          ...
+                        ]]></description>
+  <pubDate>Sat, 28 Nov 2009 16:32:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1259416806#10</guid>
+ </item>
+ <item>
+  <title>Пост № 263145</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/263145/#new</link>
+  <description><![CDATA[
+                        Russian Word of the Day — потрясающий блог для англичан, изучающих русский язык. Чем он полезен для тех, кто уже знает русский язык? Занимательными примерами употребления слов и феерическими пояснениями наших культурных особенностей. Вот пример из вчерашнего поста:<br />
+<br />
+When you’re buying bread at a store or a kiosk, a courteous clerk is likely to ask you if you would like a буханка (loaf), полбуханки (half a loaf), a батон (long loaf of bread) or полбатона. To a foreigner, the shape of  ...
+                        ]]></description>
+  <pubDate>Sat, 28 Nov 2009 15:52:45 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1259416806#11</guid>
+ </item>
+  </channel>
+ </rss>

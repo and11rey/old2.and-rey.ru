@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 25 Jun 2012 17:00:03 +0400</pubDate>
+         <lastBuildDate>Mon, 25 Jun 2012 17:00:03 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Сирийский генерал и два полковника бежали в Турцию
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/rolling_news/2012/06/120625_syria_general_defection.shtml</link>
+  <description><![CDATA[
+                        Несколько высокопоставленных сирийских военных - генерал, два полковника, два майора и еще 30 офицеров - бежали в Турцию. Они пересекли границу в провинции Хатай в ночь с воскресенья на понедельник. ...
+                        ]]></description>
+  <pubDate>Mon, 25 Jun 2012 16:09:37 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1340629203#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Колокольцев: Надо наращивать численность полиции
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/tags/police/m.198621.html</link>
+  <description><![CDATA[
+                        Российская полиция испытывает проблемы собственной доступности гражданам, особенно в удаленных сельских поселениях, заявил министр внутренних дел Владимир Колокольцев. "Мы сегодня столкнулись с ситуацией, когда в результате существенного сокращения личного состава в основном для жителей сельской местности нарушился принцип доступности полиции", – сказал он. ...
+                        ]]></description>
+  <pubDate>Mon, 25 Jun 2012 16:23:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1340629203#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Шувалов: протесты – это новая норма
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/politic/20120623/193989335.html</link>
+  <description><![CDATA[
+                        В пятницу первый вице-премьер Игорь Шувалов заявил, что политические протесты являются «новой нормой», а правительству придется вести диалог с растущим средним классом. Окончание избирательного цикла не означает, что все более влиятельный городской средний класс россиян потеряет аппетит к переменам, и новому правительству нужно будет ответить на его требования, сказал он в интервью Reuters. ...
+                        ]]></description>
+  <pubDate>Sat, 23 Jun 2012 03:06:06 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1340629203#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  "Русский Давос" на фоне обысков и арестов. Видеотрансляция
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/24625384.html</link>
+  <description><![CDATA[
+                        Глава Фонда эффективной политики Глеб Павловский и обозреватель "Коммерсант ФМ" Константин Эггерт - в 19:07. ...
+                        ]]></description>
+  <pubDate>Mon, 25 Jun 2012 16:54:00 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1340629203#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  МИД Сирии: Турецкий самолет был сбит системой ПВО, а не ракетой - РБК - RBC.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNEqKavRxqflOYS8Pfz-GohTt9N74Q&amp;url=http://top.rbc.ru/society/25/06/2012/656706.shtml</link>
+  <description><![CDATA[
+                        AP AP Разведывательный самолет ВВС Турции F4 Phantom, вылетевший 22 июня с авиабазы "Эрхач" в провинции Малатья на юго-востоке страны, был сбит зенитной артиллерией противовоздушной обороны Сирии, а не ракетой. Об этом сообщил представитель МИД Сирии Джихад Макдисси. По его словам, ... ...
+                        ]]></description>
+  <pubDate>Mon, 25 Jun 2012 16:47:35 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1340629203#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Задержан еще один участник драки с дагестанцами в кировском поселке, а местный депутат жалуется на угрозы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/25jun2012/kirov.html</link>
+  <description><![CDATA[
+                        В правоохранительных органах сообщили, что речь идет о местном жителе 1982 года рождения, в отношении него избрана мера в виде подписки о невыезде. Ранее аналогичные меры были были избраны в отношении еще двоих подозреваемых зачинщиков конфликта. В поселке продолжается действие комендантского часа. ...
+                        ]]></description>
+  <pubDate>Mon, 25 Jun 2012 16:47:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1340629203#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [RSS-пост] Представляем Google Developers Live
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/post/146492/</link>
+  <description><![CDATA[
+                        Аркадий Хачкованян, менеджер по маркетингу Google Россия 
+Ежегодная конференция Google I/O – это мероприятие, на котором мы рассказываем о наших последних разработках. Google I/O 2012 состоится на следующей неделе и будет проходить три дня, в течение которых мы покажем наши новейшие технологии и людей, которые занимались их разработкой. Для участников конференции мы также организуем встречи с партнерами Sandbox, которые развивают свой бизнес с помощью наших API. Разработчики всего мира смогут сл ...
+                        ]]></description>
+  <pubDate>Mon, 25 Jun 2012 16:52:14 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1340629203#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Открытие мемориала Победы Красной армии над фашистской Германией
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.kremlin.ru/news/15727</link>
+  <description><![CDATA[
+                        В израильском городе Нетания Владимир Путин и Президент Израиля Шимон Перес приняли участие в церемонии открытия мемориала Победы Красной армии над фашистской Германией. На церемонии присутствовали также ветераны Великой Отечественной войны. ...
+                        ]]></description>
+  <pubDate>Mon, 25 Jun 2012 14:00:00 +0400</pubDate>
+  <source url="http://www.kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1340629203#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Минэкономразвития хочет ограничить «ипотечную амнистию»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/realty/city/2012/06/25/Minekonomrazvitiya_h.phtml</link>
+  <description><![CDATA[
+                        Минэкономразвития и Агентство по ипотечному жилищному кредитованию (АИЖК) направили в правительство предложение ограничить действие «ипотечной амнистии», по которой обнуляется остаток задолженности перед банком в случае продажи заложенного жилья. ...
+                        ]]></description>
+  <pubDate>Mon, 25 Jun 2012 16:25:20 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1340629203#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  25.06.2012 16:33 : Спортсменки из Саудовской Аравии примут участие в Олимпиаде в Лондоне
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/902614-echo.html</link>
+  <description><![CDATA[
+                        
+Такое решение приняло руководство страны по итогам тайного совещания, о результатах которого стало известно только сегодня. Сообщается, что за спортсменками во время Олимпиады будут внимательно следить представители Олимпийского комитета страны. Пока право участвовать в Играх получила только одна представительница прекрасного пола, наездница. Еще несколько женщин сохраняют шансы пробиться на лондонские соревнования через квалификацию. Выступать они будут в хиджабах. 
+ ...
+                        ]]></description>
+  <pubDate>Mon, 25 Jun 2012 16:33:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1340629203#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Пост № 352331
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/352331/#new</link>
+  <description><![CDATA[
+                        Решил поделиться впечатлениями.<br />
+<br />
+Прекрасно средиземное море в начале весны, теплые слои воды сменяются холодными слоями ниже, море прозрачно и переливается цветами от изумрудно зеленого до ярко голубого над песочным дном. После рабочего дня, до захода солнца, нет ничего лучше для отдыха и расслабления чем плавание. Прекрасно освежает, прочищает сознание и бодрит.<br />
+Устраивая так один из своих заплывов, дальше от берега, там где дно пестрит водорослями и камнями, я с удивлением об ...
+                        ]]></description>
+  <pubDate>Mon, 25 Jun 2012 16:30:17 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1340629203#34</guid>
+ </item>
+  </channel>
+ </rss>

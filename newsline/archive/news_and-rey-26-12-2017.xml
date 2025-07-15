@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 26 Dec 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Tue, 26 Dec 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  МИД Германии: "брексит" может стать моделью для Турции и Украины
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/news-42486445</link>
+  <description><![CDATA[
+                        Хорошо продуманное и дальновидное соглашение о выходе Британии из ЕС может послужить моделью будущих отношений с другими странами, не входящими в Евросоюз, такими как Турция и Украина, заявил глава МИД Германии Зигмар Габриэль. ...
+                        ]]></description>
+  <pubDate>Tue, 26 Dec 2017 17:26:42 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1514298901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Владимир Шаинский. Любимые песни. «Голубой вагон», «Облака, белогривые лошадки», «На дальней станции сойду» и многие другие
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/feature/2017/12/26/lyubimye-pesni-vladimira-shainskogo</link>
+  <description><![CDATA[
+                        26 декабря в возрасте 92 лет умер один из самых прославленных советских и российских композиторов Владимир Шаинский. «Медуза» вспоминает самые яркие его песни — точнее, несколько из них: Шаинский написал столько вечных шлягеров, что в одну подборку их просто невозможно уместить. ...
+                        ]]></description>
+  <pubDate>Tue, 26 Dec 2017 17:04:31 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1514298901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Трамп, Путин и Си: год лидеров типа "крутой парень" и глупого балансирования на грани войны
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/26Dec2017/guardian/trump.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Это был год суровых мужчин - лидеров типа "крутой парень" с уклоном в беспощадность и гигантским самолюбием. Итог этого - ощущение, что западные демократии охватила парализующая слабость, а международный стратегический и правовой порядок рушится. ...
+                        ]]></description>
+  <pubDate>Tue, 26 Dec 2017 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1514298901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Умер композитор Владимир Шаинский, ему было 92 года
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28939789.html</link>
+  <description><![CDATA[
+                        В последние годы Шаинский боролся с онкологическим заболеванием ...
+                        ]]></description>
+  <pubDate>Tue, 26 Dec 2017 16:46:43 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1514298901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 26 Dec 2017 17:31:28 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1514298901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Инициативная группа поддержала выдвижение Путина в президенты
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/26dec2017/putingroup.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Собрание   прошло    в 57-м павильоне ВДНХ. За выдвижение Путина проголосовали единогласно - 648 членов инициативной группы. Сам кандидат  на официальном выдвижении  не присутствовал. ...
+                        ]]></description>
+  <pubDate>Tue, 26 Dec 2017 16:59:28 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1514298901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Почему криптоинвесторы вкладываются в DIY: «У&nbsp;общества есть потребность в штучной, инди-продукции»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/296871/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=296871</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 26 Dec 2017 17:28:38 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1514298901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с членами Правительства
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56502</link>
+  <description><![CDATA[
+                        В Доме Правительства состоялась итоговая в 2017 году встреча Владимира
+Путина с членами кабинета министров.       ...
+                        ]]></description>
+  <pubDate>Tue, 26 Dec 2017 16:32:35 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1514298901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Роскомнадзор потребовал разъяснений от Facebook по ситуации с аккаунтом Кадырова
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/251/social/society/190649-roskomnadzor-potreboval-razasnenij-ot-facebook-po-situacii-s-akkauntom-kadyrova</link>
+  <description><![CDATA[
+                        Роскомнадзор направил руководству Facebook запрос с требованием разъяснить причины блокировки аккаунта главы Чечни Рамзана Кадырова. ...
+                        ]]></description>
+  <pubDate>Tue, 26 Dec 2017 17:29:37 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1514298901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  26.12.2017 17:32 : Умер Владимир Шаинский
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2118008-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Умер Владимир Шаинский. Об этом сообщает телеканал «Культура» со ссылкой на близких композитора. ШаинскомуУмер Владимир Шаинский.  <br>
+Композитор прославился песнями для детей, в том числе музыкой для знаменитых мультфильмов про Чебурашку. В последние годы Шаинский жил в США в городе Сан-Диего. Несколько лет назад у него диагностировали онкологическое заболевание.
+ ...
+                        ]]></description>
+  <pubDate>Tue, 26 Dec 2017 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1514298901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Умер генконструктор подлодок "Гранит" и "Антей"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/593528</link>
+  <description><![CDATA[
+                        Генеральный конструктор многоцелевых атомных подводных лодок (АПЛ) проектов 949 ("Гранит") и 949А ("Антей") Игорь Баранов скончался в Санкт-Петербурге, сообщили "Интерфаксу" в ЦКБ "Рубин". ...
+                        ]]></description>
+  <pubDate>Tue, 26 Dec 2017 17:15:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1514298901#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 16 Jul 2009 17:00:08 +0400</pubDate>
+         <lastBuildDate>Thu, 16 Jul 2009 17:00:08 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Исландия решает, вступать ли в ЕС</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/07/090716_iceland_eu_vote.shtml</link>
+  <description><![CDATA[
+                        В исландском парламент пройдет голосование по поводу потенциального вхождения в Европейский союз. Страна может стать 28-м членом ЕС, считает премьер-министр страны Йоханна Сигурдардоттир. ...
+                        ]]></description>
+  <pubDate>Thu, 16 Jul 2009 15:14:46 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1247749208#1</guid>
+ </item>
+ <item>
+  <title>В Грозном простились с Натальей Эстемировой</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/War/Chechnya/m.154023.html</link>
+  <description><![CDATA[
+                        Церемония прощания с российской правозащитницей Натальей Эстемировой, похищенной в Грозном и вскоре найденной убитой в Ингушетии, прошла в сквере Журналистов в центре Грозного. У стелы погибшим журналистам в сквере собралось около ста человек - как журналисты, коллеги убитой, так и обычные люди, которым она помогала.  ...
+                        ]]></description>
+  <pubDate>Thu, 16 Jul 2009 16:23:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1247749208#2</guid>
+ </item>
+ <item>
+  <title>Обзор СМИ стран СНГ (16.07) ("ИноСМИ", Россия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/250780.html</link>
+  <description><![CDATA[
+                        Россия может готовить новый коварный план против Грузии, который может подразумевать следующее: Кремль устраивает на Северном Кавказе взрывы, теракты, ликвидации российских чиновников, в чем, естественно, обвинят 'кавказских террористов'. За этим последует широкомасштабная 'антитеррористическая' бойня Кремля на всем Северном Кавказе. ...
+                        ]]></description>
+  <pubDate>Thu, 16 Jul 2009 16:17:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1247749208#3</guid>
+ </item>
+ <item>
+  <title>Спикер парламента Украины Владимир Литвин намерен участвовать в президентских выборах</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090716/17/17.html?id=1778378</link>
+  <description><![CDATA[
+                        Спикер Верховной Рады Украины, лидер «Народной Партии» Владимир Литвин объявил о намерении участвовать в президентских выборах.   Как сообщает корреспондент Радио Свобода, Литвин мотивировал свое решение необходимостью политических перемен в стране.  Ранее о желании баллотироваться на высший пост страны заявляли премьер-министр Юлия Тимошенко, лидер оппозиционной Партии регионов Виктор Янукович, экс-спикер Верховной Рады Арсений Яценюк и другие политики. Выборы главы государства ... ...
+                        ]]></description>
+  <pubDate>Thu, 16 Jul 2009 16:12:31 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1247749208#4</guid>
+ </item>
+ <item>
+  <title>Следствие считает, что британская компания причастна к кибератаке в США и Южной Корее</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/16Jul2009/times/cyber.html</link>
+  <description><![CDATA[
+                        Главный компьютер, который управлял массированной компьютерной атакой против США и Южной Кореи, произошедшей на прошлой неделе, находится в Великобритании, показало следствие, проведенное по заказу правительства Южной Кореи. ...
+                        ]]></description>
+  <pubDate>Thu, 16 Jul 2009 16:48:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1247749208#5</guid>
+ </item>
+ <item>
+  <title>Разговоры о клерикализации страны в РПЦ называют мифом</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/religy/16jul2009/clericalisation.html</link>
+  <description><![CDATA[
+                        По словам главы синодального отдела по взаимоотношениям Церкви и общества протоиерей Всеволода Чаплина, люди, говорящие о клерикализации, испытывают "фантомные боли". Они говорят об угрозе клерикализма в стране, где Церковь и государство разделены гораздо сильнее, чем в США или Франции. ...
+                        ]]></description>
+  <pubDate>Thu, 16 Jul 2009 16:47:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1247749208#6</guid>
+ </item>
+ <item>
+  <title>В Орловской области милиционер, избивший задержанных, получил 3,5 года</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/07/16/n_1383316.shtml</link>
+  <description><![CDATA[
+                        За неправомерное задержание и избиение двоих мужчин бывший старший участковый уполномоченный милиции по Верховскому РОВД Орловской области, ранее приговоренный к условному наказанию, получил реальный срок. 
+Как сообщила руководитель ... ...
+                        ]]></description>
+  <pubDate>Thu, 16 Jul 2009 16:50:57 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1247749208#7</guid>
+ </item>
+ <item>
+  <title>Microsoft готовится к запуску музыкального сервиса</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/382592.php</link>
+  <description><![CDATA[
+                        Microsoft запустит в конце июля новый сервис, который позволит прослушивать потоковое аудио, а также бесплатно скачивать музыкальные файлы.	 ...
+                        ]]></description>
+  <pubDate>Thu, 16 Jul 2009 15:11:43 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1247749208#8</guid>
+ </item>
+ <item>
+  <title>30 тыс. выпускников не получат аттестаты</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/science/enlightenment/2009/07/16/30_tyys__rossiyskih_.phtml</link>
+  <description><![CDATA[
+                        30 тыс. российских школьников останутся без аттестата. Они не сдали ЕГЭ по русскому языку и математике. Эта цифра оказалась даже больше, чем предполагали чиновники от образования. ...
+                        ]]></description>
+  <pubDate>Thu, 16 Jul 2009 16:55:51 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1247749208#9</guid>
+ </item>
+ <item>
+  <title>В Госдуме хотят оградить наших детей от насилия или заработать на наших детях?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/57935/</link>
+  <description><![CDATA[
+                        В конце июня первое чтение прошли подготовленные комитетом Госдумы по вопросам семьи, женщин и детей законопроект «О защите детей от информации, причиняющей вред их здоровью и развитию» и пакет связанных с ним поправок в действующие законы. По мнению авторов законопроекта, информация, содержащая нецензурную брань, побуждающая к употреблению наркотиков, алкоголя, курению, занятию азартными играми, провоцирующая на членовредительство, обосновывающая или оправдывающая допустимость насилия или жесто ...
+                        ]]></description>
+  <pubDate>Thu, 16 Jul 2009 17:00:14 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1247749208#10</guid>
+ </item>
+ <item>
+  <title>Братья Пилоты снимают клип для MTV</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/256265/#new</link>
+  <description><![CDATA[
+                        <img src=http://img.youtube.com/vi/alGjuY5OKdg/2.jpg><br /><br />Режиссеры студии "Пилот" всегда отличались мастерством. Ведь даже заказные проекты в студии делали на совесть. Этот клип был заказан в 1995 году Александру Татарскому продюсером никому не известной группы. В результате посредственная музыкальная композиция утонула в переполненной гэгами картинке, и из клипа получился энергичный и безумный мультфильм. Сейчас о фирме Suprimex, которая, по одним сведениям, занималась мебельным оборудо ...
+                        ]]></description>
+  <pubDate>Thu, 16 Jul 2009 16:09:10 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1247749208#11</guid>
+ </item>
+  </channel>
+ </rss>

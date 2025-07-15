@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 20 Nov 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Mon, 20 Nov 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  КГБ Белоруссии разоблачил "украинскую шпионскую сеть"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/news-42054610</link>
+  <description><![CDATA[
+                        Задержанный в Минске корреспондент "Украинского радио" Павел Шаройко занимался сбором разведданных, заявила белорусская госбезопасность. Еще один гражданин Украины - советник посольства - объявлен персоной нон грата. ...
+                        ]]></description>
+  <pubDate>Mon, 20 Nov 2017 16:58:48 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1511188501#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Росстат зафиксировал рост безработицы и ускорение снижения реальных доходов населения
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2017/11/20/rosstat-zafiksiroval-rost-bezrabotitsy-i-uskorenie-snizheniya-realnyh-dohodov-naseleniya</link>
+  <description><![CDATA[
+                        Общая численность безработных в России в октябре 2017 года выросла до 5,1% экономически активного населения. За месяц, по данным Росстата, число безработных в РФ увеличилось на 44 тысячи человек, до 3 миллионов 859 тысяч. ...
+                        ]]></description>
+  <pubDate>Mon, 20 Nov 2017 17:25:51 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1511188501#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российский банкир, который слишком много знал
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/20Nov2017/bloomberg/banker.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Крах небольшого "Промсбербанка" привлек мало внимания за пределами подмосковного Подольска, где он базировался. Однако, согласно ЦБ, "Промсбербанк" был ключевым звеном в одной из крупнейших схем по отмыванию денег, когда-либо разоблаченных в России. ...
+                        ]]></description>
+  <pubDate>Mon, 20 Nov 2017 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1511188501#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Президент ФРГ призвал все партии проявить ответственность
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28864672.html</link>
+  <description><![CDATA[
+                        Франк-Вальтер Штайнмайер заявил, что все политические партии, избранные в Бундестаг, имеют общую ответственность при формировании правительства ...
+                        ]]></description>
+  <pubDate>Mon, 20 Nov 2017 17:12:47 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1511188501#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 20 Nov 2017 17:31:53 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1511188501#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Bloomberg рассказал о причастности родственника Путина к выводу $10 млрд из России
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/20nov2017/promsberbank.html?utm_source=rss</link>
+  <description><![CDATA[
+                        По данным агентства, в совете директоров обанкротившегося "Промсбербанка" работал сын младшего брата отца президента Игорь Путин. Этот банк был ключевым звеном в одной из крупнейших схем по отмыванию денег, которая когда-либо была разоблачена в РФ. Через него вывели  более 10 миллиардов долларов. ...
+                        ]]></description>
+  <pubDate>Mon, 20 Nov 2017 17:22:02 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1511188501#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  XMM 8060 — первый 5G модем Intel
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/295589/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=best</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 20 Nov 2017 14:56:09 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1511188501#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Совещание по вопросам поддержки талантливой молодёжи в сфере искусства
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56119</link>
+  <description><![CDATA[
+                        Владимир Путин провёл совещание по вопросам поиска, поддержки и профессиональной подготовки талантливой молодёжи в сфере искусства. Совещание состоялось в здании Новой сцены Государственного академического Мариинского театра.      ...
+                        ]]></description>
+  <pubDate>Mon, 20 Nov 2017 14:10:51 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1511188501#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Свидетель: в квартиру сестры Захарченко подкинули чужие миллиарды
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/29/social/rupolitics/187816-svidetel-v-kvartiru-sestry-zaharcenko-podkinuli-cuzie-milliardy</link>
+  <description><![CDATA[
+                        Свидетель по делу экс-сотрудника Министерства внутренних дел Дмитрия Захарченко заявил, что миллиарды, найденные в квартире сестры обвиняемого, тому подкинули. ...
+                        ]]></description>
+  <pubDate>Mon, 20 Nov 2017 17:34:49 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1511188501#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  20.11.2017 17:34 :  Украина проинформировала ГП и МВД РФ о задержании обвиняемого в убийстве Пола Хлебникова
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2095978-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Украина проинформировала российские правоохранительные органы о задержании обвиняемого в убийстве журналиста, главного редактора русской версии журнала «Форбс» Пола Хлебникова. Об этом ТАСС сообщила официальный представитель <br>
+МВД России Ирина Волк. <br>
+    «17 ноября в Киеве задержан Дукузов Магомед, 1978 года рождения, объявленный в международный розыск по запросу российских правоохранительных органов. Он обвиняется в причастности к совершению заказных убийств на территории Москвы, в то ...
+                        ]]></description>
+  <pubDate>Mon, 20 Nov 2017 17:34:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1511188501#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Глава Минкомсвязи исключил легализацию биткойна в России
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/business/588202</link>
+  <description><![CDATA[
+                        Глава Минкомсвязи Николай Никифоров считает возможным применение технологии блокчейна в России, но заявил, что биткоины не будут узаконены в России. ...
+                        ]]></description>
+  <pubDate>Mon, 20 Nov 2017 17:22:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1511188501#48</guid>
+ </item>
+  </channel>
+ </rss>

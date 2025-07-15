@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 21 Sep 2009 17:00:17 +0400</pubDate>
+         <lastBuildDate>Mon, 21 Sep 2009 17:00:17 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Формула-1: команду Renault условно наказали</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/sport/2009/09/090921_renault_fia_hearings.shtml</link>
+  <description><![CDATA[
+                        Команда Renault избежала дисквалификации и большого штрафа за намеренную организацию аварии на Гран-при Сингапура в 2008 году. Бывшему боссу команды Флавио Бриаторе запрещено работать на любых соревнованиях под эгидой FIA.  ...
+                        ]]></description>
+  <pubDate>Mon, 21 Sep 2009 16:42:44 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1253538017#1</guid>
+ </item>
+ <item>
+  <title>"Боинг-757" аварийно приземлился в Тюмени</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/m.157546.html</link>
+  <description><![CDATA[
+                        В тюменском аэропорту "Рощино"  совершил аварийную посадку пассажирский "Боинг-757" ООО "Северный ветер", выполнявший рейс Иркутск-Анталья. На борту самолета находилось 176 пассажиров и 8 членов экипажа. ...
+                        ]]></description>
+  <pubDate>Mon, 21 Sep 2009 16:15:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1253538017#2</guid>
+ </item>
+ <item>
+  <title>Независимые эксперты винят Грузию в южноосетинской войне ("Spiegel", Германия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/252818.html</link>
+  <description><![CDATA[
+                        Как узнал Spiegel, экспертная комиссия Евросоюза возложила вину на прошлогоднюю вину в Южной Осетии на Грузию, но считает, что Россия также несет частичную ответственность. Результаты работы комиссии, которые по-прежнему не разглашаются, скорее всего, дадут пищу для новых споров о причинах войны, когда все же будут опубликованы. ...
+                        ]]></description>
+  <pubDate>Mon, 21 Sep 2009 16:46:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1253538017#3</guid>
+ </item>
+ <item>
+  <title>В лимузине за картошкой </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/blog/1827622.html</link>
+  <description><![CDATA[
+                         Давеча первая леди США сходила на рынок. Она давно собиралась, но как-то все не получалось – рынка поблизости от Белого Дома не было.     Мишель Обама у нас поборник здорового питания и даже устроила огород на территории своей нынешней резиденции. Она, кстати, не первая в этом отношении. Например, страстным огородником был Томас Джефферсон, познакомивший американцев с неведомыми им прежде заморскими овощами: цветной капустой, спаржей, артишоками, кабачками, баклажанами, цуккини и ... ...
+                        ]]></description>
+  <pubDate>Mon, 21 Sep 2009 16:32:59 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1253538017#4</guid>
+ </item>
+ <item>
+  <title>Чиновники похищают китайских детей для усыновления за границей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/21Sep2009/latimes/china.html</link>
+  <description><![CDATA[
+                        Китайцам разрешено иметь не более одного ребенка или не более двух, если они живут в сельской местности и первый ребенок - девочка. При этом чиновники не могут насильно забирать незаконнорожденных детей, но многие родители не знают своих прав. ...
+                        ]]></description>
+  <pubDate>Mon, 21 Sep 2009 16:16:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1253538017#5</guid>
+ </item>
+ <item>
+  <title>Трудовых мигрантов будут отправлять домой за счет работодателей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/21sep2009/migranty.html</link>
+  <description><![CDATA[
+                        Генпрокуратура предлагает обязать компании резервировать средства для отправки трудовых мигрантов домой. ...
+                        ]]></description>
+  <pubDate>Mon, 21 Sep 2009 16:57:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1253538017#6</guid>
+ </item>
+ <item>
+  <title>Британская учительница получила срок за секс с 15-летней ученицей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/09/21/n_1405892.shtml</link>
+  <description><![CDATA[
+                        Британский суд приговорил 26-летнюю учительницу музыки Хелен Годдард к 15 месяцам лишения свободы за сексуальные отношения лесбийского характера с 15-летней ученицей, пишет The Sun. По версии следствия, молодая девушка иногда оставалась ... ...
+                        ]]></description>
+  <pubDate>Mon, 21 Sep 2009 16:52:08 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1253538017#7</guid>
+ </item>
+ <item>
+  <title>Frost и Sullivan: Windows 7 изменит компьютерную индустрию</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/385653.php</link>
+  <description><![CDATA[
+                        Исследователи из Frost & Sullivan считают, что благодаря предстоящему обновлению Windows "впервые в истории компьютеров будет разорвана связь между системой для ПК и циклом обновления "железа".	 ...
+                        ]]></description>
+  <pubDate>Mon, 21 Sep 2009 15:52:05 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1253538017#8</guid>
+ </item>
+ <item>
+  <title>На складах закончились плееры Zune HD</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/hi-tech/gadget/2009/09/21/Na_skladah_konchilis.phtml</link>
+  <description><![CDATA[
+                        Запасы плееров Zune HD на американских складах подходят к концу -- похоже, Microsoft не ожидала, что спрос на устройства будет настолько велик. ...
+                        ]]></description>
+  <pubDate>Mon, 21 Sep 2009 16:56:07 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1253538017#9</guid>
+ </item>
+ <item>
+  <title>В чём подвох  конференции «Современное государство и глобальная безопасность»</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/59859/</link>
+  <description><![CDATA[
+                        Российская политическая элита предпринимает попытку определить структуру и идеологию нового миропорядка, который должен наступить после выхода глобальной экономики из кризиса.  Если в своём призыве усилить роль национальных государств в глобальной экономике президент РФ Дмитрий Медведев был искренен, сползание этой идеи в сегмент дешёвого «пиара» неизбежен. Дело в том, что политическая элита РФ в нынешнем её составе не знает, что такое национальное государство, в чём состоит национальный интерес ...
+                        ]]></description>
+  <pubDate>Mon, 21 Sep 2009 17:00:27 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1253538017#10</guid>
+ </item>
+ <item>
+  <title>Ну, когда же у меня часы попросят?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/259415/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/09/21/26757-152721-42ffd00b3c8db87f5eb807cbf81686ce.jpg><br /><br />Фото Норвежского Лесного. ...
+                        ]]></description>
+  <pubDate>Mon, 21 Sep 2009 15:27:21 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1253538017#11</guid>
+ </item>
+  </channel>
+ </rss>

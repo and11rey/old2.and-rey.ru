@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 25 Dec 2018 17:35:02 +0300</pubDate>
+         <lastBuildDate>Tue, 25 Dec 2018 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Уроки английского языка Би-би-си: лучшее за 2018 год
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/learning-english-46680964</link>
+  <description><![CDATA[
+                        Какие уроки английского Русской службы Би-би-си оказались самыми популярными? ...
+                        ]]></description>
+  <pubDate>Tue, 25 Dec 2018 16:33:08 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1545748502#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Сможете ли вы стать data-специалистом? Тест про нейросети и 20 тысяч котиков
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/games/smozhete-li-vy-stat-data-spetsialistom</link>
+  <description><![CDATA[
+                        Если верить сайтам с вакансиями, data-специалисты входят в список самых востребованных сотрудников в IT-сфере. Они анализируют множество разрозненных данных, чтобы найти новые подходы к решению бизнес-задач. Мы вместе с Райффайзенбанком подготовили тест, и если вы сможете его пройти, — возможно, вы один из тех самых желанных data-специалистов. ...
+                        ]]></description>
+  <pubDate>Tue, 25 Dec 2018 17:24:03 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1545748502#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Отставка Горбачева, коронация Карла Великого. Это произошло на Рождество
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/25Dec2018/lefigaro/list.html?utm_source=rss</link>
+  <description><![CDATA[
+                        У Рождества есть своя серия исторических событий. Издание описывает семь из них. ...
+                        ]]></description>
+  <pubDate>Tue, 25 Dec 2018 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1545748502#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Во Владикавказе установили баннер с разрушенной Пальмирой
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29675776.html</link>
+  <description><![CDATA[
+                        С его помощью молодых людей агитируют идти в армию ...
+                        ]]></description>
+  <pubDate>Tue, 25 Dec 2018 17:19:47 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1545748502#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Топ-10 главных смартфонов 2018 года. - Ridus.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.ridus.ru/news/290090</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 25 Dec 2018 16:54:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1545748502#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Москве проходят задержания членов фанатских группировок ФК ЦСКА
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/25dec2018/fans.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Задержан один из лидеров организованных фанатов футбольного клуба ЦСКА - 28-летний Илья Златогоров. В ближайшее время в отношении лидера группы White Horse может быть возбуждено уголовное дело по статье о хулиганстве. ...
+                        ]]></description>
+  <pubDate>Tue, 25 Dec 2018 16:23:31 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1545748502#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  О фракталах, мартингалах и случайных интегралах. Часть первая
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/post/343178/?utm_campaign=343178</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 25 Dec 2018 16:08:50 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1545748502#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с Президентом Белоруссии Александром Лукашенко
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/59484</link>
+  <description><![CDATA[
+                        Владимир Путин
+встретился с Президентом Республики Беларусь Александром Лукашенко,
+который находится в России с рабочим визитом. Обсуждались ключевые
+вопросы двустороннего сотрудничества.       ...
+                        ]]></description>
+  <pubDate>Tue, 25 Dec 2018 16:24:22 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1545748502#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Год отсрочки: систему индивидуального пенсионного капитала отложили до 2020-го
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/29/economy/finance/211608-god-otsrocki-sistemu-individualnogo-pensionnogo-kapitala-otlozili-do-2020-go</link>
+  <description><![CDATA[
+                        Министр финансов России Антон Силуанов заявил, что кабмин пока еще держится за планы запустить систему индивидуального пенсионного капитала с 2020 года. ...
+                        ]]></description>
+  <pubDate>Tue, 25 Dec 2018 16:46:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1545748502#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  25.12.2018 17:32 : Парламент Таиланда согласился легализовать марихуану в медицинских целях
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2340369-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Как пишет газета «Бангкок Пост», законопроект поддержали 166 парламентариев, 13 воздержались, против не голосовал никто. Теперь закон должен подписать король Таиланда. Когда он вступит в силу, граждане Таиланда смогут покупать марихуану по рецептам. Производителям нужно будет получить специальную государственную лицензию.
+ ...
+                        ]]></description>
+  <pubDate>Tue, 25 Dec 2018 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1545748502#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Следователи Москвы попросят арестовать водителя, протащившего полицейского на автомобиле
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/moscow/644033</link>
+  <description><![CDATA[
+                        Московский водитель, протащивший на своей машине автоинспектора, обвиняется в применении насилия в отношении полицейского, следствие намерено ходатайствовать о его заключении под стражу, сообщила представитель столичного главка Следственного комитета (СК) Юлия Иванова. ...
+                        ]]></description>
+  <pubDate>Tue, 25 Dec 2018 17:23:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1545748502#48</guid>
+ </item>
+  </channel>
+ </rss>

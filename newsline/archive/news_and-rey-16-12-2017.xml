@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 16 Dec 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sat, 16 Dec 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Сеул обвинил КНДР во взломе криптовалютной биржи Bithumb
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/news-42378203</link>
+  <description><![CDATA[
+                        Национальное агентство разведки Южной Кореи полагает, что за кибератакой на криптовалютную биржу Bithumb стоят хакеры, связанные с КНДР, сообщил источник в разведывательном ведомстве. ...
+                        ]]></description>
+  <pubDate>Sat, 16 Dec 2017 17:10:40 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1513434901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Петербурге убили бизнесмена Илью Пичко. Он проходил по делу о контрабанде алкоголя вместе с Дмитрием Михальченко
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2017/12/16/v-peterburge-ubili-biznesmena-ilyu-pichko-on-prohodil-po-delu-o-kontrabande-alkogolya-vmeste-s-dmitriem-mihalchenko</link>
+  <description><![CDATA[
+                        Глава «Юго-Восточной торговой компании» Илья Пичко, который проходил обвинямым по делу о контрабанде алкоголя вместе с миллиардером Дмитрием Михальченко, найден убитым в Выборгском районе Ленинградской области. ...
+                        ]]></description>
+  <pubDate>Sat, 16 Dec 2017 17:19:29 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1513434901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Тайная история российского консульства в Сан-Франциско
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/15Dec2017/foreignpolicy/consulate.html?utm_source=rss</link>
+  <description><![CDATA[
+                        По словам экс-сотрудников американской разведки, российское генконсульство в Сан-Франциско становилось источником "странной активности". "Очень вероятно", что оно выполняло для России функции секретного центра связи на всем Западе Соединенных Штатов. ...
+                        ]]></description>
+  <pubDate>Fri, 15 Dec 2017 21:10:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1513434901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В состав ОНК вновь не вошли известные российские правозащитники
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28921926.html</link>
+  <description><![CDATA[
+                        В частности, в опубликованном списке общественных наблюдателей нет Зои Световой, Елены Масюк, Натальи Дзядко, Любови Волковой и Максима Пешкова ...
+                        ]]></description>
+  <pubDate>Sat, 16 Dec 2017 16:09:12 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1513434901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 16 Dec 2017 17:35:03 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1513434901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Старейшая жительница Европы умерла в Испании
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/16dec2017/velarubio.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Ана Вела родилась в октябре 1901 года и работала портнихой. В последние года в Испании она стала символом долголетия. Со 103 лет жила в доме престарелых La Verneda. Там сообщили, что она умерла в своей постели "без страданий". ...
+                        ]]></description>
+  <pubDate>Sat, 16 Dec 2017 17:22:46 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1513434901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Перевод] Интригующая цель работать намного меньше
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/296461/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=296461</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 16 Dec 2017 10:00:01 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1513434901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с Родионом Щедриным
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56396</link>
+  <description><![CDATA[
+                        Президент
+поздравил композитора, народного артиста СССР Родиона Щедрина с 85-летием.      ...
+                        ]]></description>
+  <pubDate>Sat, 16 Dec 2017 11:36:12 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1513434901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российские биатлонисты выиграли две медали в спринте на Кубке IBU
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/130/lifestyle/sport/189860-rossijskie-biatlonisty-vyigrali-dve-medali-v-sprinte-na-kubke-ibu</link>
+  <description><![CDATA[
+                        Российский биатлонист Дмитрий Малышко выиграл спринт на третьем этапе Кубка IBU в Обертиллиахе (Австрия).
+
+ ...
+                        ]]></description>
+  <pubDate>Sat, 16 Dec 2017 17:30:43 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1513434901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  16.12.2017 17:10 : Навальному отказали в аренде конференц-зала гостиницы «Рэдиссон Славянская» 
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2112000-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Координатор штабов Алексея Навального Ольга Гусева сообщила в интервью радиостанции «Эхо Москвы», что гостиница «Рэдиссон Славянская» отказала оппозиционному политику в аренде конференц-зала для проведения встречи. 
+
+«После 20 декабря должен состояться съезд избирательной группы для того, чтобы мы могли выдвинуть кандидата. Но администратор гостиницы ответила, что к оппозиционным политическим встречам там относятся отрицательно — это решение руководства, и она здесь бессильна. Хотя до этого м ...
+                        ]]></description>
+  <pubDate>Sat, 16 Dec 2017 17:10:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1513434901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ПАРНАС не будет выдвигать своего кандидата на президентских выборах
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/592124</link>
+  <description><![CDATA[
+                        Однако партия поддержит выдвижение Григория Явлинского, Алексея Навального и Ксеньи Собчак ...
+                        ]]></description>
+  <pubDate>Sat, 16 Dec 2017 17:10:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1513434901#48</guid>
+ </item>
+  </channel>
+ </rss>

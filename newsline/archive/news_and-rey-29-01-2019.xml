@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 29 Jan 2019 17:35:03 +0300</pubDate>
+         <lastBuildDate>Tue, 29 Jan 2019 17:35:03 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Фото: телескоп "Хаббл" сфотографировал теряющую газ галактику
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-47040286</link>
+  <description><![CDATA[
+                        Радиотелескоп "Хаббл" запечатлел исток газа из спиральной галактики D100. Космическое агентство НАСА опубликовало снимки. ...
+                        ]]></description>
+  <pubDate>Tue, 29 Jan 2019 17:28:03 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1548772503#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  США предоставили самопровозглашенному президенту Венесуэлы доступ к активам страны в американских банках
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/01/29/ssha-predostavili-samoprovozglashennomu-prezidentu-venesuely-dostup-k-aktivam-strany-v-amerikanskih-bankah</link>
+  <description><![CDATA[
+                        Госсекретарь США Марк Помпео подтвердил право спикера парламента Венесуэлы Хуана Гуайдо контролировать средства на счетах страны в американских банках. ...
+                        ]]></description>
+  <pubDate>Tue, 29 Jan 2019 17:29:08 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1548772503#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российские домохозяйства беднеют и влезают в рекордные долги 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/29Jan2019/lefigaro/credit.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Всемирный банк и российский Центробанк обеспокоены совокупной задолженностью российских домохозяйств и высокими процентными ставками по кредитам. ...
+                        ]]></description>
+  <pubDate>Tue, 29 Jan 2019 17:35:05 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1548772503#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ЛГБТ-сеть обратилась в СК по поводу новых репрессий против геев в Чечне
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29739927.html</link>
+  <description><![CDATA[
+                        В заявлении говорится о 14 новых задержанных, которые были подвергнуты пыткам ...
+                        ]]></description>
+  <pubDate>Tue, 29 Jan 2019 16:50:35 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1548772503#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Итальянский тренер отправил коллегу в нокаут ударом головой - Lenta.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/lenta.ru/news/2019/01/29/football_fights/</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 29 Jan 2019 16:57:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1548772503#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Тренер хоккейной команды реанимировал игрока после неудачного силового приема (ВИДЕО)
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/29jan2019/orlov.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Тренер нижегородской хоккейной команды &#34;Союз&#34; Иван Орлов в воскресенье во время матча в рамках Федеральной хоккейной лиги против ХК &#34;НБД Банк&#34; в городе Кстово сумел вернуть к жизни одного из своих подопечных. ...
+                        ]]></description>
+  <pubDate>Tue, 29 Jan 2019 17:05:58 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1548772503#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Германии в 2018 году возобновляемые источники энергии во главе с ветром обеспечили больше энергии, чем уголь
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/438012/?utm_campaign=438012</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 29 Jan 2019 16:20:41 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1548772503#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  30 января Президент проведёт очередное совещание с членами Правительства
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/press/announcements/59747</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Tue, 29 Jan 2019 15:39:12 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1548772503#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Обвал рубля и ключевая ставка в 15%: эксперты предрекли России трудный год
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/251/economy/finance/212443-obval-rubla-i-klucevaa-stavka-v-15-eksperty-predrekli-rossii-trudnyj-god</link>
+  <description><![CDATA[
+                        В 2018 году российская национальная валюта упала в цене на 21%, заняв последнее место в рейтинге по стабильности. Нынешний год обещает стать еще более сложным из-за надвигающегося мирового экономического кризиса и вероятных новых антироссийских санкций. ...
+                        ]]></description>
+  <pubDate>Tue, 29 Jan 2019 16:46:01 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1548772503#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  29.01.2019 17:04 : Минюст разъяснил обстоятельства, при которых коррупция не будет считаться правонарушением
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2361181-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+В Минюсте попытались объяснить, что это за «обстоятельства непреодолимой силы», при которых коррупция не будет считаться правонарушением.  
+
+Согласно готовящемуся законопроекту, антикоррупционное законодательство необходимо смягчить для тех чиновников, которые не могли соблюсти запреты и ограничения по объективным причинам. Об этом сообщили ТАСС в пресс-службе министерства. Например, не всегда имеется возможность принимать меры по предотвращению и урегулированию конфликта интересов. В том чис ...
+                        ]]></description>
+  <pubDate>Tue, 29 Jan 2019 17:04:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1548772503#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Жертвами протестов в Венесуэле стали более 40 человек
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/648278</link>
+  <description><![CDATA[
+                        Антиправительственные протесты и беспорядки, которые начались в Венесуэле на прошлой неделе, унесли жизни свыше 40 человек, сообщили во вторник в управлении верховного комиссара ООН по правам человека (УВКПЧ). ...
+                        ]]></description>
+  <pubDate>Tue, 29 Jan 2019 17:18:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1548772503#48</guid>
+ </item>
+  </channel>
+ </rss>

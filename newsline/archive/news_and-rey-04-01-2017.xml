@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 04 Jan 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Wed, 04 Jan 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Выпуск видеоновостей Радио Свобода
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28213534.html</link>
+  <description><![CDATA[
+                        Выпуск видеоновостей Радио Свобода ...
+                        ]]></description>
+  <pubDate>Wed, 04 Jan 2017 17:00:00 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1483540501#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Источник объяснил, почему аэропорт Калининграда не открывают после ЧП - РИА Новости
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNFludyGoGJ1mDcNXcdP6QOgByLpBA&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779935752427&amp;ei=GAhtWNCXJ8z96QSN1bSADg&amp;url=https://ria.ru/incidents/20170104/1485151424.html</link>
+  <description><![CDATA[
+                        МОСКВА, 4 янв — РИА Новости. В калининградском аэропорту Храброво, где ранее самолет А320 выкатился за пределы взлетно-посадочной полосы, нет необходимой спецтехники для эвакуации воздушного суда, сообщил РИА Новости источник в экстренных службах. ПассажирскийВ ... ...
+                        ]]></description>
+  <pubDate>Wed, 04 Jan 2017 16:40:24 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1483540501#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В прошлом году Грузия увеличила экспорт вина на 38%, поставки в РФ выросли почти в 1,5 раза
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/04jan2017/wineexportge.html?rss</link>
+  <description><![CDATA[
+                        Об том в среду объявило Национальное агентство вина Минсельхоза республики. По данным ведомства, в 2016 году экспорт грузинского вина осуществлялся на рынки 53 стран. Выручка от его реализации увеличилась на 16% - до 113,8 млн долларов. ...
+                        ]]></description>
+  <pubDate>Wed, 04 Jan 2017 17:07:00 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1483540501#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Из песочницы] Как я домофон Vizit к mqtt подключал
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/284302/</link>
+  <description><![CDATA[
+                        Всем, доброе время суток. Первое января, заняться нечем, вот и решил накатать статью на Гиктаймс. В связи с переездом в другую квартиру появилась такая опция как домофон. Всё бы ничего, но бегать и открывать дверь всем пришедшим очень напрягало, а так как телефоны, планшеты, компьютеры находятся всегда в шаговой доступности, только руку протяни, было решено подключить это благо к уже работающей системе автоматизации iobroker. Ниже опишу, что с этого получилось.
+
+Собран на скорую руку из того что ...
+                        ]]></description>
+  <pubDate>Wed, 04 Jan 2017 13:14:07 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes</source>
+  <guid isPermaLink="false">1483540501#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Подписан Указ о назначении судей федеральных судов и о представителях Президента в квалификационных коллегиях судей
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/acts/news/53700</link>
+  <description><![CDATA[
+                        Владимир Путин подписал Указ «О назначении судей федеральных судов и о представителях Президента
+Российской Федерации в квалификационных коллегиях судей субъектов Российской
+Федерации».    ...
+                        ]]></description>
+  <pubDate>Wed, 04 Jan 2017 13:13:43 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1483540501#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Председатель ОБСЕ назвал прекрашение огня в Донбассе основой для местных выборов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/authority/foreign/2017/01/04/Pryedsyedatyel_OBSYE.phtml</link>
+  <description><![CDATA[
+                        Председатель ОБСЕ, министр европейских, интеграционных и иностранных дел Австрии Себастьян Курц заявил, что основой для проведения честных и свободных выборов в Донбассе должно стать полноценное прекращение огня. ...
+                        ]]></description>
+  <pubDate>Wed, 04 Jan 2017 11:49:03 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1483540501#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  04.01.2017 17:31 : Правоохранители отпустили задержанных во время одиночных пикетов в поддержку Ильдара Дадина
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1904098-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Все шесть человек уже покинули здание ОВД «Якиманка». Один из них отказался подписывать протокол о нарушении порядка проведения публичных мероприятий.  
+
+Акции прошли сегодня у здания Федеральной службы исполнения наказаний. Участники пикетов выступили против пыток, а также потребовали раскрыть местонахождение оппозиционного активиста Ильдара Дадина, о судьбе которого ничего не известно больше месяца — с тех пор, как его решили перевести из карельской колонии после жалоб на пытки.
+ ...
+                        ]]></description>
+  <pubDate>Wed, 04 Jan 2017 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1483540501#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Трамп упрекнул демократов в неосмотрительности по части кибербезопасности
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/544101</link>
+  <description><![CDATA[
+                        Избранный президент США Дональд Трамп в очередной раз назвал неосторожность причиной взлома серверов Национального комитета Демократической партии США (DNC). ...
+                        ]]></description>
+  <pubDate>Wed, 04 Jan 2017 16:36:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1483540501#48</guid>
+ </item>
+  </channel>
+ </rss>

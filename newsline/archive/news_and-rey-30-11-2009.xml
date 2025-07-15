@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 30 Nov 2009 17:00:06 +0300</pubDate>
+         <lastBuildDate>Mon, 30 Nov 2009 17:00:06 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Большой адронный коллайдер установил мировой рекорд</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/science/2009/11/091130_lhc_world_record.shtml</link>
+  <description><![CDATA[
+                        В ночь на понедельник на европейском ускорителе удалось разогнать два протонных пучка до энергии, превышающей 1 трлн элекронвольт. ...
+                        ]]></description>
+  <pubDate>Mon, 30 Nov 2009 16:22:53 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1259589606#1</guid>
+ </item>
+ <item>
+  <title>Прокуратура: Больной свиным гриппом умер из-за отказа в медпомощи</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/Law/m.162890.html</link>
+  <description><![CDATA[
+                        Прокуратура Карелии провела проверку по факту смерти жителя Петрозаводска, вызванной осложнением после гриппа А/Н1N1. Как сообщает сайт прокуратуры, в результате было установлено, что 
+летальный исход стал следствием несвоевременного  оказания медицинской помощи. ...
+                        ]]></description>
+  <pubDate>Mon, 30 Nov 2009 16:31:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1259589606#2</guid>
+ </item>
+ <item>
+  <title>Гондурас выбирает Лобо в надежде выйти из кризиса </title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/latamerica/20091130/156766150.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 30 Nov 2009 16:57:50 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1259589606#3</guid>
+ </item>
+ <item>
+  <title>Медведев предложил переутвердить Жилкина на посту губернатора Астраханской области  </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091130/17/17.html?id=1891286</link>
+  <description><![CDATA[
+                        В законодательное собрание Астраханской области внесена кандидатуру действующего губернатора Александра Жилкина для наделения полномочиями на новый губернаторский срок.  Соответствующий документ местным парламентарием представил в понедельник президент России Дмитрий Медевдев.   Жилкин возглавляет Астраханскую область с декабря 2004 года. ...
+                        ]]></description>
+  <pubDate>Mon, 30 Nov 2009 16:43:08 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1259589606#4</guid>
+ </item>
+ <item>
+  <title> В Калининграде молодым всходам не хватает подпитки</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/30Nov2009/welt/kaliningrad.html</link>
+  <description><![CDATA[
+                        Превращение Калининграда в особую экономическую зону в 1996 году было необходимо для того, чтобы поставить регион на ноги. С 2005 года эксклав стал демонстрировать позитивный баланс. Кризис остановил регион на полпути - ему необходимы инвесторы. ...
+                        ]]></description>
+  <pubDate>Mon, 30 Nov 2009 16:51:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1259589606#5</guid>
+ </item>
+ <item>
+  <title>К российской армии со вторника приставят военную полицию</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/30nov2009/police.html</link>
+  <description><![CDATA[
+                        Как ожидается, 1 декабря соответствующий приказ подпишет министр обороны России. Новый институт формируется для борьбы с правонарушениями. На 1 млн военных придется порядка 5 тыс. сотрудников полиции. При этом в армии до сих пор не решена проблема бывших уголовников. ...
+                        ]]></description>
+  <pubDate>Mon, 30 Nov 2009 16:57:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1259589606#6</guid>
+ </item>
+ <item>
+  <title>В петербургском метро не обнаружили взрывных устройств</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/11/30/n_1430259.shtml</link>
+  <description><![CDATA[
+                        Станция метро "Девяткино" в Санкт-Петербурге, закрытая из-за подозрительной сумки, открыта для пассажиров в 16.20. Как сообщает "Фонтанка.Ru" со ссылкой на пресс-службу петербургского метрополитена, ... ...
+                        ]]></description>
+  <pubDate>Mon, 30 Nov 2009 16:46:05 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1259589606#7</guid>
+ </item>
+ <item>
+  <title>Вышла четвертая бета-версия Firefox 3.6</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/775431b/l/0L0Ssecuritylab0Bru0Cnews0C3882390Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Mozilla выпустила уже четвертую бета-версию Firefox 3.6, в которой, как и в предыдущих тестовых сборках браузера, вышедших за последние несколько недель, было исправлено огромное количество ошибок &#40;более 140 в текущей версии&#41;. ...
+                        ]]></description>
+  <pubDate>Mon, 30 Nov 2009 13:37:35 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1259589606#8</guid>
+ </item>
+ <item>
+  <title>Путин потребовал строить ракеты</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/defence/2009/11/30/Putin_potryeboval_st.phtml</link>
+  <description><![CDATA[
+                        На совещании по вопросам ОПК в Коломне премьер-министр России Владимир Путин сообщил об успехах ОПК и особенно ракетостроения в этом году, но добавил, что в следующем предстоит сделать еще больше. Также он распорядся решить вопрос с жильем для рабочих крупнейшего разработчика двигателей для ракет-носителей НПО «Энергомаш». ...
+                        ]]></description>
+  <pubDate>Mon, 30 Nov 2009 16:50:40 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1259589606#9</guid>
+ </item>
+ <item>
+  <title>Премьер-министр Италии Сильвио Берлускони прибыл сегодня в Минск с официальным визитом</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/638037-echo.html</link>
+  <description><![CDATA[
+                        
+                         За последние несколько лет это первый лидер страны-члена Евросоюза, посетивший Белоруссию...
+                          ...
+                        ]]></description>
+  <pubDate>Mon, 30 Nov 2009 16:32:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1259589606#10</guid>
+ </item>
+ <item>
+  <title>Компьютер с двумя мышками</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/263236/#new</link>
+  <description><![CDATA[
+                        <img src=http://img.youtube.com/vi/Xt67LwECrbQ/2.jpg><br /><br />Очень просто  -  одна мышка в правой руке, другая в левой, на экране  -  два независимых курсора.<br />
+Короче, будущее вновь наступило! ...
+                        ]]></description>
+  <pubDate>Mon, 30 Nov 2009 15:00:00 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1259589606#11</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 07 Jul 2019 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sun, 07 Jul 2019 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Россияне впервые выиграли чемпионат мира по пляжному волейболу
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-48901877</link>
+  <description><![CDATA[
+                        Россияне Олег Стояновский и Вячеслав Красильников выиграли в финале чемпионата мира по пляжному волейболу в Гамбурге. ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jul 2019 17:00:17 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1562510101#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российские спортсмены впервые в истории выиграли чемпионат мира по пляжному волейболу
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/07/07/rossiyskie-sportsmeny-vpervye-v-istorii-vyigrali-chempionat-mira-po-plyazhnomu-voleybolu</link>
+  <description><![CDATA[
+                        Россияне Вячеслав Красильников и Олег Стояновский завоевали золотые медали чемпионата мира по пляжному волейболу, проходившему в Гамбурге. ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jul 2019 17:16:54 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1562510101#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Почему на обложке Paris Match Николя Саркози выше ростом, чем Карла Бруни
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/05Jul2019/lexpress/sarko.html?utm_source=rss</link>
+  <description><![CDATA[
+                        На обложке Paris Match Николя Саркози ростом 1,66 м уверенно возвышается над своей женой, бывшей моделью Карлой Бруни-Саркози ростом 1,75 м. Интернет стал немедленно подшучивать над еженедельником, обвиняя его в ретушировании фотографии.  ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jul 2019 18:55:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1562510101#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Храмы псковских зодчих вошли в Список всемирного наследия ЮНЕСКО
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30041635.html</link>
+  <description><![CDATA[
+                        Кроме храмов в список также попали другие постройки псковской школы зодчества ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jul 2019 16:34:23 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1562510101#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Кузнецова рассказала о состоянии избитой девочки из Ингушетии - Аргументы и факты
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.aif.ru/society/kuznecova_rasskazala_o_sostoyanii_izbitoy_devochki_iz_ingushetii</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jul 2019 16:47:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1562510101#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Власти Ирана пригрозили поднять уровень обогащения урана "до любого уровня"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/07jul2019/iranevery60ds.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Об этом заявил в воскресенье на пресс-конференции в Тегеране представитель Организации по атомной энергии Ирана. Ранее замминистра иностранных дел страны Аббас Арагчи заявил, что Иран с 7 июля каждые 60 дней будет отказываться от части обязательств по ядерной сделке. ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jul 2019 16:42:24 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1562510101#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Немного про Google Home Hub, или как я купил фоторамку за 130 Евро
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/459084/?utm_campaign=459084&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jul 2019 15:19:17 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1562510101#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Обращение по случаю 45-летия с начала строительства БАМа
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/60946</link>
+  <description><![CDATA[
+                        В 45-ю годовщину со дня подписания постановления ЦК КПСС и Совета министров СССР
+«О строительстве Байкало-Амурской железнодорожной магистрали» Владимир Путин
+обратился к строителям, добровольцам и жителям бамовских городов и посёлков.      ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jul 2019 11:42:20 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1562510101#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Порошенко начал рекламную кампанию своей партии в ПАСЕ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/285/world/politics/220300-porosenko-nacal-reklamnuu-kampaniu-svoej-partii-v-pase</link>
+  <description><![CDATA[
+                        Партия «Европейская солидарность» экс-президента Украины Петра Порошенко подготовила очередную петицию в ПАСЕ, протестующую против восстановления России в правах в Совете Европы. Эксперты уверены, что никаких шансов такая петиция не имеет, а сам Порошенко пытается поднять популярность партии накануне парламентских выборов в раду. ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jul 2019 15:55:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1562510101#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  07.07.2019 17:04 : На досрочных парламентских выборах в Греции лидирует оппозиционная партия «Новая демократия» Кириакоса Мицотакиса
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2459429-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+На досрочных парламентских выборах в Греции лидирует оппозиционная партия «Новая демократия» Кириакоса Мицотакиса. Согласно опросам на выходе с избирательных участков, она набирает более 40 процентов голосов. У правящей «Сиразы» около 30 процентов. <br>
+Сам Мицотакис считает, что у его партии  есть реальный шанс победить. 
+
+Досрочные выборы в Греции потребовались после сокрушительного поражения «Сиразы» на выборах в Европарламент.
+ ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jul 2019 17:04:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1562510101#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Глава Курганской области попросил подключить "Курганмашзавод" к нацпроектам
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/668221</link>
+  <description><![CDATA[
+                        Практически вся загрузка производства ПАО "Курганмашзавод" обеспечена контрактами гособоронзаказа, сообщил в воскресенье врио губернатора Курганской области Вадим Шумков. ...
+                        ]]></description>
+  <pubDate>Sun, 07 Jul 2019 17:23:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1562510101#48</guid>
+ </item>
+  </channel>
+ </rss>

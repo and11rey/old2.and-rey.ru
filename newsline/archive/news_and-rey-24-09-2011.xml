@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 24 Sep 2011 17:00:04 +0400</pubDate>
+         <lastBuildDate>Sat, 24 Sep 2011 17:00:04 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Дмитрий Медведев возглавит список "Едра" на выборах
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2011/09/110924_russia_parties_day.shtml</link>
+  <description><![CDATA[
+                        Президент Дмитрий Медведев принял предложение премьер-министра Владимира Путина возглавить предвыборный список правящей партии "Единая Россия". ...
+                        ]]></description>
+  <pubDate>Sat, 24 Sep 2011 13:18:27 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1316869204#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Путин подтвердил намерение баллотироваться в президенты
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/Election/m.191694.html</link>
+  <description><![CDATA[
+                        Владимир Путин согласился баллотироваться в президенты России на выборах 4 марта 2012 года. Об этом он объявил на съезде "Единой России", ответив согласием на предложение Дмитрия Медведева. Медведев возглавил список партии на выборах в Госдуму. Путин выразил надежду, что после его победы на президентских выборах действующий президент возглавит правительство России. Медведев это предложение принял. ...
+                        ]]></description>
+  <pubDate>Sat, 24 Sep 2011 15:42:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1316869204#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В 2012 году Путин и Медведев поменяются ролями
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/politic/20110924/175090135.html</link>
+  <description><![CDATA[
+                        В своем выступлении перед собравшимися на съезде правящей партии «Единая Россия» нынешний российский президент Дмитрий Медведев предложил, чтобы Владимир Путин выставил свою кандидатуру на президентских выборах, а нынешний премьер-министр Владимир Путин предложил Дмитрию Медведеву занять пост премьер-министра. ...
+                        ]]></description>
+  <pubDate>Sat, 24 Sep 2011 16:29:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1316869204#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Суд в Москве арестовал Удальцова на трое суток
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20110924/17/17.html?id=24338782</link>
+  <description><![CDATA[
+                        Тверской суд Москвы в субботу приговорил координатора движения "Левый фронт" Сергея Удальцова к трем суткам ареста за участие в несанкционированной акции. 
+ 
+Оппозиционер намерен опротестовать это решение и объявить голодовку. Это уже пятый арест Удальцова в этом году. 
+ 
+В пятницу оппозиционеры намеревались собраться у Гостиного двора, где проходил съезд партии "Единая Россия", и потребовать отмены выборов в Госдуму, назначенных на 4 декабря. Однако полиция акцию ... ...
+                        ]]></description>
+  <pubDate>Sat, 24 Sep 2011 16:51:00 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1316869204#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Собянин: Работа над техзаданием по развитию Москвы подходит к концу
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/feedproxy.google.com/~r/rosbalt/~3/PH-XTIFDD2A/story01.htm</link>
+  <description><![CDATA[
+                        Техническое задание для проведения международного конкурса на разработку концепции развития московской агломерации будет готово уже в течение двух-трех недель, сообщил журналистам в субботу мэр Москвы Сергей Собянин. По его словам, соответствующее решение было принято сегодня на первом заседании рабочей группы по выработке предложений, связанных с изменением места нахождения государственных органов, созданием и развитием инфраструктуры международного финансового центра на территориях, предлагаем ...
+                        ]]></description>
+  <pubDate>Sat, 24 Sep 2011 16:46:00 +0400</pubDate>
+  <source url="http://feeds2.feedburner.com">Информационное агентство Росбалт</source>
+  <guid isPermaLink="false">1316869204#38</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Активист Удальцов приговорен к аресту за протест у съезда "ЕР" и объявил голодовку
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/24sep2011/udaltsov.html</link>
+  <description><![CDATA[
+                        Координатор "Левого фронта" приговорен к трем суткам административного ареста. Все предъявленные им доводы о незаконности его задержания "не были приняты во внимание", утверждает Удальцов. ...
+                        ]]></description>
+  <pubDate>Sat, 24 Sep 2011 16:55:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1316869204#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Visual Studio / Как проверить приложение на соответствие архитектуре слоев
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/blogs/vs/129073/</link>
+  <description><![CDATA[
+                        Любому разработчику известен архитектурный шаблон слоев. При всей его незамысловатости он позволяет эффективно прятать реализацию и абстрагировать компоненты разного уровня. Слои нижнего уровня могут изменяться без особого риска испортить работу приложения, облегчен рефакторинг. Единственное очевидное условие, которое вы должны соблюдать – это придерживаться принятой архитектуры. Но иногда бывает, что программист нет-нет да и соблазняется вызвать пару методов «через голову». Например из слоя инт ...
+                        ]]></description>
+  <pubDate>Sat, 24 Sep 2011 13:35:28 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1316869204#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Эксперты: В.Путин доказал, что он гений политической интриги - РБК - RBC.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNHCaSTKHsECST-E2FBc5ID78S3XUg&amp;url=http://top.rbc.ru/politics/24/09/2011/617201.shtml</link>
+  <description><![CDATA[
+                        Политологи рассказали РБК, к чему приведет предложение Дмитрия Медведева Владимиру Путину пойти на президентские выборы, и кто из политиков выиграет в результате этой рокировки. Эксперт Центра политической конъюнктуры Павел Салин считает, что эта изящная комбинация, которая формально на руку и ... ...
+                        ]]></description>
+  <pubDate>Sat, 24 Sep 2011 16:42:49 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1316869204#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Роберт Стуруа согласился сотрудничать с Et Cetera
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/afisha/theatre/2011/09/24/Robyert_Sturua_sogla.phtml</link>
+  <description><![CDATA[
+                        Грузинский режиссер Роберт Стуруа, который был уволен с поста художественного руководителя тбилисского драматического театра им. Руставели, дал согласие на работу с московским театром Et Cetera, а также рассматривает предложение из Англии. ...
+                        ]]></description>
+  <pubDate>Sat, 24 Sep 2011 16:54:03 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1316869204#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  24.09.2011 16:33 : Из всех четырех лидеров парламентских партий пользователи сайта радиостанции "Эха Москвы" выбрали бы президентом России Геннадия Зюганова
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/814802-echo.html</link>
+  <description><![CDATA[
+                        
+Голосование сейчас идет на сайте радиостанции "Эхо Москвы". Лидер КПРФ пока побеждает с результатом более 37%. На втором месте с небольшим отрывом Сергей Миронов, на третьем с 14% Владимир Жириновский. Владимир Путин занимает последнее место – у него 12,5%.
+ ...
+                        ]]></description>
+  <pubDate>Sat, 24 Sep 2011 16:33:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1316869204#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Вересковый пост
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/323540/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2011/09/24/34683-151231-9baf34aad6ae22ce5edecac74ef19bbf.jpg><br /><br />Это красивое и полезное растение оставило свой след в истории тех мест где растет.<br />
+Пчелам вереск дает возможность приготовить для себя и для нас вкусный и полезный вересковый мед. Цветет вереск с августа и до конца октября. Но самый пышный розово-сиреневый цвет укрывает сосновые боры, торфяники и песчаные холмы именно в сентябре. <br />
+На Руси одно из народных названий сентября бы ...
+                        ]]></description>
+  <pubDate>Sat, 24 Sep 2011 15:12:31 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1316869204#34</guid>
+ </item>
+  </channel>
+ </rss>

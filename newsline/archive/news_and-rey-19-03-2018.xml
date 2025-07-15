@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 19 Mar 2018 17:35:01 +0300</pubDate>
+         <lastBuildDate>Mon, 19 Mar 2018 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Выборы в России: сдержанная реакция в мире на победу "бренда Путина"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-43456025</link>
+  <description><![CDATA[
+                        Западные лидеры не торопятся комментировать очередное переизбрание Владимира Путина на пост президента. Обозреватели отмечают приглушенную реакцию в мире на его победу на выборах, а европейская пресса обсуждает, чем обсуловлен высокий процент голосов, полученных Путиным. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Mar 2018 16:54:44 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1521470101#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ЦБ предложил разрешить российским банкам не раскрывать акционеров, находящихся под санкциями
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/03/19/tsb-predlozhil-razreshit-rossiyskim-bankam-ne-raskryvat-aktsionerov-nahodyaschihsya-pod-sanktsiyami</link>
+  <description><![CDATA[
+                        Банк России подготовил проекты постановлений правительства, разрешающие кредитным организациям не раскрывать информацию об акционерах, включенных в санкционные списки. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Mar 2018 16:31:03 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1521470101#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Владимир Переверзин: "У нас нет закона"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/19Mar2018/taz/pereverzin.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Владимир Переверзин работал менеджером в концерне ЮКОС. Когда компания была разгромлена, его приговорили к большому сроку. В интервью Переверзин рассказал о своем опыте в российской тюрьме и о теперешней жизни в Германии. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Mar 2018 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1521470101#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Главы МИД Евросоюза осудили отравление Скрипаля в Великобритании
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29109154.html</link>
+  <description><![CDATA[
+                        18 марта в своих первых высказываниях об отравлении Путин категорически отверг обвинения Британии и заявил, что у России такого оружия нет ...
+                        ]]></description>
+  <pubDate>Mon, 19 Mar 2018 16:09:26 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1521470101#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Рыжего Тарзана отправили в колонию за марш голых проституток в Петербурге
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/lenta.ru/news/2018/03/19/dacik/</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 19 Mar 2018 16:46:11 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1521470101#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российские паралимпийцы вернулись в Москву из Пхенчхана
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/19mar2018/para.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Самолет из Южной Кореи со спортсменами и членами делегации приземлился в московском аэропорту Шереметьево без задержки. Их встречали родные и близкие, болельщики, а также руководство Паралимпийского комитета страны. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Mar 2018 17:27:01 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1521470101#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Из песочницы] Как сделать Push уведомления в браузере Safari на macOS
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/299197/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=299197</link>
+  <description><![CDATA[
+                        Недавно понадобилось внедрить push уведомления в свои веб сервисы, поискав инструкции в интернете нашел много чего для GCM, Firebase и т.д. но ни одной подробной или пошаговой инструкции для браузера Safari (на macOS, не знаю или будет работать в Windows). В принципе, и Firebase в Safari спрашивал разрешение на уведомление, и даже попадал в настройки, но это всего лишь пыль в глаза, т.к. ясное дело что никаких уведомлений от Firebase браузер получать не хотел.
+Делал я все это по вот этой вот инс ...
+                        ]]></description>
+  <pubDate>Mon, 19 Mar 2018 17:02:57 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1521470101#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Форум «Россия – страна возможностей»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/57071</link>
+  <description><![CDATA[
+                        Владимир Путин встретился
+с победителями и финалистами проектов форума «Россия – страна возможностей» и выступил
+на итоговом мероприятии.      ...
+                        ]]></description>
+  <pubDate>Mon, 19 Mar 2018 16:30:23 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1521470101#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Хокинг завершил работу о мультивселенной за несколько дней до смерти
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/282/science/universe/197273-hoking-zaversil-rabotu-o-multivselennoj-za-neskolko-dnej-do-smerti</link>
+  <description><![CDATA[
+                        Британский физик-теоретик Стивен Хокинг успел завершить работу над последней научной статьей, передает The Times. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Mar 2018 17:31:31 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1521470101#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  echo.msk.ru/news/2168522-echo.html
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2168522-echo.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 19 Mar 2018 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1521470101#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Макрон в разговоре с Путиным пожелал России успехов в политической модернизации
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/604303</link>
+  <description><![CDATA[
+                        Президент Франции Эммануэль Макрон в ходе телефонного разговора в понедельник со своим российским коллегой Владимиром Путиным пожелал РФ успехов в модернизации в политике, экономике и ряде других сфер. ...
+                        ]]></description>
+  <pubDate>Mon, 19 Mar 2018 17:06:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1521470101#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 12 Jul 2009 17:00:07 +0400</pubDate>
+         <lastBuildDate>Sun, 12 Jul 2009 17:00:07 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>В Мексике прошла серия нападений на полицейские участки</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/07/090712_mexico_police_attacked.shtml</link>
+  <description><![CDATA[
+                        В результате серии нападений на участки федеральной полиции, проведенной в Мексике неизвестными вооруженными людьми, погибли пять человек. ...
+                        ]]></description>
+  <pubDate>Sun, 12 Jul 2009 12:08:39 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1247403607#1</guid>
+ </item>
+ <item>
+  <title>Спасатели эвакуируют горняков украинской шахты из-за пожара</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/m.153766.html</link>
+  <description><![CDATA[
+                        Эвакуация 399 горняков идет в Луганской области Украины на шахте "Суходольская-Восточная", принадлежащей ОАО "Краснодонуголь". Пожар возник в 11.18 по местному времени на  копре главного ствола. В шахте на момент аварии находилось 339 горняков. ...
+                        ]]></description>
+  <pubDate>Sun, 12 Jul 2009 16:21:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1247403607#2</guid>
+ </item>
+ <item>
+  <title>ИноВидео: Есть женщины в русских селеньях ("Russia Today", Россия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/250621.html</link>
+  <description><![CDATA[
+                        Дочь Мохаммеда Али Лейла кусает локти, когда узнает об успехах, которых добилась Наталья Рогозина. ...
+                        ]]></description>
+  <pubDate>Sat, 11 Jul 2009 15:42:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1247403607#3</guid>
+ </item>
+ <item>
+  <title>В Индии маоисты убили 23 полицейских</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090712/17/17.html?id=1775070</link>
+  <description><![CDATA[
+                        На востоке Индии в результате нападения маоистских повстанцев сегодня убиты 23 полицейских.  Среди погибших - шеф полиции одного из районов штата Чхаттисгарх.  Маоистские повстанцы действуют в нескольких штатах Индии на протяжении последних 20 лет. За это время жертвами их нападений стали более 6 тысяч человек. ...
+                        ]]></description>
+  <pubDate>Sun, 12 Jul 2009 16:50:59 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1247403607#4</guid>
+ </item>
+ <item>
+  <title>"Восьмерки недостаточно", - уверены претенденты на вступление в клуб</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/10Jul2009/nytimes/g8.html</link>
+  <description><![CDATA[
+                        В этом году на юбилейный, 35-й саммит G8 прибыли главы сорока государств. Это и неудивительно: восемь стран больше не могут принимать решения за всех, да и как, например, решать проблемы окружающей среды без таких стран, как Китай и Индия? ...
+                        ]]></description>
+  <pubDate>Fri, 10 Jul 2009 15:50:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1247403607#5</guid>
+ </item>
+ <item>
+  <title>В Мали освобожден швейцарец, проведший полгода в плену у "Аль-Каиды"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/12jul2009/zalo.html</link>
+  <description><![CDATA[
+                        Вернер Грейнер попал в руки боевиков в январе этого года вместе с еще тремя европейцами - немкой, швейцаркой и гражданином Великобритании. В апреле обеих женщин удалось освободить, однако британский турист Эдвин Диер был казнен. ...
+                        ]]></description>
+  <pubDate>Sun, 12 Jul 2009 16:44:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1247403607#6</guid>
+ </item>
+ <item>
+  <title>Солана призвал ООН признать Палестинское государство</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/07/12/n_1381735.shtml</link>
+  <description><![CDATA[
+                        Верховный представитель ЕС по вопросам общей внешней политики и политики в области безопасности Хавьер Солана призвал Совет безопасности ООН официально признать Палестинское государство до определенного срока, даже если Израиль и ... ...
+                        ]]></description>
+  <pubDate>Sun, 12 Jul 2009 16:45:00 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1247403607#7</guid>
+ </item>
+ <item>
+  <title>Руководство КНДР приказало уничтожить южнокорейские интернет-коммуникации</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/382401.php</link>
+  <description><![CDATA[
+                        По данным прессы, исследовательский институт, связанный с Министерством народных вооруженных сил КНДР, получил приказ "уничтожить марионеточные коммуникационные сети Южной Кореи в одно мгновение", передает Associated Press.	 ...
+                        ]]></description>
+  <pubDate>Sun, 12 Jul 2009 06:09:52 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1247403607#8</guid>
+ </item>
+ <item>
+  <title>Жириновский накормит голодающих клубникой</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/party/2009/07/12/ZHirinovskiy_nakormi.phtml</link>
+  <description><![CDATA[
+                        Глава ЛДПР Владимир Жириновский намерен посвятить понедельник сбору и продаже клубники. Согласно замыслу, акция проводится для помощи нуждающимся жителям Москвы. ...
+                        ]]></description>
+  <pubDate>Sun, 12 Jul 2009 16:17:49 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1247403607#9</guid>
+ </item>
+ <item>
+  <title>Архипов В. В. "Накануне Восьмого Дня". Москва - 2001 г.</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/57790/</link>
+  <description><![CDATA[
+                        В публикации рассматриваются темы, которые являются актуальными не только для людей церковных, но и для тех, кто всей душой болеет за наше Отечество, кому небезразлично его настоящее и грядущее. Мы все, независимо от национальностей и вероисповедания, живем на той земле, которую издревле называли Святая Русь. Где проходят границы этого священного пространство, как оно влияет на наш образ жизни, в какие противоречия вступает с окружающим нас мiром? По каким законам движется метаистория Святой Рус ...
+                        ]]></description>
+  <pubDate>Sun, 12 Jul 2009 17:00:12 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1247403607#10</guid>
+ </item>
+ <item>
+  <title>Пост № 256066</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/256066/#new</link>
+  <description><![CDATA[
+                        Рассказа и фотографии как реально выглядел "железный занавес" (не сочтите за саморекламу). ...
+                        ]]></description>
+  <pubDate>Sun, 12 Jul 2009 15:21:35 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1247403607#11</guid>
+ </item>
+  </channel>
+ </rss>

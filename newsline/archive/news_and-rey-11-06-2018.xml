@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 11 Jun 2018 17:35:02 +0300</pubDate>
+         <lastBuildDate>Mon, 11 Jun 2018 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  "Моему мужу 84, и он делает мне макияж"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/media-44371734</link>
+  <description><![CDATA[
+                        Мона и Дез женаты уже 56 лет. После того как Мона начала терять зрение, Дез научился делать ей макияж. Он пошел на курсы профессонального визажиста. ...
+                        ]]></description>
+  <pubDate>Mon, 11 Jun 2018 16:21:54 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1528727702#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Только славянам. Дискриминация в России есть, но доказать ее в суде почти невозможно
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/feature/2018/06/11/tolko-slavyanam</link>
+  <description><![CDATA[
+                        Российские адвокаты и правозащитники, хотя бы раз столкнувшиеся с попыткой доказать дискриминацию по полу, возрасту, сексуальной ориентации или национальности, признают, что выиграть такое дело практически невозможно. Чаще всего суды отказывают истцам или, в лучшем случае, удовлетворяют их иски частично. «Медуза» рассказывает, как россияне пытаются бороться с дискриминацией в суде — и почему это мало у кого получается. ...
+                        ]]></description>
+  <pubDate>Mon, 11 Jun 2018 16:23:13 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1528727702#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Прокуратура обвиняет главу Audi в мошенничестве
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/11Jun2018/spiegel/audi.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Дизельный скандал дошел теперь и лично до главы Audi: Руперт Штадлер и еще один член совета директоров компании находятся в статусе обвиняемых с 30 мая, сообщила прокуратура Мюнхена. Руководителей обвиняют в мошенничестве и должностном подлоге. ...
+                        ]]></description>
+  <pubDate>Mon, 11 Jun 2018 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1528727702#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Тбилиси задержаны десять оппозиционеров, в том числе депутат парламента
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29283608.html</link>
+  <description><![CDATA[
+                        На проспекте Руставели, в центре Тбилиси, в течении всего дня в понедельник происходили стычки между демонстрантами и полицией ...
+                        ]]></description>
+  <pubDate>Mon, 11 Jun 2018 17:16:28 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1528727702#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Испания примет более 600 нелегалов, отвергнутых Италией и Мальтой
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/616597</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 11 Jun 2018 16:47:33 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1528727702#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Таллине за долги арестовали российский грузовой паром
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/11jun2018/ferryestonia.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Паром Petersburg, принадлежащий компании Black Sea Ferry & Investments, был арестован в порту Пальяссааре, где судно находится с конца апреля. Еще один паром компании арестовали в Усть-Луге. ...
+                        ]]></description>
+  <pubDate>Mon, 11 Jun 2018 17:01:43 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1528727702#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  12 июня 2018 года в Кремле состоится церемония вручения государственных премий Российской Федерации
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/press/announcements/57727</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Mon, 11 Jun 2018 14:02:25 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1528727702#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Стали известны подробности встречи Трампа и Ким Чен Ына
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/130/world/politics/204856-stali-izvestny-podrobnosti-vstreci-trampa-i-kim-cen-yna</link>
+  <description><![CDATA[
+                        Саммит президента США Дональда Трампа и лидера КНДР Ким Чен Ына начнется с их личного общения только в присутствии переводчиков. ...
+                        ]]></description>
+  <pubDate>Mon, 11 Jun 2018 17:18:06 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1528727702#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  11.06.2018 17:05 : Европарламент обсудит вопрос о призыве к бойкоту чемпионата мира по футболу
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2219536-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Депутаты собираются внести такой пункт в резолюцию по правам человека в России. Как сообщает  Радио Свобода, речь идет о дипломатическом бойкоте первенства в России. Саму резолюцию, по данным источника радиостанции, должны принять в четверг, когда стартует чемпионат.
+ ...
+                        ]]></description>
+  <pubDate>Mon, 11 Jun 2018 17:05:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1528727702#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  У московского метро появилось новое электродепо "Лихоборы"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/moscow/616598</link>
+  <description><![CDATA[
+                        Мэр Москвы Сергей Собянин открыл в понедельник электродепо "Лихоборы" Люблинско-Дмитровской линии метрополитена. ...
+                        ]]></description>
+  <pubDate>Mon, 11 Jun 2018 17:07:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1528727702#48</guid>
+ </item>
+  </channel>
+ </rss>

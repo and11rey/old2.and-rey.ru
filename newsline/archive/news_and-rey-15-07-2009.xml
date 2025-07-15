@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 15 Jul 2009 17:00:09 +0400</pubDate>
+         <lastBuildDate>Wed, 15 Jul 2009 17:00:09 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Израильскую армию обвиняют ее же солдаты</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/multimedia/2009/07/090715_v_gaza_crimes.shtml</link>
+  <description><![CDATA[
+                        Правозащитники публикуют обвинения в нарушении прав палестинцев в ходе боев в Газе. Обвинения основаны на свидетельствах военнослужащих Израиля. ...
+                        ]]></description>
+  <pubDate>Wed, 15 Jul 2009 16:15:43 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1247662809#1</guid>
+ </item>
+ <item>
+  <title>В Чечне похищена правозащитница Наталья Эстемирова</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/War/Chechnya/m.153945.html</link>
+  <description><![CDATA[
+                        В Грозном похищена Наталья Эстемирова, сотрудница правозащитного центра "Мемориал", лауреат премии имени Анны Политковской и других международных наград за вклад в борьбу за права человека. Ранее ее работой неоднократно выражали недовольство власти Чечни. ...
+                        ]]></description>
+  <pubDate>Wed, 15 Jul 2009 16:27:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1247662809#2</guid>
+ </item>
+ <item>
+  <title>ИноВидео: Ленин в центре Нью-Йорка ("Russia Today", Россия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/250739.html</link>
+  <description><![CDATA[
+                        Нью-Йорк - денежный центр мира. Тем более невероятным кажется присутствие здесь, на Манхэттене, статуи Владимира Ленина. ...
+                        ]]></description>
+  <pubDate>Wed, 15 Jul 2009 16:50:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1247662809#3</guid>
+ </item>
+ <item>
+  <title>Владимир Некрасов и Сергей Шнайдер оставлены под стражей до 26 июля</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090715/17/17.html?id=1777488</link>
+  <description><![CDATA[
+                        Московский городской суд оставил под стражей до 26 июля экс-владельца компании "Арбат-престиж" Владимира Некрасова и предпринимателя Сергея Шнайдера, известного как Семен Могилевич. Ранее суд первой инстанции вернул дело Некрасова и Шнайдера в прокуратуру - для устранения нарушений - и отверг просьбу защиты выпустить обвиняемых под залог. Некрасов и Шнайдер, обвиняемые в уклонении от уплаты налогов, были задержаны в Москве в январе прошлого года. Шнайдер до этого более 15 лет ... ...
+                        ]]></description>
+  <pubDate>Wed, 15 Jul 2009 16:31:14 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1247662809#4</guid>
+ </item>
+ <item>
+  <title>Глава ВОЗ: Вакцина от свиного гриппа появится только через несколько месяцев</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/15Jul2009/guardian/vaccine.html</link>
+  <description><![CDATA[
+                        "Вакцины нет. В августе вакцина будет. Но наличие доступной вакцины - это не то же самое, что наличие вакцины, доказавшей свою безопасность. Данные клинических испытаний появятся только через два-три месяца", - заявила гендиректор ВОЗ Маргарет Чен. ...
+                        ]]></description>
+  <pubDate>Wed, 15 Jul 2009 15:58:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1247662809#5</guid>
+ </item>
+ <item>
+  <title>Медведев говорил с муфтиями о веротерпимости, строительстве мечети в Сочи и обещал помочь с мясом</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/religy/15jul2009/mosmosque2.html</link>
+  <description><![CDATA[
+                        Дмитрий Медведев посетил сегодня Московскую соборную мечеть. Для главы государства организовали небольшую экскурсию, показали историческое здание мусульманского храма и ознакомили с планами строительства нового комплекса. Затем состоялась встреча с представителями духовенства. ...
+                        ]]></description>
+  <pubDate>Wed, 15 Jul 2009 17:00:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1247662809#6</guid>
+ </item>
+ <item>
+  <title>Бомба на Черкизовском рынке не обнаружена</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/07/15/n_1382918.shtml</link>
+  <description><![CDATA[
+                        Милиционеры не обнаружили в среду днем на Черкизовском рынке никаких взрывных устройств и других опасных предметов, о которых сообщал "телефонный террорист", сказал представитель столичного ГУВД.
+Телефонное сообщение о якобы ... ...
+                        ]]></description>
+  <pubDate>Wed, 15 Jul 2009 16:48:29 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1247662809#7</guid>
+ </item>
+ <item>
+  <title>В Израиле запретили операторам блокировать Skype</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/382547.php</link>
+  <description><![CDATA[
+                        Минсвязи Израиля обязало операторов не ограничивать доступ пользователей к сети интернет.	 ...
+                        ]]></description>
+  <pubDate>Wed, 15 Jul 2009 15:00:00 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1247662809#8</guid>
+ </item>
+ <item>
+  <title>Гусев появится в «Катюше» только в 2010 году</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/sport/summer/2009/07/15/Gusyev_poyavitsya_v_.phtml</link>
+  <description><![CDATA[
+                        Российская велокоманда "Катюша" подпишет контракт с многократным чемпионом России по велоспорту Владимиром Гусевым в начале 2010 года. Нынешний сезон гонщик завершит в испанской или итальянской команде. ...
+                        ]]></description>
+  <pubDate>Wed, 15 Jul 2009 16:42:27 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1247662809#9</guid>
+ </item>
+ <item>
+  <title>В Беларуси патриотические "юные дзержинцы" заменят октябрят и пионеров</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/57891/</link>
+  <description><![CDATA[
+                        В Беларуси патриотические "юные дзержинцы" заменят октябрят и пионеров ...
+                        ]]></description>
+  <pubDate>Wed, 15 Jul 2009 15:22:00 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1247662809#10</guid>
+ </item>
+ <item>
+  <title>Main Rules!</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/256204/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/07/15/26148-162920-446ea6ba3d34f65de15b3c9ccd667f81.jpg><br /><br />  ...
+                        ]]></description>
+  <pubDate>Wed, 15 Jul 2009 16:29:20 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1247662809#11</guid>
+ </item>
+  </channel>
+ </rss>

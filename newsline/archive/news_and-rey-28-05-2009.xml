@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 28 May 2009 17:00:08 +0400</pubDate>
+         <lastBuildDate>Thu, 28 May 2009 17:00:08 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Самые опасные животные на Земле</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/multimedia/2009/05/090528_deadliest_creatures.shtml</link>
+  <description><![CDATA[
+                        Все эти животные для человека могут не представлять опасности, бояться стоит их "соседям" по среде обитания. ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2009 16:29:14 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1243515608#1</guid>
+ </item>
+ <item>
+  <title>Березовский: Россия превратилась в чрезвычайно агрессивное государство</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/World/Europe/Ukraine/m.151689.html</link>
+  <description><![CDATA[
+                        Россия может реализовать сценарий отторжения ряда территорий от Украины, как это произошло с Грузией в августе 2008 года, заявил находящийся в эмиграции предприниматель Борис Березовский. По его словам, Россия превратилась в чрезвычайно агрессивное государство. ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2009 16:22:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1243515608#2</guid>
+ </item>
+ <item>
+  <title>После событий 7 апреля ПКРМ трудно получить 'золотой голос' оппозиции ("Евразийский Дом", Россия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/249458.html</link>
+  <description><![CDATA[
+                        Очень сложно сегодня говорить о возможности 'привлечения' молдавской оппозиции на сторону коммунистов. Вероятность такого сценария очень мала, особенно после выборов 2005 года, когда Коммунистическая партия доказала, что она неспособна ни к демократическому правлению, ни к политическим компромиссам. ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2009 16:27:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1243515608#3</guid>
+ </item>
+ <item>
+  <title>Россия пока не предоставит Белоруссии первый транш кредита</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1741681.html</link>
+  <description><![CDATA[
+                        Рост внешнего долга Белоруссии может привести к ее неплатежеспособности в конце 2009 - начале 2010 года, заявил журналистам министр финансов России Алексей Кудрин перед заседанием Совета министров Союзного государства России и БелоруссииПо словам Куд ... ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2009 16:54:19 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1243515608#4</guid>
+ </item>
+ <item>
+  <title>Дети Берлускони заступились за "папочку" в ходе скандала с Ноэми Летицией</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/28May2009/times/papi.html</link>
+  <description><![CDATA[
+                        За отца заступилась старшая дочь Берлускони, Марина, которая занимает высокую должность в его медиа-империи. Барбара, Элеонора и Луиджи - дети Берлускони от второго брака - поддержали ее: "Мы воспитывались в добропорядочной семье". ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2009 16:52:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1243515608#5</guid>
+ </item>
+ <item>
+  <title>Таможенники задержали группу военных, пытавшихся вывезти 20 тонн секретных комплектующих к ЗРК</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/28may2009/zrk.html</link>
+  <description><![CDATA[
+                        Всего изъято 65 наименований комплектующих к ЗРК "С-75", "С-125", "С-200" и "С-300". Из них более 40 предметов имеют гриф "секретно". Их намеревались вывезти в Белоруссию, Украину, Болгарию и Казахстан. В составе группы контрабандистов - бывшие и действующие военные. ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2009 16:58:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1243515608#6</guid>
+ </item>
+ <item>
+  <title>На пост главы Одинцовского района может выдвинуться Борис Надеждин</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/05/28/n_1366590.shtml</link>
+  <description><![CDATA[
+                        Председатель Московского областного отделения партии "Правое дело" Борис Надеждин не исключает, что его партия примет участие в выборах главы Одинцовского района Московской области. В том числе Надеждин не исключает своего ... ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2009 16:50:08 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1243515608#7</guid>
+ </item>
+ <item>
+  <title>Минкомсвязи объявило о создании совета по вопросам использования и развития Интернета</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/380425.php</link>
+  <description><![CDATA[
+                        Соответствующий приказ был подписан 27 мая министром Игорем Щеголевым, который стал председателем вновь образованного органа. 	 ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2009 13:58:30 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1243515608#8</guid>
+ </item>
+ <item>
+  <title>Лидер националистов Поткин получил полтора года условно</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/incident/2009/05/28/165047.html</link>
+  <description><![CDATA[
+                        В Дорогомиловском районном суде вынесен приговор создателю и бывшему лидеру Движения Против Нелегальной Иммиграции (ДПНИ) Александру Поткину (Белову).  По решению суда Поткин приговорен к 1,5 годам условного заключения с испытательным сроком в 2 года.  Как сообщает официальный сайт ДПНИ,... ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2009 16:50:47 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1243515608#9</guid>
+ </item>
+ <item>
+  <title>Святитель Николай Сербский: «Сила иудействующих в России не означает их победы»</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/56274/</link>
+  <description><![CDATA[
+                        Еще во времена легковерной Царицы Екатерины русская интеллигенция стала раскалываться на два лагеря. В одном лагере были те, кто вместе с народом хотел, чтобы Россия навсегда осталась Святой Русью, сохранила идеалы христианской святости в каждом человеке и во всем народе. В другом лагере – те, кто хотел, чтобы Россия восприняла идеал земного владычества и земной культуры. ...
+                        ]]></description>
+  <pubDate>Thu, 28 May 2009 17:00:15 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1243515608#10</guid>
+ </item>
+  </channel>
+ </rss>

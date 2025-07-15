@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2008, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 08 Jul 2008 17:00:21 +0400</pubDate>
+         <lastBuildDate>Tue, 08 Jul 2008 17:00:21 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+ <item>
+  <title>Лукашенко уволил главу Совбеза Белоруссии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.bbc.co.uk/go/rss/-/hi/russian/international/newsid_7495000/7495624.stm</link>
+  <description><![CDATA[
+                        Решение об увольнении влиятельного чиновника принято вскоре после взрыва в центре Минска, в результате которого были ранены более 55 человек. ...
+                        ]]></description>
+  <pubDate>Tue, 08 Jul 2008 12:39:08 GMT</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1215522021#1</guid>
+ </item>
+ <item>
+  <title>Судить о силе соперников ЦСКА в Евролиге пока рано - Этторе Мессина</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rian.ru/sport/20080708/113522803.html</link>
+  <description><![CDATA[
+                        "Сложно даже примерно предсказать, какая пара команд не пробьется в Топ-16. Судить о силе соперников слишком рано - надо посмотреть, как закончат комплектование составов "Партизан" и "Паниониос", - заявил тренер БК ЦСКА. ...
+                        ]]></description>
+  <pubDate>Tue, 08 Jul 2008 16:56:25 +0400</pubDate>
+  <source url="http://www.rian.ru">РИА Новости</source>
+  <guid isPermaLink="false">1215522021#2</guid>
+ </item>
+ <item>
+  <title>Операции против людей на Западе. ФСБ сохраняет готовность ("ИноСМИ", Россия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/242454.html</link>
+  <description><![CDATA[
+                        Британская секретная служба считает, что в прошлом году ей удалось предотвратить покушение на жизнь Березовского. Эта предполагаемая попытка покушения на Березовского демонстрирует сохраняющуюся готовность ФСБ планировать операции против людей на Западе. ...
+                        ]]></description>
+  <pubDate>Tue, 08 Jul 2008 12:33:00 GMT</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1215522021#3</guid>
+ </item>
+ <item>
+  <title>В Минске уволены шеф Совбеза и глава президентской администрации</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/News/2008/07/08.html?id=455296</link>
+  <description><![CDATA[
+                        Президент Белоруссии Александр Лукашенко уволил секретаря Совета безопасности Виктора Шеймана и главу президентской администрации Геннадия Невыгласа. В понедельник на совещании с руководителями силовых ведомств президент раскритиковал чиновников за б ... ...
+                        ]]></description>
+  <pubDate>Tue, 08 Jul 2008 16:31:30 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1215522021#4</guid>
+ </item>
+ <item>
+  <title>Решительный человек без царя в голове</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inopressa.ru/wp/2008/07/08/16:22:11/bush</link>
+  <description><![CDATA[
+                        В одном серьезном вопросе за другим Буш показывал себя нерасторопным и недалеким человеком, не способным сделать серьезный выбор или надавить на свою команду, чтобы та оперативнее выполняла его распоряжения. Назовем его нерешительным. ...
+                        ]]></description>
+  <pubDate>Tue, 8 Jul 2008 16:22:11 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1215522021#5</guid>
+ </item>
+ <item>
+  <title>Команда Этторе Мессины узнала соперников по групповому этапу Евролиги</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/08jul2008/group.html</link>
+  <description><![CDATA[
+                        Московский ЦСКА узнал соперников по группе D регулярного чемпионата баскетбольной Евролиги сезона-2008/09 - это "Партизан" (Сербия), "Реал" (Испания), "Эфес Пилсен" (Турция), "Армани Джинс" (Италия) и "Паниониос" (Греция). ...
+                        ]]></description>
+  <pubDate>Tue, 8 Jul 2008 16:54:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1215522021#6</guid>
+ </item>
+ <item>
+  <title>В Аргентине посадили продавца пиратских DVD</title>
+  <link>http://www.and-rey.ru/inc/go3.php/lenta.ru/news/2008/07/08/streetvendor/</link>
+  <description><![CDATA[
+                        Впервые в истории Аргентины торговец пиратскими дисками приговорен к десяти месяцам тюремного заключения. Мужчина был арестован в июне 2005 года. В этот момент в его торговой палатке было 239 пиратских DVD-дисков. Реальный срок обвиняемый получил потому, что ранее он уже был осужден за мелкие преступления. ...
+                        ]]></description>
+  <pubDate>Tue, 08 Jul 2008 16:53:15 +0400</pubDate>
+  <source url="http://img.lenta.ru">Ежедневная интернет-газета Lenta.ru</source>
+  <guid isPermaLink="false">1215522021#7</guid>
+ </item>
+ <item>
+  <title>С 25 по 27 июля  состоится Третий Всероссийский Слет Сисадминов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/355681.php</link>
+  <description><![CDATA[
+                         Всероссийский Слет Сисадминов приурочен к международному Дню системного администратора и проводится ежегодно в последние выходные июля. Цель мероприятия &ndash; общение, обмен опытом и просто хорошее времяпрепровождение. ...
+                        ]]></description>
+  <pubDate>Tue, 08 Jul 2008 13:00:00 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1215522021#8</guid>
+ </item>
+ <item>
+  <title>Лукашенко уволил главу администрации</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/World/Europe/Belarus/m.138565.html</link>
+  <description><![CDATA[
+                        Президент Белоруссии Александр Лукашенко уволил главу администрации президента Геннадия Невыгласа. Ранее в отставку был отправлен глава Совбеза Виктор Шейман, которого Лукашенко назвал главным виновником взрыва во время празднования Дня независимости.  ...
+                        ]]></description>
+  <pubDate>Tue, 08 Jul 2008 16:19:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1215522021#9</guid>
+ </item>
+ <item>
+  <title>Об антироссийской деятельности группы протоиерея Александра Сорокина</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/43910/</link>
+  <description><![CDATA[
+                        В 2000 г., с началом работы администрации Президента В.В. Путина, инициативная группа патриотов-интеллектуалов и представителей бизнес-сообщества Санкт-Петербурга и Москвы разработала политтехнологический проект идеологического укрепления Российского государства посредством взаимовыгодного сотрудничества с самой многочисленной из традиционных конфессий России — Русской Православной Церковью (Московского Патриархата). ...
+                        ]]></description>
+  <pubDate>Tue, 08 Jul 2008 15:57:00 +0300</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1215522021#10</guid>
+ </item>
+ <item>
+  <title>Цитата #397698</title>
+  <link>http://www.and-rey.ru/inc/go3.php/bash.org.ru/quote/397698</link>
+  <description><![CDATA[
+                        Звонит сегодня клиент<br>- У вас можно велосипед такой-то заказать? - а голос жизнерадостный такой и одновременно умиротворенный.<br>- Можно, конечно, данные ваши... так... записал... А куда вести? А когда удобнее всего?<br>- Давайте сегодня, - и чувствуется, что у товарища солнечное настроение.<br>- Можно и сегодня. Во сколько удобно?<br>- А когда хотите... - за голосом слышу песенку какую-то расслабляющую, слова там что-то вроде "саншайн регги".<br>- Так вы скажите как вам лучше.<br>- Да как у ...
+                        ]]></description>
+  <pubDate>Tue, 08 Jul 2008 14:29:14 +0400</pubDate>
+  <source url="http://bash.org.ru">bash.org.ru — Цитатник Рунета</source>
+  <guid isPermaLink="false">1215522021#11</guid>
+ </item>
+   <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+  </channel>
+ </rss>

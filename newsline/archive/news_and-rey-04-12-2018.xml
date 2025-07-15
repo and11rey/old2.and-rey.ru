@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 04 Dec 2018 17:05:01 +0300</pubDate>
+         <lastBuildDate>Tue, 04 Dec 2018 17:05:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Британский веган обвинил работодателя в дискриминации
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/media-46443339</link>
+  <description><![CDATA[
+                        Веган из Британии подал в суд на своего работодателя из-за дискриминации. Джорди Касамитджана утверждает, что его уволили из-за веганских убеждений. ...
+                        ]]></description>
+  <pubDate>Tue, 04 Dec 2018 16:32:05 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1543932301#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  IAAF продлила срок дисквалификации Всероссийской федерации легкой атлетики
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/12/04/iaaf-prodlila-srok-diskvalifikatsii-vserossiyskoy-federatsii-legkoy-atletiki</link>
+  <description><![CDATA[
+                        Международная ассоциация легкоатлетических федераций (IAAF) продлила дисквалификацию Всероссийской федерации легкой атлетики (ВФЛА), введенную в 2015 году из-за допинговых нарушений. ...
+                        ]]></description>
+  <pubDate>Tue, 04 Dec 2018 16:17:03 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1543932301#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Газопровод Путина
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/04Dec2018/sueddeutsche/pipeline.html?utm_source=rss</link>
+  <description><![CDATA[
+                        "Северный поток-2" навредит Украине. Лишившись возможности быть транзитером российского газа, она теряет одну из немногих страховок от российской агрессии. В случае с газопроводом речь идет не только об экономическом, но и о политическом проекте. ...
+                        ]]></description>
+  <pubDate>Tue, 04 Dec 2018 17:05:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1543932301#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  IAAF продлила дисквалификацию российским атлетам
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29637101.html</link>
+  <description><![CDATA[
+                        Спортсмены по-прежнему не смогут выступать под российским флагом ...
+                        ]]></description>
+  <pubDate>Tue, 04 Dec 2018 16:39:46 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1543932301#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В МХАТе имени Горького сменилось руководство — Новости — Эхо Москвы, 04.12.2018 - Радиостанция ЭХО МОСКВЫ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2327333-echo.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 04 Dec 2018 16:00:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1543932301#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Клубы Премьер-лиги проголосовали за внедрение видеоповторов в чемпионате страны
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/04dec2018/var.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Общее собрание клубов Российской Премьер-лиги юридически утвердило использование системы видеопомощи арбитрам (VAR) со следующего сезона. Поручено создать рабочую группу, которая  должна представить отчет по этому вопросу. ...
+                        ]]></description>
+  <pubDate>Tue, 04 Dec 2018 16:51:43 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1543932301#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Подписан Указ о присуждении госпремий за правозащитную и благотворительную деятельность
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/acts/news/59305</link>
+  <description><![CDATA[
+                        Президент подписал Указ «О присуждении Государственной премии Российской Федерации за выдающиеся достижения в области правозащитной деятельности и Государственной премии Российской Федерации за выдающиеся достижения в области благотворительной деятельности 2018 года».    ...
+                        ]]></description>
+  <pubDate>Tue, 04 Dec 2018 14:42:12 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1543932301#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Хазин: во Франции пытаются устроить «оранжевую» революцию
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/251/world/economics/210986-hazin-vo-francii-pytautsa-ustroit-oranzevuu-revoluciu</link>
+  <description><![CDATA[
+                        Во Франции специально провоцируют «оранжевую» революцию. Об этом заявил экономист Михаил Хазин. ...
+                        ]]></description>
+  <pubDate>Tue, 04 Dec 2018 16:54:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1543932301#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  04.12.2018 17:05 : Канцлер Германии Ангела Меркель признана самой влиятельной женщиной года по версии журнала Форбс
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2327401-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Далее следует британский премьер-министр Тереза Мэй и глава МВФ Кристина Лагард. Единственной представительницей России в списке стала председатель Центробанка Эльвира Набиуллина. Она занимает в рейтинге 49-ое место, — сообщает Интерфакс. Ранее Меркель уже неоднократно возглавляла этот ежегодный рейтинг Форбс.
+ ...
+                        ]]></description>
+  <pubDate>Tue, 04 Dec 2018 17:05:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1543932301#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В столице Нидерландов демонтировали арт-объект I Аmsterdam
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/640740</link>
+  <description><![CDATA[
+                        Популярную у туристов инсталляцию "I Аmsterdam" на Музейной площади в Амстердаме демонтировали, поскольку городу не нужна лишняя реклама для привлечения туристов, сообщает издание NLT Times. ...
+                        ]]></description>
+  <pubDate>Tue, 04 Dec 2018 16:53:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1543932301#48</guid>
+ </item>
+  </channel>
+ </rss>

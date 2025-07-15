@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 05 May 2009 17:00:12 +0400</pubDate>
+         <lastBuildDate>Tue, 05 May 2009 17:00:12 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Россия отвергает обвинения Грузии в подготовке переворота</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/05/090505_russia_denies_georgia.shtml</link>
+  <description><![CDATA[
+                        Представитель России в НАТО Дмитрий Рогозин назвал "безумными" обвинения, выдвинутые Грузией в адрес российских спецслужб о подготовке военного переворота. ...
+                        ]]></description>
+  <pubDate>Tue, 05 May 2009 16:10:24 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1241528412#1</guid>
+ </item>
+ <item>
+  <title>Медведев: Господдержка фондового рынка была ошибочной</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/m.150759.html</link>
+  <description><![CDATA[
+                        Государственная поддержка фондового рынка страны напрямую для борьбы с кризисом была ошибочной, заявил президент Дмитрий Медведев. Ранее правительство России разрешило Внешэкономбанку израсходовать на поддержку фондового рынка 175 миллиардов рублей. Почти все эти деньги были потрачены. ...
+                        ]]></description>
+  <pubDate>Tue, 05 May 2009 16:13:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1241528412#2</guid>
+ </item>
+ <item>
+  <title>Обзор СМИ стран СНГ (05.05) ("ИноСМИ", Россия)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/248889.html</link>
+  <description><![CDATA[
+                        В национальных СМИ центральное место занимает обсуждение ситуации вокруг нормализации турецко-армянских отношений. По мнению экспертов, осуществленные в правительстве Турции кадровые изменения, в частности, назначение А.Давитоглу на должность министра иностранных дел вместо А.Бабаджана, положительно повлияют на процесс урегулирования. ...
+                        ]]></description>
+  <pubDate>Tue, 05 May 2009 15:43:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1241528412#3</guid>
+ </item>
+ <item>
+  <title>В Риме состоялась кинопремьера "Ангелов и демонов"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1621852.html</link>
+  <description><![CDATA[
+                        Дэн БраунВ понедельник в Риме состоялась мировая премьера фильма "Ангелы и демоны" по одноимённому роману Дэна Брауна. На премьере присутствовали автор романа, режиссёр Рон Хауард, актёры Том Хэнкс и Эван Макгрегор. Ранее режиссёр Рон Хауар ... ...
+                        ]]></description>
+  <pubDate>Tue, 05 May 2009 16:20:52 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1241528412#4</guid>
+ </item>
+ <item>
+  <title>На повестке дня: итоги двухлетнего президентства Саркози</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/05May2009/times/sarco.html</link>
+  <description><![CDATA[
+                        Франция подводит итоги двух первых лет президентства Николя Саркози, начинавшегося с больших надежд и ныне утратившего свою популярность. 63% французов сочли первые 24 месяца президентства Саркози неудачными, и только 28% оценивают их позитивно. ...
+                        ]]></description>
+  <pubDate>Tue, 05 May 2009 16:26:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1241528412#5</guid>
+ </item>
+ <item>
+  <title>К столетию "Русских сезонов" в Москву привезут костюмы дягилевской антрепризы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/cinema/05may2009/dyagilev.html</link>
+  <description><![CDATA[
+                        С 20 мая по 20 июля во Всероссийском музее декоративно-прикладного искусства пройдет выставка танцевальных костюмов к балетам Дягилева: "Весна Священная", "Жар-птица", "Песнь соловья" и "Шахерезада" - из частной коллекции. Эскизы для многих костюмов создавали всемирно известные художники Рерих, Бакст и Матисс. ...
+                        ]]></description>
+  <pubDate>Tue, 05 May 2009 16:57:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1241528412#6</guid>
+ </item>
+ <item>
+  <title>Медведев: закон об игорных зонах не будет пересмотрен</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/05/05/n_1358892.shtml</link>
+  <description><![CDATA[
+                        Российские власти не будут пересматривать сроки вступления в силу закона об азартных играх, разрешающего их с 1 июля только в специально отведенных игорных зонах, заявил президент России Дмитрий Медведев на рабочей встрече с руководителем ... ...
+                        ]]></description>
+  <pubDate>Tue, 05 May 2009 16:52:51 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1241528412#7</guid>
+ </item>
+ <item>
+  <title>Microsoft выпустила Windows 7 RC</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/378925.php</link>
+  <description><![CDATA[
+                        Microsoft разместила на своем сайте релиз-кандидат операционной системы Windows 7.	 ...
+                        ]]></description>
+  <pubDate>Tue, 05 May 2009 16:47:37 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1241528412#8</guid>
+ </item>
+ <item>
+  <title>"Справедливая Россия" предлагает облагать ЕСН все доходы россиян</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/wallet/2009/05/05/165525.html</link>
+  <description><![CDATA[
+                        Партия "Справедливая Россия" предлагает отказаться от регрессивной шкалы единого социального налога (ЕСН) и распространить его на все доходы россиян, сообщила во вторник первый замруководителя фракции эсеров в Госдуме Оксана Дмитриева по итогам встречи с президентом РФ. Ранее в ходе встречи... ...
+                        ]]></description>
+  <pubDate>Tue, 05 May 2009 16:55:25 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1241528412#9</guid>
+ </item>
+ <item>
+  <title>Балтийская проблема. Ничего не меняется</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/55491/</link>
+  <description><![CDATA[
+                        Драматические события в Эстонии после надругательства властей тамошней «европейской страны» над памятью советских воинов во весь рост ставят один вопрос. А что нам делать с Латвией и Эстонией, а заодно с Литвой? Особенно - с первыми двумя, где русские превращены в граждан второго сорта. ...
+                        ]]></description>
+  <pubDate>Tue, 05 May 2009 17:00:28 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1241528412#10</guid>
+ </item>
+ <item>
+  <title>Цитата #403327</title>
+  <link>http://www.and-rey.ru/inc/go3.php/bash.org.ru/quote/403327</link>
+  <description><![CDATA[
+                        caros: людям, которые прикрепили к 6-метровому архиву игры 300-метровый ролик прохождения надо гвоздь в голову вбить... ...
+                        ]]></description>
+  <pubDate>Tue, 05 May 2009 09:45:47 +0400</pubDate>
+  <source url="http://bash.org.ru">bash.org.ru — Цитатник Рунета</source>
+  <guid isPermaLink="false">1241528412#11</guid>
+ </item>
+  </channel>
+ </rss>

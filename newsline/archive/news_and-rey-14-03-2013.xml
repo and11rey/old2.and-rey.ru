@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 14 Mar 2013 17:00:04 +0400</pubDate>
+         <lastBuildDate>Thu, 14 Mar 2013 17:00:04 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  "Руки": снимки читателей bbcrussian.com
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/multimedia/2013/03/130314_inpics_ugc_hands.shtml</link>
+  <description><![CDATA[
+                        Мы регулярно публикуем тематическую галерею из фотографий, присланных читателями сайта Русской службы Би-би-си. Тема этой недели - "Руки". ...
+                        ]]></description>
+  <pubDate>Thu, 14 Mar 2013 16:25:25 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1363266004#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Навальный обнаружил у сенатора Малкина израильское гражданство
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/Parliament/Sovfed/m.212590.html</link>
+  <description><![CDATA[
+                        Алексей Навальный обнаружил у замглавы комитета по международным делам Совета Федерации Виталия Малкина двойное гражданство. По данным Навального, у Малкина есть израильский паспорт на имя Авихур Бен-Бар. Он также нашел у Малкина незадекларированную недвижимость за рубежом. До 2011 года Малкин владел 111 коммерческими офисами в Канаде. ...
+                        ]]></description>
+  <pubDate>Thu, 14 Mar 2013 15:52:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1363266004#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Пора реформировать атомный арсенал Америки
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/world/20130314/206967919.html</link>
+  <description><![CDATA[
+                        Задача времен холодной войны по сдерживанию СССР посредством подготовки к мировой ядерной войне уже успела превратиться в историю, поэтому от нее следует отказаться. Новая задача американского ядерного арсенала заключается в минимальном сдерживании, то есть - в предотвращении ядерного удара по Америке минимальными средствами. Возможно, количество стратегических боевых установок не должно превышать 300 единиц. ...
+                        ]]></description>
+  <pubDate>Thu, 14 Mar 2013 16:40:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1363266004#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Поздняков приговорен к двум годам условно 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/content/article/24928643.html</link>
+  <description><![CDATA[
+                        Активист «Солидарности» Станислав Поздняков приговорен судьей Тверского суда к двум годам условно, с испытательным сроком в три года. Его обвиняют в нападении на полицейского.
+
+ Вот что Станислав сказал корреспонденту Грани.ру Дмитрию Борко до приговора: 
+
+
+
+ Позднякова задержали 31 мая на акции Стратегии-31, доставили в Тверское ОВД и предъявили постановление, в котором было указано, что против него уже заведено уголовное дело. Якобы он напал на полицейского. 1 апреля во время ... ...
+                        ]]></description>
+  <pubDate>Thu, 14 Mar 2013 16:48:08 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1363266004#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Полиция ведет переговоры с преступником, взявшим заложников в Астрахани - Правда.Ру
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.pravda.ru/news/accidents/14-03-2013/1148380-0/</link>
+  <description><![CDATA[
+                        Правоохранительные органы Астрахани подтвердили факт захвата заложников в одном из колледжей города. С преступником ведутся переговоры. Об этом в четверг сообщает пресс-служба УМВД по региону. По словам представителя ведомства, сотрудники управления МВД по ... ...
+                        ]]></description>
+  <pubDate>Thu, 14 Mar 2013 16:36:29 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1363266004#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  На интронизацию Папы Римского приедет делегация РПЦ
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/religy/14mar2013/inthronisation.html</link>
+  <description><![CDATA[
+                        Делегац ию Русской православной церкви возглавит председатель синодального Отдела внешних церковных связей митрополит Волоколамский Иларион. В Ватикан на торжественную церемонию ожидают прибытия более 160 зарубежных делегаций как церковного, так и государственного уровня. ...
+                        ]]></description>
+  <pubDate>Thu, 14 Mar 2013 16:57:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1363266004#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Пираты Молочного моря» — долгожданная новинка от Little Beetle
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/post/172769/</link>
+  <description><![CDATA[
+                        Прежде чем предложить новый программный продукт вам и вашим детям, Little Beetle в очередной раз собрали в офисе юных тестеров. На этот раз тестировались «Пираты Молочного моря» — новое приложение, которое прекрасно дополняет нашу палитру детских образовательных приложений.
+
+
+
+Предлагаем вам поближе ознакомиться с самим приложением и отчётом о его тестировании.
+
+ Читать дальше в†’ ...
+                        ]]></description>
+  <pubDate>Thu, 14 Mar 2013 16:21:53 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1363266004#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Начало встречи с Президентом Государства Палестина Махмудом Аббасом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.kremlin.ru/transcripts/17674</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 14 Mar 2013 15:40:00 +0400</pubDate>
+  <source url="http://www.kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1363266004#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Безвоздушные шины выпустят в 2014 году
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/auto/car/2013/03/14/Byezvozdushnyyye_shi.phtml</link>
+  <description><![CDATA[
+                        Компания Polaris, специализирующаяся на производстве квадроциклов, снегоходов и тому подобных средств передвижения, собирается начать выпуск специальных безвоздушных шин для различных видов наземного транспорта. Старт запланирован на следующий год, и у Polaris есть все необходимое для этого. ...
+                        ]]></description>
+  <pubDate>Thu, 14 Mar 2013 16:15:43 +0400</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1363266004#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Алгоритм Диффи — Хеллмана
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/science.d3.ru/comments/421556</link>
+  <description><![CDATA[
+                        
+		
+				<br>
+
+
+
+
+		
+	
+		Пожалуй, самое популярное объяснение принципа работы.<br>Этот алгоритм позволяет при передаче зашифрованных посланий уйти от необходимости передачи секретного ключа. А ролик в очередной раз доказывает, что все гениальное просто.
+	
+
+ ...
+                        ]]></description>
+  <pubDate>Thu, 14 Mar 2013 17:00:15 +0400</pubDate>
+  <source url="http://d3.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1363266004#34</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 03 Dec 2009 17:00:06 +0300</pubDate>
+         <lastBuildDate>Thu, 03 Dec 2009 17:00:06 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Взрывом в Могадишо убиты два министра</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/12/091203_mogadishu_blast.shtml</link>
+  <description><![CDATA[
+                        В одной из столичный гостиниц произошел взрыв, жертвами которого стали члены правительства Сомали. ...
+                        ]]></description>
+  <pubDate>Thu, 03 Dec 2009 16:54:36 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1259848806#1</guid>
+ </item>
+ <item>
+  <title>Составлены фотороботы четырех подозреваемых в подрыве "Невского экспресса"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/Terror/m.163061.html</link>
+  <description><![CDATA[
+                        Составлены фотороботы четырех подозреваемых в организации подрыва поезда "Невский экспресс". В теракте подозреваются трое мужчин и одна женщина. 30 ноября оперативники обнаружили дом, в котором могли проживать террористы, готовя взрыв. ...
+                        ]]></description>
+  <pubDate>Thu, 03 Dec 2009 15:59:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1259848806#2</guid>
+ </item>
+ <item>
+  <title>Непокорный Иран торжественно обещает, что самостоятельно дообогатит уран</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/asia/20091203/156819343.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 03 Dec 2009 16:44:11 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1259848806#3</guid>
+ </item>
+ <item>
+  <title>Частные банковские вклады в России в октябре выросли на 1,4%</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091203/17/17.html?id=1894198</link>
+  <description><![CDATA[
+                        Объем частных вкладов в российских банках, как рублевых, так и валютных, увеличился в октябре на 1,4%, а с начала года – на 15,1%, составив 6 триллионов 801 миллиард рублей в пересчете, говорится в материалах Центрального банка. По текущему обменному курсу это более 234 миллиардов долларов. При этом доля валютных вкладов в общей их сумме, составлявшая в начале года 26,7% и достигшая к 1 марта максимального показателя - 34%, снизилась к началу ноября до 28,1%.   ...
+                        ]]></description>
+  <pubDate>Thu, 03 Dec 2009 16:30:28 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1259848806#4</guid>
+ </item>
+ <item>
+  <title>Не надо бояться Медведева!</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/03Dec2009/tagesspiegel/medvedev.html</link>
+  <description><![CDATA[
+                        Председатель Мюнхенской конференции по вопросам безопасности Вольфганг Ишингер в своей статье пишет о необходимости обратить пристальное внимание на инициативу российского президента по созданию единой архитектуры европейской безопасности. ...
+                        ]]></description>
+  <pubDate>Thu, 03 Dec 2009 16:31:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1259848806#5</guid>
+ </item>
+ <item>
+  <title>Во время ЧМ-2010 по ЮАР будет курсировать поезд-тюрьма</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/03dec2009/welcome.html</link>
+  <description><![CDATA[
+                        "Это беспрецедентный случай, когда в поезде будет полицейский участок. И если гости мундиаля подвергнутся нападению во время поездки, то преступники будут сразу же помещены в тюрьму", - успокоили потенциальных жертв организаторы. ...
+                        ]]></description>
+  <pubDate>Thu, 03 Dec 2009 16:50:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1259848806#6</guid>
+ </item>
+ <item>
+  <title>Ставропольский милиционер получил 10 лет за убийство своей девушки</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/12/03/n_1431497.shtml</link>
+  <description><![CDATA[
+                        В Ставропольском крае бывший сотрудник патрульно-постовой службы милиции приговорен к десяти годам лишения свободы в колонии строгого режима за убийство несовершеннолетней, сообщили в СКП края.
+"Бывший стажер патрульно-постовой ... ...
+                        ]]></description>
+  <pubDate>Thu, 03 Dec 2009 16:55:43 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1259848806#7</guid>
+ </item>
+ <item>
+  <title>Вышло Linux ядро 2.6.32</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/78d07bd/l/0L0Ssecuritylab0Bru0Cnews0C3884150Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Линус Торвальдс сегодня объявил о выпуске новой версии Linux-ядра — 2.6.32. ...
+                        ]]></description>
+  <pubDate>Thu, 03 Dec 2009 16:19:03 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1259848806#8</guid>
+ </item>
+ <item>
+  <title>Продукт немецко-японской дружбы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/auto/car/2009/12/02/Volkswagen_Amarok.phtml</link>
+  <description><![CDATA[
+                        Старый друг лучше новых двух: похоже, немцы вновь скооперировались с японцами. Новое оружие крупного калибра — Volkswagen Amarok, направление удара -- весь мир, кроме США. ...
+                        ]]></description>
+  <pubDate>Thu, 03 Dec 2009 16:53:52 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1259848806#9</guid>
+ </item>
+ <item>
+  <title>Икону Богоматери Торопецкой тайно перевезли минувшей ночью в храм одного из элитных поселков Подмосковья</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/638775-echo.html</link>
+  <description><![CDATA[
+                        
+                          Об этом сообщил Владимир Гусев, директор Русского музея, где икона хранилась последние 70 лет...
+                          ...
+                        ]]></description>
+  <pubDate>Thu, 03 Dec 2009 16:33:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1259848806#10</guid>
+ </item>
+ <item>
+  <title>Истина где то рядом</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/263451/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/12/03/18243-164324-9e7a554565c4e9929b5c12d269f1017b.jpg><br /><br />Снято ЖЖ юзером murkot2004 во время сегодняшней трансляции сериала "Разговор с В. Путиным" ...
+                        ]]></description>
+  <pubDate>Thu, 03 Dec 2009 16:43:24 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1259848806#11</guid>
+ </item>
+  </channel>
+ </rss>

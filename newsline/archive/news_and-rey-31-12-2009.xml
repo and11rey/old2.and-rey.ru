@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 31 Dec 2009 17:00:04 +0300</pubDate>
+         <lastBuildDate>Thu, 31 Dec 2009 17:00:04 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Прощание с 2009 годом</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/indepth/year_enders_2009.shtml</link>
+  <description><![CDATA[
+                        Главные события в России и мире, самые интересные дискуссии и блоги, самые популярные статьи, а также лучшие специальные проекты уходящего года в этом специальном проекте bbcrussian.com. ...
+                        ]]></description>
+  <pubDate>Thu, 31 Dec 2009 16:23:54 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1262268004#1</guid>
+ </item>
+ <item>
+  <title>Сторчак награжден орденом Дружбы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/m.172855.html</link>
+  <description><![CDATA[
+                        Замминистра финансов Сергей Сторчак награжден орденом Дружбы. Указ о награждении был подписан еще в 2007 году, однако тогда же Сторчак был арестован. Он провел под стражей почти два года, а в октябре его освободили под подписку о невыезде. Орден своему заместителю вручил министр финансов Алексей Кудрин. ...
+                        ]]></description>
+  <pubDate>Thu, 31 Dec 2009 16:18:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1262268004#2</guid>
+ </item>
+ <item>
+  <title>Путин утверждает, что население России возросло – впервые с 1995 года 
+			    ( "AFP", Франция )
+			</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/social/20091231/157322544.html</link>
+  <description><![CDATA[
+                        В среду премьер-министр России Владимир Путин заявил, что в этом году население России, начавшее стремительно сокращаться после распада Советского Союза, возросло впервые с 1995 года. ...
+                        ]]></description>
+  <pubDate>Thu, 31 Dec 2009 14:57:00 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1262268004#3</guid>
+ </item>
+ <item>
+  <title>В Финляндии идут поиски человека, открывшего огонь в торговом центре</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091231/17/17.html?id=1918495</link>
+  <description><![CDATA[
+                        В Финляндии идут поиски человека, который сегодня открыл стрельбу в торговом центре в городке Эспоо, убив четырех человек.  Местная полиция сообщила, что личность стрелявшего установлена. Ему 43 года, он был ранее судим. Финские СМИ сообщают, что в одной из городских квартир обнаружено тело его бывшей жены, судя по всему, убитой до инцидента в торговом центре.  В последние годы в Финляндии произошли два инцидента со стрельбой в общественных местах. В общей сложности тогда погибли 20 человек. ...
+                        ]]></description>
+  <pubDate>Thu, 31 Dec 2009 15:20:27 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1262268004#4</guid>
+ </item>
+ <item>
+  <title>Туркмения заключает крупные газовые контракты</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/31Dec2009/wsj/gas.html</link>
+  <description><![CDATA[
+                        Туркмения надеется, что Южный Иолотань, одно из крупнейших месторождений газа в мире, содержащее до 14 трлн кубометров газа, поможет ей стать крупным экспортером газа в Азию и Западную Европу в ближайшее десятилетие. ...
+                        ]]></description>
+  <pubDate>Thu, 31 Dec 2009 15:53:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1262268004#5</guid>
+ </item>
+ <item>
+  <title>В Северной Корее запретили расплачиваться иностранной валютой</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/31dec2009/zapret.html</link>
+  <description><![CDATA[
+                        С нового года все расчеты будут вестись только в местных дензнаках - вонах КНДР. Тем, кто будет полрольно торговать за иностранные деньги, грозит "строгое наказание". Сбывая старые евро и доллары, корейцы буквально смели все товары в "валютных" магазинах: от бытовой техник до дорогой мебели. ...
+                        ]]></description>
+  <pubDate>Thu, 31 Dec 2009 16:57:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1262268004#6</guid>
+ </item>
+ <item>
+  <title>В Бурятии осуждены "черные риэлторы", убивавшие владельцев квартир</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/12/30/n_1441094.shtml</link>
+  <description><![CDATA[
+                        Верховный суд Бурятии приговорил в среду к длительным срокам заключения восьмерых местных жителей, убивавших граждан для того чтобы завладеть их квартирами, сообщает сайт СКП.
+"В 2007 году 22-летний житель города Улан-Удэ Глеб Буров ... ...
+                        ]]></description>
+  <pubDate>Wed, 30 Dec 2009 19:45:28 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1262268004#7</guid>
+ </item>
+ <item>
+  <title>На 26С3 представлен проект по защите от уязвимостей в Flash Player</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/82eccfe/l/0L0Ssecuritylab0Bru0Cnews0C3892540Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Felix "FX" Lindner из Recurity Labs представил на конференции 26С3 инструмент для защиты от уязвимостей в Flash Player. ...
+                        ]]></description>
+  <pubDate>Wed, 30 Dec 2009 15:16:52 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1262268004#8</guid>
+ </item>
+ <item>
+  <title>Toyota возглавила список самых ненадежных машин</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/auto/car/2009/12/31/Spisok_samyyh_nyenad.phtml</link>
+  <description><![CDATA[
+                        В США был опубликован список самых ненадежных автомобилей 2009 года. Рейтинг составляли независимые эксперты, которые смотрели на количество отзывов и жалоб клиентов. Первое место в Top 23 по версии издания The Detroit Free Press занимают столь популярные в России «Тойота» и «Лексус», в минувшем году они отозвали на доработку около 4,3 млн машин.  ...
+                        ]]></description>
+  <pubDate>Thu, 31 Dec 2009 16:57:17 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1262268004#9</guid>
+ </item>
+ <item>
+  <title>Около пяти тысяч милиционеров будут следить за порядком в центре Москвы в новогоднюю ночь</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/645521-echo.html</link>
+  <description><![CDATA[
+                        
+                         Под особый контроль возьмут центральные площади города – Тверскую, Лубянскую и Театральную, – где ночью пройдут массовые гуляния...
+                          ...
+                        ]]></description>
+  <pubDate>Thu, 31 Dec 2009 16:35:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1262268004#10</guid>
+ </item>
+ <item>
+  <title>Пост № 265229</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/265229/#new</link>
+  <description><![CDATA[
+                        Сообщество, я знаю, что об этом уже писали в прошлом году и в позапрошлом, и раньше, но все таки позвольте от всего сердца, поздравить Вас, друзья, с наступающим Новым Годом. Пожелать Вам успехов в бизнесе, отношениях, да и во всей жизни!<br />
+А так же хочу подарить вам ссылку, на бессмертную песню группы ABBA , а для любителей "по-тяжелее" альтернативный джинг-беллс от КоЯn!<br />
+C праздником Вас, не потеряйте свой облик в предстоящую ночь. ...
+                        ]]></description>
+  <pubDate>Thu, 31 Dec 2009 15:46:53 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25 (лет..?)</source>
+  <guid isPermaLink="false">1262268004#11</guid>
+ </item>
+  </channel>
+ </rss>

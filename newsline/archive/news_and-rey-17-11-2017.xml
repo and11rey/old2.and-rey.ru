@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 17 Nov 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Fri, 17 Nov 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Михаил Пиотровский: "Нельзя показывать режиссера в клетке"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-42016668</link>
+  <description><![CDATA[
+                        Директор Государственного Эрмитажа Михаил Пиотровский рассказал Би-би-си о том, как российская сфера культуры пострадала от кампании по борьбе с коррупцией, о своей встрече с патриархом Кириллом и о том, можно ли считать Путина царем. ...
+                        ]]></description>
+  <pubDate>Fri, 17 Nov 2017 16:21:18 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1510929301#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Транслятор радио Sputnik зарегистрировался иностранным агентом в США. Источник финансирования «неизвестен»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2017/11/17/translyator-radio-sputnik-zaregistrirovalsya-inostrannym-agentom-v-ssha-istochnik-finansirovaniya-neizvesten</link>
+  <description><![CDATA[
+                        В американском Минюсте встала на учет в качестве иностранного агента компания Restor Translator — она транслирует в США российское государственное радио Sputnik. Заявка была подана 15 ноября, на регистрацию Restor обратили внимание «Открытые медиа». ...
+                        ]]></description>
+  <pubDate>Fri, 17 Nov 2017 17:07:07 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1510929301#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Нельсон Мандела, тайный трастовый фонд и деньги для Маргот Хонеккер
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/17Nov2017/sueddeutsche/mandela.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Переводил ли борец за свободу Нельсон Мандела деньги Маргот Хонеккер, находящейся в чилийской ссылке? В "Райском досье" всплывает необычный юридический спор с участием наследников Манделы. Обстоятельства этого дела вряд ли удастся реконструировать. ...
+                        ]]></description>
+  <pubDate>Fri, 17 Nov 2017 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1510929301#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Иркутске координатор штаба Навального  арестован на семь суток
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28859948.html</link>
+  <description><![CDATA[
+                        Встреча с Навальным проходила на частной территории, но суд не принял это во внимание ...
+                        ]]></description>
+  <pubDate>Fri, 17 Nov 2017 17:04:23 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1510929301#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 17 Nov 2017 17:35:03 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1510929301#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Джордж Клуни снимет сам себя в сериале по роману "Уловка 22"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/cinema/17nov2017/catch22.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Джордж Клуни уже определился с тем, что полковника Кэткарта, сыграет он сам, и занимается подбором актеров на другие роли. Он также примет участие в продюсировании. Предполагается, что премьера шестисерийного проекта состоится не раньше 2019 года. ...
+                        ]]></description>
+  <pubDate>Fri, 17 Nov 2017 17:28:19 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1510929301#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Исследователи нашли связь между хорошим навыком игры в LoL и Dota и высоким интеллектом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/295529/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=best</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 17 Nov 2017 17:20:31 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1510929301#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Совещание по вопросам поддержки талантливой молодёжи в сфере искусства
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56119</link>
+  <description><![CDATA[
+                        Владимир Путин проводит совещание по вопросам поиска, поддержки и профессиональной подготовки талантливой молодёжи в сфере искусства.    ...
+                        ]]></description>
+  <pubDate>Fri, 17 Nov 2017 16:15:43 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1510929301#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Крыму начали строить двухметровую стену на границе с Украиной
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/251/world/incidents/187660-v-krymu-nacali-stroit-dvuhmetrovuu-stenu-na-granice-s-ukrainoj</link>
+  <description><![CDATA[
+                        В пограничном управлении ФСБ РФ по Республике Крым рассказали о ходе строительства заграждений на границе с Украиной. ...
+                        ]]></description>
+  <pubDate>Fri, 17 Nov 2017 17:27:08 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1510929301#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  17.11.2017 17:31 : Предприятие «Мострансавто» запретило своим водителям и кондукторам высаживать из автобусов детей без билета
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2094424-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Там разработали внутренний документ. Он касается ситуаций, когда у ребенка нет возможности оплатить проезд, если, к примеру, родители не дали ему денег или не пополнили транспортную карту.
+ ...
+                        ]]></description>
+  <pubDate>Fri, 17 Nov 2017 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1510929301#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Отстраненный от ОИ-2018 лыжник Белов выиграл гонку FIS в Швеции
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/sport/587906</link>
+  <description><![CDATA[
+                        Российский лыжник Евгений Белов показал лучший результат в индивидуальной гонке на 10 км свободным стилем на международных стартах FIS (Международной федерации лыжного спорта) в шведском Элливаре. ...
+                        ]]></description>
+  <pubDate>Fri, 17 Nov 2017 17:04:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1510929301#48</guid>
+ </item>
+  </channel>
+ </rss>

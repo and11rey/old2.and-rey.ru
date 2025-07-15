@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 06 Jun 2009 17:00:08 +0400</pubDate>
+         <lastBuildDate>Sat, 06 Jun 2009 17:00:08 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Разбившийся самолет посылал сигналы о неисправностях</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2009/06/090606_crushed_plane_failures.shtml</link>
+  <description><![CDATA[
+                        Самолет авиакомпании Air France, потерпевший крушение в Атлантическом океане, незадолго до аварии посылал сигналы о многочисленных неисправностях, об этом свидетельствуют результаты проводимого расследования. ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jun 2009 16:45:13 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1244293208#1</guid>
+ </item>
+ <item>
+  <title>Россия будет занимать 10 миллиардов долларов ежегодно</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Economy/m.152094.html</link>
+  <description><![CDATA[
+                        После 2010 года России придется ежегодно занимать на внешнем рынке более 10 миллиардов долларов, заявил министр финансов Алексей Кудрин. Он считает, что дефицит федерального бюджета России в 2010 году может превысить 5 процентов ВВП, однако будет не выше 6 процентов. ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jun 2009 16:14:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1244293208#2</guid>
+ </item>
+ <item>
+  <title>Баку может опередить Украину и Грузию и войти в НАТО ("EurasiaNet", США)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/249683.html</link>
+  <description><![CDATA[
+                        Источник в Командовании объединенных сил Североатлантического альянса сообщил EurasiaNet, что у Азербайджана больше шансов на вступление в НАТО в ближайшем будущем, чем у Грузии и Украины. ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jun 2009 17:37:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1244293208#3</guid>
+ </item>
+ <item>
+  <title>В Великобритании отмечают 113-й день рождения ветерана Первой мировой</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1748324.html</link>
+  <description><![CDATA[
+                        6 июня в Великобритании торжественного отмечается 113-й день рождения одного из двух оставшихся в живых ветеранов Первой мировой войны Генри Эллингема, который также старейший житель страны. Об этом рассказывает корреспондент Радио Свобода в Лондоне ... ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jun 2009 16:34:33 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1244293208#4</guid>
+ </item>
+ <item>
+  <title>Раскол с Германией - следующий пункт дипломатической программы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/05Jun2009/nytimes/raskol.html</link>
+  <description><![CDATA[
+                        Раскол между Германией и США стал медленно обозначаться на фоне официальных заявлений о согласии между двумя странами и недовольства, выказываемого в частном порядке. Это еще не кризис отношений, но существуют некоторые трения и разногласия. ...
+                        ]]></description>
+  <pubDate>Fri, 05 Jun 2009 16:13:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1244293208#5</guid>
+ </item>
+ <item>
+  <title>МЧС опровергает сообщения, что на Россию из Украины идет "ртутное облако"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/06jun2009/nbh.html</link>
+  <description><![CDATA[
+                        "Радиационный фон и состояние окружающей среды на территории ЦФО в норме, а выпавшие на территории округа осадки не представляют опасности для населения", - сообщили в пресс-службе Центрального регионального центра МЧС в субботу. Там отметили, что информация СМИ не соответствует действительности. ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jun 2009 16:43:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1244293208#6</guid>
+ </item>
+ <item>
+  <title>Возле Кремля произошла потасовка между автоводителями </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/06/06/n_1369700.shtml</link>
+  <description><![CDATA[
+                        Причиной инцидента на Кремлевской набережной стал дорожный конфликт, пострадал один человек. Об этом сообщил дежурный офицер управления информации и общественных связей столичного ГУВД Анатолий Ластовецкий.
+По его словам, под Большим ... ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jun 2009 16:55:51 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1244293208#7</guid>
+ </item>
+ <item>
+  <title>Acer: Windows и Android в одном нетбуке</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/380950.php</link>
+  <description><![CDATA[
+                        Компания Acer планирует начать продажи мини-компьютеров с двумя предустановленными операционными системами — Google Android и Microsoft Windows. 	 ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jun 2009 13:15:09 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1244293208#8</guid>
+ </item>
+ <item>
+  <title>Решение о создании "Росавтодора" может быть принято в июне</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/economics/2009/06/06/162949.html</link>
+  <description><![CDATA[
+                        Решение о создании госкорпорации "Российские автомобильные дороги" может быть окончательно принято уже в первом полугодии текущего года, заявил замминистра транспорта РФ Олег Белозеров в субботу в ходе "круглого стола" в рамках Петербургского международного экономического форума, сообщает РИА... ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jun 2009 16:29:49 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1244293208#9</guid>
+ </item>
+ <item>
+  <title>СБ-дебилы Украины хотят судить виновных в Голодоморе 30-х</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/56579/</link>
+  <description><![CDATA[
+                        136 человек, причастных к Голодомору на Украине, являются фигурантами уголовного дела, которое было открыто 22 мая 2009 г. Однако этот список далеко не полный, заявил в четверг в Киеве во время пресс-конференции директор архива Службы безопасности Украины Владимир Вятрович. ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jun 2009 17:00:15 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1244293208#10</guid>
+ </item>
+ <item>
+  <title>jellyfish</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/254449/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/06/06/11574-162108-297747d1c850ead70feb47b9e493176a.jpg><br /><br />очередное творение рук или щупалец? ...
+                        ]]></description>
+  <pubDate>Sat, 06 Jun 2009 16:21:08 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1244293208#11</guid>
+ </item>
+  </channel>
+ </rss>

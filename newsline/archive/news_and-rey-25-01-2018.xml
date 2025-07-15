@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 25 Jan 2018 17:35:01 +0300</pubDate>
+         <lastBuildDate>Thu, 25 Jan 2018 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Борис Джонсон - правнук базельской мумии в седьмом колене
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/other-news-42817875</link>
+  <description><![CDATA[
+                        Ученые наконец разгадали загадку мумифицированных останков женщины, найденных в 1975 году во время реставрации церкви в Базеле, сделав при этом неожиданное открытие: министр иностранных дел Британии Борис Джонсон оказался ее прямым потомком. ...
+                        ]]></description>
+  <pubDate>Thu, 25 Jan 2018 16:38:43 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1516890901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Financial Times добилась закрытия благотворительного ужина для элиты, где домогались официанток
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/feature/2018/01/25/financial-times-dobilas-zakrytiya-blagotvoritelnogo-uzhina-dlya-elity-gde-domogalis-k-ofitsiantkam</link>
+  <description><![CDATA[
+                        Британская газета Financial Times (FT) опубликовала расследование, в результате которого был отменен ежегодный благотворительный ужин в лондонском Сити, куда приглашали только мужчин — и где, как выяснилось из материала, поощряли домогательства к официанткам. ...
+                        ]]></description>
+  <pubDate>Thu, 25 Jan 2018 17:15:12 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1516890901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Карелии происходит новая интерпретация места захоронения жертв сталинских репрессий
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/25Jan2018/lefigaro/dmitriev.html?utm_source=rss</link>
+  <description><![CDATA[
+                        В лесном массиве Карелии Красный Бор захоронены 1500 жертв сталинских репрессий, это место стало почитаемым в последние годы. Однако сегодня путинская Россия оспаривает эту память и преследует тех, кто выступает против переписывания истории. ...
+                        ]]></description>
+  <pubDate>Thu, 25 Jan 2018 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1516890901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В московском кинотеатре "Пионер" начался показ фильма "Смерть Сталина"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28998159.html</link>
+  <description><![CDATA[
+                        Министерство культуры России ранее отозвало у картины прокатное удостоверение ...
+                        ]]></description>
+  <pubDate>Thu, 25 Jan 2018 17:21:35 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1516890901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 25 Jan 2018 17:35:04 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1516890901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Минфин разработал закон о порядке выпуска и обмена криптовалют
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/25jan2018/rucryptobill.html?utm_source=rss</link>
+  <description><![CDATA[
+                        По проекту закона "О цифровых финансовых активах" сохраняются разногласия  Минина и ЦБ, касающиеся  возможности обмена криптовалют на рубли, иностранную валюту и иное имущество. Расплачиваться криптовалютами в России будет нельзя, по этому вопросу разногласий нет. ...
+                        ]]></description>
+  <pubDate>Thu, 25 Jan 2018 17:28:53 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1516890901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Провайдеры хотят самостоятельно ограничивать трафик сайтов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/297535/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=297535</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 25 Jan 2018 16:12:22 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1516890901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Посещение Института фундаментальной медицины и биологии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56710</link>
+  <description><![CDATA[
+                        Владимир Путин ознакомился с работой Института фундаментальной медицины и биологии Казанского федерального университета и провёл телемост с ведущими высшими учебными
+заведениями страны.     ...
+                        ]]></description>
+  <pubDate>Thu, 25 Jan 2018 16:31:10 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1516890901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  ФАС призвала аэропорты отказаться от сотрудничества с «дорогими» заведениями общепита
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/251/economy/company/192780-fas-prizvala-aeroporty-otkazatsa-ot-sotrudnicestva-s-dorogimi-zavedeniami-obsepita</link>
+  <description><![CDATA[
+                        Руководитель ФАС Игорь Артемьев предложил аэропортам отказаться от сотрудничества с заведениями общепита, которые сильно завышают цены. ...
+                        ]]></description>
+  <pubDate>Thu, 25 Jan 2018 17:28:28 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1516890901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  25.01.2018 17:31 : В московском кинотеатре «Пионер» только что начался первый показ британской комедии «Смерть Сталина»
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2135866-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Об этом сообщает корреспондент «Эха Москвы», который находится в кинозале. Зал заполнен примерно на две трети. Зрители раскупили билеты в этом кинотеатре на ближайшие дни. Следующий сеанс, на который еще есть места, будет 3-го февраля.  <br>
+Напомним, Министерство культуры запретило показывать фильм, отозвав прокатное удостоверение. Накануне в кинотеатре нам сказали, что пока не получали по этому поводу каких-либо уведомления.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 25 Jan 2018 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1516890901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Полиция назвала неисправность стрелки возможной причиной крушения поезда в Италии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/597092</link>
+  <description><![CDATA[
+                        В результате схода поезда с рельсов погибли три человека ...
+                        ]]></description>
+  <pubDate>Thu, 25 Jan 2018 17:24:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1516890901#48</guid>
+ </item>
+  </channel>
+ </rss>

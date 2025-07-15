@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 09 Sep 2009 17:00:10 +0400</pubDate>
+         <lastBuildDate>Wed, 09 Sep 2009 17:00:10 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Дорогая дорога</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/interactivity/2009/09/090909_blog_belyi_fine.shtml</link>
+  <description><![CDATA[
+                        Мягкость по отношению к хамству на дорогах всегда приводит к одному и тому же – жутким сводкам и новым погибшим.  ...
+                        ]]></description>
+  <pubDate>Wed, 09 Sep 2009 16:37:35 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1252501210#1</guid>
+ </item>
+ <item>
+  <title>Горел машинный зал Саяно-Шушенской ГЭС</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/m.156944.html</link>
+  <description><![CDATA[
+                        В машином зале Саяно-Шушенской ГЭС произошел пожар. Возгорание произошло на 320-й отметке в районе 8-го и 9-го гидроагрегатов в 13.40 мск. Его потушили за несколько минут. Работы по восстановлению ГЭС были приостановлены до 16.00 мск из-за сильного задымления.
+ ...
+                        ]]></description>
+  <pubDate>Wed, 09 Sep 2009 16:44:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1252501210#2</guid>
+ </item>
+ <item>
+  <title>Возникает новая ось Иран - Венесуэла ("The Wall Street Journal", США)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/252434.html</link>
+  <description><![CDATA[
+                        Сегодня Ахмадинежад и президент Венесуэлы Уго Чавес создали уютное финансовое, политическое и военное партнерство, которое основано на общей враждебности по отношению к Америке. Теперь пришло время США разработать такой политический курс, чтобы это партнерство не дало ядовитых всходов. ...
+                        ]]></description>
+  <pubDate>Wed, 09 Sep 2009 16:04:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1252501210#3</guid>
+ </item>
+ <item>
+  <title>Равнение на князя, надежда на патриарха</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/1818773.html</link>
+  <description><![CDATA[
+                        9 сентября в Нижнем Новгороде началась заключительная фаза новейшего российского праздника, посвященного памяти Александра Невского. 
+ ...
+                        ]]></description>
+  <pubDate>Wed, 09 Sep 2009 16:27:36 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1252501210#4</guid>
+ </item>
+ <item>
+  <title>Россия отрицает, что Arctic Sea перевозил оружие, предназначавшееся для Ирана</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/09Sep2009/guardian/arctic_sea.html</link>
+  <description><![CDATA[
+                        Россия категорически отрицает, что грузовое судно Arctic Sea с российским экипажем на борту, которое, предположительно, было захвачено пиратами, тайно перевозило в Иран зенитное оружие. Глава МИД Лавров назвал такие сообщения "абсолютной неправдой". ...
+                        ]]></description>
+  <pubDate>Wed, 09 Sep 2009 16:07:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1252501210#5</guid>
+ </item>
+ <item>
+  <title>Танкер Matterhorn с российско-украинским экипажем арестован во Франции</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/09sep2009/matterhornarest.html</link>
+  <description><![CDATA[
+                        Арест судна был произведен на основании иска его экипажа, состоящего из граждан России и Украины. Владелец судна, находящегося в порту Бреста с мая из-за обвинений в загрязнении акватории, ранее заявил о банкротстве. После этого моряки рефрижератора обратились в суд, требуя отправки их на родину. ...
+                        ]]></description>
+  <pubDate>Wed, 09 Sep 2009 16:58:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1252501210#6</guid>
+ </item>
+ <item>
+  <title>"Русгидро" выплатит дополнительные 85 млн жертвам аварии на ГЭС</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/09/09/n_1401801.shtml</link>
+  <description><![CDATA[
+                        Совет директоров ОАО "Русгидро" на заседании в среду одобрил дополнительную безвозмездную передачу имущества в сумме не более 85 миллионов для ликвидации социальных последствий аварии на Саяно-Шушенской ГЭС, в том числе для ... ...
+                        ]]></description>
+  <pubDate>Wed, 09 Sep 2009 16:51:16 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1252501210#7</guid>
+ </item>
+ <item>
+  <title>Краткий обзор исправлений от Microsoft за сентябрь 2009</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/384968.php</link>
+  <description><![CDATA[
+                        В этом месяце Microsoft выпустила 5 бюллетеней безопасности, которые устранили 8 уязвимостей в различных компонентах Windows. 	 ...
+                        ]]></description>
+  <pubDate>Wed, 09 Sep 2009 14:06:17 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1252501210#8</guid>
+ </item>
+ <item>
+  <title>Пьяному водителю понятые не помогут</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/auto/right/2009/09/09/YEsli_vyypil__na_pon.phtml</link>
+  <description><![CDATA[
+                        Многие водители, если инспектор ДПС пытается отправить их на «алкогольное» медосвидетельствование, требуют понятых. Напрасно. Infox.ru продолжает бесплатные юридические консультации для автомобилистов. ...
+                        ]]></description>
+  <pubDate>Wed, 09 Sep 2009 16:58:25 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1252501210#9</guid>
+ </item>
+ <item>
+  <title>«Школьное рабство». Фокусы прокуратуры по спасению детей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/59565/</link>
+  <description><![CDATA[
+                        Чудны, братцы, дела прокурорские. То они в народной вышивке усмотрят фашистскую символику. То объявят пропагандой национализма... стихи Пушкина. То предъявят обвинение в ксенофобии целому городу. В общем, не знает она устали в радении о делах народных. Разве что волков и лисиц - как в средние века - пока не судят официально.  Но последний фокус прокуратуры крут, как гора Арарат. ...
+                        ]]></description>
+  <pubDate>Wed, 09 Sep 2009 17:00:25 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1252501210#10</guid>
+ </item>
+ <item>
+  <title>Скромный юбилей банкомата</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/258807/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/09/09/22343-163619-eac9271f30cf6678186cb23fc12cb6f5.jpg><br /><br />На фото изображен знаменательный момент открытия первого в Европе банкомата (ATM) в здании лондонского Barclay's Bank (1967 г.) Счастливая личность, демонстрирующая нам купюру — актер Reg Varney.<br />
+<br />
+Однако американцы обскакали жителей Альбиона — сегодня исполняется 70 лет со дня установки первого в мире банкомата. Через полгода банкомат убрали, поскольку им никто так и не воспо ...
+                        ]]></description>
+  <pubDate>Wed, 09 Sep 2009 16:36:19 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1252501210#11</guid>
+ </item>
+  </channel>
+ </rss>

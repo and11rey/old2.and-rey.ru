@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 24 May 2009 21:30:05 +0400</pubDate>
+         <lastBuildDate>Sun, 24 May 2009 21:30:05 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Дженсон Баттон выиграл Гран-при Монако "Формулы-1"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/sport/2009/05/090524_f1_monaco.shtml</link>
+  <description><![CDATA[
+                        Британец Дженсон Баттон из команды Brawn GP стал победителем Гран-при Монако, выиграв пятую гонку в сезоне "Формулы-1". ...
+                        ]]></description>
+  <pubDate>Sun, 24 May 2009 20:53:12 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1243186205#1</guid>
+ </item>
+ <item>
+  <title>В Пермском крае найдено тело пятого туриста</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Events/m.151484.html</link>
+  <description><![CDATA[
+                        Пермские спасатели в воскресенье нашли тело туриста, пропавшего более недели назад во время сплава по реке в Горнозаводском районе Пермского края. Тело было найдено на реке Вижай, в 30 километрах от дюкера на реке Вильва. ...
+                        ]]></description>
+  <pubDate>Sun, 24 May 2009 18:40:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1243186205#2</guid>
+ </item>
+ <item>
+  <title>Поступать, как правильно ("The New York Times", США)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/249318.html</link>
+  <description><![CDATA[
+                        Вашингтон находится в муках все более самоублажающегося спора о том, должно ли продвижение прав человека и демократии играть центральную роль во внешней политике США. В разных частях света авторитарные лидеры наращивают уверенность в своих силах; сейчас не время для нас терять нашу. ...
+                        ]]></description>
+  <pubDate>Sun, 24 May 2009 14:10:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1243186205#3</guid>
+ </item>
+ <item>
+  <title>В Тегеране встретились президенты Ирана, Афганистана и Пакистана</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1738606.html</link>
+  <description><![CDATA[
+                        В Тегеране прошла встреча президентов Ирана, Афганистана и Пакистана. Махмуд Ахмадинеджад, Хамид Карзай и Асиф Али Зардари подписали по ее итогам декларацию, в которой говорится о стремлении трех стран сотрудничать в деле обеспечения безопасности в р ... ...
+                        ]]></description>
+  <pubDate>Sun, 24 May 2009 21:10:34 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1243186205#4</guid>
+ </item>
+ <item>
+  <title>Россия и Украина вступили в противоборство из-за своей общей истории</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/22May2009/time/history.html</link>
+  <description><![CDATA[
+                        Не успел затихнуть январский газовый конфликт между Украиной и Россией, как эти страны снова вступили в противоборство друг с другом. Последние события знаменуют собой обострение словесной войны между странами по поводу их тесно связанной истории. ...
+                        ]]></description>
+  <pubDate>Fri, 22 May 2009 16:40:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1243186205#5</guid>
+ </item>
+ <item>
+  <title>В Пермском крае нашли тело седьмого туриста, утонувшего при сплаве по реке</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/24may2009/tur.html</link>
+  <description><![CDATA[
+                        "Тело Светланы Мельковской было найдено примерно в 15:00 по местному времени в 30 км от дюкера, где переворачивались катамараны, ниже по течению реки Вильва", - сказал начальник пресс-службы МЧС России по Пермскому краю Валерий Тиунов. ...
+                        ]]></description>
+  <pubDate>Sun, 24 May 2009 20:38:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1243186205#6</guid>
+ </item>
+ <item>
+  <title>Пассажиры аварийно севшего в Краснодаре Ту-204 вылетели в Турцию</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/05/24/n_1365151.shtml</link>
+  <description><![CDATA[
+                        Пассажиры лайнера Ту-204, совершившего аварийную посадку в аэропорту Краснодара, вылетели в Турцию на другом самолете в 19.38 мск, сообщила представительница пресс-службы Главного управления МЧС России по Краснодарскому краю Дарья ... ...
+                        ]]></description>
+  <pubDate>Sun, 24 May 2009 21:11:31 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1243186205#7</guid>
+ </item>
+ <item>
+  <title>Эксперты перепрошили &quot;хакерские&quot; телефоны Nokia 1100</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/380097.php</link>
+  <description><![CDATA[
+                        Cпециалисты из Ultrascan приобрели копию уязвимой модели Nokia 1100 и сообщают, что смогли с её помощью успешно перехватить чужой mTAN. 	 ...
+                        ]]></description>
+  <pubDate>Fri, 22 May 2009 19:46:47 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1243186205#8</guid>
+ </item>
+ <item>
+  <title>В финале чемпионата России по баскетболу разразился судейский скандал</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/sport/2009/05/24/195841.html</link>
+  <description><![CDATA[
+                        Скандалом завершился третий матч финальной серии чемпионата страны по баскетболу между &laquo;Химками&raquo; и ЦСКА. Химчане, выступавшие на своей площадке, за три секунды до конца основного времени вели в счете и пробивали два штрафных броска. Карлос Дельфино поразил корзину соперника один раз, после чего... ...
+                        ]]></description>
+  <pubDate>Sun, 24 May 2009 19:58:41 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1243186205#9</guid>
+ </item>
+ <item>
+  <title>"Многим путь был еси ко спасению"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/56113/</link>
+  <description><![CDATA[
+                        Всегда меня занимал вопрос: как рождаются добро, добродетель? То ли это следствие врождённого чувства у человека, то ли приходит с родительским словом, то ли передаётся, как эстафета, от соприкосновения с духовно наполненным, благородным поводырём? То Тайны Божий... ...
+                        ]]></description>
+  <pubDate>Sun, 24 May 2009 21:30:12 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1243186205#10</guid>
+ </item>
+ <item>
+  <title>Западная Германия. 1946 год. </title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/253735/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/05/24/14471-205014-b4abd736eee32f405013beeb4d97bab0.gif><br /><br />Справа автомат по продаже почтовых марок. Надпись на плакате "Автомат по намачиванию почтовых марок." ...
+                        ]]></description>
+  <pubDate>Sun, 24 May 2009 20:50:14 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1243186205#11</guid>
+ </item>
+  </channel>
+ </rss>

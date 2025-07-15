@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 16 Oct 2009 17:00:06 +0400</pubDate>
+         <lastBuildDate>Fri, 16 Oct 2009 17:00:06 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Твердая рука и никакой демократии?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/newsforums.bbc.co.uk/ws/ru/thread.jspa?forumID=10087</link>
+  <description><![CDATA[
+                        Важно ли для вас, чтобы ваше мнение учитывалось властями? Как вы относитесь к идее необходимости "твердой руки"? ...
+                        ]]></description>
+  <pubDate>Fri, 16 Oct 2009 16:41:52 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1255698006#1</guid>
+ </item>
+ <item>
+  <title>Серб Георгиевич получил в России 8 лет за шпионаж в пользу США</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Society/Law/m.160787.html</link>
+  <description><![CDATA[
+                        Московский областной суд признал гражданина Сербии Александра Георгиевича в покушении на совершение госизмены и приговорил к 8 годам лишения свободы. Суд установил, что Георгиевич собирал сведения о российских военных комплексах "Арена", "Блокада", "Хризантема-С", "Искандер" и о ракете "Р-500".  ...
+                        ]]></description>
+  <pubDate>Fri, 16 Oct 2009 16:19:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1255698006#2</guid>
+ </item>
+ <item>
+  <title>Девиантный "Газпром" ("Украiнський Тиждень", Украина)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/253670.html</link>
+  <description><![CDATA[
+                        Лично меня в приватизации Одесского припортового завода поразило не решение конкурсной комиссии Фонда госимущества отменить результаты аукциона, принятое буквально за полчаса после того, как лицитатор торжественно объявил: "Продано!" ...
+                        ]]></description>
+  <pubDate>Fri, 16 Oct 2009 16:05:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1255698006#3</guid>
+ </item>
+ <item>
+  <title>В Самарской области произошел взрыв газа в жилом доме </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091016/17/17.html?id=1853559</link>
+  <description><![CDATA[
+                        В поселке Железнодорожный Самарской области произошел взрыв газа в жилом доме.   О пострадавших не сообщается.  По информации МЧС, полностью разрушены две квартиры двухэтажного дома.  На месте завала работают спасатели. ...
+                        ]]></description>
+  <pubDate>Fri, 16 Oct 2009 16:55:51 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1255698006#4</guid>
+ </item>
+ <item>
+  <title>Экологи поднимают вопрос о ядерных отходах</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/16Oct2009/lemonde/uran.html</link>
+  <description><![CDATA[
+                        Обнаружение десятков килограммов плутония на территории центра Комиссариата по ядерной энергии "Кадараш" и фильм о свалке обедненного урана в Сибири вызвали у экологов сомнения в способности французской ядерной индустрии справиться с отходами. ...
+                        ]]></description>
+  <pubDate>Fri, 16 Oct 2009 15:21:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1255698006#5</guid>
+ </item>
+ <item>
+  <title>Чавес зажег факел над крупнейшим в стране месторождением газа</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/16oct2009/pdvsa.html</link>
+  <description><![CDATA[
+                        Eni и Repsol обнаружили в Венесуэле гигантское месторождение газа. Оно выведет Венесуэлу по разведанным запасам природного газа на 4-е место в мире. ...
+                        ]]></description>
+  <pubDate>Fri, 16 Oct 2009 16:49:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1255698006#6</guid>
+ </item>
+ <item>
+  <title>На Украине у чиновников проверяют подлинность вузовских дипломов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/10/16/n_1414733.shtml</link>
+  <description><![CDATA[
+                        На Украине проверят подлинность дипломов о высшем образовании у всех руководителей центральных органов исполнительной власти и органов местного самоуправления. Эта задача возложена на главное управление по борьбе с организованной ... ...
+                        ]]></description>
+  <pubDate>Fri, 16 Oct 2009 16:55:59 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1255698006#7</guid>
+ </item>
+ <item>
+  <title>Ошибка программирования рентгеновского аппарата привела к облучению пациентов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/6a48b81/l/0L0Ssecuritylab0Bru0Cnews0C3866380Bphp/story01.htm</link>
+  <description><![CDATA[
+                        В результате ошибки, допущенной медиками при программировании компьютерного рентгеновского томографа, несколько сотен пациентов получили дозу радиации, в восемь раз превышающую допустимую. ...
+                        ]]></description>
+  <pubDate>Fri, 16 Oct 2009 15:18:01 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1255698006#8</guid>
+ </item>
+ <item>
+  <title>Гандбол нуждается в том, чтобы им кто-то заболел</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/sport/summer/2009/10/15/Zhenskiy_gandbol_perezhivaet_smenu_pokoleniy.phtml</link>
+  <description><![CDATA[
+                        С момента завоевания женской сборной России по гандболу серебряных медалей Олимпийских игр миновал год. И нужно констатировать, что за прошедшее время наша национальная команда заметно ослабла. Основная причина -- отсутствие достойной смены ушедшим на покой давним лидерам команды. Как подтверждение имеющихся проблем -- последний матч россиянок с командой Словакии.
+
+ ...
+                        ]]></description>
+  <pubDate>Fri, 16 Oct 2009 16:47:56 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1255698006#9</guid>
+ </item>
+ <item>
+  <title>Россия ждет разъяснений по новым планам США по  ПРО</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/627491-echo.html</link>
+  <description><![CDATA[
+                        
+                         <br><img src='http://www.echo.msk.ru/att/element-627491-picture-0.jpg?1255696539'><br>Об этом заявил в пятницу глава  МИД РФ Сергей Лавров...
+                          ...
+                        ]]></description>
+  <pubDate>Fri, 16 Oct 2009 16:34:00 +0400</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1255698006#10</guid>
+ </item>
+ <item>
+  <title>Пост № 260784</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/260784/#new</link>
+  <description><![CDATA[
+                        А новостей на сегодня больше нет! (вернее, и на завтра тоже)<br />
+<br />
+В общем, кто-то что-то у кого-то купил, кто-то кого-то заменил в должности, а тот, другой  -  первого и т.д. И случилась великая Оптимизация!<br />
+А в результате как-то так смешно получилось, что новостей по ТВ больше мы не увидим. Ну, кроме тех, "нужных" новостей, конечно.<br />
+Вот что, кроме всего прочего, стало известно "Коммерсанту" про РЕН-ТВ и "5-ый канал":<br />
+"По сведениям источников "Ъ", уже в 2010 году у РЕН  ...
+                        ]]></description>
+  <pubDate>Fri, 16 Oct 2009 16:35:48 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1255698006#11</guid>
+ </item>
+  </channel>
+ </rss>

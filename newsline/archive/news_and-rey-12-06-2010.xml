@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 12 Jun 2010 17:00:04 +0400</pubDate>
+         <lastBuildDate>Sat, 12 Jun 2010 17:00:04 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Мирный процесс в формате реалити-ТВ</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/life/2010/06/100612_reality_show_israel.shtml</link>
+  <description><![CDATA[
+                        12 молодых израильтян и палестинцев попадают на уединенную виллу с тем, чтобы под наблюдением десятков телекамер обсудить реалии арабо-израильского конфликта.  ...
+                        ]]></description>
+  <pubDate>Sat, 12 Jun 2010 16:47:40 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1276347604#1</guid>
+ </item>
+ <item>
+  <title>В Чечне убиты три боевика</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/War/Chechnya/m.178915.html</link>
+  <description><![CDATA[
+                        В Веденском районе Чечни уничтожены три боевика, сообщил глава республики Рамзан Кадыров. По его словам, группу боевиков сотрудники милиции и УФСБ обнаружили в лесном массиве. Кадыров добавил, что с места боя изъяты оружие, боеприпасы, взрывчатые вещества, перевязочные материалы, медикаменты. ...
+                        ]]></description>
+  <pubDate>Sat, 12 Jun 2010 16:30:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1276347604#2</guid>
+ </item>
+ <item>
+  <title>Очевидец о событиях в Оше</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/middle_asia/20100612/160551286.html</link>
+  <description><![CDATA[
+                        Власти Киргизии обратились к России за миротворческой помощью. Как сообщила журналистам глава временного правительства республики Роза Отунбаева, власти не справляются с ситуацией в стране и нуждаются в вводе военных сил для стабилизации положения.  ...
+                        ]]></description>
+  <pubDate>Sat, 12 Jun 2010 16:39:11 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1276347604#3</guid>
+ </item>
+ <item>
+  <title>Очевидец Алла Пятибратова - о событиях в Оше</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/2069525.html</link>
+  <description><![CDATA[
+                        Как сообщила журналистам глава временного правительства республики Роза Отунбаева, власти нуждаются в вводе военных сил для стабилизации положения ...
+                        ]]></description>
+  <pubDate>Sat, 12 Jun 2010 16:19:01 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1276347604#4</guid>
+ </item>
+ <item>
+  <title>S7 отменяет рейс из "Домодедово" в Ош</title>
+  <link>http://www.and-rey.ru/inc/go3.php/feedproxy.google.com/~r/rosbalt/~3/QwNyhNOsJeM/744903.html</link>
+  <description><![CDATA[
+                        Российский авиаперевозчик «Сибирь» отменяет намеченный на вечер рейс из Москвы в Ош. Об этом сообщила представитель перевозчика, передает Газета.
+
+
+
+ ...
+                        ]]></description>
+  <pubDate>Sat, 12 Jun 2010 16:51:00 +0400</pubDate>
+  <source url="http://feeds2.feedburner.com">Информационное агентство Росбалт</source>
+  <guid isPermaLink="false">1276347604#5</guid>
+ </item>
+ <item>
+  <title>Власти Ирана объявят о новых ядерных достижениях "в течение следующих нескольких месяцев"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/12jun2010/iranm.html</link>
+  <description><![CDATA[
+                        "В течение следующих нескольких месяцев Иран объявит о новых ядерных достижениях, связанных с производством топлива для своего тегеранского исследовательского реактора", - цитируют слова Али Акбара Салехи иранские СМИ. Дальнейших подробностей не сообщается. ...
+                        ]]></description>
+  <pubDate>Sat, 12 Jun 2010 16:57:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1276347604#6</guid>
+ </item>
+ <item>
+  <title>Напавшие на милиционеров в Новгороде были вооружены обрезом </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2010/06/12/n_1506696.shtml</link>
+  <description><![CDATA[
+                        Преступники, ранившие двух новгородских милиционеров были, предположительно, вооружены обрезом охотничьего ружья шестнадцатого калибра, сообщил представитель СКП.
+По словам источника, злоумышленников, вероятно было двое.
+Он уточнил, что ... ...
+                        ]]></description>
+  <pubDate>Sat, 12 Jun 2010 16:48:44 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1276347604#7</guid>
+ </item>
+ <item>
+  <title>Open Source открывает двери для хакеров</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/b14fd1e/l/0L0Ssecuritylab0Bru0Cnews0C394650A0Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Свободный доступ к коду Open Source-приложений облегчает хакерам задачу. К такому выводу, пришли авторы доклада, представленного на семинаре по экономике информационной безопасности. ...
+                        ]]></description>
+  <pubDate>Fri, 11 Jun 2010 09:55:17 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1276347604#8</guid>
+ </item>
+ <item>
+  <title>Чем опасен шашлык</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/03/diet/2010/06/11/CHyem_opasyen_shashl.phtml</link>
+  <description><![CDATA[
+                        Шашлык - самое вкусное и популярное летнее блюдо – может стать причиной серьезных заболеваний. Особенно осторожно нужно отнестись к выбору мяса беременным женщинам, детям и людям с хроническими болезнями желудочно-кишечного тракта. ...
+                        ]]></description>
+  <pubDate>Sat, 12 Jun 2010 16:30:00 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1276347604#9</guid>
+ </item>
+ <item>
+  <title>Около трехсот российских туристов, направляющихся в Хорватию, застряли в аэропорте Домодедово</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/687120-echo.html</link>
+  <description><![CDATA[
+                        
+                          Причиной стала поломка единственного самолета авиакомпании Заполярье......
+                          ...
+                        ]]></description>
+  <pubDate>Sat, 12 Jun 2010 16:35:00 +0400</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1276347604#10</guid>
+ </item>
+ <item>
+  <title>Пост № 279303</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/279303/#new</link>
+  <description><![CDATA[
+                        Если сегодня в связи с праздником кому-нибудь взбредет в голову провести опрос – какое дерево считать символом России, то, пожалуй, большинство ответит, что это береза. Дерево-ностальгия, прижавшись щекой к которому можно уронить слезу и изречь голосом Безрукова что-нибудь вроде «Эх, Россия-матушка…»<br />
+Но все-таки главное дерево России – лиственница. Она занимает 38% российских лесов (береза – лишь 13% ). Много ее на Дальнем Востоке, на Севере, в районах вечной мерзлоты. Это вообще самое мор ...
+                        ]]></description>
+  <pubDate>Sat, 12 Jun 2010 16:17:24 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25 (лет..?)</source>
+  <guid isPermaLink="false">1276347604#11</guid>
+ </item>
+  </channel>
+ </rss>

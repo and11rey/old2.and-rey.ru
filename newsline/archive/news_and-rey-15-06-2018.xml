@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 15 Jun 2018 17:35:02 +0300</pubDate>
+         <lastBuildDate>Fri, 15 Jun 2018 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Разделся и признался в любви: курьез на форуме Тимошенко
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/media-44462463</link>
+  <description><![CDATA[
+                        Молодой человек снял футболку перед Юлией Тимошенко на сцене форума "Новый курс Украины". ...
+                        ]]></description>
+  <pubDate>Fri, 15 Jun 2018 16:37:21 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1529073302#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Журналист Антон Красовский подал документы для выдвижения в мэры Москвы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/06/15/zhurnalist-anton-krasovskiy-podal-dokumenty-dlya-vydvizheniya-v-mery-moskvy</link>
+  <description><![CDATA[
+                        Журналист, директор благотворительного фонда «СПИД.Центр» Антон Красовский подал документы для регистрации кандидатом в мэры Москвы. Об сообщает «Интерфакс» со ссылкой на Мосгоризбирком. ...
+                        ]]></description>
+  <pubDate>Fri, 15 Jun 2018 17:09:13 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1529073302#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Путина обвиняют в том, что он использовал ЧМ, чтобы спрятать плохие новости: пенсионный возраст повышен в день открытия мундиаля
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/15Jun2018/telegraph/rus_3.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Оппозиционные фигуры высмеяли то, что Медведев выступил со своим объявлением в тот момент, когда Путин возглавлял ликование по поводу футбольной победы. Это очевидная попытка дистанцировать президента от непопулярных мер. ...
+                        ]]></description>
+  <pubDate>Fri, 15 Jun 2018 17:35:03 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1529073302#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Президент США утвердил пошлины на китайские товары
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29291944.html</link>
+  <description><![CDATA[
+                        Вашингтон оставляет за собой право на введение дополнительных пошлин, если Пекин пример ответные меры ...
+                        ]]></description>
+  <pubDate>Fri, 15 Jun 2018 15:36:18 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1529073302#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Египет проиграл Уругваю на флажке: онлайн-трансляция матча ЧМ-2018
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.mk.ru/sport/2018/06/15/egipet-urugvay-onlayntranslyaciya-matcha-chm2018.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Fri, 15 Jun 2018 17:09:44 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1529073302#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Российский Центробанк оставил ключевую ставку без изменения
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/finance/15jun2018/keyintrststays.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Такое решение было принято после решения правительства о повышении НДС и опережающего инфляцию роста цен на бензин в мае. Баланс рисков, сказано в сообщении регулятора, до конца следующего года сместился в сторону проинфляционных рисков. ...
+                        ]]></description>
+  <pubDate>Fri, 15 Jun 2018 17:28:11 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1529073302#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Совещание с постоянными членами Совета Безопасности
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/57796</link>
+  <description><![CDATA[
+                        Владимир Путин провёл совещание
+с постоянными членами Совета Безопасности.      ...
+                        ]]></description>
+  <pubDate>Fri, 15 Jun 2018 16:31:49 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1529073302#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Делягин назвал ужасающие цифры реального снижения доходов россиян
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/251/205219-delagin-nazval-uzasausie-cifry-realnogo-snizenia-dohodov-rossian</link>
+  <description><![CDATA[
+                        Экономист Михаил Делягин уличил министра экономического развития Максима Орешкина в неточности при озвучивании цифр по реальным доходам населения и росту инфляции. ...
+                        ]]></description>
+  <pubDate>Fri, 15 Jun 2018 17:32:11 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1529073302#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  15.06.2018 17:32 : Торговая война между США и Китаем вышел на новый виток
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2222274-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Дональд Трамп объявил о введении импортных пошлин для Китая. Речь идет о сумме 50 миллиардов долларов. В Вашингтоне считают, что Китай ворует американскую интеллектуальную и технологическую собственность и ведет другие нечестные практики в отношении США. Рейтер уточняет, что американские таможенники начнут собирать дополнительные пошлины с китайских товаров уже с 6-го июля.  
+
+В Китае уже пообещали немедленно дать симметричный ответ.
+ ...
+                        ]]></description>
+  <pubDate>Fri, 15 Jun 2018 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1529073302#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Набиуллина нашла плюсы для рынка труда от повышения пенсионного возраста
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/617152</link>
+  <description><![CDATA[
+                        Повышение пенсионного возраста в целом окажет положительное влияние на рынок труда, считает председатель ЦБ РФ Эльвира Набиуллина. ...
+                        ]]></description>
+  <pubDate>Fri, 15 Jun 2018 17:24:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1529073302#48</guid>
+ </item>
+  </channel>
+ </rss>

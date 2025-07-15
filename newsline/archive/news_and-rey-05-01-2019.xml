@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 05 Jan 2019 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sat, 05 Jan 2019 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Уроки английского языка Би-би-си: лучшее за 2018 год
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/learning-english-46680964</link>
+  <description><![CDATA[
+                        Какие уроки английского языка Русской службы Би-би-си оказались самыми популярными у интернет-пользователей? ...
+                        ]]></description>
+  <pubDate>Sat, 05 Jan 2019 17:04:22 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1546698901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  При сходе лавины в Сочи погибли двое туристов из Москвы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/01/05/pri-shode-laviny-v-sochi-pogibli-dvoe-turistov-iz-moskvy</link>
+  <description><![CDATA[
+                        Двое мужчин 1983 года рождения погибли днем 5 января при сходе лавины на горном курорте в Сочи, сообщает «Юга.ру» со ссылкой на Следственный комитет. ...
+                        ]]></description>
+  <pubDate>Sat, 05 Jan 2019 17:25:13 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1546698901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Почему с похмелья нам так сильно хочется секса
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/04Jan2019/bild/kater.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Того, кто накануне перебрал с алкоголем, зачастую мучает сексуальный голод. Секс-коуч Кристине Янсон знает, почему с похмелья мы так сильно хотим секса.  ...
+                        ]]></description>
+  <pubDate>Fri, 04 Jan 2019 16:22:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1546698901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Дагестане умер ребёнок, раненный пулей в новогоднюю ночь
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29692990.html</link>
+  <description><![CDATA[
+                        "Кавказский узел" сообщает, что когда трёхлетний мальчик наблюдал за салютом, неизвестный открыл стрельбу из боевого оружия ...
+                        ]]></description>
+  <pubDate>Sat, 05 Jan 2019 16:55:55 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1546698901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Стала известна причина смерти Криса Кельми - StarHit.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.starhit.ru/eksklusiv/stala-izvestna-prichina-smerti-krisa-kelmi-161122/</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 05 Jan 2019 17:00:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1546698901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Два человека погибли при сходе лавины на закрытой трассе в горах Сочи
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/05jan2019/sochi_deux.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Трое мужчин отправились на трассу, закрытую для катаний из-за возможного схода лавины, и ушли на территорию, где запрещено любое катание, спровоцировав лавину.  Под лавиной оказались два человека, а третий вызвал спасателей, которые извлекли пострадавших, но спасти их не удалось. ...
+                        ]]></description>
+  <pubDate>Sat, 05 Jan 2019 17:12:20 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1546698901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Google удалось вывести из-под налогообложения $22,7 млрд через Ирландию и Бермуды
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/post/435190/?utm_campaign=435190</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 05 Jan 2019 17:22:21 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1546698901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Телефонный разговор с Премьер-министром Израиля Биньямином Нетаньяху
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/59637</link>
+  <description><![CDATA[
+                        По инициативе израильской
+стороны состоялся телефонный разговор Владимира Путина с Премьер-министром
+Государства Израиль Биньямином Нетаньяху.      ...
+                        ]]></description>
+  <pubDate>Fri, 04 Jan 2019 14:05:09 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1546698901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Кульминационный год: Абэ заявил о решимости подписать в 2019-м мир с Россией
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/29/world/politics/211798-kulminacionnyj-god-abe-zaavil-o-resimosti-podpisat-v-2019-m-mir-s-rossiej</link>
+  <description><![CDATA[
+                        Японский премьер Синдзо Абэ заявил, что 2019-й станет кульминационным годом в части переговоров о мире между Москвой и Токио. ...
+                        ]]></description>
+  <pubDate>Sat, 05 Jan 2019 16:42:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1546698901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  05.01.2019 17:33 : 120 рейсов отменено в аэропорту Мюнхена. Более 70-ти вылетов оформляются с серьезным опозданием
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2346785-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Это произошло из-за сильного снегопада на юге Баварии, сообщает ТАСС. Не исключены дополнительные отмены и задержки рейсов, заявили в аэропорту. По данным онлайн-табло,  этим вечером запланированы два вылета из Мюнхена в Москву и один – в С.-Петербург. Статус этих рейсов пока не изменился.
+ ...
+                        ]]></description>
+  <pubDate>Sat, 05 Jan 2019 17:33:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1546698901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Исполняющим обязанности гендиректора "Анжи" стал Агарагимов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.sport-interfax.ru/645165</link>
+  <description><![CDATA[
+                        Исполняющим обязанности генерального директора махачкалинского футбольного клуба "Анжи" стал Абсалутдин Агарагимов, сообщает в субботу пресс-служба ФК. ...
+                        ]]></description>
+  <pubDate>Sat, 05 Jan 2019 17:06:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1546698901#48</guid>
+ </item>
+  </channel>
+ </rss>

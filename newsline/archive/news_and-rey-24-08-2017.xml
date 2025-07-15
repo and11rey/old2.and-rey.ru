@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 24 Aug 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Thu, 24 Aug 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Пожар в Ростове: погорельцы находят свидетельства поджога
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-41040473</link>
+  <description><![CDATA[
+                        На третьи сутки после пожара, уничтожившего десятки жилых домов, в Ростове-на-Дону, кажется, уже никто не сомневается: это был поджог. Свидетельства тому находят не только сами жители, но и изучающие обстоятельства произошедшего эксперты. ...
+                        ]]></description>
+  <pubDate>Thu, 24 Aug 2017 17:04:05 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1503585301#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Ваши задачи в Trello могут увидеть посторонние. Как от этого защититься?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/feature/2017/08/24/vashi-zadachi-v-trello-mogut-uvidet-postoronnie-kak-ot-etogo-zaschititsya</link>
+  <description><![CDATA[
+                        Основатель рекламного агентства Red Meteors Кирилл Никулин обратил внимание, что пользователи сервиса для планирования Trello часто не закрывают свои доски. В итоге они доступны через поисковики. ...
+                        ]]></description>
+  <pubDate>Thu, 24 Aug 2017 17:15:47 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1503585301#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Проблема Украины с туберкулезом - тикающая бомба для Европы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/24Aug2017/politico/ticking.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Взятие под контроль туберкулеза, этого переносимого по воздуху заболевания, тесно связанного с миграцией, нестабильностью и нищетой, получило особую важность на фоне того, как Украина стремится к интеграции в Европу благодаря безвизовому режиму. ...
+                        ]]></description>
+  <pubDate>Thu, 24 Aug 2017 17:35:02 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1503585301#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Суд в Испании освободил еще одного подозреваемого по делу о теракте
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28694791.html</link>
+  <description><![CDATA[
+                        Задержанного отпустили под подписку о невыезде из-за отсутствия доказательств ...
+                        ]]></description>
+  <pubDate>Thu, 24 Aug 2017 16:10:58 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1503585301#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Путин назвал «хронической» проблему контрафакта в легкой промышленности - РБК
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNFKlKqBiJJB8FJoL3Opcs55d5545Q&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52780218982578&amp;ei=F-SeWfjDBomx6ASLhDU&amp;url=http://www.rbc.ru/politics/24/08/2017/599ed6029a794730df3ece2e</link>
+  <description><![CDATA[
+                        Владимир Путин заявил, что спустя четыре года после принятия мер по борьбе с контрафактом он все еще занимает 33% от рынка легкой промышленности. Это несет «явную угрозу гражданам», уверен президент. Фото: Валерий Шарифулин / ТАСС. Президент Владимир Путин заявилВ ... ...
+                        ]]></description>
+  <pubDate>Thu, 24 Aug 2017 16:53:23 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1503585301#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В России открыли первое северокорейское туристическое агентство, безопасность гарантировали ядерным оружием
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/24aug2017/nkorean.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Советник посольства КНДР Ким Сен Хун заверил, что ядерные силы страны полностью гарантируют российским туристам безопасность на Корейском полуострове. Когда на презентации напомнили о судьбе американского студента, вернувшегося из КНДР в коме и через неделю скончавшегося, представитель компании посоветовал "уважать и соблюдать закон страны". ...
+                        ]]></description>
+  <pubDate>Thu, 24 Aug 2017 17:32:22 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1503585301#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Обзор Psion Organiser II XP с внутренностями и Тетрисом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/291309/</link>
+  <description><![CDATA[
+                        
+
+Карманный компьютер Psion Organizer II XP был выпущен одноименной британской компанией Psion в 1986 году. Он стал успешным представителем линейки Psion Organizer, в которой первенцем был Organizer I, сошедший с конвейера в 1984 году. Последним представителем серии стал Organizer II LZ появившийся в продаже в 1989.
+Psion Organizer часто титулуется первым в мире PDA (то, что у нас называлось КПК) и хотя это утверждение на мой взгляд спорно, Органайзеры действительно имели уникальные особенности  ...
+                        ]]></description>
+  <pubDate>Thu, 24 Aug 2017 16:22:36 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1503585301#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Совещание по развитию лёгкой промышленности
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/55405</link>
+  <description><![CDATA[
+                        В рамках рабочей поездки в Рязань Владимир Путин провёл совещание о мерах по развитию лёгкой промышленности в Российской Федерации. Обсуждались, в частности, перспективы развития отрасли и пути борьбы с производством контрафактной продукции.      ...
+                        ]]></description>
+  <pubDate>Thu, 24 Aug 2017 16:19:45 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1503585301#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Ибрагимович вернулся в «Манчестер Юнайтед»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/29/lifestyle/sport/182339-ibragimovic-vernulsa-v-mancester-unajted</link>
+  <description><![CDATA[
+                        Шведский нападающий Златан Ибрагимович вернулся в «Манчестер Юнайтед». Контракт с ним рассчитан на один год. ...
+                        ]]></description>
+  <pubDate>Thu, 24 Aug 2017 17:20:24 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1503585301#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  24.08.2017 17:31 : В результате природных пожаров в Волгоградской области сгорели 18 жилых домов
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2043030-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Всего огонь уничтожил порядка 150-ти строений. Об этом сообщил губернатор Андрей Бочаров. Он пообещал оказать пострадавшим необходимую помощь. В результате пожаров погибла пожилая пара. Следственный комитет возбудил уголовное дело о халатности местных чиновников.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 24 Aug 2017 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1503585301#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Нижне-Бурейская ГЭС из-за ЧП превысила нормативы сброса воды
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/576261</link>
+  <description><![CDATA[
+                        На Нижне-Бурейской ГЭС ПАО "РусГидро" поврежден один из затворов станции, из-за аварии вода сбрасывается с превышением нормативов. ...
+                        ]]></description>
+  <pubDate>Thu, 24 Aug 2017 17:18:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1503585301#48</guid>
+ </item>
+  </channel>
+ </rss>

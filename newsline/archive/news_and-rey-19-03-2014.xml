@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 19 Mar 2014 17:05:02 +0400</pubDate>
+         <lastBuildDate>Wed, 19 Mar 2014 17:05:02 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  В Крыму задержали командующего ВМС Украины
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/World/Europe/Ukraine/m.226925.html</link>
+  <description><![CDATA[
+                        В Крыму задержали исполняющего обязанности командующего военно-морских сил Украины Сергея Гайдука. Его обвиняют в том, что он "транслировал в воинские части Украины пришедший из Киева приказ применить оружие в отношении мирных граждан". Во вторник утром около 200 боевиков "сил самообороны Крыма" захватили штаб ВМС в Севастополе. ...
+                        ]]></description>
+  <pubDate>Wed, 19 Mar 2014 16:11:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1395234302#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Гарибашвили ответил на критические вопросы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/sngbaltia/20140319/218736356.html</link>
+  <description><![CDATA[
+                        Премьер-министр Грузии Ираклий Гарибашвили встретился со студентами, которые задавали ему вопросы по целому ряду тем, начиная с финансирования сферы образования и компетенции некоторых министров, и заканчивая трудовыми правами, проектами крупных ГЭС и темой культурного наследия. ...
+                        ]]></description>
+  <pubDate>Wed, 19 Mar 2014 16:44:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1395234302#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Крыму задержан глава украинских ВМС - Утро.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNHyvKZW-FaYEh5Gkig3zq3CClAA2Q&amp;cid=c3a7d30bb8a4878e06b80cf16b898331&amp;url=http://www.utro.ru/articles/2014/03/19/1183272.shtml</link>
+  <description><![CDATA[
+                        Сотрудники Прокуратуры Севастополя задержали командующего Военно-морскими силами Украины контр-адмирала Сергея Гайдука. В настоящее время он находится за пределами территории штаба ВМС, которую покинул в сопровождении группы офицеров. "Сергей ГайдукВ ... ...
+                        ]]></description>
+  <pubDate>Wed, 19 Mar 2014 16:56:26 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1395234302#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Путин внес в Госдуму на ратификацию договор о присоединении Крыма к России
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/19mar2014/vnes.html</link>
+  <description><![CDATA[
+                        Парламентарии ждали этого момента с нетерпением, спикер Госдумы Сергей Нарышкин анонсировал: президент внесет пакет документов "с минуты на минуту", и не ошибся. ...
+                        ]]></description>
+  <pubDate>Wed, 19 Mar 2014 17:04:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1395234302#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Как мы управляем конфигурациями в Pics.io
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/post/216367/</link>
+  <description><![CDATA[
+                        
+В конце 2012 мы с ребятами собрались сделать сумасшедшую штуку – засунуть в браузер RAW конвертер, фотошоп и добавить туда возможность совместной работы над фотографиями. С технической стороны мы практически все проверили: технологии, которые позволяли все это воплотить, были сырыми, иногда требовали включения их в настройках браузера… но они были. Мы назвали это Pics.io и начали.
+
+У нас была пачка прототипов/proof-of-concept, простыни кода с огромным количеством хардкодов. Мы решили, что нужно ...
+                        ]]></description>
+  <pubDate>Wed, 19 Mar 2014 16:11:29 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1395234302#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Москва вошла в топ-10 городов с самыми дорогими офисными небоскребами
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/realty/city/2014/03/19/Moskva_voshla_v_top_.phtml</link>
+  <description><![CDATA[
+                        Российская столица заняла десятое место в рейтинге мировых бизнес-столиц в рейтинге инвестиционной стоимости офисных площадей (capital value), расположенных на верхних этажах небоскребов мира. ...
+                        ]]></description>
+  <pubDate>Wed, 19 Mar 2014 16:56:42 +0400</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1395234302#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  19.03.2014 17:01 : Владимир Путин внес в Госдуму пакет документов о принятии Крыма в состав России и законопроект о создании новых регионов
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1282728-echo.html</link>
+  <description><![CDATA[
+                        
+
+Чуть ранее сегодня спикер Сергей Нарышкин предложил провести этим вечером дополнительное пленарное заседание для рассмотрения этих документов. Предложение тут же было одобрено.
+ ...
+                        ]]></description>
+  <pubDate>Wed, 19 Mar 2014 17:01:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1395234302#32</guid>
+ </item>
+  </channel>
+ </rss>

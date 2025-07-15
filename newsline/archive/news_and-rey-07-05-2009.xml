@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 07 May 2009 17:00:12 +0400</pubDate>
+         <lastBuildDate>Thu, 07 May 2009 17:00:12 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Радио: больше музыки, меньше разговоров?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/newsforums.bbc.co.uk/ws/ru/thread.jspa?forumID=8788</link>
+  <description><![CDATA[
+                        Согласно опросу ВЦИОМ, российские радиослушатели предпочитают музыку и новости "разговорному жанру". А вы слушаете радио? Какие радио-жанры предпочитаете вы?  ...
+                        ]]></description>
+  <pubDate>Thu, 07 May 2009 15:59:08 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1241701212#1</guid>
+ </item>
+ <item>
+  <title>Велогонщик российской команды пойман на допинге</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/m.150860.html</link>
+  <description><![CDATA[
+                        Австрийский велогонщик Кристиан Пфаннбергер, заявленный за российскую команду "Катюша" для участия в престижной многодневке "Джиро д'Италия", уличен в применении допинга. Положительный результат дала допинг-проба "А", взятая в рамках внесоревновательного контроля.  ...
+                        ]]></description>
+  <pubDate>Thu, 07 May 2009 16:41:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1241701212#2</guid>
+ </item>
+ <item>
+  <title>Медведев выходит из тени Путина и частично берет под контроль сферу внешней политики ("Bloomberg", США)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/248953.html</link>
+  <description><![CDATA[
+                        Год назад вступление в должность российского президента Дмитрия Медведева сопровождалось разговорами о том, что он выполняет лишь функции 'местоблюстителя' для своего предшественника Владимира Путина. Сегодня, к первой годовщине пребывания на посту президента,  он сумел обозначить собственные сферы влияния в рамках путинской системы власти. ...
+                        ]]></description>
+  <pubDate>Thu, 07 May 2009 16:23:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1241701212#3</guid>
+ </item>
+ <item>
+  <title>Европейский центральный банк снизил кредитную ставку</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1623500.html</link>
+  <description><![CDATA[
+                        Европейский центральный банк снизил базовую кредитную ставку до рекордно низкой отметки - 1 процент.Эта мера призвана стимулировать экономику 16 стран еврозоны.Ранее Еврокомиссия заявила, что Европа находится в самой глубокой рецессии со времен Второ ... ...
+                        ]]></description>
+  <pubDate>Thu, 07 May 2009 16:38:57 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1241701212#4</guid>
+ </item>
+ <item>
+  <title>Восточное партнерство без России</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/07May2009/zeit/partnerstvo.html</link>
+  <description><![CDATA[
+                        7 мая в Праге будет решаться судьба программы ЕС под названием "Восточное партнерство". Проект заранее таит в себе конфликты. "Джентльменское соглашение" с последним диктатором Европы показывает, какие вызовы скрывает новая европейская программа. ...
+                        ]]></description>
+  <pubDate>Thu, 07 May 2009 16:36:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1241701212#5</guid>
+ </item>
+ <item>
+  <title>Российские бомбардировщики отлетали 15 часов над Арктикой под присмотром шести самолетов НАТО</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/07may2009/tu95mcand6.html</link>
+  <description><![CDATA[
+                        Два стратегических ракетоносца ВВС РФ успешно выполнили полет по плану воздушного патрулирования над акваторией Норвежского моря и Северного Ледовитого океана. Полеты российской авиации контролировали истребители Норвегии, Дании и Великобритании. ...
+                        ]]></description>
+  <pubDate>Thu, 07 May 2009 16:42:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1241701212#6</guid>
+ </item>
+ <item>
+  <title>Источник: тело Ленина может быть отправлено в Минск</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/05/07/n_1359627.shtml</link>
+  <description><![CDATA[
+                        Тело Владимира Ленина может быть перевезено из московского Мавзолея на Красной площади в Минск, сообщает ИА "Новый Регион". 
+Источники "Нового региона" в окружении белорусского лидера Александра Лукашенко сообщили, что ... ...
+                        ]]></description>
+  <pubDate>Thu, 07 May 2009 16:55:29 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1241701212#7</guid>
+ </item>
+ <item>
+  <title>Intel и Novell займутся продвижением ОС  Moblin</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/379128.php</link>
+  <description><![CDATA[
+                        Компании Intel и Novell подписали соглашение о совместном продвижении мобильной операционной системы Moblin, которая работает на базе ОС Linux.	 ...
+                        ]]></description>
+  <pubDate>Thu, 07 May 2009 15:24:08 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1241701212#8</guid>
+ </item>
+ <item>
+  <title>Российские ученые создали тесты для выявления свиного гриппа</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/health/2009/05/07/165140.html</link>
+  <description><![CDATA[
+                        Российские ученые из ЦНИИ эпидемиологии разработали тестовые системы для выявления вируса гриппа А/H1N1, ранее известного как "свиной грипп" .  О случаях инфицирования людей в Мексике и США неизвестным ранее штаммом вируса гриппа Всемирная организация здравоохранения сообщила в конце апреля. О... ...
+                        ]]></description>
+  <pubDate>Thu, 07 May 2009 16:51:40 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1241701212#9</guid>
+ </item>
+ <item>
+  <title>Общественность призывает власть недопустить шествие извращенцев</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/55569/</link>
+  <description><![CDATA[
+                        Общественность призывает власть недопустить шествие извращенцев ...
+                        ]]></description>
+  <pubDate>Thu, 07 May 2009 17:00:23 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1241701212#10</guid>
+ </item>
+ <item>
+  <title>Цитата #403342</title>
+  <link>http://www.and-rey.ru/inc/go3.php/bash.org.ru/quote/403342</link>
+  <description><![CDATA[
+                        RS_Guardian: поставь соляру<br>ТwicеBоrned: нафиг?<br>RS_Guardian: а нафиг гента?<br>ТwicеBоrned: у ней принцип построения системы рульный<br>RS_Guardian: ну вот и соляра тоже чисто поржать ...
+                        ]]></description>
+  <pubDate>Thu, 07 May 2009 10:13:01 +0400</pubDate>
+  <source url="http://bash.org.ru">bash.org.ru — Цитатник Рунета</source>
+  <guid isPermaLink="false">1241701212#11</guid>
+ </item>
+  </channel>
+ </rss>

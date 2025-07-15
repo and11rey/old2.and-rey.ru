@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 29 Sep 2009 17:00:07 +0400</pubDate>
+         <lastBuildDate>Tue, 29 Sep 2009 17:00:07 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Побочный эффект доброты</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/interactivity/2009/09/090929_blog_belyi_help.shtml</link>
+  <description><![CDATA[
+                        Недавно на личном опыте удалось убедиться в достоверности русской мудрости: не делай добра – не получишь зла.  ...
+                        ]]></description>
+  <pubDate>Tue, 29 Sep 2009 16:14:27 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1254229207#1</guid>
+ </item>
+ <item>
+  <title>В Екатеринбурге задержан правозащитник</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/Politzeki/m.157962.html</link>
+  <description><![CDATA[
+                        В Екатеринбурге задержан адвокат, эксперт фонда "В защиту прав заключенных" Валерий Шухардин. Его обвиняют в нападении на офицера милиции в зале суда. Адвокат присутствовал на процессе по делу правозащитника Соколова. ...
+                        ]]></description>
+  <pubDate>Tue, 29 Sep 2009 16:26:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1254229207#2</guid>
+ </item>
+ <item>
+  <title>Сталин, Неруда и Путин: одна ложь на всех </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/253093.html</link>
+  <description><![CDATA[
+                        Коммунисты - бывшие, старые, нынешние - никогда не меняются, они вечно остаются теми же обожателями Сталина и его кровавых боен. Из совсем недавних тому подтверждений - чрезмерное дружелюбие, которое в последние дни Россия демонстрирует Ирану. ...
+                        ]]></description>
+  <pubDate>Tue, 29 Sep 2009 16:19:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1254229207#3</guid>
+ </item>
+ <item>
+  <title>В Москве похоронен режиссер Иван Дыховичный</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20090929/17/17.html?id=1839182</link>
+  <description><![CDATA[
+                        В Москве на Новодевичьем кладбище во вторник похоронен известный российский режиссер Иван Дыховичный.  Отпевание прошло в Успенском соборе Новодевичьего монастыря. Проститься с Дыховичным пришли тысячи человек. Режиссер скончался в воскресенье на 62-м году жизни после тяжелой болезни. Среди известных его работ - фильмы "Прорва", "Черный монах", "Копейка".  Дыховичный работал также над документальными кинолентами, участвовал в популярных телепроектах. ...
+                        ]]></description>
+  <pubDate>Tue, 29 Sep 2009 16:00:07 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1254229207#4</guid>
+ </item>
+ <item>
+  <title>США признают Хамида Карзая лидером Афганистана, несмотря на обвинения в подлоге результатов голосования</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/29Sep2009/times/karzai.html</link>
+  <description><![CDATA[
+                        Белый дом признал Карзая победителем на выборах в Афганистане, несмотря на подозрения, что до 20% избирательных бюллетеней были поддельными. Это решение приведет к усилению давления на Обаму в связи с дальнейшей перегруппировкой американских войск. ...
+                        ]]></description>
+  <pubDate>Tue, 29 Sep 2009 15:49:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1254229207#5</guid>
+ </item>
+ <item>
+  <title>Социологи исследовали нерелигиозных американцев</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/religy/29sep2009/americans.html</link>
+  <description><![CDATA[
+                        Таких людей в США насчитывается около 34 млн. Опрос, проведенный учеными Тринити-колледжа в Хартфорте, показал, что большинство нерелигиозных американцев - молодые мужчины, при этом многие из них имеют ирландские корни. ...
+                        ]]></description>
+  <pubDate>Tue, 29 Sep 2009 16:51:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1254229207#6</guid>
+ </item>
+ <item>
+  <title>Microsoft бесплатно заменит Vista на XP</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/386008.php</link>
+  <description><![CDATA[
+                        Корпорация Microsoft объявила о вступлении в силу на территории России программы бесплатного даунгрейда домашних редакций операционной системы Windows Vista. 	 ...
+                        ]]></description>
+  <pubDate>Tue, 29 Sep 2009 15:28:59 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1254229207#7</guid>
+ </item>
+ <item>
+  <title>Музыкальный театр имени Станиславского и Немировича-Данченко выстрелил «Вертером»</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/afisha/theatre/2009/09/28/Verter.phtml</link>
+  <description><![CDATA[
+                        Опера Жюля Массне в МАМТе поставлена рационально и умно. Первую половину зритель почти скучает. Зато во второй не сводит со сцены глаз: так точно расставили смысловые акценты в опере на знаменитый сюжет Гете режиссер Михаил Бычков и сценограф Эмиль Капелюш.   
+
+ ...
+                        ]]></description>
+  <pubDate>Tue, 29 Sep 2009 16:54:05 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1254229207#8</guid>
+ </item>
+ <item>
+  <title>К убийству главы Хасавюртовского района Алимсултана Алхаматова могут быть причастны пять человек</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/623501-echo.html</link>
+  <description><![CDATA[
+                        
+                         Об этом сообщил  руководитель столичного управления Следственного комитета Анатолий Багмет...
+                          ...
+                        ]]></description>
+  <pubDate>Tue, 29 Sep 2009 16:32:00 +0400</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1254229207#9</guid>
+ </item>
+ <item>
+  <title>Пост № 259830</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/259830/#new</link>
+  <description><![CDATA[
+                        В свете последних постов, я решил сделать следующий шаг. <br />
+Это должен быть очень интересный пост, какая-то умопомрачительная новость, разорвавшая сегодня интернеты, как тузик тельняшку, но мне так лень ее искать, правда. Давайте, вы сами просмотрите последние новости здесь, здесь, а ещё здесь, и вот здесь тоже можете, а потом расскажете, как там.<br />
+Нет, правда. <br />
+<br />
+P.S. Все, кто хотел сегодня опубликовать пост со ссылкой на очередную прелюбопытнейшую новость с ленты.ру и проча ...
+                        ]]></description>
+  <pubDate>Tue, 29 Sep 2009 15:16:45 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1254229207#10</guid>
+ </item>
+  </channel>
+ </rss>

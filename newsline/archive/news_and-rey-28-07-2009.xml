@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 28 Jul 2009 17:00:04 +0400</pubDate>
+         <lastBuildDate>Tue, 28 Jul 2009 17:00:04 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Ученые: молочные продукты продлевают жизнь</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/science/2009/07/090728_dairy_life.shtml</link>
+  <description><![CDATA[
+                        Дети, которые употребляют много молочных продуктов, живут дольше, свидетельствует исследование, проведенное британскими и австралийскими учеными. ...
+                        ]]></description>
+  <pubDate>Tue, 28 Jul 2009 15:36:09 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1248786004#1</guid>
+ </item>
+ <item>
+  <title>Россия предоставила ЕС данные о войне в Осетии</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/World/Europe/Georgia/m.154645.html</link>
+  <description><![CDATA[
+                        Россия предоставила миссии ЕС по расследованию фактов, связанных с событиями на Кавказе в августе 2008 года, развернутые материалы по политическим, юридическим и военным аспектам тех событий. ...
+                        ]]></description>
+  <pubDate>Tue, 28 Jul 2009 16:07:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1248786004#2</guid>
+ </item>
+ <item>
+  <title>Российская экономика и российская мощь ("Stratfor", США)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/251097.html</link>
+  <description><![CDATA[
+                        Визит вице-президента Джо Байдена в Грузию и на Украину частично ответил на вопрос о том, как прошли переговоры во время визита президента США Барака Обамы в Россию, прошедшего в начале июля. Тот факт, что визит Байдена вообще случился, подтверждает приверженность США принципу, что у России нет права на сферу влияния в этих странах или где-либо еще на территории бывшего Советского Союза. ...
+                        ]]></description>
+  <pubDate>Tue, 28 Jul 2009 16:18:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1248786004#3</guid>
+ </item>
+ <item>
+  <title>Любовь к Москве, которой больше нет</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/1787163.html</link>
+  <description><![CDATA[
+                        В Музее архитектуры представили доклад с красноречивым названием "Московское архитектурное наследие: точка невозврата". ...
+                        ]]></description>
+  <pubDate>Tue, 28 Jul 2009 15:48:34 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1248786004#4</guid>
+ </item>
+ <item>
+  <title>Пищевые красители "могут помочь в лечении спинного мозга, но... пациенты посинеют"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/28Jul2009/times/bbg.html</link>
+  <description><![CDATA[
+                        В ходе опытов над лабораторными крысами выяснилось, что краситель "Кумасси" (бриллиантовый синий G - BBG) позволяет снять воспаление в спинном мозге и значительно улучшает процесс реабилитации после травмы. ...
+                        ]]></description>
+  <pubDate>Tue, 28 Jul 2009 16:59:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1248786004#5</guid>
+ </item>
+ <item>
+  <title>Объявленный в розыск ректор уральского вуза сам позвонил в РУВД</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/28jul2009/rektor_.html</link>
+  <description><![CDATA[
+                        Ректор Уральского финансово-юридического института Владислав Назаров позвонил, чтобы договориться о встрече со дознователем. Его подозревают в угрозе убийством. Ректор был объявлен в розыск за неявку по требованию следователя и теперь может быть арестован. ...
+                        ]]></description>
+  <pubDate>Tue, 28 Jul 2009 16:53:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1248786004#6</guid>
+ </item>
+ <item>
+  <title>Британия выводит войска из Ирака в Кувейт</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/07/28/n_1387464.shtml</link>
+  <description><![CDATA[
+                        Подразделения британской армии, охраняющие на юге Ирака нефтяные месторождения, к концу этого месяца могут быть выведены в соседний Кувейт. Об этом сообщил представитель британского посольства в Ираке Джаввад Саед.
+По его словам, ... ...
+                        ]]></description>
+  <pubDate>Tue, 28 Jul 2009 16:46:09 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1248786004#7</guid>
+ </item>
+ <item>
+  <title>Российские военные  подключатся к интернет-провайдерам</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/383026.php</link>
+  <description><![CDATA[
+                        Минобороны собирается перевести армию на общедоступные системы связи — инфраструктуру гражданских сотовых операторов и интернет-провайдеров. 	 ...
+                        ]]></description>
+  <pubDate>Tue, 28 Jul 2009 12:32:56 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1248786004#8</guid>
+ </item>
+ <item>
+  <title>Женщины-боксеры нацелились на Олимпиаду</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/sport/boxing/2009/07/28/ZHyenshcinyy_boksyer.phtml</link>
+  <description><![CDATA[
+                        Определены три весовые категории у женщин-боксеров, которые могут быть представлены на Олимпиаде в Лондоне в 2012 году. Но окончательное решение о включении женского бокса в программу Игр примет Исполком МОК в октябре. ...
+                        ]]></description>
+  <pubDate>Tue, 28 Jul 2009 16:32:24 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1248786004#9</guid>
+ </item>
+ <item>
+  <title>Кремль (сознательно?) теряет постсоветское пространство</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/58327/</link>
+  <description><![CDATA[
+                        Кремль (сознательно?) теряет постсоветское пространство ...
+                        ]]></description>
+  <pubDate>Tue, 28 Jul 2009 16:50:00 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1248786004#10</guid>
+ </item>
+ <item>
+  <title>Martin Wilson</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/256783/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/07/28/26791-163534-d38535af3b685c09b61989b92d058045.jpg><br /><br />Присмотритесь к номерам кадров. И никакого фотошопа! Ну и еще немного фотографий Мартина Уильсона. ...
+                        ]]></description>
+  <pubDate>Tue, 28 Jul 2009 16:35:34 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1248786004#11</guid>
+ </item>
+  </channel>
+ </rss>

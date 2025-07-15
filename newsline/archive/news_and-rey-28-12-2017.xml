@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 28 Dec 2017 17:35:03 +0300</pubDate>
+         <lastBuildDate>Thu, 28 Dec 2017 17:35:03 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  YouTube извинился за блокировку видеоролика Навального
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/news-42501721</link>
+  <description><![CDATA[
+                        YouTube разблокировал видеообращение Алексея Навального с анонсом общероссийской акции протеста 28 января. Сервис объяснил блокировку тем, что ссылки в описании видео были ошибочно признаны спамом, и извинился за свои действия. ...
+                        ]]></description>
+  <pubDate>Thu, 28 Dec 2017 16:15:23 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1514471703#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Facebook заблокировал аккаунты Рамзана Кадырова. К этому есть вопросы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/feature/2017/12/28/facebook-zablokiroval-akkaunty-ramzana-kadyrova-k-etomu-est-voprosy</link>
+  <description><![CDATA[
+                        23 декабря компания Facebook заблокировала аккаунты главы Чечни Рамзана Кадырова в инстаграме и фейсбуке. Facebook заявила, что компании «стало известно» об аккаунтах «человека, внесенного в [санкционный] список», который ведет Минфин США. Из-за этого «у Facebook появилось юридическое обязательство удалить эти аккаунты», добавили в компании. И поступок соцсети, и ее комментарий оставляет вопросы.  ...
+                        ]]></description>
+  <pubDate>Thu, 28 Dec 2017 17:01:18 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1514471703#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Документы проливают свет на поразительные успехи Северной Кореи в создании ракет морского базирования
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/28Dec2017/wp/northkorea.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Некоторые советские разработки вновь появляются на поразительно сложных технически ракетах, оказавшихся на северокорейских пусковых площадках. Документы из КБ имени Макеева дают новые ключи к разгадке происхождения этих технических достижений. ...
+                        ]]></description>
+  <pubDate>Thu, 28 Dec 2017 17:35:05 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1514471703#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Леонид Волков вышел на свободу после 30 суток административного ареста
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28943915.html</link>
+  <description><![CDATA[
+                        Оппозиционера обвинили в нарушении порядка проведения митинга в конце сентября ...
+                        ]]></description>
+  <pubDate>Thu, 28 Dec 2017 16:27:00 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1514471703#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 28 Dec 2017 17:35:06 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1514471703#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Байкал мельчает: к 1 января уровень воды в озере опустится ниже минимальной отметки
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/28dec2017/baikal.html?utm_source=rss</link>
+  <description><![CDATA[
+                        "Нижняя граница уровня воды в Байкале по постановлению правительства составляет 456 метров по тихоокеанской отметке. Этот уровень зафиксирован сейчас. И уже к 1 января мы ожидаем, что этот уровень будет на 1 см ниже допустимого", - пояснил глава Гидрометцентра России Роман Вильфанд. ...
+                        ]]></description>
+  <pubDate>Thu, 28 Dec 2017 17:22:54 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1514471703#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Правда о лунной ракете Сатурн-5 (критика домыслов д.ф.-м.н. Попова)
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/296921/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=296921</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Thu, 28 Dec 2017 17:05:06 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1514471703#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Встреча с главой компании «Аэрофлот» Виталием Савельевым
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/56519</link>
+  <description><![CDATA[
+                        Владимир Путин провёл рабочую встречу с генеральным
+директором публичного акционерного общества «Аэрофлот – Российские
+авиалинии» Виталием Савельевым. Обсуждались итоги работы компании
+в текущем году, ситуация на рынке авиаперевозок, дальнейшие
+планы по развитию холдинга.      ...
+                        ]]></description>
+  <pubDate>Thu, 28 Dec 2017 15:32:30 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1514471703#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Порошенко назвал условия возобновления закупок российского газа
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/251/world/economics/190869-porosenko-nazval-uslovia-vozobnovlenia-zakupok-rossijskogo-gaza</link>
+  <description><![CDATA[
+                        Президент Украины Петр Порошенко в четверг допустил возможность закупки газа из России. ...
+                        ]]></description>
+  <pubDate>Thu, 28 Dec 2017 17:15:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1514471703#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  28.12.2017 17:31 : В Нижнем Новгороде вышел из-под ареста глава предвыборного штаба Навального Леонид Волков
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2119266-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Он был признан виновным в организации несанкционированного митинга в Нижнем Новгороде в конце сентября. Стоит отметить, что эта акция в итоге не состоялась. В начале октября московский суд арестовал Волкова на 20 суток, но через три дня решение было отменено, а дело направлено в нижегородский суд. 1-го декабря Волков был приговорен к 30-ти суткам ареста, из которых были вычтены дни уже отбытого наказания.
+ ...
+                        ]]></description>
+  <pubDate>Thu, 28 Dec 2017 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1514471703#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Оппозиционер Волков вышел из нижегородского спецприемника
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/593886</link>
+  <description><![CDATA[
+                        Глава штаба оппозиционера Алексея Навального Леонид Волков в четверг вышел на свободу после отбытия административного ареста в спецприемнике Нижнего Новгорода за призывы к участию в несанкционированных митингах. ...
+                        ]]></description>
+  <pubDate>Thu, 28 Dec 2017 17:23:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1514471703#48</guid>
+ </item>
+  </channel>
+ </rss>

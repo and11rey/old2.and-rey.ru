@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 18 Aug 2009 17:00:12 +0400</pubDate>
+         <lastBuildDate>Tue, 18 Aug 2009 17:00:12 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Архив радиопередач Русской службы Би-би-си</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/indepth/radio_archives.shtml</link>
+  <description><![CDATA[
+                        Архив исторических звукозаписей и лучших радиопередач Русской службы за последние 45 лет. ...
+                        ]]></description>
+  <pubDate>Tue, 18 Aug 2009 16:18:47 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1250600412#1</guid>
+ </item>
+ <item>
+  <title>"Сухой" подписал контракт с Минобороны на поставку истребителей</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/War/Mil_spending/m.155712.html</link>
+  <description><![CDATA[
+                        Замминистра обороны Владимир Поповкин и гендиректор компании "Сухой" Михаил Погосян подписали в рамках авиасалона МАКС-2009 госконтракты на поставку Вооруженным Силам 64 истребителей. ВВС получат 48 истребителей Су-35С, 12 - Су-27СМ и четыре - Су-30М2. ...
+                        ]]></description>
+  <pubDate>Tue, 18 Aug 2009 16:31:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1250600412#2</guid>
+ </item>
+ <item>
+  <title>Отступать некуда - впереди Москва ("Зеркало Недели", Украина)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/251697.html</link>
+  <description><![CDATA[
+                        Президент России Дмитрий Медведев объявил тендер на должность президента Украины. В ответ из Киева незамедлительно поступило три заявки. ...
+                        ]]></description>
+  <pubDate>Tue, 18 Aug 2009 16:46:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1250600412#3</guid>
+ </item>
+ <item>
+  <title>Взятка - норма жизни </title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/content/article/1802202.html</link>
+  <description><![CDATA[
+                        Почему Северный Кавказ подвержен коррупции сильнее, чем Россия в целом? О социологическом исследовании информагентства "Caucasus Times" - в эфире РС главред агентства Ислама Текушева. ...
+                        ]]></description>
+  <pubDate>Tue, 18 Aug 2009 16:25:45 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1250600412#4</guid>
+ </item>
+ <item>
+  <title>Забудьте о яде или сифилисе. Моцарт умер от бактериальной инфекции</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/18Aug2009/dailymail/mozart.html</link>
+  <description><![CDATA[
+                        Согласно новой теории, смерть великого композитора могла быть вызвана бактериальной инфекцией, которая началась с обычной боли в горле. Ученые подозревают, что стрептококковая инфекция поразила почки Моцарта, что в итоге и привело к его гибели. ...
+                        ]]></description>
+  <pubDate>Tue, 18 Aug 2009 16:15:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1250600412#5</guid>
+ </item>
+ <item>
+  <title>Кометы, возможно, распространяют по Вселенной биоматериал, необходимый для развития жизни</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/18aug2009/taillife.html</link>
+  <description><![CDATA[
+                        В химическом составе пыли от хвоста кометы Wild 2 впервые обнаружена простейшая аминокислота глицин. Ученые не исключают, что именно кометы могли занести на Землю аминокислоты, из которых возникла жизнь. Идея о зарождении жизни не на Земле, а в глубинах космоса, существует давно. ...
+                        ]]></description>
+  <pubDate>Tue, 18 Aug 2009 16:59:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1250600412#6</guid>
+ </item>
+ <item>
+  <title>Ватикан назначил нунцием в Венесуэле своего ведущего дипломата</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/08/18/n_1394634.shtml</link>
+  <description><![CDATA[
+                        Папа римский Бенедикт XVI назначил ведущего дипломата Ватикана главой своего представительства в Венесуэле. Нунций Пьетро Паролин имеет большой опыт в налаживании отношений Ватикана с азиатскими странами, в том числе, с Китаем и Вьетнамом. ... ...
+                        ]]></description>
+  <pubDate>Tue, 18 Aug 2009 16:56:01 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1250600412#7</guid>
+ </item>
+ <item>
+  <title>Предъявлены обвинения руководителю хакера &quot;Максика&quot;</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/383741.php</link>
+  <description><![CDATA[
+                        Правоохранительные органы США предъявили обвинения 28-летнему жителю Майами Альберту Гонзалесу &#40;Albert Gonzalez&#41;, подозревающемуся в краже данных о более чем 130 млн дебетовых и кредитных пластиковых карт. 	 ...
+                        ]]></description>
+  <pubDate>Tue, 18 Aug 2009 14:32:37 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1250600412#8</guid>
+ </item>
+ <item>
+  <title>Пользователи предпочитают трогать, а не нажимать</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/hi-tech/tech/2009/08/18/Tachskrinyy_dominiru.phtml</link>
+  <description><![CDATA[
+                        Сенсорные экраны всерьез конкурируют с привычными средствами ввода информации. Среди всех мобильных телефонов, выпущенных за второй квартал этого года, почти половина была оснащена тачскринами. ...
+                        ]]></description>
+  <pubDate>Tue, 18 Aug 2009 16:57:00 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1250600412#9</guid>
+ </item>
+ <item>
+  <title>Саяно –Шушенский Гидрочернобыль: все-таки диверсия?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/58933/</link>
+  <description><![CDATA[
+                        На ролике  видна очень подозрительная вспышка похожая  то ли на короткое замыкание, то ли на догорание несдетонировавшего аммонала или аналогичной промышленной взрывчатки. Лучший источник гидроудара – взрыв. Так что Шойгу вовсе не врал ...
+                        ]]></description>
+  <pubDate>Tue, 18 Aug 2009 17:00:23 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1250600412#10</guid>
+ </item>
+ <item>
+  <title>Это возможно..?</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/257703/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2009/08/18/15553-163246-d5d07325cc47a16a160b14a636ebf502.jpg><br /><br />  ...
+                        ]]></description>
+  <pubDate>Tue, 18 Aug 2009 16:32:46 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1250600412#11</guid>
+ </item>
+  </channel>
+ </rss>

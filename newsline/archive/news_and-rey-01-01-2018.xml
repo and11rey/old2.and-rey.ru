@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 01 Jan 2018 17:35:02 +0300</pubDate>
+         <lastBuildDate>Mon, 01 Jan 2018 17:35:02 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Квантовый компьютер, новая Земля и вода из воздуха: наука в 2017 году
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/features-42478037</link>
+  <description><![CDATA[
+                        Чем нас удивила наука в уходящем году и какие технологические тенденции определят развитие мира в будущем? ...
+                        ]]></description>
+  <pubDate>Mon, 01 Jan 2018 17:18:26 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1514817302#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В результате протестов в Иране погибли 12 человек
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2018/01/01/v-rezultate-protestov-v-irane-pogibli-12-chelovek</link>
+  <description><![CDATA[
+                        В Иране за четыре дня демонстраций погибли по меньшей мере 12 человек. Об этом сообщает CNN со ссылкой на местные СМИ. Подробности о жертвах не сообщаются — неизвестно, были ли они убиты полицией или демонстрантами.  ...
+                        ]]></description>
+  <pubDate>Mon, 01 Jan 2018 16:51:00 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1514817302#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Руководство КГБ о том, как превращать русских в своих агентов по всему миру
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/29Dec2017/dailybeast/kgb.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Это третья и финальная статья цикла, основанного на учебниках КГБ, которые никогда раньше не предавались огласке. В третьей статье рассматривается, как оперативников КГБ учили использовать эмигрантов за границей, вне зависимости от их желания. ...
+                        ]]></description>
+  <pubDate>Fri, 29 Dec 2017 21:18:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1514817302#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  La Stampa: в Турине взорвалась самодельная бомба
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28949860.html</link>
+  <description><![CDATA[
+                        Четыре человека получили осколочные ранения ...
+                        ]]></description>
+  <pubDate>Mon, 01 Jan 2018 17:18:27 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1514817302#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  This RSS feed URL is deprecated
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 01 Jan 2018 17:35:05 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1514817302#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Новые подозреваемые в терроризме задержаны в Израиле
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/01jan2018/ilwestbank.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Их подозревают в участии в акциях протеста, которые проводятся в последние несколько недель после того, как 6 декабря президент США Трамп заявил о готовности официально признать Иерусалим столицей Израиля, или же по подозрению в причастности к террористической деятельности, заявили представители полиции и армии. ...
+                        ]]></description>
+  <pubDate>Mon, 01 Jan 2018 17:30:40 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1514817302#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Перевод] Как физика принизила значение массы
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/296987/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=296987</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Mon, 01 Jan 2018 15:55:34 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1514817302#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Подписан закон, направленный на совершенствование государственного надзора за соблюдением трудового законодательства
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/acts/news/56615</link>
+  <description><![CDATA[
+                        Президент
+подписал Федеральный закон «О внесении изменений в статью 360 Трудового кодекса Российской Федерации».     ...
+                        ]]></description>
+  <pubDate>Mon, 01 Jan 2018 16:34:07 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1514817302#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Шарапова вышла во второй круг турнира в Китае
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/130/lifestyle/sport/191042-sarapova-vysla-vo-vtoroj-krug-turnira-v-kitae</link>
+  <description><![CDATA[
+                        Российская теннисистка Мария Шарапова вышла во второй круг турнира WTA в Шэнчьжэне (Китай).
+ ...
+                        ]]></description>
+  <pubDate>Mon, 01 Jan 2018 17:30:41 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1514817302#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  01.01.2018 17:32 : Минфин упразднил Резервный фонд России. с сегодняшнего дня он присоединен к Фонду Национального благосостояния
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2121508-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Теперь в случае резкого падения доходов, а также софинансирования добровольных пенсионных накоплений именно ФНБ станет источником покрытия дефицита бюджета. В этом году на эти цели выделят больше триллиона рублей. в следующие годы, по прогнозам властей, средства фонда будут тратиться только на пенсионные накопления.
+ ...
+                        ]]></description>
+  <pubDate>Mon, 01 Jan 2018 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1514817302#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Во французском Страсбурге 20 человек получили травмы из-за взрывов петард
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/594227</link>
+  <description><![CDATA[
+                        Минимум 20 человек получили травмы, когда взрывали петарды в ночь на понедельник во французском городе Страсбург, сообщают местные СМИ. ...
+                        ]]></description>
+  <pubDate>Mon, 01 Jan 2018 17:17:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1514817302#48</guid>
+ </item>
+  </channel>
+ </rss>

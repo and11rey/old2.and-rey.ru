@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 23 Mar 2021 17:35:01 +0300</pubDate>
+         <lastBuildDate>Tue, 23 Mar 2021 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Российский бизнесмен и экс-сенатор Борис Шпигель задержан по делу о коррупции. Чем он известен?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-56482827</link>
+  <description><![CDATA[
+                        Басманный суд Москвы во вторник арестовал бизнесмена и бывшего сенатора Бориса Шпигеля в рамках дела, возбужденного против губернатора Пензенской области. Шпигель известен как основатель одной из крупнейших фармацевтических компаний России, а также как бывший продюсер Николая Баскова. ...
+                        ]]></description>
+  <pubDate>Tue, 23 Mar 2021 16:42:52 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1616510101#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Бывших руководителей французской IKEA судят по делу о массовом шпионаже за работниками и клиентами. Поводом для слежки мог стать даже новый кабриолет (если его покупал сотрудник с небольшой зарплатой)
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/feature/2021/03/23/byvshih-rukovoditeley-frantsuzskoy-ikea-sudyat-po-delu-o-massovom-shpionazhe-za-rabotnikami-i-klientami</link>
+  <description><![CDATA[
+                        22 марта в городе Версаль под Парижем начался суд по делу IKEA France — местного подразделения шведской мебельной корпорации IKEA. Бывших топ-менеджеров IKEA France и саму компанию обвиняют в том, что они годами тайно собирали информацию о сотрудниках, потенциальных кандидатах на работу и недовольных клиентах с помощью частных детективных агенств и полицейских. ...
+                        ]]></description>
+  <pubDate>Tue, 23 Mar 2021 17:27:38 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1616510101#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Можем ли мы обойтись без вакцины "Спутник V" от Covid-19, как утверждает Тьерри Бретон?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/23Mar2021/lefigaro/sputnikv.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Еврокомиссар по вопросам внутреннего рынка Тьерри Бретон сказал, что он отказывается включать российскую вакцину "Спутник V" в массовую кампанию вакцинации ЕС. Последовала резкая реакция команд, отвечающих за вакцину "Спутник V". ...
+                        ]]></description>
+  <pubDate>Tue, 23 Mar 2021 17:35:01 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1616510101#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Норвегия блокирует продажу россиянам завода Bergen Engines
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/31165608.html</link>
+  <description><![CDATA[
+                        Осло опасается, что в руках у россиян окажутся чувствительные технологии ...
+                        ]]></description>
+  <pubDate>Tue, 23 Mar 2021 17:07:29 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1616510101#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Суд арестовал главу «Биотэк» Шпигеля по делу о взятке для губернатора - РБК
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LnJiYy5ydS9wb2xpdGljcy8yMy8wMy8yMDIxLzYwNTg2ZGRhOWE3OTQ3NWYwM2M1ODBiYdIBR2h0dHBzOi8vYW1wLnJiYy5ydS9yYmNuZXdzL3BvbGl0aWNzLzIzLzAzLzIwMjEvNjA1ODZkZGE5YTc5NDc1ZjAzYzU4MGJh?oc=5</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Tue, 23 Mar 2021 16:44:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1616510101#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Суд со второй попытки арестовал экс-сенатора Бориса Шпигеля по делу о взятках губернатору
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/23mar2021/shpigelarst.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Защита обвиняемого в даче взяток главы группы компаний "Биотэк" Бориса Шпигеля просила Басманный суд Москвы не заключать предпринимателя под стражу в связи с его плохим состоянием здоровья. Обвиняемый страдает рядом хронических заболеваний, в том числе коллапсом сердечной деятельности, давлением, которое падает до показателей 70 на 40. ...
+                        ]]></description>
+  <pubDate>Tue, 23 Mar 2021 17:17:43 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1616510101#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Упавшая звезда. Как выглядела самая первая ОС с графическим оконным интерфейсом
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/548506/?utm_campaign=548506&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                        
+
+Когда мы говорим «операционная система с графическим интерфейсом», первое, что обычно приходит в голову — это macOS и Microsoft Windows (кое-кто, конечно, сразу вспоминает Linux). Причем примерно в такой последовательности наиболее распространенные сегодня платформы с GUI и развивались исторически: считается, что первой на коммерческий рынок «операционок с окнами» вышла Apple, к которой спустя некоторое время подтянулись разработчики из Редмонда. Но еще задолго до этих двух компаний собственну ...
+                        ]]></description>
+  <pubDate>Tue, 23 Mar 2021 16:48:41 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1616510101#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Телефонный разговор с Президентом Казахстана Касым-Жомартом Токаевым
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/65191</link>
+  <description><![CDATA[
+                        По инициативе казахстанской стороны состоялся телефонный разговор Владимира Путина с Президентом Казахстана Касым-Жомартом
+Токаевым.    ...
+                        ]]></description>
+  <pubDate>Tue, 23 Mar 2021 14:37:01 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1616510101#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Почему рухнули мечты Украины о ЕС и НАТО
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/251/253416-pocemu-ruhnuli-mecty-ukrainy-o-es-i-nato</link>
+  <description><![CDATA[
+                        Премьер-министр Украины Денис Шмыгаль в интервью немецкой газете Handelsblatt поделился планами Киева обеспечить вступление страны в ЕС и НАТО в течение 5-10 лет. ...
+                        ]]></description>
+  <pubDate>Tue, 23 Mar 2021 17:15:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1616510101#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  23.03.2021 17:32 : В Мурманской области спасатели эвакуировали от горы Маннепахк к станции Имандра две тургруппы, попавшие под лавину
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2809664-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+В Мурманской области спасатели эвакуировали от горы Маннепахк к ближайшей железнодорожной станции Имандра две туристические группы, попавшие под лавину. Всего во временный лагерь доставлено 38 человек, из них 31 несовершеннолетний. Далее пострадавших с помощью железнодорожного транспорта перевезут в город Апатиты, сообщает региональный главк МЧС. Там отметили, что созданы все    необходимые условия для отдыха и питания туристов. <br>
+Ранее губернатор Мурманской области Андрей Чибис сказал, чт ...
+                        ]]></description>
+  <pubDate>Tue, 23 Mar 2021 17:32:30 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1616510101#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Опрос показал нежелание большинства жителей востока и юга Украины вступать в ЕС
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/757424</link>
+  <description><![CDATA[
+                        Большинство украинцев считают, что стране нужно вступить в состав Европейского Союза, однако на востоке и юге страны придерживаются противоположной точки зрения, свидетельствуют результаты опроса, проведенного Центром Разумкова в марте 2021 года. ...
+                        ]]></description>
+  <pubDate>Tue, 23 Mar 2021 17:26:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1616510101#48</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Tue, 03 Jan 2017 17:35:01 +0300</pubDate>
+         <lastBuildDate>Tue, 03 Jan 2017 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Выпуск видеоновостей Радио Свобода
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/28211488.html</link>
+  <description><![CDATA[
+                        Выпуск видеоновостей Радио Свобода ...
+                        ]]></description>
+  <pubDate>Tue, 03 Jan 2017 17:00:00 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1483454101#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Кандидат в президенты Франции сочла легальным положение Крыма в составе РФ - Росбалт.RU
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=ru_ru&amp;usg=AFQjCNFLYejKzIkCorL5e3DbHlqyrOzhGQ&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779932307997&amp;ei=dbVrWJDQKcjdygOnuJWYCQ&amp;url=http://www.rosbalt.ru/world/2017/01/03/1580843.html</link>
+  <description><![CDATA[
+                        Кандидат в президенты от крайне правой партии «Национальный фронт» Марин Ле Пен считает, что Крым стал российским вполне легально. Такое заявление она сделала в интервью французской радиостанции RMC, сообщает сайт радиостанции «Голоса со всего мира». ...
+                        ]]></description>
+  <pubDate>Tue, 03 Jan 2017 15:18:22 +0300</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1483454101#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Россия обнародовала фамилии четырех отстраненных скелетонистов, включая олимпийского чемпиона
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/03jan2017/skeleton4rusoff.html?rss</link>
+  <description><![CDATA[
+                        Санкции наложены на олимпийского чемпиона Александра Третьякова, бронзового призера Игр Елену Никитину и еще двух спортсменок. В федерации бобслея РФ при этом  рассчитывают "решить вопрос" со скелетонистами до конца января. Однако за это время спортсмены пропустят этапы Кубка мира в Германии. ...
+                        ]]></description>
+  <pubDate>Tue, 03 Jan 2017 17:01:00 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1483454101#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Из песочницы] Мониторинг распределенных станций Avaya Aura средствами Zabbix
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/geektimes.ru/post/284280/</link>
+  <description><![CDATA[
+                        Вводная
+Понадобилось мне поставить на мониторинг станции Avaya. С версией Communication Manager выше R16.0.141 проблем не возникло — там в SNMP все очень хорошо и прозрачно видно, в том числе статусы транков и внутренних номеров. Но вот с более ранними версиями — засада. А если учесть, что таких станций было более 30 штук, да и транков на каждой не менее 10-20 (а на некоторых несколько сотен) — задача оказалась малость нетривиальной. Но так как сделать все же надо — пришлось решать). Итак…
+ Чита ...
+                        ]]></description>
+  <pubDate>Mon, 02 Jan 2017 20:44:47 +0300</pubDate>
+  <source url="http://geektimes.ru">Geektimes</source>
+  <guid isPermaLink="false">1483454101#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Внесены изменения в Положение о порядке прохождения военной службы и в Дисциплинарный устав Вооружённых сил России
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/acts/news/53698</link>
+  <description><![CDATA[
+                        Президент подписал Указ «О внесении изменений в Положение
+о порядке прохождения военной службы, утвержденное Указом Президента Российской
+Федерации от 16 сентября 1999 г. № 1237, и в Дисциплинарный устав Вооружённых
+Сил Российской Федерации, утверждённый Указом Президента Российской
+Федерации от 10 ноября 2007 г. № 1495».    ...
+                        ]]></description>
+  <pubDate>Tue, 03 Jan 2017 13:21:57 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1483454101#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Спецслужбы опровергли причастность граждан Киргизии к теракту в стамбульском клубе
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/accident/crime/2017/01/03/SMI__tyerakt_v_stamb.phtml</link>
+  <description><![CDATA[
+                        Государственный комитет национальной безопасности (ГКНБ) Киргизии заявил, что гражданин Киргизии, фотография паспорта которого была распространена в турецких СМИ, не имеет отношения к террористическому акту в стамбульском клубе. ...
+                        ]]></description>
+  <pubDate>Tue, 03 Jan 2017 15:58:03 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1483454101#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  03.01.2017 17:31 : Французский биатлонист Мартен Фуркад предлагает устроить коллективный бойкот оставшихся этапов Кубка мира
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/1903506-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Двукратный олимпийский чемпион, французский биатлонист Мартен Фуркад предлагает устроить коллективный бойкот оставшихся этапов Кубка мира. Такую возможность спортсмен собирается в ближайшее время обсудить с коллегами-биатлонистами, — передает телеканал BFM. Фуркад недоволен решением Международного союза биатлонистов, который отстранил двух российских спортсменок из-за подозрений в нарушении антидопинговых правил. «Это хорошо, но это наименьшее из того, что нужно сделать», — сказал Фуркад. Отм ...
+                        ]]></description>
+  <pubDate>Tue, 03 Jan 2017 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1483454101#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Введение системы "ГЛОНАСС" для "европротокола" перенесено на 2018 год
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/544021</link>
+  <description><![CDATA[
+                        Правительство РФ перенесло начало применения системы "ЭРА-ГЛОНАСС" в обязательном автостраховании (ОСАГО) при оформлении ДТП по "европротоколу" (без участия инспектора ГИБДД) еще на один год, следует из постановления от 31 декабря, опубликованного на сайте кабмина во вторник. ...
+                        ]]></description>
+  <pubDate>Tue, 03 Jan 2017 17:22:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1483454101#48</guid>
+ </item>
+  </channel>
+ </rss>

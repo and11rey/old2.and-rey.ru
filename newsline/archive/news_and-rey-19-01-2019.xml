@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 19 Jan 2019 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sat, 19 Jan 2019 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  На акциях памяти Маркелова и Бабуровой задержаны более десяти человек
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-46931394</link>
+  <description><![CDATA[
+                        В Санкт-Петербурге прошла несогласованная акция памяти убитых 10 лет назад адвоката Станислава Маркелова и журналистки Анастасии Бабуровой. Сообщается о задержании 12 человек. В Москве аналогичная акция была согласована, однако полиция также начала задержания. ...
+                        ]]></description>
+  <pubDate>Sat, 19 Jan 2019 16:41:12 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1547908501#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В результате взрыва на газопроводе в Мексике погибли 66 человек
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/01/19/v-rezultate-vzryva-na-gazoprovode-v-meksike-pogibli-66-chelovek</link>
+  <description><![CDATA[
+                        66 человек погибли и несколько десятков пострадали в результате взрыва трубопровода в Мексике. ...
+                        ]]></description>
+  <pubDate>Sat, 19 Jan 2019 17:06:29 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1547908501#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Лазурит между зубов монашки
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/18Jan2019/lemonde/lazurit.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Пигмент, обнаруженный  в останках монашки, которым почти 1000 лет, позволяет  изменить представление о  месте женщины в средневековом обществе.
+ ...
+                        ]]></description>
+  <pubDate>Fri, 18 Jan 2019 20:20:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1547908501#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Баку проходит митинг в поддержку политзаключённых
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29719267.html</link>
+  <description><![CDATA[
+                        Участники акции требуют освободить оппозиционного блогера Мехмана Гусейнова ...
+                        ]]></description>
+  <pubDate>Sat, 19 Jan 2019 16:13:39 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1547908501#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Жертвами взрыва трубопровода в Мексике стали почти 70 человек - РИА Новости
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/ria.ru/20190119/1549606875.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sat, 19 Jan 2019 17:16:35 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1547908501#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  На акциях в десятую годовщину убийства Маркелова и Бабуровой не обошлось без задержаний (ФОТО)
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/russia/19jan2019/10thmarkelbabur.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Акции памяти прошли в Москве и Санкт-Петербурге. В столице мероприятие было согласовано, но полицейские все равно нашли поводы для задержания участников. В Петербурге власти отклонили все предложенные активистами варианты проведения шествия. ...
+                        ]]></description>
+  <pubDate>Sat, 19 Jan 2019 16:34:47 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1547908501#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  [Из песочницы] Из чего состоит IoT
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/436708/?utm_campaign=436708</link>
+  <description><![CDATA[
+                        
+Если обратиться к википедии в поисках определения для термина “интернет вещей”, можно увидеть следущее:
+Интернет вещей (англ. Internet of Things, IoT) — концепция вычислительной сети физических предметов («вещей»), оснащённых встроенными технологиями для взаимодействия друг с другом или с внешней средой, рассматривающая организацию таких сетей как явление, способное перестроить экономические и общественные процессы, исключающее из части действий и операций необходимость участия человека. В данн ...
+                        ]]></description>
+  <pubDate>Sat, 19 Jan 2019 15:58:22 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1547908501#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Совещание с членами Правительства
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/59683</link>
+  <description><![CDATA[
+                        Президент провёл в Кремле первое в наступившем году совещание с членами Правительства.      ...
+                        ]]></description>
+  <pubDate>Sat, 19 Jan 2019 14:00:33 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1547908501#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Белоруссия лишилась дешевой русской нефти - страдает Украина
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/285/world/economics/212136-belorussia-lisilas-desevoj-russkoj-nefti-stradaet-ukraina</link>
+  <description><![CDATA[
+                        Украинские власти признались, что российский налоговый маневр, который лишает Белоруссию дешевой российской нефти, ударяет, прежде всего, по ним. Президент Александр Лукашенко активно зарабатывал на перепродаже нефтепродуктов, сделанных из российского сырья, заграницу и одним из крупнейших покупателей и была, как раз, Украина.  ...
+                        ]]></description>
+  <pubDate>Sat, 19 Jan 2019 15:55:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1547908501#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  19.01.2019 17:32 : Россиянка Виктория Сливко выиграла спринт на этапе Кубка мира по биатлону в Германии
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2355107-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Второй на дистанции в Арбере стала Ингела Андерссон из Швециии, третье место заняла норвежка Рагнхильд Фемстейневик. Этап Кубка мира в Арбере завершится завтра.
+ ...
+                        ]]></description>
+  <pubDate>Sat, 19 Jan 2019 17:32:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1547908501#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  На пьяную пассажирку с севшего в Волгограде лайнера составили протокол о хулиганстве
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/646849</link>
+  <description><![CDATA[
+                        Нетрезвая пассажирка, которую сняла с борта самолета Москва-Дубай, экстренно севшего в субботу в Волгограде из-за недомогания пяти пассажиров, привлекли к административной ответственности, сообщила журналистам официальный представитель МВД России Ирина Волк. ...
+                        ]]></description>
+  <pubDate>Sat, 19 Jan 2019 17:22:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1547908501#48</guid>
+ </item>
+  </channel>
+ </rss>

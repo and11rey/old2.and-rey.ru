@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Fri, 01 Mar 2013 17:00:02 +0400</pubDate>
+         <lastBuildDate>Fri, 01 Mar 2013 17:00:02 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Янукович обещал подумать о помиловании экс-главы МВД Луценко - BFM.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNGZobmIWXdeGQoDnZydzXoeCXppSA&amp;url=http://www.bfm.ru/news/209500</link>
+  <description><![CDATA[
+                        Президент Украины Виктор Янукович заявил, что готов рассмотреть вопрос о помиловании экс-главы МВД Юрия Луценко, если кассационная инстанция не отменит ему приговор, сообщает «УНИАН». По словам Януковича, решение необходимо принимать когда будут завершены все ... ...
+                        ]]></description>
+  <pubDate>Fri, 01 Mar 2013 16:52:29 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1362142802#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Где зарыт iPhone или насколько точен GPS?
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/post/171117/</link>
+  <description><![CDATA[
+                         Мы планировали создать инструмент для поисковых игр — игр, в которых нужно находить места в реальном мире.
+Первое, что нам потребовалось — точный инструмент для сбора точек и создания маршрутов. Простое указание их на карте не подходило, т.к. погрешность геометок достигает 200 метров — человек мог прийти по координатам в поисках небольшой вещи, а оказывалось, что до места еще сотни шагов. Чтобы не заставлять пользователей бродить, было решено разработать систему снятия координат телефонами прям ...
+                        ]]></description>
+  <pubDate>Fri, 01 Mar 2013 16:35:29 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1362142802#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Владимир Путин прибыл в Псков
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.kremlin.ru/news/17605</link>
+  <description><![CDATA[
+                        Глава государства принимает участие в мероприятиях, посвящённых памяти погибших воинов 6-й парашютно-десантной роты 104-й гвардейского десантно-штурмового полка 76-й гвардейской десантно-штурмовой дивизии. ...
+                        ]]></description>
+  <pubDate>Fri, 01 Mar 2013 16:30:00 +0400</pubDate>
+  <source url="http://www.kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1362142802#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  BigDog обзавелся "головой"!
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/science.d3.ru/comments/419539</link>
+  <description><![CDATA[
+                        
+		
+				<br>
+
+
+
+
+		
+	
+		
+	
+
+ ...
+                        ]]></description>
+  <pubDate>Fri, 01 Mar 2013 17:00:10 +0400</pubDate>
+  <source url="http://d3.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1362142802#34</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sat, 01 Dec 2012 17:00:03 +0400</pubDate>
+         <lastBuildDate>Sat, 01 Dec 2012 17:00:03 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Присылайте ваши фото на тему "Черное и белое"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/interactivity/2012/10/121030_ugc_inpic_call_for_action.shtml</link>
+  <description><![CDATA[
+                        Каждую неделю мы просим вас присылать нам фотографии на заданную тему. Выборку из этих снимков мы публикуем на нашем сайте. Новая тема - "Черное и белое". ...
+                        ]]></description>
+  <pubDate>Sat, 01 Dec 2012 16:31:23 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1354366803#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В центре Москвы символически казнили политзеков
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/Politzeki/m.209248.html</link>
+  <description><![CDATA[
+                        В субботу около ста левых активистов устроили в центре Москвы театрализованную демонстрацию в защиту политзаключенных. Они провели по Тверскому бульвару семерых "политзеков" в тюремных робах и символически расстреляли их в Новопушкинском сквере. По всему миру с 29 ноября по 2 декабря проводятся Дни единых действий против репрессий в России. ...
+                        ]]></description>
+  <pubDate>Sat, 01 Dec 2012 14:30:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1354366803#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                   Жизнь после "охоты на зайцев"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/30Nov2012/standard/history.html</link>
+  <description><![CDATA[
+                        История побега 500 русских заключенных из концлагеря Маутхаузен известна благодаря фильму "Охота на зайцев", однако первая научная монография об этих событиях вышла только сейчас. Это книга "Побег из блока смерти" историка Маттиаса Кальтенбруннера. ...
+                        ]]></description>
+  <pubDate>Fri, 30 Nov 2012 16:17:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1354366803#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Декабрь 1962. Манеж. 50 лет спустя
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/content/transcript/24786334.html</link>
+  <description><![CDATA[
+                        Владимир Тольц: 50 лет назад. Москва. Декабрь 62-го.
+ 
+ Никита Хрущев (фонограмма): Я не понимаю, товарищи, вот вы говорите скульптура, Неизвестный... Вы извините, я с ними беседовал, когда я насмотрелся на это, я спросил: слушайте, товарищи, господа, вы настоящие мужчины? Потому что не педерасты, извините?
+ 
+ Владимир Тольц: Эту гневную гомофобскую речь и расистскую даже речь Никита Хрущев произнес после посещения 1 декабря 1962 года выставки в Манеже.
+ 
+ Никита Хрущев ... ...
+                        ]]></description>
+  <pubDate>Sat, 01 Dec 2012 12:00:17 +0400</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1354366803#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Крыму неизвестные забросали бутылками с горючей смесью территорию строительства соборной мечети - Газета.Ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/social/news/2012/12/01/n_2642957.shtml</link>
+  <description><![CDATA[
+                        В Симферополе неизвестные напали на охранника территории, на которой запланировано строительство соборной мечети. Об этом первый заместитель председателя Меджлиса крымскотатарского народа и крымский депутат Рефат Чубаров написал на своей странице в социальной ... ...
+                        ]]></description>
+  <pubDate>Sat, 01 Dec 2012 16:53:20 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1354366803#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Жительницу Канады от пули спасла силиконовая грудь
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/01dec2012/canada.html</link>
+  <description><![CDATA[
+                        На суде по делу бывшего любовника Элин Лайкнесс свидетельствовала, что если бы не ее импланты, она бы получила тяжелые ранения или даже погибла после выстрела. ...
+                        ]]></description>
+  <pubDate>Sat, 01 Dec 2012 16:54:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1354366803#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Решение проблемы с подключением PPTP VPN через LTE от Yota
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/post/160961/</link>
+  <description><![CDATA[
+                        Для подключения удаленных офисов к корпоративной сети и телефонии при отсутствии проводных провайдеров мы используем LTE от Yota и all-in-one маршрутизаторы DrayTek Vigor 2920VN.
+
+На днях приехал мне на настройку очередной комплект DrayTek 2920 + Yota LU150. Этот модем сам по себе является мини-роутером, и по умолчанию выдает подключенному к нему по USB хосту IP адрес из подсети 10.0.0.0/24, которая в моем случае пересекалась с локальной сетью. В настройках модема по адресу %modemip%/network мож ...
+                        ]]></description>
+  <pubDate>Sat, 01 Dec 2012 16:55:45 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1354366803#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Интервью Сергея Иванова программе «Вести в субботу»
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/state.kremlin.ru/face/17000</link>
+  <description><![CDATA[
+                        Руководитель Администрации Президента, председатель Организационного комитета по подготовке и обеспечению председательства Российской Федерации в «Группе двадцати» ответил на вопросы ведущего программы «Вести в субботу» Сергея Брилёва. ...
+                        ]]></description>
+  <pubDate>Sat, 01 Dec 2012 14:00:00 +0400</pubDate>
+  <source url="http://www.kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1354366803#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Динамо» обыграло «Рубин» при пустых трибунах
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/sport/football/2012/12/01/__Dinamo___obyygralo.phtml</link>
+  <description><![CDATA[
+                        Московское «Динамо» в Химках в матче 18-го тура чемпионата России по футболу принимало казанский «Рубин». Встреча, проходившая по решению КДК РФС без зрителей, завершилась крупной победой хозяев - 3:0.
+
+ ...
+                        ]]></description>
+  <pubDate>Sat, 01 Dec 2012 16:04:38 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1354366803#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  01.12.2012 16:32 : 30 ноября в Санкт-Петербурге после тяжелой и продолжительной болезни в возрасте 65 лет умер один из первых барабанщиков "Аквариума" Михаил "Майкл" Кордюков
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/959770-echo.html</link>
+  <description><![CDATA[
+                        
+
+Об этом на своей странице в   Facebook сообщил бывший виолончелист группы Всеволод Гаккель. Кордюков играл в "Аквариуме" во второй половине 1970-х годов. Кроме того, он был первым барабанщиком группы "Трилистник", основанной в конце 1980-х флейтистом "Аквариума" Андреем "Дюшей" Романовым, а также принимал участие в деятельности "Популярной механики" Сергея Курехина. В разное время он сотрудничал с другими коллективами питерского андерграунда.  работал диджеем. Некоторое время Кордюков    жил в ...
+                        ]]></description>
+  <pubDate>Sat, 01 Dec 2012 16:32:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1354366803#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Париж расширяет границы Лувра
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/europe/20121201/202861936.html</link>
+  <description><![CDATA[
+                        Во времена своего расцвета в 19 и 20 веках промышленный город Ланс на севере Франции отправлял свое богатство в Париж в форме угля. Теперь, когда шахты в Лансе закрылись, а его экономика находится в состоянии упадка, Париж решил отплатить услугой за услугу и отправить в Ланс множество шедевров Лувра - а вместе с ними и значительную долю мировой славы музея. ...
+                        ]]></description>
+  <pubDate>Sat, 01 Dec 2012 16:07:51 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1354366803#19</guid>
+ </item>
+  </channel>
+ </rss>

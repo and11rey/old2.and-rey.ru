@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 14 Jul 2019 17:35:01 +0300</pubDate>
+         <lastBuildDate>Sun, 14 Jul 2019 17:35:01 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  В Париже отмечают День взятия Бастилии. Фото
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/news-48981328</link>
+  <description><![CDATA[
+                        В Париже 14 июля традиционно отмечается День Бастилии. В этом году он отмечен протестами со стороны движения "желтых жилетов". ...
+                        ]]></description>
+  <pubDate>Sun, 14 Jul 2019 16:21:52 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1563114901#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Полиция оценила число участников акции в поддержку независимых кандидатов в Мосгордуму в тысячу человек
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/07/14/politsiya-otsenila-chislo-uchastnikov-aktsii-v-podderzhku-nezavisimyh-kandidatov-v-mosgordumu-v-tysyachu-chelovek</link>
+  <description><![CDATA[
+                        В акции в центре Москвы с требованием регистрации независимых кандидатов на выборы в Мосгордуму приняли участие около тысячи человек, заявили в пресс-службе столичного МВД.  ...
+                        ]]></description>
+  <pubDate>Sun, 14 Jul 2019 16:55:37 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1563114901#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Сладкие напитки связаны с повышенным риском развития рака
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/12Jul2019/lemonde/sugar.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Ежедневное употребление небольшого стакана любого подслащенного напитка, включая не только газированные напитки, но и фруктовые соки, может увеличить риск развития рака на 18%.  ...
+                        ]]></description>
+  <pubDate>Fri, 12 Jul 2019 19:20:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1563114901#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Египте для туристов открыли ломаную пирамиду Снофру
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/30054923.html</link>
+  <description><![CDATA[
+                        Пирамида фараона Снофру считается одной из древнейших египетских пирамид ...
+                        ]]></description>
+  <pubDate>Sun, 14 Jul 2019 16:40:04 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1563114901#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Константин Богомолов поделился совместным видео с Ксенией Собчак - РИА Новости
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/ria.ru/20190714/1556502319.html</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 14 Jul 2019 17:13:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1563114901#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Синхронистки Ромашина и Колесниченко взяли золото чемпионата мира в технической программе
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/14jul2019/artswm.html?utm_source=rss</link>
+  <description><![CDATA[
+                        На чемпионате мира по водным видам спорта российские синхронистки взяли второе золото для сборной. Светлана Ромашина и Светлана Колесниченко стали первенствовали в технической программе дуэтов. Российские спортсменки набрали 95,9010 баллов. Второе место у китайской пары, третье место досталось украинкам. ...
+                        ]]></description>
+  <pubDate>Sun, 14 Jul 2019 16:39:40 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1563114901#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Фотоэкскурсия: Музей оптики Университета ИТМО
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/459800/?utm_campaign=459800&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Sun, 14 Jul 2019 15:42:22 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1563114901#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Поздравление Президенту Франции Эммануэлю Макрону с национальным праздником – Днём взятия Бастилии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/events/president/news/60994</link>
+  <description><![CDATA[
+                        Владимир Путин направил поздравительную
+телеграмму Президенту Французской Республики Эммануэлю Макрону по случаю национального
+праздника – Дня взятия Бастилии.    ...
+                        ]]></description>
+  <pubDate>Sat, 13 Jul 2019 11:31:10 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1563114901#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Клин в НАТО уже вбит: Запад в шоке от поставок С-400 в Турцию
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/285/world/incidents/220720-klin-v-nato-uze-vbit-zapad-v-soke-ot-postavok-s-400-v-turciu</link>
+  <description><![CDATA[
+                        Реакция на начавшие поставки в Турцию ЗРК С-400 иначе, как шоком не опишешь. Западная пресса уже рисует апокалиптические картины выхода страны из НАТО. ...
+                        ]]></description>
+  <pubDate>Sun, 14 Jul 2019 15:01:00 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1563114901#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  14.07.2019 17:34 : Россия отказалась обсуждать с Японией возможность передачи двух Южных Курильских островов
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2463633-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Об этом сообщает Kyodo со ссылкой на источник, близкий к переговорам. По его  данным,   российская сторона категорически не стала обсуждать  этот  вопрос  из-за опасений, связанных с японско-американским военным сотрудничеством. По информации агентства, второй причиной для отказа от дискуссии стало опасение руководства России    возможного снижения своей  поддержки.
+ ...
+                        ]]></description>
+  <pubDate>Sun, 14 Jul 2019 17:34:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1563114901#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Вице-премьера Италии призвали выступить в парламенте и-за скандала с деньгами из России
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/world/669079</link>
+  <description><![CDATA[
+                        Вице-премьер Италии Луиджи Ди Майо в воскресенье призвал вице-премьера Маттео Сальвини выступить перед парламентом в связи с публикациями о предполагаемом финансировании партии "Лига" из России. ...
+                        ]]></description>
+  <pubDate>Sun, 14 Jul 2019 17:10:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1563114901#48</guid>
+ </item>
+  </channel>
+ </rss>

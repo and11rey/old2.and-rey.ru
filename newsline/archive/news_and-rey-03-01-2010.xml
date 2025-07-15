@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Sun, 03 Jan 2010 17:00:05 +0300</pubDate>
+         <lastBuildDate>Sun, 03 Jan 2010 17:00:05 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Посольство США в Йемене закрыто "из-за угроз"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/international/2010/01/100103_yemen_embassy.shtml</link>
+  <description><![CDATA[
+                        На сайте посольства говорится, что оно закрыто из-за "продолжающихся угроз" в адрес американских интересов на Аравийском полуострове.   ...
+                        ]]></description>
+  <pubDate>Sun, 03 Jan 2010 13:30:49 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1262527205#1</guid>
+ </item>
+ <item>
+  <title>Алексеева: Путин и Медведев должны извиниться перед нами</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/President/m.172884.html</link>
+  <description><![CDATA[
+                        Премьер-министр Владимир Путин и президент Дмитрий Медведев должны извиниться перед теми, кого сотрудники милиции задерживали на Триумфальной площади 31 декабря, заявила глава Московской Хельсинкской группы Людмила Алексеева. Путин должен извиниться за то, что "ориентировал силовые органы на нарушение права граждан на мирные выступления", а  Медведев - "за то, что не разрушил эту антиконституционную практику силовых структур".  ...
+                        ]]></description>
+  <pubDate>Sun, 03 Jan 2010 13:10:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1262527205#2</guid>
+ </item>
+ <item>
+  <title>Новогоднее обращение Михаила Саакашвили
+			    ( "Civil.ge", Грузия )
+			</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/caucasus/20100103/157359400.html</link>
+  <description><![CDATA[
+                        Граждане Грузии одной рукой должны продолжить возрождение страны, а в другой должны держать ружье, чтобы защитить страну, - заявил президент Грузии Михаил Саакашвили. ...
+                        ]]></description>
+  <pubDate>Sun, 03 Jan 2010 13:08:27 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1262527205#3</guid>
+ </item>
+ <item>
+  <title>В Йемене из-за угрозы терактов закрыты посольства Великобритании и США</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20100103/17/17.html?id=1920019</link>
+  <description><![CDATA[
+                        Посольство Великобритании в Йемене вслед за дипмиссией США закрыто из-за угрозы террористического нападения.  Вашингтон сообщает, что у него есть сведения о планах "Аль-Каиды" совершить теракты в йеменской столице Сане.   Группировка "Аль-Каида на Аравийском полуострове" стоит за попыткой взорвать американский авиалайнер, совершенной 25 декабря нигерийцем Умаром Фаруком Абдулмуталлабом. ...
+                        ]]></description>
+  <pubDate>Sun, 03 Jan 2010 16:24:23 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1262527205#4</guid>
+ </item>
+ <item>
+  <title>Туркмения заключает крупные газовые контракты</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/31Dec2009/wsj/gas.html</link>
+  <description><![CDATA[
+                        Туркмения надеется, что Южный Иолотань, одно из крупнейших месторождений газа в мире, содержащее до 14 трлн кубометров газа, поможет ей стать крупным экспортером газа в Азию и Западную Европу в ближайшее десятилетие. ...
+                        ]]></description>
+  <pubDate>Thu, 31 Dec 2009 15:53:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1262527205#5</guid>
+ </item>
+ <item>
+  <title>Boeing-737, летевший из Перми в Дубай, вынужденно сел в Иране</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/03jan2010/botr.html</link>
+  <description><![CDATA[
+                        Как уточнили в диспетчерской службе "Оренбургских авиалиний", при подходе борта к аэропорту Дубая у аэропорта возникли "трудности с управлением воздушным движением". "Борт был отправлен на запасной аэродром в Иране", - сообщил представитель "Оренбургских авиалиний". ...
+                        ]]></description>
+  <pubDate>Sun, 03 Jan 2010 16:50:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1262527205#6</guid>
+ </item>
+ <item>
+  <title>Ющенко предостерег украинцев от голосования за пророссийкие силы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2010/01/03/n_1441427.shtml</link>
+  <description><![CDATA[
+                        Виктор Ющенко во время своей предвыборной поездки по Львовской области призвал граждан Украины не допустить победы на президентских выборах "московского проекта", к которому он отнес своих соперников – Виктора Януковича и ... ...
+                        ]]></description>
+  <pubDate>Sun, 03 Jan 2010 16:25:00 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1262527205#7</guid>
+ </item>
+ <item>
+  <title>3 года условно за загрузку фильма на Mininova</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/83c4416/l/0L0Ssecuritylab0Bru0Cnews0C3893780Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Житель калифорнии Миша Винхаузен получил 3 года условно за загрузку фильма студии Paramount Pictures на торрент портал Mininova. ...
+                        ]]></description>
+  <pubDate>Sat, 02 Jan 2010 22:52:11 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1262527205#8</guid>
+ </item>
+ <item>
+  <title>Ожидания года: оптимизм без причины</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/authority/party/2009/12/23/ozhidaniya_ot_novogo.phtml</link>
+  <description><![CDATA[
+                        От наступившего года российские политики и чиновники ждут многого: роста экономики, честных региональных выборов без претензий, стабильности и благополучия на международной арене. Впрочем, собеседники Infox.ru не питают на этот счет особого оптимизма: год похоже, будет еще сложнее, чем предыдущий. ...
+                        ]]></description>
+  <pubDate>Sun, 03 Jan 2010 16:00:00 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1262527205#9</guid>
+ </item>
+ <item>
+  <title>Транзит нефти в Европу через Белоруссию не будет сокращен</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/646129-echo.html</link>
+  <description><![CDATA[
+                        
+                         Это утверждают в компании «Транснефть»...
+                          ...
+                        ]]></description>
+  <pubDate>Sun, 03 Jan 2010 16:36:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1262527205#10</guid>
+ </item>
+ <item>
+  <title>Разбор полетов на крейсере "Москва"</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/265334/#new</link>
+  <description><![CDATA[
+                        <img src=http://img.rutube.ru/thumbs/b4/1d/b41d65e6280040b8af64c5d017a9163b-2.jpg><br /><br />В сентябре 2009 года на крейсере "Москва" произошел взрыв парового котла. На видео записан разбор полетов, который произошел после того, как пожар потушили. Много нецензурщины. ...
+                        ]]></description>
+  <pubDate>Sun, 03 Jan 2010 15:46:50 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25 (лет..?)</source>
+  <guid isPermaLink="false">1262527205#11</guid>
+ </item>
+  </channel>
+ </rss>

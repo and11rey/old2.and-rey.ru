@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 03 Jun 2009 17:00:05 +0400</pubDate>
+         <lastBuildDate>Wed, 03 Jun 2009 17:00:05 +0400</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Либерман: Израиль не будет бомбить Иран</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2009/06/090603_israel_iran.shtml</link>
+  <description><![CDATA[
+                        По мнению израильского министра иностранных дел, беспокоиться из-за ядерных амбиций Тегерана должны в первую очередь его арабские соседи. ...
+                        ]]></description>
+  <pubDate>Wed, 03 Jun 2009 16:44:57 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1244034005#1</guid>
+ </item>
+ <item>
+  <title>Росстат: Инфляция с начала года составила 6,8 процента</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/m.151953.html</link>
+  <description><![CDATA[
+                        Инфляция в России с 25 мая по 1 июня 2009 года составила 0,2 процента, с начала года потребительские цены выросли на 6,8 процента. Инфляция в мае замедлилась по сравнению с маем 2008 года. Годом ранее за период с начала года инфляция составила 7,7 процента.
+За первый день июня инфляция была нулевой. ...
+                        ]]></description>
+  <pubDate>Wed, 03 Jun 2009 16:50:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1244034005#2</guid>
+ </item>
+ <item>
+  <title>По дороге к Опелю Россия подобрала попутчика - Олега Дерипаску ("Reuters", Великобритания)</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.inosmi.ru/translation/249600.html</link>
+  <description><![CDATA[
+                        Олег Дерипаска, ветеран российских алюминиевых войн и политический тяжеловес, вместе со своей 'Группой ГАЗ' оказался вовлечен в игры российского государства вокруг приобретения компании Opel. ...
+                        ]]></description>
+  <pubDate>Wed, 03 Jun 2009 16:23:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1244034005#3</guid>
+ </item>
+ <item>
+  <title>На Украине арестованы двое подозреваемых в причастности к взрывам в  Мелитополе</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/Content/News/1745953.html</link>
+  <description><![CDATA[
+                        На Украине арестованы двое подозреваемых в причастности к взрывам в помещении "Ощадбанка" в Мелитополе 2 июня. Вице-премьер Александр Турчинов заявил, что при двух взрывах были ранены более 20 человек.Милиция считает, что это была попытка о ... ...
+                        ]]></description>
+  <pubDate>Wed, 03 Jun 2009 16:41:24 +0400</pubDate>
+  <source url="http://rss.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1244034005#4</guid>
+ </item>
+ <item>
+  <title>Избирательная урна вместо волшебной палочки</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/03Jun2009/bunte/urna.html</link>
+  <description><![CDATA[
+                        Чудеса случаются то и дело, но когда ты сам становишься этому свидетелем, поверить в это сложно. Маленькое чудо в моем доме свидетельствует: даже у показной демократии есть свои преимущества. В любом случае это лучше, чем полное отсутствие выборов. ...
+                        ]]></description>
+  <pubDate>Wed, 03 Jun 2009 16:34:00 +0400</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1244034005#5</guid>
+ </item>
+ <item>
+  <title>На Украине арестован насильник и убийца по кличке Элвис Пресли: 15 трупов, 20 скелетов</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/crime/03jun2009/presleyrapistukr.html</link>
+  <description><![CDATA[
+                        35-летний Юрий Кузьменко получил "звездное" прозвище за его внешнее сходство с королем рок-н-ролла. А оперативники назвали жестокого и долгое время неуловимого маньяка Шатуном. Большинство его жертв - 70-летние пенсионерки. Сыщики считают, что на преступления примерного семьянина толкнула сексуальная неудовлетворенность. ...
+                        ]]></description>
+  <pubDate>Wed, 03 Jun 2009 16:43:00 +0400</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1244034005#6</guid>
+ </item>
+ <item>
+  <title>Медведев возмущен высказываниями Лукашенко о Кудрине</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/06/03/n_1368582.shtml</link>
+  <description><![CDATA[
+                        Президент России Дмитрий Медведев назвал недопустимыми с точки зрения дипломатической этики высказывания в адрес представителей российского руководства, которые позволил себе руководитель одного из государств - ближайших партнеров ... ...
+                        ]]></description>
+  <pubDate>Wed, 03 Jun 2009 16:52:42 +0400</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1244034005#7</guid>
+ </item>
+ <item>
+  <title>Финальная версия Windows 7 выйдет 22 октября</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.securitylab.ru/news/380782.php</link>
+  <description><![CDATA[
+                        Вице-президент Microsoft Билла Вегте заявил, что продажи операционной системы Microsoft Windows 7 начнутся 22 октября текущего года.	 ...
+                        ]]></description>
+  <pubDate>Wed, 03 Jun 2009 13:17:58 +0400</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1244034005#8</guid>
+ </item>
+ <item>
+  <title>Усама бен Ладен выпустил видеоролик с критикой Барака Обамы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/gzt.ru/politics/2009/06/03/164220.html</link>
+  <description><![CDATA[
+                        Усама бен Ладен выпустил видеоролик с критикой политики Барака Обамы относительно мусульманских стран. Запись была продемонстрирована телеканалом &laquo;Аль-Джазира&raquo; 3 июня.  &laquo;Обама вместе со своей администрацией заронил семена ненависти и мести Америке&raquo;, - заявил Бен Ладен. Как пишет Reuters, лидер... ...
+                        ]]></description>
+  <pubDate>Wed, 03 Jun 2009 16:42:20 +0400</pubDate>
+  <source url="http://gzt.ru">Газета GZT.RU</source>
+  <guid isPermaLink="false">1244034005#9</guid>
+ </item>
+ <item>
+  <title>«Реформы» Сердюкова - огонь по своим</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.rossija.info/outnews/56477/</link>
+  <description><![CDATA[
+                        Г-ном Сердюковым была проведена такая ломка Вооружённых Сил России, какой они не знали, пожалуй, со времён революции 1917 года, когда большевики фактически распустили старую русскую армию и на её месте начали формирование Красной Армии. Первым делом была проведена кадровая чистка высшего командного состава, сравнимая по своим масштабам разве что с приснопамятными репрессиями в армии в конце 30-х годов. ...
+                        ]]></description>
+  <pubDate>Wed, 03 Jun 2009 17:00:12 +0400</pubDate>
+  <source url="http://www.rossija.info">Кольцо патриотических ресурсов</source>
+  <guid isPermaLink="false">1244034005#10</guid>
+ </item>
+ <item>
+  <title>Пост № 254270</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/254270/#new</link>
+  <description><![CDATA[
+                        Более чем вдвое повысилась за 2008-2009 годы миролюбивость Российской Федерации. Если в 2007 году мы были в мировом рейтинге британских учёных четвёртыми с конца, ныне мы девятые с конца! Мы всё больше и больше любим этот мир. Он такой... такой... Вот в Израиле, судя по данным Global Peace Index, его любят меньше. Там опасносте. ...
+                        ]]></description>
+  <pubDate>Wed, 03 Jun 2009 16:13:31 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1244034005#11</guid>
+ </item>
+  </channel>
+ </rss>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <copyright>Copyright 2006-2009, And-rey.ru</copyright>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Thu, 12 Nov 2009 17:00:07 +0300</pubDate>
+         <lastBuildDate>Thu, 12 Nov 2009 17:00:07 +0300</lastBuildDate>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+	 <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title>Медведев предложил развивать политическую конкуренцию</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2009/11/091112_president_message.shtml</link>
+  <description><![CDATA[
+                        В своем ежегодном послании к Федеральному собранию президент России говорил о преобразовании избирательной системы и необходимости проведения экономических реформ. ...
+                        ]]></description>
+  <pubDate>Thu, 12 Nov 2009 16:33:25 +0300</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости (Rus)</source>
+  <guid isPermaLink="false">1258034407#1</guid>
+ </item>
+ <item>
+  <title>Генштаб: Зарплата военных увеличится в пять-шесть раз</title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/War/Mil_spending/m.162006.html</link>
+  <description><![CDATA[
+                        К 2012 году денежное довольствие военнослужащих увеличится в пять-шесть раз, заявил глава Генштаба ВС Николай Макаров. "У нас уже лучшие офицеры получают повышенное довольствие, а с 2010 года будут получать и лучшие части", — сказал Макаров, комментируя послание президента Федеральному собранию. ...
+                        ]]></description>
+  <pubDate>Thu, 12 Nov 2009 16:24:00 +0300</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1258034407#2</guid>
+ </item>
+ <item>
+  <title>Иран призывает Россию выполнить свои обязательства по продаже ракет  </title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/asia/20091112/156530504.html</link>
+  <description><![CDATA[
+                        Россия должна выполнить условия контракта по продаже оборонительных зенитно-ракетных комплексов Ирану, не поддаваясь на давление извне, заявил министр обороны Исламской Республики Иран в выступлении, которое было опубликовано в четверг. ...
+                        ]]></description>
+  <pubDate>Thu, 12 Nov 2009 16:54:09 +0300</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1258034407#3</guid>
+ </item>
+ <item>
+  <title>Суд Астрахани оштрафовал Ольгу Курносову за банку икры</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svobodanews.ru/archive/ru_news_zone/20091112/17/17.html?id=1876144</link>
+  <description><![CDATA[
+                        Лидер петербургского Объединенного гражданского фронта, исполнительный директор общероссийского ОГФ Ольга Курносова  была задержана 4 октября 2008 года, возвращаясь из Астрахани с региональной конференции оппозиции, проходившей перед объединительным съездом движения "Солидарность".           Милиционеры высадили ее из поезда на станции "Верхний Баскунчак", обнаружив у нее банку черной икры, подаренной друзьями. Банку изъяли, ... ...
+                        ]]></description>
+  <pubDate>Thu, 12 Nov 2009 16:30:36 +0300</pubDate>
+  <source url="http://www.svobodanews.ru">Радио свобода</source>
+  <guid isPermaLink="false">1258034407#4</guid>
+ </item>
+ <item>
+  <title>Босс нанял русского убийцу, чтобы убить ее, утверждает британка</title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/12Nov2009/times/boss.html</link>
+  <description><![CDATA[
+                        Бывшая сотрудница инвестиционной компании, подавшая в Британии в суд на начальника за сексуальные домогательства, утверждает, что он обсуждал с ней сексуальные фантазии, а затем нанял русского киллера. ...
+                        ]]></description>
+  <pubDate>Thu, 12 Nov 2009 16:15:00 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1258034407#5</guid>
+ </item>
+ <item>
+  <title>Израиль подарил Украине двух бегемотов. Но на условиях самовывоза</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/world/12nov2009/hippos.html</link>
+  <description><![CDATA[
+                        Транспортировка животных заняла целую неделю и обошлась украинцам в 240 тыс. грн (19,7 тыс. евро). Ветслужба в Одесском порту сначала заподозрила у животных ящур, но вскоре опасения были сняты. Сейчас самок бегемота везут в Николаевский зоопарк, а после месячного карантина одна из них отправится в Харьков. ...
+                        ]]></description>
+  <pubDate>Thu, 12 Nov 2009 16:54:00 +0300</pubDate>
+  <source url="http://www.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1258034407#6</guid>
+ </item>
+ <item>
+  <title>Ходорковский пожаловался на сторону обвинения</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.gazeta.ru/news/lenta/2009/11/12/n_1423951.shtml</link>
+  <description><![CDATA[
+                        Михаил Ходорковский заявил, что сторона обвинения назвала его виновным в преступлении, по которому он подозреваемым, обвиняемым или подсудимым не является. Об этом говорится в сообщении на официальном сайте Ходорковского и Платона ... ...
+                        ]]></description>
+  <pubDate>Thu, 12 Nov 2009 16:59:07 +0300</pubDate>
+  <source url="http://www.gazeta.ru">Газета.Ru - Хроника дня</source>
+  <guid isPermaLink="false">1258034407#7</guid>
+ </item>
+ <item>
+  <title>Mac Os X вдохновила специалистов Microsoft на создание Windows 7</title>
+  <link>http://www.and-rey.ru/inc/go3.php/rss.feedsportal.com/c/32479/f/477542/s/71560cf/l/0L0Ssecuritylab0Bru0Cnews0C3876410Bphp/story01.htm</link>
+  <description><![CDATA[
+                        Об этом заявил руководитель отдела по работе с партнёрами Microsoft Саймон Олдос в интервью изданию PCR. ...
+                        ]]></description>
+  <pubDate>Thu, 12 Nov 2009 15:18:49 +0300</pubDate>
+  <source url="http://www.securitylab.ru">Security Lab - Защита в сети</source>
+  <guid isPermaLink="false">1258034407#8</guid>
+ </item>
+ <item>
+  <title>Кремлевское построение к юбилею Полтавы</title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/afisha/show/2009/11/12/poltava.phtml</link>
+  <description><![CDATA[
+                        В Музеях Московского Кремля открылась «Генеральная баталия» -- художественно-исторический смотр арматур, мундиров, реликвий и раритетных документов, приуроченный к 300-летию Полтавской битвы. ...
+                        ]]></description>
+  <pubDate>Thu, 12 Nov 2009 16:51:17 +0300</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1258034407#9</guid>
+ </item>
+ <item>
+  <title>  В  одной из лабораторий МГУ   во  время  занятий взорвалась емкость  со  щелочью  объемом  один  литр</title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.echo.msk.ru/news/633861-echo.html</link>
+  <description><![CDATA[
+                        
+                         <br><img src='http://www.echo.msk.ru/att/element-633861-picture-0.jpg?1258033400'><br>В результате пострадали три студента......
+                          ...
+                        ]]></description>
+  <pubDate>Thu, 12 Nov 2009 16:42:00 +0300</pubDate>
+  <source url="http://and-rey.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1258034407#10</guid>
+ </item>
+ <item>
+  <title>Помогите Лёхе!!!</title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/262087/#new</link>
+  <description><![CDATA[
+                        <img src=http://img.youtube.com/vi/rpLBhhNtoG0/2.jpg><br /><br />без комментариев... ...
+                        ]]></description>
+  <pubDate>Thu, 12 Nov 2009 16:06:50 +0300</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - Больше 25</source>
+  <guid isPermaLink="false">1258034407#11</guid>
+ </item>
+  </channel>
+ </rss>

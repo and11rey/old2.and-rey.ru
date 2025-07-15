@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Wed, 30 Jan 2019 17:35:04 +0300</pubDate>
+         <lastBuildDate>Wed, 30 Jan 2019 17:35:04 +0300</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Саратов завалило снегом. Не помогает даже военная техника
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.com/russian/media-46993387</link>
+  <description><![CDATA[
+                        В Саратове несколько недель не прекращаются снегопады. Общественный транспорт почти не работает, а губернатор даже попоросил помощи у минобороны. ...
+                        ]]></description>
+  <pubDate>Wed, 30 Jan 2019 17:27:36 +0300</pubDate>
+  <source url="http://feeds.bbci.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1548858904#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Освобождены российские моряки, захваченные пиратами в Гвинейском заливе
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/meduza.io/news/2019/01/30/piraty-osvobodili-rossiyskih-moryakov-zahvachennyh-v-gvineyskom-zalive</link>
+  <description><![CDATA[
+                        Шестеро граждан России, захваченные пиратами у берегов Бенина в Гвинейском заливе, освобождены, сообщает РИА Новости со ссылкой на посольство РФ в Нигерии. ...
+                        ]]></description>
+  <pubDate>Wed, 30 Jan 2019 16:55:59 +0300</pubDate>
+  <source url="http://meduza.io">Медуза</source>
+  <guid isPermaLink="false">1548858904#50</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Ученые: у "сов" повышен риск развития шизофрении и депрессий 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inopressa.ru/article/30Jan2019/tagesspiegel/owl.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Действительно ли здоровье у "жаворонков" лучше, чем у "сов"? Согласно новому исследованию,ответ на этот вопрос вызывает некоторое удивление. Оказывается, "совы" чаще страдают от шизофрении и депрессии. ...
+                        ]]></description>
+  <pubDate>Wed, 30 Jan 2019 17:35:05 +0300</pubDate>
+  <source url="http://www.inopressa.ru">Inopressa.ru - Зарубежная пресса в переводах</source>
+  <guid isPermaLink="false">1548858904#2</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Дочь активистки "Открытой России" Шевченко - в критическом состоянии
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.svoboda.org/a/29741999.html</link>
+  <description><![CDATA[
+                        Обвиняемой в "участии в деятельности нежелательной организации" не разрешают её навестить ...
+                        ]]></description>
+  <pubDate>Wed, 30 Jan 2019 17:06:45 +0300</pubDate>
+  <source url="http://www.svoboda.org">Радио свобода</source>
+  <guid isPermaLink="false">1548858904#15</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Ахеджакову возмутили издевательские пародии Галкина - Lenta
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/lenta.ru/news/2019/01/30/nadoelo/</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 30 Jan 2019 17:19:00 +0300</pubDate>
+  <source url="http://news.google.com">Google - новости Россия</source>
+  <guid isPermaLink="false">1548858904#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Актриса и модель из США требует от боксера Сергея Ковалева 8 млн долларов
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/sport/30jan2019/kovalev.html?utm_source=rss</link>
+  <description><![CDATA[
+                        Стало известно имя девушки, которая обвинила в избиении после отказа от секса экс-чемпиона мира по боксу в полутяжелом весе Сергея Ковалева. Джейми Фронтц оценила понесенный ею ущерб в 8 млн и намерена добиваться правосудия. ...
+                        ]]></description>
+  <pubDate>Wed, 30 Jan 2019 17:06:55 +0300</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1548858904#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Нумерология на MS SQL — занимательный эксперимент
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habr.com/ru/post/438122/?utm_campaign=438122</link>
+  <description><![CDATA[
+                         ...
+                        ]]></description>
+  <pubDate>Wed, 30 Jan 2019 14:58:03 +0300</pubDate>
+  <source url="http://habr.com">Geektimes - интересные публикации</source>
+  <guid isPermaLink="false">1548858904#47</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  31 января Президент примет участие в мероприятиях по случаю 10-летия Поместного собора РПЦ и патриаршей интронизации
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/kremlin.ru/press/announcements/59751</link>
+  <description><![CDATA[
+                            ...
+                        ]]></description>
+  <pubDate>Wed, 30 Jan 2019 16:24:01 +0300</pubDate>
+  <source url="http://kremlin.ru">Kremlin.Ru: Единая информационная лента</source>
+  <guid isPermaLink="false">1548858904#28</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  «Мечты сбываются»: о предложении не наказывать чиновников за взятки
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.infox.ru/news/283/economy/finance/212477-mecty-sbyvautsa-o-predlozenii-ne-nakazyvat-cinovnikov-za-vzatki</link>
+  <description><![CDATA[
+                        Недавнее сообщение взволновало рунет. ...
+                        ]]></description>
+  <pubDate>Wed, 30 Jan 2019 17:14:11 +0300</pubDate>
+  <source url="http://www.infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1548858904#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  30.01.2019 17:31 : Ложные сообщения о минировании административных зданий и соцучреждений в Твери поступали с зарубежных IР-адресов
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/2361845-echo.html</link>
+  <description><![CDATA[
+                        
+ 
+Ложные сообщения о минировании административных зданий и социальных учреждений в Твери поступали с зарубежных IР-адресов. Об этом журналистам сообщил тверской губернатор Игорь Руденя. Анонимные сообщения о якобы заложенных взрывных устройствах начали поступать сегодня утром на электронную почту учреждений. Из зданий проводилась эвакуация. В общей сложности она коснулась 8-ми тысяч человек.  
+
+ТАСС отмечает, что сегодня из-за сообщений о минировании также эвакуировали школы, детские сады, боль ...
+                        ]]></description>
+  <pubDate>Wed, 30 Jan 2019 17:31:00 +0300</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1548858904#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  СКР попросил арестовать сенатора Арашукова
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.interfax.ru/russia/648460</link>
+  <description><![CDATA[
+                        Следствие просит об аресте члена Совета Федерации Рауфа Арашукова, обвиняемого в участии в преступном сообществе и убийствах, сообщила "Интерфаксу" пресс-секретарь Басманного суда Москвы Юнона Царева. ...
+                        ]]></description>
+  <pubDate>Wed, 30 Jan 2019 17:21:00 +0300</pubDate>
+  <source url="http://www.interfax.ru">Интерфакс: новости</source>
+  <guid isPermaLink="false">1548858904#48</guid>
+ </item>
+  </channel>
+ </rss>

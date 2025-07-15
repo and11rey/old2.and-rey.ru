@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <link>http://www.and-rey.ru/newsline/</link>
+         <description>Последние новости 11 самых популярных RSS каналов</description>
+         <language>ru</language>
+         <webMaster>info@and-rey.ru (Andrey A.)</webMaster>
+         <managingEditor>info@and-rey.ru (Andrey A.)</managingEditor>
+         <pubDate>Mon, 26 Dec 2011 17:00:04 +0400</pubDate>
+         <lastBuildDate>Mon, 26 Dec 2011 17:00:04 +0400</lastBuildDate>
+         <ttl>30</ttl>
+     <image>
+         <title>And-rey.ru: Новости ТОП 11</title>
+         <url>http://www.and-rey.ru/logo/m_rss1.gif</url>
+         <link>http://www.and-rey.ru/newsline/</link>
+     </image>
+     <atom:link href="http://and-rey.ru/newsline/news_and-rey.xml" rel="self" type="application/rss+xml" />
+ <item>
+  <title><![CDATA[
+                  Выйти на улицу в поддержку Удальцова хотят 1300 человек
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.bbc.co.uk/russian/russia/2011/12/111226_udaltsov_meeting_plans.shtml</link>
+  <description><![CDATA[
+                        Уже свыше 1300 пользователей Facebook заявили о своем намерении прийти в четверг на митинг в поддержку оппозиционера Сергея Удальцова, находящегося в больнице. Накануне суд вновь приговорил его к 10 суткам ареста за пикет 24 октября. ...
+                        ]]></description>
+  <pubDate>Mon, 26 Dec 2011 16:10:30 +0400</pubDate>
+  <source url="http://newsrss.bbc.co.uk">Би-би-си новости - Rus</source>
+  <guid isPermaLink="false">1324904404#1</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Сергей Иванов: Митинг - подтверждение свободы слова
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/grani.ru/Politics/Russia/President/m.194471.html</link>
+  <description><![CDATA[
+                        Акции протеста против фальсификаций на выборах свидетельствуют о наличии свободы слова в России, заявил новый глава администрации президента Сергей Иванов. "Это конкретно демонстрация присутствия свободы слова в Российской Федерации", -  сказал глава администрации. Ранее "требования лучших людей" поддержал первый заместитель Иванова Владислав Сурков. ...
+                        ]]></description>
+  <pubDate>Mon, 26 Dec 2011 16:04:00 +0400</pubDate>
+  <source url="http://grani.ru">Грани.Ру - ежедневная интернет-газета</source>
+  <guid isPermaLink="false">1324904404#26</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Архивы: мятеж в Петербурге
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/inosmi.ru/history/20111226/181350035.html</link>
+  <description><![CDATA[
+                        Из архивов почти двухсотлетней давности: новые подробности восстания декабристов в Санкт-Петербурге - Гвардия получила приказ присягнуть императору Николаю, но отказалась его выполнить. В результате были убиты генерал Милорадович и еще три других генерала вместе с военным министром. Войска применили артиллерию, и, как нам сообщили, спокойствие было восстановлено, хотя в этом и есть большие сомнения. ...
+                        ]]></description>
+  <pubDate>Mon, 26 Dec 2011 16:48:00 +0400</pubDate>
+  <source url="http://www.inosmi.ru">ИноСМИ: Обзоры мировой прессы</source>
+  <guid isPermaLink="false">1324904404#19</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  МЧС не ждет катастроф в 2012 году
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/feedproxy.google.com/~r/rosbalt/~3/W_kxo3nvLPE/story01.htm</link>
+  <description><![CDATA[
+                        Россию в 2012 году не затронут серьезные землетрясения и паводки, прогнозирует МЧС РФ. "В отношении сейсмоопасности мы не прогнозируем серьезных рисков на территории России.
+
+ ...
+                        ]]></description>
+  <pubDate>Mon, 26 Dec 2011 16:47:00 +0400</pubDate>
+  <source url="http://feeds2.feedburner.com">Информационное агентство Росбалт</source>
+  <guid isPermaLink="false">1324904404#38</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Министр культуры назвал митинги протеста "положительным явлением"
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/www.newsru.com/cinema/26dec2011/avdeev.html</link>
+  <description><![CDATA[
+                        "Мощный толчок в развитии гражданской активности в стране, который дали выборы и нарушения на выборах, имеет положительный характер. Мы как гражданское общество развиваемся очень быстро. В Западной Европе оно развивается два века, медленно и постепенно, а нам - всего 20 лет", - напомнил Авдеев. ...
+                        ]]></description>
+  <pubDate>Mon, 26 Dec 2011 16:54:00 +0400</pubDate>
+  <source url="http://feeds.newsru.com">NEWSru.com - самые быстрые новости</source>
+  <guid isPermaLink="false">1324904404#5</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Искусственный интеллект / [Перевод] Алгоритм победителя AI Challenge 2011 (Ants)
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/habrahabr.ru/blogs/artificial_intelligence/135287/</link>
+  <description><![CDATA[
+                        Вашему вниманию представляется перевод заметки победителя недавно закончившегося AI Challenge, в которой раскрываются общие моменты алгоритма, а так же некоторые технические детали. Также есть возможность осмотреть исходники самостоятельно.
+
+Не могу поверить в то, что я выиграл.
+И тем более не могу поверить в то, что выиграл решительно.
+
+Я очень люблю соревнования по программированию, и это для меня было пока самым крупным и захватывающим. Мои благодарности организаторам соревнования, помощникам ...
+                        ]]></description>
+  <pubDate>Mon, 26 Dec 2011 16:14:25 +0400</pubDate>
+  <source url="http://habrahabr.ru">Хабрахабр</source>
+  <guid isPermaLink="false">1324904404#39</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  В Минобороны подтвердили отставку начальника ГРУ - Lenta.ru
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNFueH5nC196O5ajgk51MxEtJmqIsg&amp;url=http://lenta.ru/news/2011/12/26/gru/</link>
+  <description><![CDATA[
+                        Представитель Минобороны Игорь Конашенков подтвердил, что начальник ГРУ Генштаба Вооруженных сил РФ генерал-полковник Александр Шляхтуров уволен с военной службы, а вместо него Главное разведывательное управление возглавит генерал-майор Игорь Сергун. Об этом сообщает "Интерфакс". ... ...
+                        ]]></description>
+  <pubDate>Mon, 26 Dec 2011 16:42:48 +0400</pubDate>
+  <source url="http://news.google.ru">Google - новости Россия</source>
+  <guid isPermaLink="false">1324904404#41</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  Черный кремний улучшит эффективность солнечных панелей 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/infox.ru/hi-tech/tech/2011/12/26/CHyernyyy_kryemniy_u.phtml</link>
+  <description><![CDATA[
+                        Национальная лаборатория возобновляемых источников энергии (NREL), проводящая исследования в области способов получения электроэнергии без вреда для природы, получила патент на технологию преобразования солнечного света в электричество с помощью черного кремния. ...
+                        ]]></description>
+  <pubDate>Mon, 26 Dec 2011 17:00:11 +0400</pubDate>
+  <source url="http://infox.ru">Информационный проект - INFOX.ru</source>
+  <guid isPermaLink="false">1324904404#35</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  
+  26.12.2011 16:32 : Российский МИД опровергает сообщения прессы о якобы тайном визите сирийского вице-президента в Москву
+  
+
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/echo.msk.ru/news/843007-echo.html</link>
+  <description><![CDATA[
+                        
+ Такой поездки не было, - подчеркивают в Департаменте печати и информации министерства. Там заявляют, что контакты между российским и сирийским руководством идут интенсивно – как в Москве, так и в Дамаске и в других европейских столицах.  Играть в тайную дипломатию – не в правилах России, - добавляют на Смоленской площади. 
+<br>
+
+<br>
+Между тем, в израильской газете "Маарив" сегодня появились сообщения о том, что будто бы президент Сирии Башар Асад рассматривает возможность отправится в изгнани ...
+                        ]]></description>
+  <pubDate>Mon, 26 Dec 2011 16:32:00 +0400</pubDate>
+  <source url="http://echo.msk.ru">Радиостанция - Эхо Москвы</source>
+  <guid isPermaLink="false">1324904404#32</guid>
+ </item>
+ <item>
+  <title><![CDATA[
+                  VIP-пропуск в VIP-зону на субботний митинг. 
+                  ]]></title>
+  <link>http://www.and-rey.ru/inc/go3.php/dirty.ru/comments/331663/#new</link>
+  <description><![CDATA[
+                        <img src=http://pit.dirty.ru/dirty/1/2011/12/26/13980-162012-b09b529841e22f1e568f7fe4a58c697a.jpg><br /><br />Источник  -  твиттер В.Соловьева. ...
+                        ]]></description>
+  <pubDate>Mon, 26 Dec 2011 16:20:12 +0400</pubDate>
+  <source url="http://dirty.ru">Dirty.Ru - коллективный блог</source>
+  <guid isPermaLink="false">1324904404#34</guid>
+ </item>
+  </channel>
+ </rss>
